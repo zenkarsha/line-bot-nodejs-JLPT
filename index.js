@@ -231,14 +231,16 @@ function createQuestion(question_type, current_wid = null) {
 
   if (current_wid !== null) {
     let index = getObjectItemIndex(old_words, current_wid);
-    if (index !== -1)
-      new_words = removeByIndex(new_words, index);
+    if (index !== -1) new_words = removeByIndex(new_words, index);
   }
 
   let w = new_words[Math.floor(Math.random() * new_words.length)];
   let contents = [];
   let question = w.word;
   let w_text;
+
+  let w_index = getObjectItemIndex(new_words, w.id);
+  if (w_index !== -1) new_words = removeByIndex(new_words, w_index);
 
   if (w.kanji != "null") {
     let w_kanji = {
