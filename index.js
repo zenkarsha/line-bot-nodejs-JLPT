@@ -25,7 +25,7 @@ app.get('/', (req, res) => {
   let html = `<html>
     <head>
       <title>JLPT字彙測驗</title>
-      <script>window.location = "https://line.me/R/ti/p/@323geiqw";</script>
+      <script>window.location = "https://line.me/R/ti/p/@810tvxfg";</script>
     </head>
     <body style="text-align:center">
       <h1>自動跳轉中⋯⋯</h1>
@@ -781,7 +781,7 @@ function getObjectItemIndex(object, id) {
 }
 
 // listen on port
-const port = process.env.PORT || 3000;
+const port = process.env.PORT || 3333;
 app.listen(port, () => {
   console.log(`listening on ${port}`);
 });

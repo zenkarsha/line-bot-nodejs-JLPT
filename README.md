@@ -1,12 +1,12 @@
-# 高中7000單 - Line Bot example
+# JLPT字彙測驗 - Line Bot example
 
-High school 7000 english words test. An example Line bot.
+JLPT words test. An example Line bot.
 
 
 ### local dev
 ```
 npm start
-ngrok http 3000
+ngrok http 3333
 ```
 
 
@@ -17,7 +17,7 @@ pm2 start index.js
 
 ### site
 
-[高中7000單](https://words7000.unlink.men)
+[JLPT字彙測驗](https://jlpt.unlink.men)
 
 
 ### how to begin
