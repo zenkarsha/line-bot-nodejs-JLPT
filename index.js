@@ -238,26 +238,37 @@ function createQuestion(question_type, current_wid = null) {
   let w = new_words[Math.floor(Math.random() * new_words.length)];
   let contents = [];
   let question = w.word;
-
-  let w_text = {
-    "type": "text",
-    "text": `${question}`,
-    "size": "xxl",
-    "wrap": true
-  };
-
-  contents.push(w_text);
+  let w_text;
 
   if (w.kanji != "null") {
     let w_kanji = {
       "type": "text",
-      "text": `${w.kanji}\n`,
-      "size": "md",
-      "color": "#f3f3f3",
+      "text": `${w.kanji}`,
+      "size": "xxl",
       "wrap": true
     };
 
     contents.push(w_kanji);
+
+    w_text = {
+      "type": "text",
+      "text": `${question}\n`,
+      "size": "md",
+      "color": "#aaaaaa",
+      "wrap": true
+    };
+
+    contents.push(w_text);
+  }
+  else {
+    w_text = {
+      "type": "text",
+      "text": `${question}\n`,
+      "size": "xxl",
+      "wrap": true
+    };
+
+    contents.push(w_text);
   }
 
   let answers = createAnswers(new_words, w.id);
