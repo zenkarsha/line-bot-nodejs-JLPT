@@ -18,6 +18,8 @@ const words_N1  = require('./words-N1.json');
 const words_N2N3  = require('./words-N2N3.json');
 const words_N4  = require('./words-N4.json');
 const words_N5  = require('./words-N5.json');
+const words_BASIC  = require('./words-basic.json');
+const words_ADVANCE  = require('./words-advance.json');
 
 let echo = { type: 'text', text: '請從選單進行操作 ⬇️' };
 
@@ -198,6 +200,28 @@ function createQuestionType() {
             },
             "style": "secondary",
             "adjustMode": "shrink-to-fit"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "postback",
+              "label": "日常基礎字彙",
+              "displayText": "日常基礎字彙",
+              "data": "wid=&type=question_type&question_type=basic&content=basic"
+            },
+            "style": "secondary",
+            "adjustMode": "shrink-to-fit"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "postback",
+              "label": "進階字彙",
+              "displayText": "進階字彙",
+              "data": "wid=&type=question_type&question_type=advance&content=advance"
+            },
+            "style": "secondary",
+            "adjustMode": "shrink-to-fit"
           }
         ]
       }
@@ -224,6 +248,14 @@ function createQuestion(question_type, current_wid = null) {
     case 'n5':
       old_words = words_N5;
       new_words = words_N5;
+      break;
+    case 'basic':
+      old_words = words_BASIC;
+      new_words = words_BASIC;
+      break;
+    case 'advance':
+      old_words = words_ADVANCE;
+      new_words = words_ADVANCE;
       break;
     default:
       return client.replyMessage(event.replyToken, echo);
@@ -399,6 +431,12 @@ function handleAnswer(data) {
     case 'n5':
       words = words_N5;
       break;
+    case 'basic':
+      words = words_BASIC;
+      break;
+    case 'advance':
+      words = words_ADVANCE;
+      break;
     default:
       return client.replyMessage(event.replyToken, echo);
   }
@@ -513,6 +551,11 @@ function addToUserCollection(event, wid) {
     case 'n5':
       words = words_N5;
       break;
+    case 'basic':
+      words = words_BASIC;
+      break;
+    case 'advance':
+      words = words_ADVANCE;
     default:
       return client.replyMessage(event.replyToken, echo);
   }

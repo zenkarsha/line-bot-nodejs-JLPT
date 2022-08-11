@@ -1,0 +1,4448 @@
+[
+  {
+    "word": "ちじん",
+    "kanji": "知人",
+    "translate": "熟人",
+    "id": "ADVANCE1"
+  },
+  {
+    "word": "せいしき",
+    "kanji": "正式",
+    "translate": "正式的",
+    "id": "ADVANCE2"
+  },
+  {
+    "word": "にくむ",
+    "kanji": "憎む",
+    "translate": "憎恨、厭惡",
+    "id": "ADVANCE3"
+  },
+  {
+    "word": "たちあがる",
+    "kanji": "立ち上がる",
+    "translate": "站起、升起",
+    "id": "ADVANCE4"
+  },
+  {
+    "word": "かならずしも",
+    "kanji": "必ずしも",
+    "translate": "不一定",
+    "id": "ADVANCE5"
+  },
+  {
+    "word": "たいさく",
+    "kanji": "対策",
+    "translate": "對策",
+    "id": "ADVANCE6"
+  },
+  {
+    "word": "どしゃくずれ",
+    "kanji": "土砂崩れ",
+    "translate": "土石流",
+    "id": "ADVANCE7"
+  },
+  {
+    "word": "ます",
+    "kanji": "増す",
+    "translate": "增加、增進",
+    "id": "ADVANCE8"
+  },
+  {
+    "word": "あじわう",
+    "kanji": "味わう",
+    "translate": "品嘗、體驗",
+    "id": "ADVANCE9"
+  },
+  {
+    "word": "まいすう",
+    "kanji": "枚数",
+    "translate": "張數、件數",
+    "id": "ADVANCE10"
+  },
+  {
+    "word": "としつき",
+    "kanji": "年月",
+    "translate": "年月、歲月",
+    "id": "ADVANCE11"
+  },
+  {
+    "word": "ドレス",
+    "kanji": "null",
+    "translate": "採取、採用",
+    "id": "ADVANCE12"
+  },
+  {
+    "word": "ごじゅうおん",
+    "kanji": "五十音",
+    "translate": "五十音",
+    "id": "ADVANCE13"
+  },
+  {
+    "word": "じつに",
+    "kanji": "実に",
+    "translate": "確實、實在",
+    "id": "ADVANCE14"
+  },
+  {
+    "word": "わかば",
+    "kanji": "若葉",
+    "translate": "嫩葉",
+    "id": "ADVANCE15"
+  },
+  {
+    "word": "しょうしゃ",
+    "kanji": "商社",
+    "translate": "商社",
+    "id": "ADVANCE16"
+  },
+  {
+    "word": "じゅみょう",
+    "kanji": "寿命",
+    "translate": "壽命",
+    "id": "ADVANCE17"
+  },
+  {
+    "word": "ふきん",
+    "kanji": "付近",
+    "translate": "附近、一帶",
+    "id": "ADVANCE18"
+  },
+  {
+    "word": "ひげき",
+    "kanji": "悲劇",
+    "translate": "悲劇",
+    "id": "ADVANCE19"
+  },
+  {
+    "word": "ぜんしゃ",
+    "kanji": "前者",
+    "translate": "前者",
+    "id": "ADVANCE20"
+  },
+  {
+    "word": "グラウンド",
+    "kanji": "null",
+    "translate": "運動場",
+    "id": "ADVANCE21"
+  },
+  {
+    "word": "さいしゅう",
+    "kanji": "最終",
+    "translate": "最後、最終",
+    "id": "ADVANCE22"
+  },
+  {
+    "word": "きょうさん",
+    "kanji": "共産",
+    "translate": "共產主義",
+    "id": "ADVANCE23"
+  },
+  {
+    "word": "じいん",
+    "kanji": "寺院",
+    "translate": "寺院",
+    "id": "ADVANCE24"
+  },
+  {
+    "word": "ぶつ",
+    "kanji": "打つ",
+    "translate": "打、敲",
+    "id": "ADVANCE25"
+  },
+  {
+    "word": "かいとう",
+    "kanji": "解答",
+    "translate": "解答",
+    "id": "ADVANCE26"
+  },
+  {
+    "word": "たいして",
+    "kanji": "大して",
+    "translate": "並不太....",
+    "id": "ADVANCE27"
+  },
+  {
+    "word": "もも",
+    "kanji": "桃",
+    "translate": "桃子",
+    "id": "ADVANCE28"
+  },
+  {
+    "word": "やっつける",
+    "kanji": "遣っ付ける",
+    "translate": "打敗、教訓一頓",
+    "id": "ADVANCE29"
+  },
+  {
+    "word": "ひかげ",
+    "kanji": "日陰",
+    "translate": "陰涼處",
+    "id": "ADVANCE30"
+  },
+  {
+    "word": "じゅうたい",
+    "kanji": "重体",
+    "translate": "病危",
+    "id": "ADVANCE31"
+  },
+  {
+    "word": "りゅう",
+    "kanji": "流",
+    "translate": "流派",
+    "id": "ADVANCE32"
+  },
+  {
+    "word": "だんち",
+    "kanji": "団地",
+    "translate": "工業區、住宅區",
+    "id": "ADVANCE33"
+  },
+  {
+    "word": "だんてい",
+    "kanji": "断定",
+    "translate": "斷定",
+    "id": "ADVANCE34"
+  },
+  {
+    "word": "いわい",
+    "kanji": "祝い",
+    "translate": "祝賀",
+    "id": "ADVANCE35"
+  },
+  {
+    "word": "おうだん",
+    "kanji": "横断",
+    "translate": "橫渡、橫越",
+    "id": "ADVANCE36"
+  },
+  {
+    "word": "せめる",
+    "kanji": "責める",
+    "translate": "責備、責問",
+    "id": "ADVANCE37"
+  },
+  {
+    "word": "しゅっぱん",
+    "kanji": "出版",
+    "translate": "出版",
+    "id": "ADVANCE38"
+  },
+  {
+    "word": "うしなう",
+    "kanji": "失う",
+    "translate": "失去",
+    "id": "ADVANCE39"
+  },
+  {
+    "word": "ちょうほうけい",
+    "kanji": "長方形",
+    "translate": "長方形",
+    "id": "ADVANCE40"
+  },
+  {
+    "word": "さつえい",
+    "kanji": "撮影",
+    "translate": "攝影",
+    "id": "ADVANCE41"
+  },
+  {
+    "word": "みじめ",
+    "kanji": "惨め",
+    "translate": "悽慘",
+    "id": "ADVANCE42"
+  },
+  {
+    "word": "おんたい",
+    "kanji": "温帯",
+    "translate": "溫帶",
+    "id": "ADVANCE43"
+  },
+  {
+    "word": "うまれ",
+    "kanji": "生まれ",
+    "translate": "出生",
+    "id": "ADVANCE44"
+  },
+  {
+    "word": "そまつ",
+    "kanji": "粗末",
+    "translate": "粗糙、不精緻",
+    "id": "ADVANCE45"
+  },
+  {
+    "word": "きねん",
+    "kanji": "記念",
+    "translate": "紀念",
+    "id": "ADVANCE46"
+  },
+  {
+    "word": "にらむ",
+    "kanji": "睨む",
+    "translate": "怒目而視、注視",
+    "id": "ADVANCE47"
+  },
+  {
+    "word": "かたな",
+    "kanji": "刀",
+    "translate": "刀",
+    "id": "ADVANCE48"
+  },
+  {
+    "word": "こうし",
+    "kanji": "講師",
+    "translate": "講師",
+    "id": "ADVANCE49"
+  },
+  {
+    "word": "ふきそく",
+    "kanji": "不規則",
+    "translate": "不規則",
+    "id": "ADVANCE50"
+  },
+  {
+    "word": "みかた",
+    "kanji": "味方",
+    "translate": "我方、伙伴",
+    "id": "ADVANCE51"
+  },
+  {
+    "word": "ちらかる",
+    "kanji": "散らかる",
+    "translate": "凌亂、到處都是",
+    "id": "ADVANCE52"
+  },
+  {
+    "word": "げんじつ",
+    "kanji": "現実",
+    "translate": "現實、實際",
+    "id": "ADVANCE53"
+  },
+  {
+    "word": "ざいさん",
+    "kanji": "財産",
+    "translate": "財產",
+    "id": "ADVANCE54"
+  },
+  {
+    "word": "トンネル",
+    "kanji": "null",
+    "translate": "隧道",
+    "id": "ADVANCE55"
+  },
+  {
+    "word": "はんにち",
+    "kanji": "半日",
+    "translate": "半天",
+    "id": "ADVANCE56"
+  },
+  {
+    "word": "タイプライター",
+    "kanji": "null",
+    "translate": "打字機",
+    "id": "ADVANCE57"
+  },
+  {
+    "word": "しょうしょう",
+    "kanji": "少々",
+    "translate": "少許、片刻",
+    "id": "ADVANCE58"
+  },
+  {
+    "word": "いねむり",
+    "kanji": "居眠り",
+    "translate": "打瞌睡",
+    "id": "ADVANCE59"
+  },
+  {
+    "word": "ふうん",
+    "kanji": "不運",
+    "translate": "運氣不好的",
+    "id": "ADVANCE60"
+  },
+  {
+    "word": "たいら",
+    "kanji": "平ら",
+    "translate": "平坦、平原",
+    "id": "ADVANCE61"
+  },
+  {
+    "word": "いちだんと",
+    "kanji": "一段と",
+    "translate": "更加",
+    "id": "ADVANCE62"
+  },
+  {
+    "word": "ひとしい",
+    "kanji": "等しい",
+    "translate": "相等的",
+    "id": "ADVANCE63"
+  },
+  {
+    "word": "いってい",
+    "kanji": "一定",
+    "translate": "一定",
+    "id": "ADVANCE64"
+  },
+  {
+    "word": "かんり",
+    "kanji": "管理",
+    "translate": "管理",
+    "id": "ADVANCE65"
+  },
+  {
+    "word": "たいざい",
+    "kanji": "滞在",
+    "translate": "旅居、逗留",
+    "id": "ADVANCE66"
+  },
+  {
+    "word": "しかくい",
+    "kanji": "四角い",
+    "translate": "四角的",
+    "id": "ADVANCE67"
+  },
+  {
+    "word": "つまずく",
+    "kanji": "躓く",
+    "translate": "跌倒、絆倒",
+    "id": "ADVANCE68"
+  },
+  {
+    "word": "うりきれ",
+    "kanji": "売り切れ",
+    "translate": "賣完",
+    "id": "ADVANCE69"
+  },
+  {
+    "word": "まう",
+    "kanji": "舞う",
+    "translate": "飛舞、舞蹈",
+    "id": "ADVANCE70"
+  },
+  {
+    "word": "ぜんぱん",
+    "kanji": "全般",
+    "translate": "全面、全盤",
+    "id": "ADVANCE71"
+  },
+  {
+    "word": "ウイスキー",
+    "kanji": "null",
+    "translate": "威士忌",
+    "id": "ADVANCE72"
+  },
+  {
+    "word": "かはんすう",
+    "kanji": "過半数",
+    "translate": "過半數",
+    "id": "ADVANCE73"
+  },
+  {
+    "word": "のぞく",
+    "kanji": "除く",
+    "translate": "消除、刪除",
+    "id": "ADVANCE74"
+  },
+  {
+    "word": "こっか",
+    "kanji": "国家",
+    "translate": "國家",
+    "id": "ADVANCE75"
+  },
+  {
+    "word": "ぶんたん",
+    "kanji": "分担",
+    "translate": "分擔",
+    "id": "ADVANCE76"
+  },
+  {
+    "word": "ことなる",
+    "kanji": "異なる",
+    "translate": "不同",
+    "id": "ADVANCE77"
+  },
+  {
+    "word": "くいき",
+    "kanji": "区域",
+    "translate": "區域",
+    "id": "ADVANCE78"
+  },
+  {
+    "word": "はなしちゅう",
+    "kanji": "話し中",
+    "translate": "通話中",
+    "id": "ADVANCE79"
+  },
+  {
+    "word": "なみき",
+    "kanji": "並木",
+    "translate": "街樹、路樹",
+    "id": "ADVANCE80"
+  },
+  {
+    "word": "あせ",
+    "kanji": "汗",
+    "translate": "汗",
+    "id": "ADVANCE81"
+  },
+  {
+    "word": "ちぢむ",
+    "kanji": "縮む",
+    "translate": "縮小、畏縮",
+    "id": "ADVANCE82"
+  },
+  {
+    "word": "めざまし",
+    "kanji": "目覚まし",
+    "translate": "叫醒、喚醒",
+    "id": "ADVANCE83"
+  },
+  {
+    "word": "くみ",
+    "kanji": "組",
+    "translate": "套、組",
+    "id": "ADVANCE84"
+  },
+  {
+    "word": "じょし",
+    "kanji": "女子",
+    "translate": "女孩子",
+    "id": "ADVANCE85"
+  },
+  {
+    "word": "ていしゅつ",
+    "kanji": "提出",
+    "translate": "提出、提供",
+    "id": "ADVANCE86"
+  },
+  {
+    "word": "つかい",
+    "kanji": "使い",
+    "translate": "使用、跑腿",
+    "id": "ADVANCE87"
+  },
+  {
+    "word": "さくせい",
+    "kanji": "作製",
+    "translate": "製造",
+    "id": "ADVANCE88"
+  },
+  {
+    "word": "とがる",
+    "kanji": "尖る",
+    "translate": "尖、神經過敏",
+    "id": "ADVANCE89"
+  },
+  {
+    "word": "きんにく",
+    "kanji": "筋肉",
+    "translate": "肌肉",
+    "id": "ADVANCE90"
+  },
+  {
+    "word": "うったえる",
+    "kanji": "訴える",
+    "translate": "控訴、申訴",
+    "id": "ADVANCE91"
+  },
+  {
+    "word": "へいかい",
+    "kanji": "閉会",
+    "translate": "閉幕",
+    "id": "ADVANCE92"
+  },
+  {
+    "word": "ちかすい",
+    "kanji": "地下水",
+    "translate": "地下水",
+    "id": "ADVANCE93"
+  },
+  {
+    "word": "たつ",
+    "kanji": "絶つ",
+    "translate": "切、斷",
+    "id": "ADVANCE94"
+  },
+  {
+    "word": "うりあげ",
+    "kanji": "売る上げ",
+    "translate": "營業額",
+    "id": "ADVANCE95"
+  },
+  {
+    "word": "いけない",
+    "kanji": "null",
+    "translate": "不好、糟糕",
+    "id": "ADVANCE96"
+  },
+  {
+    "word": "てぬぐい",
+    "kanji": "手ぬぐい",
+    "translate": "布手巾",
+    "id": "ADVANCE97"
+  },
+  {
+    "word": "ていこう",
+    "kanji": "抵抗",
+    "translate": "抵抗、反抗",
+    "id": "ADVANCE98"
+  },
+  {
+    "word": "じゅうたく",
+    "kanji": "住宅",
+    "translate": "住宅",
+    "id": "ADVANCE99"
+  },
+  {
+    "word": "ひとすじ",
+    "kanji": "一筋",
+    "translate": "一條、一根",
+    "id": "ADVANCE100"
+  },
+  {
+    "word": "ししゃ",
+    "kanji": "死者",
+    "translate": "死者",
+    "id": "ADVANCE101"
+  },
+  {
+    "word": "めぐる",
+    "kanji": "巡る",
+    "translate": "循環、旋轉",
+    "id": "ADVANCE102"
+  },
+  {
+    "word": "さゆう",
+    "kanji": "左右",
+    "translate": "左右方",
+    "id": "ADVANCE103"
+  },
+  {
+    "word": "めんどうくさい",
+    "kanji": "面倒臭い",
+    "translate": "非常麻煩",
+    "id": "ADVANCE104"
+  },
+  {
+    "word": "みなおす",
+    "kanji": "見直す",
+    "translate": "起色、重新評估",
+    "id": "ADVANCE105"
+  },
+  {
+    "word": "くどい",
+    "kanji": "null",
+    "translate": "冗長乏味",
+    "id": "ADVANCE106"
+  },
+  {
+    "word": "おだやか",
+    "kanji": "穏やか",
+    "translate": "平穩",
+    "id": "ADVANCE107"
+  },
+  {
+    "word": "あびる",
+    "kanji": "浴びる",
+    "translate": "洗、浴",
+    "id": "ADVANCE108"
+  },
+  {
+    "word": "いよいよ",
+    "kanji": "愈々",
+    "translate": "即將要",
+    "id": "ADVANCE109"
+  },
+  {
+    "word": "かいし",
+    "kanji": "開始",
+    "translate": "開始",
+    "id": "ADVANCE110"
+  },
+  {
+    "word": "たくわえる",
+    "kanji": "蓄える",
+    "translate": "儲蓄",
+    "id": "ADVANCE111"
+  },
+  {
+    "word": "はっき",
+    "kanji": "発揮",
+    "translate": "發揮",
+    "id": "ADVANCE112"
+  },
+  {
+    "word": "げか",
+    "kanji": "外科",
+    "translate": "外科",
+    "id": "ADVANCE113"
+  },
+  {
+    "word": "とんでもない",
+    "kanji": "null",
+    "translate": "出乎意料、不合情理",
+    "id": "ADVANCE114"
+  },
+  {
+    "word": "ひひょう",
+    "kanji": "批評",
+    "translate": "批評、批論",
+    "id": "ADVANCE115"
+  },
+  {
+    "word": "つばさ",
+    "kanji": "翼",
+    "translate": "翅膀",
+    "id": "ADVANCE116"
+  },
+  {
+    "word": "なつかしい",
+    "kanji": "懐かしい",
+    "translate": "懷念呢、思慕的",
+    "id": "ADVANCE117"
+  },
+  {
+    "word": "かしま",
+    "kanji": "貸間",
+    "translate": "出租的房間",
+    "id": "ADVANCE118"
+  },
+  {
+    "word": "かげ",
+    "kanji": "陰",
+    "translate": "日陰",
+    "id": "ADVANCE119"
+  },
+  {
+    "word": "しめきる",
+    "kanji": "締切る",
+    "translate": "截止",
+    "id": "ADVANCE120"
+  },
+  {
+    "word": "ばったり",
+    "kanji": "null",
+    "translate": "突然相遇",
+    "id": "ADVANCE121"
+  },
+  {
+    "word": "しかたがない",
+    "kanji": "仕方がない",
+    "translate": "沒有辦法、無濟於事",
+    "id": "ADVANCE122"
+  },
+  {
+    "word": "いく",
+    "kanji": "幾",
+    "translate": "數量不定、多少",
+    "id": "ADVANCE123"
+  },
+  {
+    "word": "まごまご",
+    "kanji": "null",
+    "translate": "慌張失措",
+    "id": "ADVANCE124"
+  },
+  {
+    "word": "うろうろ",
+    "kanji": "null",
+    "translate": "徘徊、不知所措",
+    "id": "ADVANCE125"
+  },
+  {
+    "word": "はさはき",
+    "kanji": "null",
+    "translate": "活潑伶俐",
+    "id": "ADVANCE126"
+  },
+  {
+    "word": "よけい",
+    "kanji": "余計",
+    "translate": "多餘的",
+    "id": "ADVANCE127"
+  },
+  {
+    "word": "でんちゅう",
+    "kanji": "電柱",
+    "translate": "電線桿",
+    "id": "ADVANCE128"
+  },
+  {
+    "word": "めっきり",
+    "kanji": "null",
+    "translate": "變化明顯",
+    "id": "ADVANCE129"
+  },
+  {
+    "word": "ずらす",
+    "kanji": "null",
+    "translate": "挪開",
+    "id": "ADVANCE130"
+  },
+  {
+    "word": "びんづめ",
+    "kanji": "瓶詰",
+    "translate": "瓶裝",
+    "id": "ADVANCE131"
+  },
+  {
+    "word": "くみたてる",
+    "kanji": "組み立てる",
+    "translate": "組織、組裝",
+    "id": "ADVANCE132"
+  },
+  {
+    "word": "にゅうじょうけん",
+    "kanji": "入場券",
+    "translate": "入場券",
+    "id": "ADVANCE133"
+  },
+  {
+    "word": "すいじょうき",
+    "kanji": "水蒸気",
+    "translate": "水蒸氣",
+    "id": "ADVANCE134"
+  },
+  {
+    "word": "じゅんちょう",
+    "kanji": "順調",
+    "translate": "順利",
+    "id": "ADVANCE135"
+  },
+  {
+    "word": "とくてい",
+    "kanji": "特定",
+    "translate": "特定",
+    "id": "ADVANCE136"
+  },
+  {
+    "word": "じゅんきょうじゅ",
+    "kanji": "准教授",
+    "translate": "副教授",
+    "id": "ADVANCE137"
+  },
+  {
+    "word": "せんたく",
+    "kanji": "選択",
+    "translate": "選擇",
+    "id": "ADVANCE138"
+  },
+  {
+    "word": "ぶつぶつ",
+    "kanji": "null",
+    "translate": "抱怨、煮沸貌",
+    "id": "ADVANCE139"
+  },
+  {
+    "word": "つうろ",
+    "kanji": "通路",
+    "translate": "通路、人行道",
+    "id": "ADVANCE140"
+  },
+  {
+    "word": "たたかい",
+    "kanji": "戦い",
+    "translate": "戰鬥",
+    "id": "ADVANCE141"
+  },
+  {
+    "word": "てんけい",
+    "kanji": "典型",
+    "translate": "典型、模範",
+    "id": "ADVANCE142"
+  },
+  {
+    "word": "ダブる",
+    "kanji": "null",
+    "translate": "重複、撞期",
+    "id": "ADVANCE143"
+  },
+  {
+    "word": "もしも",
+    "kanji": "null",
+    "translate": "如果、萬一",
+    "id": "ADVANCE144"
+  },
+  {
+    "word": "せっかく",
+    "kanji": "折角",
+    "translate": "特意地、好不容易",
+    "id": "ADVANCE145"
+  },
+  {
+    "word": "じょじょに",
+    "kanji": "徐々に",
+    "translate": "徐徐地、逐漸",
+    "id": "ADVANCE146"
+  },
+  {
+    "word": "ぶっそう",
+    "kanji": "物騒",
+    "translate": "騷亂不安",
+    "id": "ADVANCE147"
+  },
+  {
+    "word": "スピーチ",
+    "kanji": "null",
+    "translate": "簡短演說、致詞",
+    "id": "ADVANCE148"
+  },
+  {
+    "word": "ためし",
+    "kanji": "試し",
+    "translate": "嘗試",
+    "id": "ADVANCE149"
+  },
+  {
+    "word": "はなしあう",
+    "kanji": "話し合う",
+    "translate": "對話",
+    "id": "ADVANCE150"
+  },
+  {
+    "word": "けっしん",
+    "kanji": "決心",
+    "translate": "決心",
+    "id": "ADVANCE151"
+  },
+  {
+    "word": "おうべい",
+    "kanji": "欧米",
+    "translate": "歐美",
+    "id": "ADVANCE152"
+  },
+  {
+    "word": "のろい",
+    "kanji": "鈍い",
+    "translate": "緩慢的、遲鈍的",
+    "id": "ADVANCE153"
+  },
+  {
+    "word": "ぜひとも",
+    "kanji": "是非とも",
+    "translate": "一定、無論如何",
+    "id": "ADVANCE154"
+  },
+  {
+    "word": "じょうとう",
+    "kanji": "上等",
+    "translate": "上等、優質",
+    "id": "ADVANCE155"
+  },
+  {
+    "word": "つきあい",
+    "kanji": "付き合い",
+    "translate": "交際、應酬",
+    "id": "ADVANCE156"
+  },
+  {
+    "word": "みとめる",
+    "kanji": "認める",
+    "translate": "看出、認識",
+    "id": "ADVANCE157"
+  },
+  {
+    "word": "みおくる",
+    "kanji": "見送る",
+    "translate": "目送、觀望",
+    "id": "ADVANCE158"
+  },
+  {
+    "word": "かくだい",
+    "kanji": "拡大",
+    "translate": "擴大",
+    "id": "ADVANCE159"
+  },
+  {
+    "word": "てんじかい",
+    "kanji": "展示会",
+    "translate": "展示會",
+    "id": "ADVANCE160"
+  },
+  {
+    "word": "さかさ",
+    "kanji": "逆さ",
+    "translate": "顛倒、相反",
+    "id": "ADVANCE161"
+  },
+  {
+    "word": "しんゆう",
+    "kanji": "親友",
+    "translate": "知心朋友",
+    "id": "ADVANCE162"
+  },
+  {
+    "word": "いつでも",
+    "kanji": "何時でも",
+    "translate": "隨時",
+    "id": "ADVANCE163"
+  },
+  {
+    "word": "せいぜい",
+    "kanji": "精々",
+    "translate": "盡量、盡可能",
+    "id": "ADVANCE164"
+  },
+  {
+    "word": "レジャー",
+    "kanji": "null",
+    "translate": "空閒、閒暇",
+    "id": "ADVANCE165"
+  },
+  {
+    "word": "ふたご",
+    "kanji": "双子",
+    "translate": "雙胞胎",
+    "id": "ADVANCE166"
+  },
+  {
+    "word": "じめん",
+    "kanji": "地面",
+    "translate": "地面、土地",
+    "id": "ADVANCE167"
+  },
+  {
+    "word": "だらしない",
+    "kanji": "null",
+    "translate": "散漫的、不檢點的",
+    "id": "ADVANCE168"
+  },
+  {
+    "word": "あんき",
+    "kanji": "暗記",
+    "translate": "記住、背誦",
+    "id": "ADVANCE169"
+  },
+  {
+    "word": "きょだい",
+    "kanji": "巨大",
+    "translate": "巨大、雄偉",
+    "id": "ADVANCE170"
+  },
+  {
+    "word": "じゅん",
+    "kanji": "順",
+    "translate": "順序、輪班",
+    "id": "ADVANCE171"
+  },
+  {
+    "word": "こげる",
+    "kanji": "焦げる",
+    "translate": "烤焦",
+    "id": "ADVANCE172"
+  },
+  {
+    "word": "ちかごろ",
+    "kanji": "近頃",
+    "translate": "最近、近來",
+    "id": "ADVANCE173"
+  },
+  {
+    "word": "くぎ",
+    "kanji": "釘",
+    "translate": "釘子",
+    "id": "ADVANCE174"
+  },
+  {
+    "word": "がくしゃ",
+    "kanji": "学者",
+    "translate": "學者",
+    "id": "ADVANCE175"
+  },
+  {
+    "word": "いわば",
+    "kanji": "言わば",
+    "translate": "譬如",
+    "id": "ADVANCE176"
+  },
+  {
+    "word": "がいぶ",
+    "kanji": "外部",
+    "translate": "外面",
+    "id": "ADVANCE177"
+  },
+  {
+    "word": "おまいり",
+    "kanji": "お参り",
+    "translate": "參拜",
+    "id": "ADVANCE178"
+  },
+  {
+    "word": "はり",
+    "kanji": "針",
+    "translate": "縫衣針",
+    "id": "ADVANCE179"
+  },
+  {
+    "word": "ほんもの",
+    "kanji": "本物",
+    "translate": "真貨",
+    "id": "ADVANCE180"
+  },
+  {
+    "word": "ふくらます",
+    "kanji": "膨らます",
+    "translate": "弄鼓",
+    "id": "ADVANCE181"
+  },
+  {
+    "word": "でたらめ",
+    "kanji": "null",
+    "translate": "荒唐",
+    "id": "ADVANCE182"
+  },
+  {
+    "word": "なになに",
+    "kanji": "何々",
+    "translate": "什麼什麼",
+    "id": "ADVANCE183"
+  },
+  {
+    "word": "よそく",
+    "kanji": "予測",
+    "translate": "預測",
+    "id": "ADVANCE184"
+  },
+  {
+    "word": "まいど",
+    "kanji": "毎度",
+    "translate": "曾經、常常",
+    "id": "ADVANCE185"
+  },
+  {
+    "word": "きあつ",
+    "kanji": "気圧",
+    "translate": "氣壓",
+    "id": "ADVANCE186"
+  },
+  {
+    "word": "あまやかす",
+    "kanji": "甘やかす",
+    "translate": "嬌生慣養",
+    "id": "ADVANCE187"
+  },
+  {
+    "word": "ひきだす",
+    "kanji": "引き出す",
+    "translate": "抽出、拉出",
+    "id": "ADVANCE188"
+  },
+  {
+    "word": "てごろ",
+    "kanji": "手頃",
+    "translate": "合適、相當",
+    "id": "ADVANCE189"
+  },
+  {
+    "word": "てつどう",
+    "kanji": "鉄道",
+    "translate": "鐵路",
+    "id": "ADVANCE190"
+  },
+  {
+    "word": "こと",
+    "kanji": "琴",
+    "translate": "古琴",
+    "id": "ADVANCE191"
+  },
+  {
+    "word": "こうち",
+    "kanji": "耕地",
+    "translate": "耕地",
+    "id": "ADVANCE192"
+  },
+  {
+    "word": "ていきてき",
+    "kanji": "定期的",
+    "translate": "定期",
+    "id": "ADVANCE193"
+  },
+  {
+    "word": "かわせ",
+    "kanji": "為替",
+    "translate": "匯款",
+    "id": "ADVANCE194"
+  },
+  {
+    "word": "ことわる",
+    "kanji": "断る",
+    "translate": "預先通知",
+    "id": "ADVANCE195"
+  },
+  {
+    "word": "きれい",
+    "kanji": "綺麗",
+    "translate": "好看、美麗",
+    "id": "ADVANCE196"
+  },
+  {
+    "word": "ただちに",
+    "kanji": "直ちに",
+    "translate": "立刻、直接",
+    "id": "ADVANCE197"
+  },
+  {
+    "word": "はなび",
+    "kanji": "花火",
+    "translate": "煙火",
+    "id": "ADVANCE198"
+  },
+  {
+    "word": "ひとごみ",
+    "kanji": "人混み",
+    "translate": "人山人海",
+    "id": "ADVANCE199"
+  },
+  {
+    "word": "きょうかい",
+    "kanji": "境界",
+    "translate": "境界",
+    "id": "ADVANCE200"
+  },
+  {
+    "word": "しょう",
+    "kanji": "小",
+    "translate": "體積小的",
+    "id": "ADVANCE201"
+  },
+  {
+    "word": "じょうしゃ",
+    "kanji": "乗車",
+    "translate": "乘車、上車",
+    "id": "ADVANCE202"
+  },
+  {
+    "word": "さんこう",
+    "kanji": "参考",
+    "translate": "參考",
+    "id": "ADVANCE203"
+  },
+  {
+    "word": "うけとる",
+    "kanji": "受け取る",
+    "translate": "接收、理解",
+    "id": "ADVANCE204"
+  },
+  {
+    "word": "たいき",
+    "kanji": "大気",
+    "translate": "大氣",
+    "id": "ADVANCE205"
+  },
+  {
+    "word": "おこたる",
+    "kanji": "怠る",
+    "translate": "怠慢",
+    "id": "ADVANCE206"
+  },
+  {
+    "word": "じんぶつ",
+    "kanji": "人物",
+    "translate": "人物",
+    "id": "ADVANCE207"
+  },
+  {
+    "word": "しょうぼう",
+    "kanji": "消防",
+    "translate": "消防",
+    "id": "ADVANCE208"
+  },
+  {
+    "word": "りえき",
+    "kanji": "利益",
+    "translate": "利益、利潤",
+    "id": "ADVANCE209"
+  },
+  {
+    "word": "みかづき",
+    "kanji": "三日月",
+    "translate": "新月",
+    "id": "ADVANCE210"
+  },
+  {
+    "word": "なる",
+    "kanji": "生る",
+    "translate": "植物結果",
+    "id": "ADVANCE211"
+  },
+  {
+    "word": "ぎしき",
+    "kanji": "儀式",
+    "translate": "儀式",
+    "id": "ADVANCE212"
+  },
+  {
+    "word": "かんばん",
+    "kanji": "看板",
+    "translate": "招牌",
+    "id": "ADVANCE213"
+  },
+  {
+    "word": "どうさ",
+    "kanji": "動作",
+    "translate": "動作",
+    "id": "ADVANCE214"
+  },
+  {
+    "word": "のちほど",
+    "kanji": "後程",
+    "translate": "過一會",
+    "id": "ADVANCE215"
+  },
+  {
+    "word": "はさむ",
+    "kanji": "挟む",
+    "translate": "夾住",
+    "id": "ADVANCE216"
+  },
+  {
+    "word": "おいつく",
+    "kanji": "追い付く",
+    "translate": "追上、到達",
+    "id": "ADVANCE217"
+  },
+  {
+    "word": "こづかい",
+    "kanji": "小遣い",
+    "translate": "零用錢",
+    "id": "ADVANCE218"
+  },
+  {
+    "word": "アウト",
+    "kanji": "null",
+    "translate": "外邊、出界",
+    "id": "ADVANCE219"
+  },
+  {
+    "word": "しょうもう",
+    "kanji": "消耗",
+    "translate": "消費、消耗",
+    "id": "ADVANCE220"
+  },
+  {
+    "word": "えいぎょう",
+    "kanji": "営業",
+    "translate": "營業",
+    "id": "ADVANCE221"
+  },
+  {
+    "word": "かくちょう",
+    "kanji": "拡張",
+    "translate": "擴張",
+    "id": "ADVANCE222"
+  },
+  {
+    "word": "くわわる",
+    "kanji": "加わる",
+    "translate": "添上",
+    "id": "ADVANCE223"
+  },
+  {
+    "word": "にじ",
+    "kanji": "虹",
+    "translate": "彩虹",
+    "id": "ADVANCE224"
+  },
+  {
+    "word": "ずみ",
+    "kanji": "済み",
+    "translate": "完了、完結",
+    "id": "ADVANCE225"
+  },
+  {
+    "word": "とりけす",
+    "kanji": "取り消す",
+    "translate": "取消",
+    "id": "ADVANCE226"
+  },
+  {
+    "word": "じゅんじゅん",
+    "kanji": "順々",
+    "translate": "按順序",
+    "id": "ADVANCE227"
+  },
+  {
+    "word": "ぎろん",
+    "kanji": "議論",
+    "translate": "爭論",
+    "id": "ADVANCE228"
+  },
+  {
+    "word": "しんるい",
+    "kanji": "親類",
+    "translate": "親戚、同類",
+    "id": "ADVANCE229"
+  },
+  {
+    "word": "しょじゅん",
+    "kanji": "初旬",
+    "translate": "初旬",
+    "id": "ADVANCE230"
+  },
+  {
+    "word": "かそく",
+    "kanji": "加速",
+    "translate": "加速",
+    "id": "ADVANCE231"
+  },
+  {
+    "word": "こんなん",
+    "kanji": "困難",
+    "translate": "困難",
+    "id": "ADVANCE232"
+  },
+  {
+    "word": "どうかく",
+    "kanji": "同格",
+    "translate": "同等資格",
+    "id": "ADVANCE233"
+  },
+  {
+    "word": "なにぶん",
+    "kanji": "何分",
+    "translate": "多少、無奈...",
+    "id": "ADVANCE234"
+  },
+  {
+    "word": "ささやく",
+    "kanji": "囁く",
+    "translate": "低聲自語",
+    "id": "ADVANCE235"
+  },
+  {
+    "word": "いっしゅん",
+    "kanji": "一瞬",
+    "translate": "一瞬間",
+    "id": "ADVANCE236"
+  },
+  {
+    "word": "たりょう",
+    "kanji": "多量",
+    "translate": "大量",
+    "id": "ADVANCE237"
+  },
+  {
+    "word": "しまう",
+    "kanji": "仕舞う",
+    "translate": "結束、關閉",
+    "id": "ADVANCE238"
+  },
+  {
+    "word": "しも",
+    "kanji": "霜",
+    "translate": "霜、白髮",
+    "id": "ADVANCE239"
+  },
+  {
+    "word": "かいほう",
+    "kanji": "開放",
+    "translate": "開放",
+    "id": "ADVANCE240"
+  },
+  {
+    "word": "ひとやすみ",
+    "kanji": "一休み",
+    "translate": "休息一會兒",
+    "id": "ADVANCE241"
+  },
+  {
+    "word": "あばれる",
+    "kanji": "暴れる",
+    "translate": "胡鬧、放蕩",
+    "id": "ADVANCE242"
+  },
+  {
+    "word": "さいちゅう",
+    "kanji": "最中",
+    "translate": "動作進行中",
+    "id": "ADVANCE243"
+  },
+  {
+    "word": "スマート",
+    "kanji": "null",
+    "translate": "瀟灑、時髦",
+    "id": "ADVANCE244"
+  },
+  {
+    "word": "おおう",
+    "kanji": "覆う",
+    "translate": "覆蓋",
+    "id": "ADVANCE245"
+  },
+  {
+    "word": "いんよう",
+    "kanji": "引用",
+    "translate": "引用",
+    "id": "ADVANCE246"
+  },
+  {
+    "word": "つぶす",
+    "kanji": "潰す",
+    "translate": "毀壞、熔毀",
+    "id": "ADVANCE247"
+  },
+  {
+    "word": "とうばん",
+    "kanji": "当番",
+    "translate": "值班",
+    "id": "ADVANCE248"
+  },
+  {
+    "word": "ちょうたん",
+    "kanji": "長短",
+    "translate": "長度、優缺點",
+    "id": "ADVANCE249"
+  },
+  {
+    "word": "しん",
+    "kanji": "芯",
+    "translate": "蕊",
+    "id": "ADVANCE250"
+  },
+  {
+    "word": "ちかぢか",
+    "kanji": "近々",
+    "translate": "不久、過幾天",
+    "id": "ADVANCE251"
+  },
+  {
+    "word": "ぞうさつ",
+    "kanji": "増刷",
+    "translate": "加印",
+    "id": "ADVANCE252"
+  },
+  {
+    "word": "ひだりがわ",
+    "kanji": "左側",
+    "translate": "左邊",
+    "id": "ADVANCE253"
+  },
+  {
+    "word": "くるしむ",
+    "kanji": "苦しむ",
+    "translate": "感到難受",
+    "id": "ADVANCE254"
+  },
+  {
+    "word": "ふける",
+    "kanji": "老ける",
+    "translate": "上年紀",
+    "id": "ADVANCE255"
+  },
+  {
+    "word": "はいけん",
+    "kanji": "拝見",
+    "translate": "看、瞻仰",
+    "id": "ADVANCE256"
+  },
+  {
+    "word": "しめる",
+    "kanji": "占める",
+    "translate": "佔有、佔據",
+    "id": "ADVANCE257"
+  },
+  {
+    "word": "めいめい",
+    "kanji": "銘々",
+    "translate": "每個人",
+    "id": "ADVANCE258"
+  },
+  {
+    "word": "くしん",
+    "kanji": "苦心",
+    "translate": "苦心、費心",
+    "id": "ADVANCE259"
+  },
+  {
+    "word": "かけまわる",
+    "kanji": "駆け回る",
+    "translate": "到處亂跑",
+    "id": "ADVANCE260"
+  },
+  {
+    "word": "ごうり",
+    "kanji": "合理",
+    "translate": "合理",
+    "id": "ADVANCE261"
+  },
+  {
+    "word": "てんかい",
+    "kanji": "展開",
+    "translate": "展開、打開",
+    "id": "ADVANCE262"
+  },
+  {
+    "word": "えんげい",
+    "kanji": "園芸",
+    "translate": "園藝",
+    "id": "ADVANCE263"
+  },
+  {
+    "word": "さわがしい",
+    "kanji": "騒がしい",
+    "translate": "吵鬧的",
+    "id": "ADVANCE264"
+  },
+  {
+    "word": "しんたい",
+    "kanji": "身体",
+    "translate": "身體",
+    "id": "ADVANCE265"
+  },
+  {
+    "word": "しきゅう",
+    "kanji": "支給",
+    "translate": "支付",
+    "id": "ADVANCE266"
+  },
+  {
+    "word": "まる",
+    "kanji": "丸",
+    "translate": "圓形、句點",
+    "id": "ADVANCE267"
+  },
+  {
+    "word": "ものさし",
+    "kanji": "物差し",
+    "translate": "尺度",
+    "id": "ADVANCE268"
+  },
+  {
+    "word": "やくわり",
+    "kanji": "役割",
+    "translate": "分配任務、角色",
+    "id": "ADVANCE269"
+  },
+  {
+    "word": "コンクリート",
+    "kanji": "null",
+    "translate": "混泥土、具體的",
+    "id": "ADVANCE270"
+  },
+  {
+    "word": "けんとう",
+    "kanji": "見当",
+    "translate": "推想、推測",
+    "id": "ADVANCE271"
+  },
+  {
+    "word": "ふんすい",
+    "kanji": "噴水",
+    "translate": "噴水、噴泉",
+    "id": "ADVANCE272"
+  },
+  {
+    "word": "ぐんたい",
+    "kanji": "軍隊",
+    "translate": "軍隊",
+    "id": "ADVANCE273"
+  },
+  {
+    "word": "かいけい",
+    "kanji": "会計",
+    "translate": "會計",
+    "id": "ADVANCE274"
+  },
+  {
+    "word": "ひろば",
+    "kanji": "広場",
+    "translate": "廣場",
+    "id": "ADVANCE275"
+  },
+  {
+    "word": "ひょうか",
+    "kanji": "評価",
+    "translate": "定價",
+    "id": "ADVANCE276"
+  },
+  {
+    "word": "こしかけ",
+    "kanji": "腰掛",
+    "translate": "凳子",
+    "id": "ADVANCE277"
+  },
+  {
+    "word": "こうつうきかん",
+    "kanji": "交通機関",
+    "translate": "交通機關",
+    "id": "ADVANCE278"
+  },
+  {
+    "word": "こっそり",
+    "kanji": "null",
+    "translate": "悄悄地",
+    "id": "ADVANCE279"
+  },
+  {
+    "word": "くっつける",
+    "kanji": "くっ付ける",
+    "translate": "把...黏上",
+    "id": "ADVANCE280"
+  },
+  {
+    "word": "ふとい",
+    "kanji": "太い",
+    "translate": "粗的、肥胖",
+    "id": "ADVANCE281"
+  },
+  {
+    "word": "きかんしゃ",
+    "kanji": "機関車",
+    "translate": "機車",
+    "id": "ADVANCE282"
+  },
+  {
+    "word": "しゅうてん",
+    "kanji": "終点",
+    "translate": "終點",
+    "id": "ADVANCE283"
+  },
+  {
+    "word": "じゅうりょう",
+    "kanji": "重量",
+    "translate": "重量、分量",
+    "id": "ADVANCE284"
+  },
+  {
+    "word": "ちょうせつ",
+    "kanji": "調節",
+    "translate": "調節",
+    "id": "ADVANCE285"
+  },
+  {
+    "word": "はたけ",
+    "kanji": "畑",
+    "translate": "田地",
+    "id": "ADVANCE286"
+  },
+  {
+    "word": "シリーズ",
+    "kanji": "null",
+    "translate": "彙編、叢書",
+    "id": "ADVANCE287"
+  },
+  {
+    "word": "ぎょうぎ",
+    "kanji": "行儀",
+    "translate": "禮儀",
+    "id": "ADVANCE288"
+  },
+  {
+    "word": "かなしむ",
+    "kanji": "悲しむ",
+    "translate": "感到悲傷",
+    "id": "ADVANCE289"
+  },
+  {
+    "word": "そうさく",
+    "kanji": "創作",
+    "translate": "創作、捏造",
+    "id": "ADVANCE290"
+  },
+  {
+    "word": "こっかい",
+    "kanji": "国会",
+    "translate": "國會",
+    "id": "ADVANCE291"
+  },
+  {
+    "word": "ほす",
+    "kanji": "干す",
+    "translate": "曬乾",
+    "id": "ADVANCE292"
+  },
+  {
+    "word": "よそ",
+    "kanji": "他所",
+    "translate": "別處、遠方",
+    "id": "ADVANCE293"
+  },
+  {
+    "word": "ほうていしき",
+    "kanji": "方程式",
+    "translate": "方程式",
+    "id": "ADVANCE294"
+  },
+  {
+    "word": "しゅちょう",
+    "kanji": "主張",
+    "translate": "主張",
+    "id": "ADVANCE295"
+  },
+  {
+    "word": "ふくそう",
+    "kanji": "服装",
+    "translate": "服裝",
+    "id": "ADVANCE296"
+  },
+  {
+    "word": "しゅうりょう",
+    "kanji": "終了",
+    "translate": "終了、結束",
+    "id": "ADVANCE297"
+  },
+  {
+    "word": "こんだて",
+    "kanji": "献立",
+    "translate": "菜單",
+    "id": "ADVANCE298"
+  },
+  {
+    "word": "おんだん",
+    "kanji": "温暖",
+    "translate": "溫暖",
+    "id": "ADVANCE299"
+  },
+  {
+    "word": "つき",
+    "kanji": "付き",
+    "translate": "樣子、附屬",
+    "id": "ADVANCE300"
+  },
+  {
+    "word": "こうたい",
+    "kanji": "交替",
+    "translate": "換班、輪流",
+    "id": "ADVANCE301"
+  },
+  {
+    "word": "きぐ",
+    "kanji": "器具",
+    "translate": "器具",
+    "id": "ADVANCE302"
+  },
+  {
+    "word": "こらえる",
+    "kanji": "堪える",
+    "translate": "忍耐",
+    "id": "ADVANCE303"
+  },
+  {
+    "word": "えいぶん",
+    "kanji": "英文",
+    "translate": "英文",
+    "id": "ADVANCE304"
+  },
+  {
+    "word": "ふぼ",
+    "kanji": "父母",
+    "translate": "雙親",
+    "id": "ADVANCE305"
+  },
+  {
+    "word": "しな",
+    "kanji": "品",
+    "translate": "物品、東西",
+    "id": "ADVANCE306"
+  },
+  {
+    "word": "ぼうだい",
+    "kanji": "膨大",
+    "translate": "龐大的",
+    "id": "ADVANCE307"
+  },
+  {
+    "word": "きし",
+    "kanji": "岸",
+    "translate": "岸邊",
+    "id": "ADVANCE308"
+  },
+  {
+    "word": "きょうじゅ",
+    "kanji": "教授",
+    "translate": "教授",
+    "id": "ADVANCE309"
+  },
+  {
+    "word": "ちじ",
+    "kanji": "知事",
+    "translate": "首長",
+    "id": "ADVANCE310"
+  },
+  {
+    "word": "くむ",
+    "kanji": "汲む",
+    "translate": "打水",
+    "id": "ADVANCE311"
+  },
+  {
+    "word": "かねそなえる",
+    "kanji": "兼ね備える",
+    "translate": "兩者兼備",
+    "id": "ADVANCE312"
+  },
+  {
+    "word": "さかい",
+    "kanji": "境",
+    "translate": "界線",
+    "id": "ADVANCE313"
+  },
+  {
+    "word": "こうか",
+    "kanji": "硬貨",
+    "translate": "硬幣",
+    "id": "ADVANCE314"
+  },
+  {
+    "word": "かくご",
+    "kanji": "覚悟",
+    "translate": "精神準備、覺悟",
+    "id": "ADVANCE315"
+  },
+  {
+    "word": "しんさつ",
+    "kanji": "診察",
+    "translate": "診察",
+    "id": "ADVANCE316"
+  },
+  {
+    "word": "ランニング",
+    "kanji": "null",
+    "translate": "賽跑、跑步",
+    "id": "ADVANCE317"
+  },
+  {
+    "word": "なでる",
+    "kanji": "撫でる",
+    "translate": "撫摸、梳理",
+    "id": "ADVANCE318"
+  },
+  {
+    "word": "たん",
+    "kanji": "短",
+    "translate": "短、缺短",
+    "id": "ADVANCE319"
+  },
+  {
+    "word": "さきおととい",
+    "kanji": "一昨昨日",
+    "translate": "大前天",
+    "id": "ADVANCE320"
+  },
+  {
+    "word": "としした",
+    "kanji": "年下",
+    "translate": "年幼",
+    "id": "ADVANCE321"
+  },
+  {
+    "word": "ひきかえす",
+    "kanji": "引き返す",
+    "translate": "返回",
+    "id": "ADVANCE322"
+  },
+  {
+    "word": "いちぶ",
+    "kanji": "一部",
+    "translate": "一部分",
+    "id": "ADVANCE323"
+  },
+  {
+    "word": "やく",
+    "kanji": "役",
+    "translate": "職務、角色",
+    "id": "ADVANCE324"
+  },
+  {
+    "word": "がっかり",
+    "kanji": "null",
+    "translate": "失望",
+    "id": "ADVANCE325"
+  },
+  {
+    "word": "てきする",
+    "kanji": "適する",
+    "translate": "事宜、適合",
+    "id": "ADVANCE326"
+  },
+  {
+    "word": "とめる",
+    "kanji": "泊める",
+    "translate": "過夜、投宿",
+    "id": "ADVANCE327"
+  },
+  {
+    "word": "わびる",
+    "kanji": "詫びる",
+    "translate": "道歉、謝罪",
+    "id": "ADVANCE328"
+  },
+  {
+    "word": "はれ",
+    "kanji": "晴れ",
+    "translate": "晴天、隆重",
+    "id": "ADVANCE329"
+  },
+  {
+    "word": "しきりに",
+    "kanji": "頻りに",
+    "translate": "頻繁地、屢次",
+    "id": "ADVANCE330"
+  },
+  {
+    "word": "かんきゃく",
+    "kanji": "観客",
+    "translate": "觀眾",
+    "id": "ADVANCE331"
+  },
+  {
+    "word": "まずしい",
+    "kanji": "貧しい",
+    "translate": "貧窮的、窮困的",
+    "id": "ADVANCE332"
+  },
+  {
+    "word": "はう",
+    "kanji": "這う",
+    "translate": "爬、攀纏",
+    "id": "ADVANCE333"
+  },
+  {
+    "word": "こうよう",
+    "kanji": "紅葉",
+    "translate": "紅葉",
+    "id": "ADVANCE334"
+  },
+  {
+    "word": "わりびき",
+    "kanji": "割引",
+    "translate": "打折扣、減價",
+    "id": "ADVANCE335"
+  },
+  {
+    "word": "ためらう",
+    "kanji": "躊躇う",
+    "translate": "猶豫",
+    "id": "ADVANCE336"
+  },
+  {
+    "word": "すいさん",
+    "kanji": "水産",
+    "translate": "水產",
+    "id": "ADVANCE337"
+  },
+  {
+    "word": "かきね",
+    "kanji": "垣根",
+    "translate": "籬笆",
+    "id": "ADVANCE338"
+  },
+  {
+    "word": "どうせ",
+    "kanji": "null",
+    "translate": "反正、無論如何",
+    "id": "ADVANCE339"
+  },
+  {
+    "word": "せめて",
+    "kanji": "null",
+    "translate": "那怕是、至少也",
+    "id": "ADVANCE340"
+  },
+  {
+    "word": "としょしつ",
+    "kanji": "図書室",
+    "translate": "閱覽室",
+    "id": "ADVANCE341"
+  },
+  {
+    "word": "いちば",
+    "kanji": "市場",
+    "translate": "市場",
+    "id": "ADVANCE342"
+  },
+  {
+    "word": "こし",
+    "kanji": "腰",
+    "translate": "腰",
+    "id": "ADVANCE343"
+  },
+  {
+    "word": "ペンチ",
+    "kanji": "null",
+    "translate": "鉗子",
+    "id": "ADVANCE344"
+  },
+  {
+    "word": "ながそで",
+    "kanji": "長袖",
+    "translate": "長袖",
+    "id": "ADVANCE345"
+  },
+  {
+    "word": "おひる",
+    "kanji": "お昼",
+    "translate": "白天",
+    "id": "ADVANCE346"
+  },
+  {
+    "word": "こしかける",
+    "kanji": "腰掛ける",
+    "translate": "坐下",
+    "id": "ADVANCE347"
+  },
+  {
+    "word": "あてはめる",
+    "kanji": "当てはめる",
+    "translate": "適用",
+    "id": "ADVANCE348"
+  },
+  {
+    "word": "ちゅうしょく",
+    "kanji": "昼食",
+    "translate": "午飯、午餐",
+    "id": "ADVANCE349"
+  },
+  {
+    "word": "ほけん",
+    "kanji": "保健",
+    "translate": "保健",
+    "id": "ADVANCE350"
+  },
+  {
+    "word": "もんどう",
+    "kanji": "問答",
+    "translate": "問答、商量",
+    "id": "ADVANCE351"
+  },
+  {
+    "word": "ならう",
+    "kanji": "倣う",
+    "translate": "仿效",
+    "id": "ADVANCE352"
+  },
+  {
+    "word": "いど",
+    "kanji": "井戸",
+    "translate": "井",
+    "id": "ADVANCE353"
+  },
+  {
+    "word": "たにぞこ",
+    "kanji": "谷底",
+    "translate": "谷底",
+    "id": "ADVANCE354"
+  },
+  {
+    "word": "ふえ",
+    "kanji": "笛",
+    "translate": "橫笛",
+    "id": "ADVANCE355"
+  },
+  {
+    "word": "じつぎ",
+    "kanji": "実技",
+    "translate": "實際操作",
+    "id": "ADVANCE356"
+  },
+  {
+    "word": "よみがえる",
+    "kanji": "蘇る",
+    "translate": "甦醒、復活",
+    "id": "ADVANCE357"
+  },
+  {
+    "word": "ふくすう",
+    "kanji": "複数",
+    "translate": "複數",
+    "id": "ADVANCE358"
+  },
+  {
+    "word": "てきかく",
+    "kanji": "的確",
+    "translate": "正確",
+    "id": "ADVANCE359"
+  },
+  {
+    "word": "ものおき",
+    "kanji": "物置",
+    "translate": "倉房",
+    "id": "ADVANCE360"
+  },
+  {
+    "word": "みにくい",
+    "kanji": "醜い",
+    "translate": "難看的、醜陋",
+    "id": "ADVANCE361"
+  },
+  {
+    "word": "めいじん",
+    "kanji": "名人",
+    "translate": "名人、大師",
+    "id": "ADVANCE362"
+  },
+  {
+    "word": "おさめる",
+    "kanji": "治める",
+    "translate": "治理",
+    "id": "ADVANCE363"
+  },
+  {
+    "word": "ほうそう",
+    "kanji": "包装",
+    "translate": "包裝",
+    "id": "ADVANCE364"
+  },
+  {
+    "word": "ふとう",
+    "kanji": "不当",
+    "translate": "不正當",
+    "id": "ADVANCE365"
+  },
+  {
+    "word": "よゆう",
+    "kanji": "余裕",
+    "translate": "富餘、寬裕",
+    "id": "ADVANCE366"
+  },
+  {
+    "word": "ちょうせい",
+    "kanji": "調整",
+    "translate": "調整",
+    "id": "ADVANCE367"
+  },
+  {
+    "word": "おわび",
+    "kanji": "お詫び",
+    "translate": "道歉",
+    "id": "ADVANCE368"
+  },
+  {
+    "word": "どなる",
+    "kanji": "怒鳴る",
+    "translate": "大聲喊叫",
+    "id": "ADVANCE369"
+  },
+  {
+    "word": "かいさつ",
+    "kanji": "改札",
+    "translate": "驗票口",
+    "id": "ADVANCE370"
+  },
+  {
+    "word": "ほころびる",
+    "kanji": "綻びる",
+    "translate": "脫線",
+    "id": "ADVANCE371"
+  },
+  {
+    "word": "めやす",
+    "kanji": "目安",
+    "translate": "目標、大致的推測",
+    "id": "ADVANCE372"
+  },
+  {
+    "word": "さからう",
+    "kanji": "逆らう",
+    "translate": "反方向、違背",
+    "id": "ADVANCE373"
+  },
+  {
+    "word": "えいきゅう",
+    "kanji": "永久",
+    "translate": "永久",
+    "id": "ADVANCE374"
+  },
+  {
+    "word": "せいど",
+    "kanji": "制度",
+    "translate": "制度、規定",
+    "id": "ADVANCE375"
+  },
+  {
+    "word": "かいぜん",
+    "kanji": "改善",
+    "translate": "改善",
+    "id": "ADVANCE376"
+  },
+  {
+    "word": "れんそう",
+    "kanji": "連想",
+    "translate": "聯想",
+    "id": "ADVANCE377"
+  },
+  {
+    "word": "はかる",
+    "kanji": "計る",
+    "translate": "測量、推測",
+    "id": "ADVANCE378"
+  },
+  {
+    "word": "ある",
+    "kanji": "或る",
+    "translate": "不明確",
+    "id": "ADVANCE379"
+  },
+  {
+    "word": "さんち",
+    "kanji": "産地",
+    "translate": "產地、出生地",
+    "id": "ADVANCE380"
+  },
+  {
+    "word": "めいぶつ",
+    "kanji": "名物",
+    "translate": "名產、特產",
+    "id": "ADVANCE381"
+  },
+  {
+    "word": "おん",
+    "kanji": "恩",
+    "translate": "恩情",
+    "id": "ADVANCE382"
+  },
+  {
+    "word": "ふか",
+    "kanji": "不可",
+    "translate": "不可、不及格",
+    "id": "ADVANCE383"
+  },
+  {
+    "word": "けいしき",
+    "kanji": "形式",
+    "translate": "刑事",
+    "id": "ADVANCE384"
+  },
+  {
+    "word": "きりつ",
+    "kanji": "規律",
+    "translate": "規格",
+    "id": "ADVANCE385"
+  },
+  {
+    "word": "わざと",
+    "kanji": "態と",
+    "translate": "故意、存心",
+    "id": "ADVANCE386"
+  },
+  {
+    "word": "ちょう",
+    "kanji": "長",
+    "translate": "長、首領",
+    "id": "ADVANCE387"
+  },
+  {
+    "word": "びょう",
+    "kanji": "病",
+    "translate": "患病、毛病",
+    "id": "ADVANCE388"
+  },
+  {
+    "word": "いき",
+    "kanji": "意気",
+    "translate": "義氣、氣勢",
+    "id": "ADVANCE389"
+  },
+  {
+    "word": "むけ",
+    "kanji": "向け",
+    "translate": "向、對",
+    "id": "ADVANCE390"
+  },
+  {
+    "word": "いまに",
+    "kanji": "今に",
+    "translate": "即將",
+    "id": "ADVANCE391"
+  },
+  {
+    "word": "あん",
+    "kanji": "案",
+    "translate": "計畫、提案",
+    "id": "ADVANCE392"
+  },
+  {
+    "word": "けわしい",
+    "kanji": "険しい",
+    "translate": "陡峭、險惡",
+    "id": "ADVANCE393"
+  },
+  {
+    "word": "ころがる",
+    "kanji": "転がる",
+    "translate": "滾動、轉動",
+    "id": "ADVANCE394"
+  },
+  {
+    "word": "とうぶん",
+    "kanji": "等分",
+    "translate": "等分、均分",
+    "id": "ADVANCE395"
+  },
+  {
+    "word": "かっき",
+    "kanji": "活気",
+    "translate": "活力",
+    "id": "ADVANCE396"
+  },
+  {
+    "word": "やっかい",
+    "kanji": "厄介",
+    "translate": "麻煩、難為",
+    "id": "ADVANCE397"
+  },
+  {
+    "word": "はら",
+    "kanji": "原",
+    "translate": "平原",
+    "id": "ADVANCE398"
+  },
+  {
+    "word": "はんえい",
+    "kanji": "反映",
+    "translate": "反射",
+    "id": "ADVANCE399"
+  },
+  {
+    "word": "へだてる",
+    "kanji": "隔てる",
+    "translate": "隔開、分開",
+    "id": "ADVANCE400"
+  },
+  {
+    "word": "どくりつ",
+    "kanji": "独立",
+    "translate": "孤立、自立",
+    "id": "ADVANCE401"
+  },
+  {
+    "word": "でこぼこ",
+    "kanji": "凸凹",
+    "translate": "凹凸不平",
+    "id": "ADVANCE402"
+  },
+  {
+    "word": "コータス",
+    "kanji": "null",
+    "translate": "合唱",
+    "id": "ADVANCE403"
+  },
+  {
+    "word": "のこらず",
+    "kanji": "残らず",
+    "translate": "全部",
+    "id": "ADVANCE404"
+  },
+  {
+    "word": "あかるい",
+    "kanji": "明るい",
+    "translate": "明亮的",
+    "id": "ADVANCE405"
+  },
+  {
+    "word": "りこう",
+    "kanji": "利口",
+    "translate": "聰明",
+    "id": "ADVANCE406"
+  },
+  {
+    "word": "ぎょうじ",
+    "kanji": "行事",
+    "translate": "儀式",
+    "id": "ADVANCE407"
+  },
+  {
+    "word": "きんがく",
+    "kanji": "金額",
+    "translate": "金額",
+    "id": "ADVANCE408"
+  },
+  {
+    "word": "へいや",
+    "kanji": "平野",
+    "translate": "平原",
+    "id": "ADVANCE409"
+  },
+  {
+    "word": "かぜぐすり",
+    "kanji": "風邪薬",
+    "translate": "感冒藥",
+    "id": "ADVANCE410"
+  },
+  {
+    "word": "だらり",
+    "kanji": "null",
+    "translate": "無力地",
+    "id": "ADVANCE411"
+  },
+  {
+    "word": "ひく",
+    "kanji": "轢く",
+    "translate": "壓、軋",
+    "id": "ADVANCE412"
+  },
+  {
+    "word": "さいばん",
+    "kanji": "裁判",
+    "translate": "裁判",
+    "id": "ADVANCE413"
+  },
+  {
+    "word": "けんとう",
+    "kanji": "検討",
+    "translate": "研討、探討",
+    "id": "ADVANCE414"
+  },
+  {
+    "word": "ひにち",
+    "kanji": "日にち",
+    "translate": "日子、時日",
+    "id": "ADVANCE415"
+  },
+  {
+    "word": "つみ",
+    "kanji": "罪",
+    "translate": "犯罪、罪孽",
+    "id": "ADVANCE416"
+  },
+  {
+    "word": "ひづけ",
+    "kanji": "日付",
+    "translate": "日期",
+    "id": "ADVANCE417"
+  },
+  {
+    "word": "すんぽう",
+    "kanji": "寸法",
+    "translate": "長短、尺寸",
+    "id": "ADVANCE418"
+  },
+  {
+    "word": "まわりみち",
+    "kanji": "回り道",
+    "translate": "繞道、繞遠路",
+    "id": "ADVANCE419"
+  },
+  {
+    "word": "たれさがる",
+    "kanji": "垂れ下がる",
+    "translate": "下垂",
+    "id": "ADVANCE420"
+  },
+  {
+    "word": "うらがえす",
+    "kanji": "裏返す",
+    "translate": "翻過來、通敵叛變",
+    "id": "ADVANCE421"
+  },
+  {
+    "word": "エンジン",
+    "kanji": "null",
+    "translate": "引擎",
+    "id": "ADVANCE422"
+  },
+  {
+    "word": "ひざし",
+    "kanji": "日差し",
+    "translate": "陽光照射",
+    "id": "ADVANCE423"
+  },
+  {
+    "word": "コック",
+    "kanji": "null",
+    "translate": "廚師",
+    "id": "ADVANCE424"
+  },
+  {
+    "word": "せいかつしゅうかんびょう",
+    "kanji": "生活習慣病",
+    "translate": "文明病",
+    "id": "ADVANCE425"
+  },
+  {
+    "word": "まれ",
+    "kanji": "稀",
+    "translate": "稀少、稀奇",
+    "id": "ADVANCE426"
+  },
+  {
+    "word": "くさり",
+    "kanji": "鎖",
+    "translate": "鎖鏈",
+    "id": "ADVANCE427"
+  },
+  {
+    "word": "せまる",
+    "kanji": "迫る",
+    "translate": "強迫、逼迫",
+    "id": "ADVANCE428"
+  },
+  {
+    "word": "すっきり",
+    "kanji": "null",
+    "translate": "舒暢",
+    "id": "ADVANCE429"
+  },
+  {
+    "word": "どういつ",
+    "kanji": "同一",
+    "translate": "同樣、相等",
+    "id": "ADVANCE430"
+  },
+  {
+    "word": "ぜんしん",
+    "kanji": "全身",
+    "translate": "全身",
+    "id": "ADVANCE431"
+  },
+  {
+    "word": "たいきん",
+    "kanji": "大金",
+    "translate": "巨款",
+    "id": "ADVANCE432"
+  },
+  {
+    "word": "ざしき",
+    "kanji": "座敷",
+    "translate": "日式客廳、宴會",
+    "id": "ADVANCE433"
+  },
+  {
+    "word": "しく",
+    "kanji": "敷く",
+    "translate": "鋪滿、遍布",
+    "id": "ADVANCE434"
+  },
+  {
+    "word": "ほほえむ",
+    "kanji": "微笑む",
+    "translate": "微笑",
+    "id": "ADVANCE435"
+  },
+  {
+    "word": "はやおき",
+    "kanji": "早起き",
+    "translate": "早起",
+    "id": "ADVANCE436"
+  },
+  {
+    "word": "すいぶん",
+    "kanji": "水分",
+    "translate": "含水量",
+    "id": "ADVANCE437"
+  },
+  {
+    "word": "おしい",
+    "kanji": "惜しい",
+    "translate": "遺憾、可惜的",
+    "id": "ADVANCE438"
+  },
+  {
+    "word": "こうひょう",
+    "kanji": "公表",
+    "translate": "發表",
+    "id": "ADVANCE439"
+  },
+  {
+    "word": "びよう",
+    "kanji": "美容",
+    "translate": "美容",
+    "id": "ADVANCE440"
+  },
+  {
+    "word": "ふぶき",
+    "kanji": "吹雪",
+    "translate": "暴風雪",
+    "id": "ADVANCE441"
+  },
+  {
+    "word": "けん",
+    "kanji": "権",
+    "translate": "權力",
+    "id": "ADVANCE442"
+  },
+  {
+    "word": "かんたい",
+    "kanji": "寒帯",
+    "translate": "寒帶",
+    "id": "ADVANCE443"
+  },
+  {
+    "word": "じりき",
+    "kanji": "自力",
+    "translate": "憑自己的力量",
+    "id": "ADVANCE444"
+  },
+  {
+    "word": "じつげん",
+    "kanji": "実現",
+    "translate": "實現",
+    "id": "ADVANCE445"
+  },
+  {
+    "word": "モノレール",
+    "kanji": "null",
+    "translate": "單軌電車",
+    "id": "ADVANCE446"
+  },
+  {
+    "word": "ほうげん",
+    "kanji": "方言",
+    "translate": "地方話",
+    "id": "ADVANCE447"
+  },
+  {
+    "word": "でんとう",
+    "kanji": "伝統",
+    "translate": "傳統",
+    "id": "ADVANCE448"
+  },
+  {
+    "word": "がんたん",
+    "kanji": "元旦",
+    "translate": "元旦",
+    "id": "ADVANCE449"
+  },
+  {
+    "word": "にちじょう",
+    "kanji": "日常",
+    "translate": "日常",
+    "id": "ADVANCE450"
+  },
+  {
+    "word": "つりばし",
+    "kanji": "吊り橋",
+    "translate": "吊橋",
+    "id": "ADVANCE451"
+  },
+  {
+    "word": "あむ",
+    "kanji": "編む",
+    "translate": "織、編輯",
+    "id": "ADVANCE452"
+  },
+  {
+    "word": "あかり",
+    "kanji": "明かり",
+    "translate": "燈火、光亮",
+    "id": "ADVANCE453"
+  },
+  {
+    "word": "くとうてん",
+    "kanji": "句読点",
+    "translate": "句號",
+    "id": "ADVANCE454"
+  },
+  {
+    "word": "そる",
+    "kanji": "剃る",
+    "translate": "剃、刮",
+    "id": "ADVANCE455"
+  },
+  {
+    "word": "スタート",
+    "kanji": "null",
+    "translate": "啟動、出發",
+    "id": "ADVANCE456"
+  },
+  {
+    "word": "おんけい",
+    "kanji": "恩恵",
+    "translate": "恩惠、好處",
+    "id": "ADVANCE457"
+  },
+  {
+    "word": "さべつ",
+    "kanji": "差別",
+    "translate": "輕視、區別",
+    "id": "ADVANCE458"
+  },
+  {
+    "word": "えんそく",
+    "kanji": "遠足",
+    "translate": "遠足",
+    "id": "ADVANCE459"
+  },
+  {
+    "word": "にょうぼう",
+    "kanji": "女房",
+    "translate": "太太",
+    "id": "ADVANCE460"
+  },
+  {
+    "word": "ひっくりかえる",
+    "kanji": "ひっくり返る",
+    "translate": "翻倒、顛倒",
+    "id": "ADVANCE461"
+  },
+  {
+    "word": "かわら",
+    "kanji": "瓦",
+    "translate": "瓦",
+    "id": "ADVANCE462"
+  },
+  {
+    "word": "にってい",
+    "kanji": "日程",
+    "translate": "日程",
+    "id": "ADVANCE463"
+  },
+  {
+    "word": "うめ",
+    "kanji": "梅",
+    "translate": "梅花",
+    "id": "ADVANCE464"
+  },
+  {
+    "word": "じゅわき",
+    "kanji": "受話器",
+    "translate": "聽筒",
+    "id": "ADVANCE465"
+  },
+  {
+    "word": "はきけ",
+    "kanji": "吐き気",
+    "translate": "噁心",
+    "id": "ADVANCE466"
+  },
+  {
+    "word": "かんじょう",
+    "kanji": "感情",
+    "translate": "感情",
+    "id": "ADVANCE467"
+  },
+  {
+    "word": "からて",
+    "kanji": "空手",
+    "translate": "空手道",
+    "id": "ADVANCE468"
+  },
+  {
+    "word": "こうけい",
+    "kanji": "光景",
+    "translate": "景象、場面",
+    "id": "ADVANCE469"
+  },
+  {
+    "word": "モーター",
+    "kanji": "null",
+    "translate": "發動機",
+    "id": "ADVANCE470"
+  },
+  {
+    "word": "こわがる",
+    "kanji": "怖がる",
+    "translate": "害怕",
+    "id": "ADVANCE471"
+  },
+  {
+    "word": "ひきょう",
+    "kanji": "卑怯",
+    "translate": "怯懦、卑鄙",
+    "id": "ADVANCE472"
+  },
+  {
+    "word": "よこぎる",
+    "kanji": "横切る",
+    "translate": "橫越",
+    "id": "ADVANCE473"
+  },
+  {
+    "word": "こす",
+    "kanji": "越す",
+    "translate": "越過、跨過",
+    "id": "ADVANCE474"
+  },
+  {
+    "word": "おうふく",
+    "kanji": "往復",
+    "translate": "來往",
+    "id": "ADVANCE475"
+  },
+  {
+    "word": "こうてい",
+    "kanji": "肯定",
+    "translate": "肯定、承認",
+    "id": "ADVANCE476"
+  },
+  {
+    "word": "めした",
+    "kanji": "目下",
+    "translate": "部下、晚輩",
+    "id": "ADVANCE477"
+  },
+  {
+    "word": "みまう",
+    "kanji": "見舞う",
+    "translate": "訪問、問候",
+    "id": "ADVANCE478"
+  },
+  {
+    "word": "よつかど",
+    "kanji": "四つ角",
+    "translate": "十字路口",
+    "id": "ADVANCE479"
+  },
+  {
+    "word": "みっともない",
+    "kanji": "見っとも無い",
+    "translate": "難看的、不像樣的",
+    "id": "ADVANCE480"
+  },
+  {
+    "word": "ひびき",
+    "kanji": "響き",
+    "translate": "聲響、餘音",
+    "id": "ADVANCE481"
+  },
+  {
+    "word": "じき",
+    "kanji": "時期",
+    "translate": "時期",
+    "id": "ADVANCE482"
+  },
+  {
+    "word": "いちご",
+    "kanji": "苺",
+    "translate": "草莓",
+    "id": "ADVANCE483"
+  },
+  {
+    "word": "すきとおる",
+    "kanji": "透き通る",
+    "translate": "通明、透亮",
+    "id": "ADVANCE484"
+  },
+  {
+    "word": "きゅうこう",
+    "kanji": "休講",
+    "translate": "停課",
+    "id": "ADVANCE485"
+  },
+  {
+    "word": "いし",
+    "kanji": "意志",
+    "translate": "意志",
+    "id": "ADVANCE486"
+  },
+  {
+    "word": "まふゆ",
+    "kanji": "真冬",
+    "translate": "隆冬",
+    "id": "ADVANCE487"
+  },
+  {
+    "word": "むしば",
+    "kanji": "虫歯",
+    "translate": "蛀牙",
+    "id": "ADVANCE488"
+  },
+  {
+    "word": "でかける",
+    "kanji": "出かける",
+    "translate": "出門",
+    "id": "ADVANCE489"
+  },
+  {
+    "word": "さぐる",
+    "kanji": "探る",
+    "translate": "探聽、試探",
+    "id": "ADVANCE490"
+  },
+  {
+    "word": "すてき",
+    "kanji": "素敵絕妙的、極好",
+    "translate": "的",
+    "id": "ADVANCE491"
+  },
+  {
+    "word": "すききらい",
+    "kanji": "好き嫌い",
+    "translate": "好惡",
+    "id": "ADVANCE492"
+  },
+  {
+    "word": "きになる",
+    "kanji": "気になる",
+    "translate": "擔心",
+    "id": "ADVANCE493"
+  },
+  {
+    "word": "あれる",
+    "kanji": "荒れる",
+    "translate": "天氣變壞、荒廢",
+    "id": "ADVANCE494"
+  },
+  {
+    "word": "うらぎる",
+    "kanji": "裏切る",
+    "translate": "背叛、出賣",
+    "id": "ADVANCE495"
+  },
+  {
+    "word": "じこく",
+    "kanji": "時刻",
+    "translate": "時刻",
+    "id": "ADVANCE496"
+  },
+  {
+    "word": "がいろじゅ",
+    "kanji": "街路樹",
+    "translate": "行道樹",
+    "id": "ADVANCE497"
+  },
+  {
+    "word": "はさん",
+    "kanji": "破産",
+    "translate": "破產",
+    "id": "ADVANCE498"
+  },
+  {
+    "word": "うれる",
+    "kanji": "売れる",
+    "translate": "商品賣出、暢銷",
+    "id": "ADVANCE499"
+  },
+  {
+    "word": "すえっこ",
+    "kanji": "末っ子",
+    "translate": "最小的孩子",
+    "id": "ADVANCE500"
+  },
+  {
+    "word": "きらきら",
+    "kanji": "null",
+    "translate": "閃耀",
+    "id": "ADVANCE501"
+  },
+  {
+    "word": "よくばる",
+    "kanji": "欲張る",
+    "translate": "貪婪",
+    "id": "ADVANCE502"
+  },
+  {
+    "word": "なぐさめる",
+    "kanji": "慰める",
+    "translate": "安慰、撫慰",
+    "id": "ADVANCE503"
+  },
+  {
+    "word": "くちべに",
+    "kanji": "口紅",
+    "translate": "口紅",
+    "id": "ADVANCE504"
+  },
+  {
+    "word": "ごちそうさま",
+    "kanji": "ご馳走様",
+    "translate": "承蒙款待",
+    "id": "ADVANCE505"
+  },
+  {
+    "word": "たいはん",
+    "kanji": "大半",
+    "translate": "大半、多半",
+    "id": "ADVANCE506"
+  },
+  {
+    "word": "あめ",
+    "kanji": "飴",
+    "translate": "糖",
+    "id": "ADVANCE507"
+  },
+  {
+    "word": "こん",
+    "kanji": "紺",
+    "translate": "深藍",
+    "id": "ADVANCE508"
+  },
+  {
+    "word": "にちじ",
+    "kanji": "日時",
+    "translate": "集會、出發時間",
+    "id": "ADVANCE509"
+  },
+  {
+    "word": "たる",
+    "kanji": "足る",
+    "translate": "足夠、滿足",
+    "id": "ADVANCE510"
+  },
+  {
+    "word": "ボーイフレンド",
+    "kanji": "null",
+    "translate": "男朋友",
+    "id": "ADVANCE511"
+  },
+  {
+    "word": "つぐ",
+    "kanji": "注ぐ",
+    "translate": "注入、倒入",
+    "id": "ADVANCE512"
+  },
+  {
+    "word": "よさん",
+    "kanji": "予算",
+    "translate": "預算",
+    "id": "ADVANCE513"
+  },
+  {
+    "word": "ごくろうさま",
+    "kanji": "ご苦労様",
+    "translate": "辛苦、受累",
+    "id": "ADVANCE514"
+  },
+  {
+    "word": "ふうせん",
+    "kanji": "風船",
+    "translate": "氣球",
+    "id": "ADVANCE515"
+  },
+  {
+    "word": "いちりゅう",
+    "kanji": "一流",
+    "translate": "一流、頭等",
+    "id": "ADVANCE516"
+  },
+  {
+    "word": "べつ",
+    "kanji": "別",
+    "translate": "分別、區分",
+    "id": "ADVANCE517"
+  },
+  {
+    "word": "たのもしい",
+    "kanji": "頼もしい",
+    "translate": "靠得住的",
+    "id": "ADVANCE518"
+  },
+  {
+    "word": "じち",
+    "kanji": "自治",
+    "translate": "自治",
+    "id": "ADVANCE519"
+  },
+  {
+    "word": "かてい",
+    "kanji": "課程",
+    "translate": "課程",
+    "id": "ADVANCE520"
+  },
+  {
+    "word": "あやしい",
+    "kanji": "怪しい",
+    "translate": "奇怪的",
+    "id": "ADVANCE521"
+  },
+  {
+    "word": "けってい",
+    "kanji": "決定",
+    "translate": "決定",
+    "id": "ADVANCE522"
+  },
+  {
+    "word": "バケツ",
+    "kanji": "null",
+    "translate": "木桶",
+    "id": "ADVANCE523"
+  },
+  {
+    "word": "ふきとばす",
+    "kanji": "吹き飛ばす",
+    "translate": "吹跑、吹牛",
+    "id": "ADVANCE524"
+  },
+  {
+    "word": "くるう",
+    "kanji": "狂う",
+    "translate": "發狂",
+    "id": "ADVANCE525"
+  },
+  {
+    "word": "どうとく",
+    "kanji": "道徳",
+    "translate": "道德",
+    "id": "ADVANCE526"
+  },
+  {
+    "word": "きたい",
+    "kanji": "気体",
+    "translate": "氣體",
+    "id": "ADVANCE527"
+  },
+  {
+    "word": "へんしゅう",
+    "kanji": "編集",
+    "translate": "編集",
+    "id": "ADVANCE528"
+  },
+  {
+    "word": "みだし",
+    "kanji": "見出し",
+    "translate": "標題、目錄",
+    "id": "ADVANCE529"
+  },
+  {
+    "word": "しゅうぜん",
+    "kanji": "修繕",
+    "translate": "修繕",
+    "id": "ADVANCE530"
+  },
+  {
+    "word": "せきゆ",
+    "kanji": "石油",
+    "translate": "石油",
+    "id": "ADVANCE531"
+  },
+  {
+    "word": "たば",
+    "kanji": "束",
+    "translate": "把、捆",
+    "id": "ADVANCE532"
+  },
+  {
+    "word": "とくちょう",
+    "kanji": "特長",
+    "translate": "專長",
+    "id": "ADVANCE533"
+  },
+  {
+    "word": "おせん",
+    "kanji": "汚染",
+    "translate": "汙染",
+    "id": "ADVANCE534"
+  },
+  {
+    "word": "はか",
+    "kanji": "墓",
+    "translate": "墓地",
+    "id": "ADVANCE535"
+  },
+  {
+    "word": "こうきゅう",
+    "kanji": "高級",
+    "translate": "高級",
+    "id": "ADVANCE536"
+  },
+  {
+    "word": "もよう",
+    "kanji": "模様",
+    "translate": "花紋、徵兆",
+    "id": "ADVANCE537"
+  },
+  {
+    "word": "しんけい",
+    "kanji": "神経",
+    "translate": "神經",
+    "id": "ADVANCE538"
+  },
+  {
+    "word": "りゃくする",
+    "kanji": "略する",
+    "translate": "簡略",
+    "id": "ADVANCE539"
+  },
+  {
+    "word": "ねんだい",
+    "kanji": "年代",
+    "translate": "年齡層、時代",
+    "id": "ADVANCE540"
+  },
+  {
+    "word": "ちょうしょ",
+    "kanji": "長所",
+    "translate": "長處、優點",
+    "id": "ADVANCE541"
+  },
+  {
+    "word": "かねる",
+    "kanji": "兼ねる",
+    "translate": "兼備、無法",
+    "id": "ADVANCE542"
+  },
+  {
+    "word": "かいふく",
+    "kanji": "回復",
+    "translate": "恢復、康復",
+    "id": "ADVANCE543"
+  },
+  {
+    "word": "はっしゃ",
+    "kanji": "発車",
+    "translate": "發車",
+    "id": "ADVANCE544"
+  },
+  {
+    "word": "むし",
+    "kanji": "無視",
+    "translate": "忽視",
+    "id": "ADVANCE545"
+  },
+  {
+    "word": "えはがき",
+    "kanji": "絵葉書",
+    "translate": "圖畫明信片",
+    "id": "ADVANCE546"
+  },
+  {
+    "word": "ほとけ",
+    "kanji": "仏",
+    "translate": "佛",
+    "id": "ADVANCE547"
+  },
+  {
+    "word": "しょうにん",
+    "kanji": "承認",
+    "translate": "批准、認可",
+    "id": "ADVANCE548"
+  },
+  {
+    "word": "やむ",
+    "kanji": "病む",
+    "translate": "得病",
+    "id": "ADVANCE549"
+  },
+  {
+    "word": "なんべい",
+    "kanji": "南米",
+    "translate": "南美洲",
+    "id": "ADVANCE550"
+  },
+  {
+    "word": "はっこう",
+    "kanji": "発行",
+    "translate": "發行",
+    "id": "ADVANCE551"
+  },
+  {
+    "word": "まし",
+    "kanji": "null",
+    "translate": "增加、勝過",
+    "id": "ADVANCE552"
+  },
+  {
+    "word": "うむ",
+    "kanji": "有無",
+    "translate": "可否",
+    "id": "ADVANCE553"
+  },
+  {
+    "word": "らいにち",
+    "kanji": "来日",
+    "translate": "來日本",
+    "id": "ADVANCE554"
+  },
+  {
+    "word": "スタイル",
+    "kanji": "null",
+    "translate": "文體、樣式",
+    "id": "ADVANCE555"
+  },
+  {
+    "word": "ぶんかい",
+    "kanji": "分解",
+    "translate": "拆開、拆卸",
+    "id": "ADVANCE556"
+  },
+  {
+    "word": "けいこう",
+    "kanji": "傾向",
+    "translate": "傾向",
+    "id": "ADVANCE557"
+  },
+  {
+    "word": "おもいこむ",
+    "kanji": "思い込む",
+    "translate": "確信不移、下決心",
+    "id": "ADVANCE558"
+  },
+  {
+    "word": "ほうがく",
+    "kanji": "方角",
+    "translate": "方向、方位",
+    "id": "ADVANCE559"
+  },
+  {
+    "word": "ねずみ",
+    "kanji": "null",
+    "translate": "老鼠",
+    "id": "ADVANCE560"
+  },
+  {
+    "word": "わるくち",
+    "kanji": "悪口",
+    "translate": "壞話、罵人",
+    "id": "ADVANCE561"
+  },
+  {
+    "word": "ふゆやすみ",
+    "kanji": "冬休み",
+    "translate": "寒假",
+    "id": "ADVANCE562"
+  },
+  {
+    "word": "まつ",
+    "kanji": "松",
+    "translate": "松樹、松木",
+    "id": "ADVANCE563"
+  },
+  {
+    "word": "まがりかど",
+    "kanji": "曲がり角",
+    "translate": "街角、轉折點",
+    "id": "ADVANCE564"
+  },
+  {
+    "word": "カーブ",
+    "kanji": "null",
+    "translate": "轉彎處",
+    "id": "ADVANCE565"
+  },
+  {
+    "word": "かんさい",
+    "kanji": "関西",
+    "translate": "關西地區",
+    "id": "ADVANCE566"
+  },
+  {
+    "word": "のうみん",
+    "kanji": "農民",
+    "translate": "農民",
+    "id": "ADVANCE567"
+  },
+  {
+    "word": "なんびゃく",
+    "kanji": "何百",
+    "translate": "上百",
+    "id": "ADVANCE568"
+  },
+  {
+    "word": "やたらに",
+    "kanji": "null",
+    "translate": "胡亂的、任意的",
+    "id": "ADVANCE569"
+  },
+  {
+    "word": "はなやか",
+    "kanji": "華やか",
+    "translate": "華麗、輝煌",
+    "id": "ADVANCE570"
+  },
+  {
+    "word": "らい",
+    "kanji": "来",
+    "translate": "下一個",
+    "id": "ADVANCE571"
+  },
+  {
+    "word": "アンテナ",
+    "kanji": "null",
+    "translate": "天線",
+    "id": "ADVANCE572"
+  },
+  {
+    "word": "ざぶとん",
+    "kanji": "座布団",
+    "translate": "棉坐墊",
+    "id": "ADVANCE573"
+  },
+  {
+    "word": "まつる",
+    "kanji": "祭る",
+    "translate": "祭祀",
+    "id": "ADVANCE574"
+  },
+  {
+    "word": "ほう",
+    "kanji": "法",
+    "translate": "法律、方法",
+    "id": "ADVANCE575"
+  },
+  {
+    "word": "とうめい",
+    "kanji": "透明",
+    "translate": "透明、單純",
+    "id": "ADVANCE576"
+  },
+  {
+    "word": "こうくう",
+    "kanji": "航空",
+    "translate": "航空",
+    "id": "ADVANCE577"
+  },
+  {
+    "word": "おんちゅう",
+    "kanji": "御中",
+    "translate": "公啟",
+    "id": "ADVANCE578"
+  },
+  {
+    "word": "かくじ",
+    "kanji": "各自",
+    "translate": "每個人",
+    "id": "ADVANCE579"
+  },
+  {
+    "word": "せいきゅう",
+    "kanji": "請求",
+    "translate": "請求、要求",
+    "id": "ADVANCE580"
+  },
+  {
+    "word": "プリント",
+    "kanji": "null",
+    "translate": "印刷",
+    "id": "ADVANCE581"
+  },
+  {
+    "word": "せんこう",
+    "kanji": "専攻",
+    "translate": "專門研究",
+    "id": "ADVANCE582"
+  },
+  {
+    "word": "なまける",
+    "kanji": "怠ける",
+    "translate": "懶惰",
+    "id": "ADVANCE583"
+  },
+  {
+    "word": "ばんち",
+    "kanji": "番地",
+    "translate": "門牌號",
+    "id": "ADVANCE584"
+  },
+  {
+    "word": "ぼんやり",
+    "kanji": "null",
+    "translate": "模糊、迷糊",
+    "id": "ADVANCE585"
+  },
+  {
+    "word": "ないせん",
+    "kanji": "内線",
+    "translate": "內線",
+    "id": "ADVANCE586"
+  },
+  {
+    "word": "けいと",
+    "kanji": "毛糸",
+    "translate": "毛線",
+    "id": "ADVANCE587"
+  },
+  {
+    "word": "わえい",
+    "kanji": "和英",
+    "translate": "日本和英國",
+    "id": "ADVANCE588"
+  },
+  {
+    "word": "わき",
+    "kanji": "脇",
+    "translate": "腋下",
+    "id": "ADVANCE589"
+  },
+  {
+    "word": "わふく",
+    "kanji": "和服",
+    "translate": "日本和服",
+    "id": "ADVANCE590"
+  },
+  {
+    "word": "まどぐち",
+    "kanji": "窓口",
+    "translate": "窗口、管道",
+    "id": "ADVANCE591"
+  },
+  {
+    "word": "かん",
+    "kanji": "感",
+    "translate": "感覺",
+    "id": "ADVANCE592"
+  },
+  {
+    "word": "ひろびろ",
+    "kanji": "広々",
+    "translate": "寬闊的",
+    "id": "ADVANCE593"
+  },
+  {
+    "word": "げんど",
+    "kanji": "限度",
+    "translate": "限度",
+    "id": "ADVANCE594"
+  },
+  {
+    "word": "むこうがわ",
+    "kanji": "向こう側",
+    "translate": "面對、對方",
+    "id": "ADVANCE595"
+  },
+  {
+    "word": "げんじゅう",
+    "kanji": "厳重",
+    "translate": "嚴重的",
+    "id": "ADVANCE596"
+  },
+  {
+    "word": "とうゆ",
+    "kanji": "灯油",
+    "translate": "燈油",
+    "id": "ADVANCE597"
+  },
+  {
+    "word": "しんこう",
+    "kanji": "信仰",
+    "translate": "信仰",
+    "id": "ADVANCE598"
+  },
+  {
+    "word": "すむ",
+    "kanji": "澄む",
+    "translate": "清澈、晶瑩",
+    "id": "ADVANCE599"
+  },
+  {
+    "word": "ふせい",
+    "kanji": "不正",
+    "translate": "不正當、不正派",
+    "id": "ADVANCE600"
+  },
+  {
+    "word": "きっさ",
+    "kanji": "喫茶",
+    "translate": "喝茶",
+    "id": "ADVANCE601"
+  },
+  {
+    "word": "けっかん",
+    "kanji": "欠陥",
+    "translate": "缺陷",
+    "id": "ADVANCE602"
+  },
+  {
+    "word": "ほどう",
+    "kanji": "歩道",
+    "translate": "人行道",
+    "id": "ADVANCE603"
+  },
+  {
+    "word": "ようするに",
+    "kanji": "要するに",
+    "translate": "總而言之",
+    "id": "ADVANCE604"
+  },
+  {
+    "word": "おてつだいさん",
+    "kanji": "お手伝いさん",
+    "translate": "傭人",
+    "id": "ADVANCE605"
+  },
+  {
+    "word": "ちゅうしゃ",
+    "kanji": "駐車",
+    "translate": "停車",
+    "id": "ADVANCE606"
+  },
+  {
+    "word": "せんたん",
+    "kanji": "先端",
+    "translate": "頂端、尖端",
+    "id": "ADVANCE607"
+  },
+  {
+    "word": "あらい",
+    "kanji": "荒い",
+    "translate": "凶猛的",
+    "id": "ADVANCE608"
+  },
+  {
+    "word": "ゆうりょう",
+    "kanji": "有料",
+    "translate": "收費",
+    "id": "ADVANCE609"
+  },
+  {
+    "word": "ブラシ",
+    "kanji": "null",
+    "translate": "刷子",
+    "id": "ADVANCE610"
+  },
+  {
+    "word": "ちゃ",
+    "kanji": "茶",
+    "translate": "茶、茶樹",
+    "id": "ADVANCE611"
+  },
+  {
+    "word": "ぽっちゃり",
+    "kanji": "null",
+    "translate": "豐滿",
+    "id": "ADVANCE612"
+  },
+  {
+    "word": "いしき",
+    "kanji": "意識",
+    "translate": "知覺、神智",
+    "id": "ADVANCE613"
+  },
+  {
+    "word": "しんりん",
+    "kanji": "森林",
+    "translate": "森林",
+    "id": "ADVANCE614"
+  },
+  {
+    "word": "もと",
+    "kanji": "元",
+    "translate": "原、從前",
+    "id": "ADVANCE615"
+  },
+  {
+    "word": "むげん",
+    "kanji": "無限",
+    "translate": "無限",
+    "id": "ADVANCE616"
+  },
+  {
+    "word": "よう",
+    "kanji": "酔う",
+    "translate": "酒醉",
+    "id": "ADVANCE617"
+  },
+  {
+    "word": "ひっし",
+    "kanji": "必死",
+    "translate": "必死、拼命",
+    "id": "ADVANCE618"
+  },
+  {
+    "word": "くむ",
+    "kanji": "組む",
+    "translate": "聯合",
+    "id": "ADVANCE619"
+  },
+  {
+    "word": "まえがみ",
+    "kanji": "前髪",
+    "translate": "瀏海",
+    "id": "ADVANCE620"
+  },
+  {
+    "word": "りょうじ",
+    "kanji": "領事",
+    "translate": "領事",
+    "id": "ADVANCE621"
+  },
+  {
+    "word": "うらみ",
+    "kanji": "恨み",
+    "translate": "怨恨",
+    "id": "ADVANCE622"
+  },
+  {
+    "word": "せきたん",
+    "kanji": "石炭",
+    "translate": "煤炭",
+    "id": "ADVANCE623"
+  },
+  {
+    "word": "せんぞ",
+    "kanji": "先祖",
+    "translate": "祖先",
+    "id": "ADVANCE624"
+  },
+  {
+    "word": "チップ",
+    "kanji": "null",
+    "translate": "片削、洋芋片",
+    "id": "ADVANCE625"
+  },
+  {
+    "word": "レンズ",
+    "kanji": "null",
+    "translate": "透鏡",
+    "id": "ADVANCE626"
+  },
+  {
+    "word": "てんてん",
+    "kanji": "転々",
+    "translate": "轉來轉去、不斷移動",
+    "id": "ADVANCE627"
+  },
+  {
+    "word": "つるす",
+    "kanji": "吊るす",
+    "translate": "吊起",
+    "id": "ADVANCE628"
+  },
+  {
+    "word": "れいせい",
+    "kanji": "冷静",
+    "translate": "冷靜",
+    "id": "ADVANCE629"
+  },
+  {
+    "word": "つり",
+    "kanji": "釣り",
+    "translate": "釣魚、找錢",
+    "id": "ADVANCE630"
+  },
+  {
+    "word": "しょうらい",
+    "kanji": "将来",
+    "translate": "將來、未來",
+    "id": "ADVANCE631"
+  },
+  {
+    "word": "わかわかしい",
+    "kanji": "若々しい",
+    "translate": "年輕有朝氣的",
+    "id": "ADVANCE632"
+  },
+  {
+    "word": "ワンピース",
+    "kanji": "null",
+    "translate": "連身裙",
+    "id": "ADVANCE633"
+  },
+  {
+    "word": "ぶき",
+    "kanji": "武器",
+    "translate": "武器",
+    "id": "ADVANCE634"
+  },
+  {
+    "word": "けいこ",
+    "kanji": "稽古",
+    "translate": "練習、學習",
+    "id": "ADVANCE635"
+  },
+  {
+    "word": "つつみ",
+    "kanji": "包み",
+    "translate": "包袱、包裹",
+    "id": "ADVANCE636"
+  },
+  {
+    "word": "ぶんみゃく",
+    "kanji": "文脈",
+    "translate": "文章的脈絡",
+    "id": "ADVANCE637"
+  },
+  {
+    "word": "からかう",
+    "kanji": "null",
+    "translate": "逗弄",
+    "id": "ADVANCE638"
+  },
+  {
+    "word": "あみもの",
+    "kanji": "編み物",
+    "translate": "編織品",
+    "id": "ADVANCE639"
+  },
+  {
+    "word": "ひてい",
+    "kanji": "否定",
+    "translate": "否定、否認",
+    "id": "ADVANCE640"
+  },
+  {
+    "word": "ふじん",
+    "kanji": "婦人",
+    "translate": "婦女",
+    "id": "ADVANCE641"
+  },
+  {
+    "word": "できあがる",
+    "kanji": "出来上がる",
+    "translate": "完成",
+    "id": "ADVANCE642"
+  },
+  {
+    "word": "なかま",
+    "kanji": "仲間",
+    "translate": "伙伴",
+    "id": "ADVANCE643"
+  },
+  {
+    "word": "さわやか",
+    "kanji": "爽やか",
+    "translate": "爽朗的",
+    "id": "ADVANCE644"
+  },
+  {
+    "word": "ちいき",
+    "kanji": "地域",
+    "translate": "地區",
+    "id": "ADVANCE645"
+  },
+  {
+    "word": "けがわ",
+    "kanji": "毛皮",
+    "translate": "毛皮",
+    "id": "ADVANCE646"
+  },
+  {
+    "word": "もの",
+    "kanji": "者",
+    "translate": "人、者",
+    "id": "ADVANCE647"
+  },
+  {
+    "word": "みぞ",
+    "kanji": "溝",
+    "translate": "水溝",
+    "id": "ADVANCE648"
+  },
+  {
+    "word": "ぼうし",
+    "kanji": "防止",
+    "translate": "防止",
+    "id": "ADVANCE649"
+  },
+  {
+    "word": "かざん",
+    "kanji": "火山",
+    "translate": "火山",
+    "id": "ADVANCE650"
+  },
+  {
+    "word": "しゅしょう",
+    "kanji": "首相",
+    "translate": "首相",
+    "id": "ADVANCE651"
+  },
+  {
+    "word": "だんすい",
+    "kanji": "断水",
+    "translate": "斷水",
+    "id": "ADVANCE652"
+  },
+  {
+    "word": "いりょうひん",
+    "kanji": "衣料品",
+    "translate": "衣料",
+    "id": "ADVANCE653"
+  },
+  {
+    "word": "うえる",
+    "kanji": "飢える",
+    "translate": "飢餓",
+    "id": "ADVANCE654"
+  },
+  {
+    "word": "どう",
+    "kanji": "銅",
+    "translate": "銅",
+    "id": "ADVANCE655"
+  },
+  {
+    "word": "やかん",
+    "kanji": "薬缶",
+    "translate": "壺、水壺",
+    "id": "ADVANCE656"
+  },
+  {
+    "word": "さて",
+    "kanji": "null",
+    "translate": "一旦、果真",
+    "id": "ADVANCE657"
+  },
+  {
+    "word": "わく",
+    "kanji": "湧く",
+    "translate": "湧出",
+    "id": "ADVANCE658"
+  },
+  {
+    "word": "せっする",
+    "kanji": "接する",
+    "translate": "接觸、連接",
+    "id": "ADVANCE659"
+  },
+  {
+    "word": "そくてい",
+    "kanji": "測定",
+    "translate": "測定",
+    "id": "ADVANCE660"
+  },
+  {
+    "word": "ぎょぎょう",
+    "kanji": "漁業",
+    "translate": "漁業",
+    "id": "ADVANCE661"
+  },
+  {
+    "word": "しんしん",
+    "kanji": "心身",
+    "translate": "身心",
+    "id": "ADVANCE662"
+  },
+  {
+    "word": "なんて",
+    "kanji": "null",
+    "translate": "什麼的",
+    "id": "ADVANCE663"
+  },
+  {
+    "word": "さんせい",
+    "kanji": "酸性",
+    "translate": "酸性",
+    "id": "ADVANCE664"
+  },
+  {
+    "word": "きょうか",
+    "kanji": "強化",
+    "translate": "強化",
+    "id": "ADVANCE665"
+  },
+  {
+    "word": "はしら",
+    "kanji": "柱",
+    "translate": "柱子",
+    "id": "ADVANCE666"
+  },
+  {
+    "word": "ぎらぎら",
+    "kanji": "null",
+    "translate": "閃耀",
+    "id": "ADVANCE667"
+  },
+  {
+    "word": "しかも",
+    "kanji": "null",
+    "translate": "而且、並且",
+    "id": "ADVANCE668"
+  },
+  {
+    "word": "さく",
+    "kanji": "裂く",
+    "translate": "撕開、切開",
+    "id": "ADVANCE669"
+  },
+  {
+    "word": "しんぞう",
+    "kanji": "心臓",
+    "translate": "心臟",
+    "id": "ADVANCE670"
+  },
+  {
+    "word": "こうりょ",
+    "kanji": "考慮",
+    "translate": "考慮",
+    "id": "ADVANCE671"
+  },
+  {
+    "word": "めちゃくちゃ",
+    "kanji": "null",
+    "translate": "亂七八糟",
+    "id": "ADVANCE672"
+  },
+  {
+    "word": "とくばい",
+    "kanji": "特売",
+    "translate": "特賣",
+    "id": "ADVANCE673"
+  },
+  {
+    "word": "せきにんかん",
+    "kanji": "責任感",
+    "translate": "責任感",
+    "id": "ADVANCE674"
+  },
+  {
+    "word": "ハンドル",
+    "kanji": "null",
+    "translate": "把手",
+    "id": "ADVANCE675"
+  },
+  {
+    "word": "がくじゅつ",
+    "kanji": "学術",
+    "translate": "學術",
+    "id": "ADVANCE676"
+  },
+  {
+    "word": "かんとう",
+    "kanji": "関東",
+    "translate": "關東地區",
+    "id": "ADVANCE677"
+  },
+  {
+    "word": "ひょうし",
+    "kanji": "表紙",
+    "translate": "封面、書皮",
+    "id": "ADVANCE678"
+  },
+  {
+    "word": "すず",
+    "kanji": "鈴",
+    "translate": "鈴鐺",
+    "id": "ADVANCE679"
+  },
+  {
+    "word": "せいぶん",
+    "kanji": "成分",
+    "translate": "成分",
+    "id": "ADVANCE680"
+  },
+  {
+    "word": "すべて",
+    "kanji": "全て",
+    "translate": "全部、一切",
+    "id": "ADVANCE681"
+  },
+  {
+    "word": "ようじん",
+    "kanji": "用心",
+    "translate": "注意、留神",
+    "id": "ADVANCE682"
+  },
+  {
+    "word": "せんせい",
+    "kanji": "専制",
+    "translate": "專制、獨裁",
+    "id": "ADVANCE683"
+  },
+  {
+    "word": "きにゅう",
+    "kanji": "記入",
+    "translate": "填寫",
+    "id": "ADVANCE684"
+  },
+  {
+    "word": "きゅうか",
+    "kanji": "休暇",
+    "translate": "休假",
+    "id": "ADVANCE685"
+  },
+  {
+    "word": "こる",
+    "kanji": "凝る",
+    "translate": "凝固、凝集",
+    "id": "ADVANCE686"
+  },
+  {
+    "word": "てんねん",
+    "kanji": "天然",
+    "translate": "天然",
+    "id": "ADVANCE687"
+  },
+  {
+    "word": "じゅけん",
+    "kanji": "受験",
+    "translate": "參加考試",
+    "id": "ADVANCE688"
+  },
+  {
+    "word": "たいそう",
+    "kanji": "体操",
+    "translate": "體操",
+    "id": "ADVANCE689"
+  },
+  {
+    "word": "さっきょく",
+    "kanji": "作曲",
+    "translate": "作曲",
+    "id": "ADVANCE690"
+  },
+  {
+    "word": "ひるまえ",
+    "kanji": "昼前",
+    "translate": "上午",
+    "id": "ADVANCE691"
+  },
+  {
+    "word": "ちしつ",
+    "kanji": "地質",
+    "translate": "地質",
+    "id": "ADVANCE692"
+  },
+  {
+    "word": "ぶひん",
+    "kanji": "部品",
+    "translate": "零件",
+    "id": "ADVANCE693"
+  },
+  {
+    "word": "たちまち",
+    "kanji": "null",
+    "translate": "轉眼間",
+    "id": "ADVANCE694"
+  },
+  {
+    "word": "ひがえり",
+    "kanji": "日帰り",
+    "translate": "當天回來",
+    "id": "ADVANCE695"
+  },
+  {
+    "word": "けつろん",
+    "kanji": "結論",
+    "translate": "結論",
+    "id": "ADVANCE696"
+  },
+  {
+    "word": "きば",
+    "kanji": "牙",
+    "translate": "犬齒",
+    "id": "ADVANCE697"
+  },
+  {
+    "word": "ころがす",
+    "kanji": "転がす",
+    "translate": "滾動、轉動",
+    "id": "ADVANCE698"
+  },
+  {
+    "word": "めいさく",
+    "kanji": "名作",
+    "translate": "名作",
+    "id": "ADVANCE699"
+  },
+  {
+    "word": "えいえん",
+    "kanji": "永遠",
+    "translate": "永遠",
+    "id": "ADVANCE700"
+  },
+  {
+    "word": "しんわ",
+    "kanji": "神話",
+    "translate": "神話",
+    "id": "ADVANCE701"
+  },
+  {
+    "word": "かたよる",
+    "kanji": "偏る",
+    "translate": "偏於、不公正",
+    "id": "ADVANCE702"
+  },
+  {
+    "word": "ぐたい",
+    "kanji": "具体",
+    "translate": "具體",
+    "id": "ADVANCE703"
+  },
+  {
+    "word": "けいき",
+    "kanji": "景気",
+    "translate": "景氣",
+    "id": "ADVANCE704"
+  },
+  {
+    "word": "ひとみ",
+    "kanji": "瞳",
+    "translate": "瞳孔",
+    "id": "ADVANCE705"
+  },
+  {
+    "word": "ごらく",
+    "kanji": "娯楽",
+    "translate": "娛樂",
+    "id": "ADVANCE706"
+  },
+  {
+    "word": "しゃこ",
+    "kanji": "車庫",
+    "translate": "車庫",
+    "id": "ADVANCE707"
+  },
+  {
+    "word": "かかく",
+    "kanji": "価格",
+    "translate": "價格",
+    "id": "ADVANCE708"
+  },
+  {
+    "word": "はつばい",
+    "kanji": "発売",
+    "translate": "出售",
+    "id": "ADVANCE709"
+  },
+  {
+    "word": "にこにこ",
+    "kanji": "null",
+    "translate": "笑嘻嘻",
+    "id": "ADVANCE710"
+  },
+  {
+    "word": "どくとく",
+    "kanji": "独特",
+    "translate": "獨特",
+    "id": "ADVANCE711"
+  },
+  {
+    "word": "あらし",
+    "kanji": "嵐",
+    "translate": "暴風雨",
+    "id": "ADVANCE712"
+  },
+  {
+    "word": "だいめいし",
+    "kanji": "代名詞",
+    "translate": "代名詞",
+    "id": "ADVANCE713"
+  },
+  {
+    "word": "きげん",
+    "kanji": "機嫌",
+    "translate": "心情",
+    "id": "ADVANCE714"
+  },
+  {
+    "word": "ねんど",
+    "kanji": "年度",
+    "translate": "年度",
+    "id": "ADVANCE715"
+  },
+  {
+    "word": "がっきゅう",
+    "kanji": "学級",
+    "translate": "班級",
+    "id": "ADVANCE716"
+  },
+  {
+    "word": "りそう",
+    "kanji": "理想",
+    "translate": "理想",
+    "id": "ADVANCE717"
+  },
+  {
+    "word": "やこう",
+    "kanji": "夜行",
+    "translate": "夜行、夜間活動",
+    "id": "ADVANCE718"
+  },
+  {
+    "word": "めったに",
+    "kanji": "滅多に",
+    "translate": "不常",
+    "id": "ADVANCE719"
+  },
+  {
+    "word": "きゅうげき",
+    "kanji": "急激",
+    "translate": "急遽",
+    "id": "ADVANCE720"
+  },
+  {
+    "word": "ほしょう",
+    "kanji": "保証",
+    "translate": "保證",
+    "id": "ADVANCE721"
+  },
+  {
+    "word": "けいようどうし",
+    "kanji": "形容動詞",
+    "translate": "形容動詞",
+    "id": "ADVANCE722"
+  },
+  {
+    "word": "メンバー",
+    "kanji": "null",
+    "translate": "成員",
+    "id": "ADVANCE723"
+  },
+  {
+    "word": "そうおん",
+    "kanji": "騒音",
+    "translate": "噪音、吵鬧聲",
+    "id": "ADVANCE724"
+  },
+  {
+    "word": "めん",
+    "kanji": "面",
+    "translate": "臉、面具",
+    "id": "ADVANCE725"
+  },
+  {
+    "word": "ひと",
+    "kanji": "一",
+    "translate": "一個",
+    "id": "ADVANCE726"
+  },
+  {
+    "word": "あしをはこぶ",
+    "kanji": "足を運ぶ",
+    "translate": "前往拜訪",
+    "id": "ADVANCE727"
+  },
+  {
+    "word": "しゅうい",
+    "kanji": "周囲",
+    "translate": "周圍",
+    "id": "ADVANCE728"
+  },
+  {
+    "word": "ずのう",
+    "kanji": "頭脳",
+    "translate": "頭腦、判斷力",
+    "id": "ADVANCE729"
+  },
+  {
+    "word": "たらす",
+    "kanji": "垂らす",
+    "translate": "滴、垂",
+    "id": "ADVANCE730"
+  },
+  {
+    "word": "むしろ",
+    "kanji": "寧ろ",
+    "translate": "寧可",
+    "id": "ADVANCE731"
+  },
+  {
+    "word": "かくど",
+    "kanji": "角度",
+    "translate": "角度、立場",
+    "id": "ADVANCE732"
+  },
+  {
+    "word": "ばいばい",
+    "kanji": "売買",
+    "translate": "買賣、交易",
+    "id": "ADVANCE733"
+  },
+  {
+    "word": "しぼる",
+    "kanji": "絞る",
+    "translate": "擠、扭",
+    "id": "ADVANCE734"
+  },
+  {
+    "word": "つとめ",
+    "kanji": "務め",
+    "translate": "本分、義務",
+    "id": "ADVANCE735"
+  },
+  {
+    "word": "すいへい",
+    "kanji": "水平",
+    "translate": "水平",
+    "id": "ADVANCE736"
+  },
+  {
+    "word": "かしつ",
+    "kanji": "過失",
+    "translate": "過錯",
+    "id": "ADVANCE737"
+  },
+  {
+    "word": "おもに",
+    "kanji": "主に",
+    "translate": "主要",
+    "id": "ADVANCE738"
+  },
+  {
+    "word": "きがする",
+    "kanji": "気がする",
+    "translate": "好像",
+    "id": "ADVANCE739"
+  },
+  {
+    "word": "とき",
+    "kanji": "時",
+    "translate": "時間、季節",
+    "id": "ADVANCE740"
+  },
+  {
+    "word": "きげん",
+    "kanji": "期限",
+    "translate": "期限",
+    "id": "ADVANCE741"
+  }
+]

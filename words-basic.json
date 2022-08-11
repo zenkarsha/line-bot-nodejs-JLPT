@@ -1,0 +1,11978 @@
+[
+  {
+    "word": "おんど",
+    "kanji": "温度",
+    "translate": "溫度",
+    "id": "BASIC1"
+  },
+  {
+    "word": "ねんじゅう",
+    "kanji": "年中",
+    "translate": "全年",
+    "id": "BASIC2"
+  },
+  {
+    "word": "げき",
+    "kanji": "劇",
+    "translate": "戲、劇",
+    "id": "BASIC3"
+  },
+  {
+    "word": "めいかく",
+    "kanji": "明確",
+    "translate": "明確",
+    "id": "BASIC4"
+  },
+  {
+    "word": "こな",
+    "kanji": "粉",
+    "translate": "粉末",
+    "id": "BASIC5"
+  },
+  {
+    "word": "どんなに",
+    "kanji": "null",
+    "translate": "無論如何也",
+    "id": "BASIC6"
+  },
+  {
+    "word": "とかい",
+    "kanji": "都会",
+    "translate": "都市",
+    "id": "BASIC7"
+  },
+  {
+    "word": "がまん",
+    "kanji": "我慢",
+    "translate": "忍耐",
+    "id": "BASIC8"
+  },
+  {
+    "word": "ほね",
+    "kanji": "骨",
+    "translate": "骨",
+    "id": "BASIC9"
+  },
+  {
+    "word": "うがい",
+    "kanji": "null",
+    "translate": "漱口",
+    "id": "BASIC10"
+  },
+  {
+    "word": "もしも",
+    "kanji": "null",
+    "translate": "假使",
+    "id": "BASIC11"
+  },
+  {
+    "word": "かもしれない",
+    "kanji": "null",
+    "translate": "也許",
+    "id": "BASIC12"
+  },
+  {
+    "word": "とおす",
+    "kanji": "通す",
+    "translate": "穿過、通過",
+    "id": "BASIC13"
+  },
+  {
+    "word": "しょうしょう",
+    "kanji": "少々",
+    "translate": "少許",
+    "id": "BASIC14"
+  },
+  {
+    "word": "おまえ",
+    "kanji": "御前",
+    "translate": "你",
+    "id": "BASIC15"
+  },
+  {
+    "word": "かかり",
+    "kanji": "係",
+    "translate": "負責人員",
+    "id": "BASIC16"
+  },
+  {
+    "word": "さくしゃ",
+    "kanji": "作者",
+    "translate": "作者",
+    "id": "BASIC17"
+  },
+  {
+    "word": "アクセント",
+    "kanji": "null",
+    "translate": "口音",
+    "id": "BASIC18"
+  },
+  {
+    "word": "うけとる",
+    "kanji": "受け取る",
+    "translate": "接收",
+    "id": "BASIC19"
+  },
+  {
+    "word": "おろす",
+    "kanji": "下ろす",
+    "translate": "下降",
+    "id": "BASIC20"
+  },
+  {
+    "word": "ちゅうし",
+    "kanji": "中止",
+    "translate": "中指",
+    "id": "BASIC21"
+  },
+  {
+    "word": "なにか",
+    "kanji": "何か",
+    "translate": "什麼",
+    "id": "BASIC22"
+  },
+  {
+    "word": "としより",
+    "kanji": "年寄り",
+    "translate": "老年人",
+    "id": "BASIC23"
+  },
+  {
+    "word": "くるしい",
+    "kanji": "苦しい",
+    "translate": "難受的",
+    "id": "BASIC24"
+  },
+  {
+    "word": "じょうきゅう",
+    "kanji": "上級",
+    "translate": "高級",
+    "id": "BASIC25"
+  },
+  {
+    "word": "こうか",
+    "kanji": "高価",
+    "translate": "高價",
+    "id": "BASIC26"
+  },
+  {
+    "word": "つうじる",
+    "kanji": "通じる",
+    "translate": "了解、溝通",
+    "id": "BASIC27"
+  },
+  {
+    "word": "ぜいきん",
+    "kanji": "税金",
+    "translate": "稅金",
+    "id": "BASIC28"
+  },
+  {
+    "word": "わるくち",
+    "kanji": "悪口",
+    "translate": "壞話",
+    "id": "BASIC29"
+  },
+  {
+    "word": "はいゆう",
+    "kanji": "俳優",
+    "translate": "演員",
+    "id": "BASIC30"
+  },
+  {
+    "word": "きんえん",
+    "kanji": "禁煙",
+    "translate": "禁煙",
+    "id": "BASIC31"
+  },
+  {
+    "word": "ちきゅう",
+    "kanji": "地球",
+    "translate": "地球",
+    "id": "BASIC32"
+  },
+  {
+    "word": "ぎろん",
+    "kanji": "議論",
+    "translate": "爭辯",
+    "id": "BASIC33"
+  },
+  {
+    "word": "せいしき",
+    "kanji": "正式",
+    "translate": "正式",
+    "id": "BASIC34"
+  },
+  {
+    "word": "たちあがる",
+    "kanji": "立ち上がる",
+    "translate": "起立",
+    "id": "BASIC35"
+  },
+  {
+    "word": "えさ",
+    "kanji": "餌",
+    "translate": "誘餌",
+    "id": "BASIC36"
+  },
+  {
+    "word": "タイヤ",
+    "kanji": "null",
+    "translate": "輪胎",
+    "id": "BASIC37"
+  },
+  {
+    "word": "ふしぎ",
+    "kanji": "不思議",
+    "translate": "不可思議、奇怪",
+    "id": "BASIC38"
+  },
+  {
+    "word": "だけど",
+    "kanji": "null",
+    "translate": "然而",
+    "id": "BASIC39"
+  },
+  {
+    "word": "キャンプ",
+    "kanji": "null",
+    "translate": "露營",
+    "id": "BASIC40"
+  },
+  {
+    "word": "ふせぐ",
+    "kanji": "防ぐ",
+    "translate": "防守",
+    "id": "BASIC41"
+  },
+  {
+    "word": "しり",
+    "kanji": "尻",
+    "translate": "屁股",
+    "id": "BASIC42"
+  },
+  {
+    "word": "うけいれる",
+    "kanji": "受け入れる",
+    "translate": "接受",
+    "id": "BASIC43"
+  },
+  {
+    "word": "じゅんちょう",
+    "kanji": "順調",
+    "translate": "順利",
+    "id": "BASIC44"
+  },
+  {
+    "word": "はやめ",
+    "kanji": "早め",
+    "translate": "提早",
+    "id": "BASIC45"
+  },
+  {
+    "word": "しょうばい",
+    "kanji": "商売",
+    "translate": "買賣、經營",
+    "id": "BASIC46"
+  },
+  {
+    "word": "おんせんりょかん",
+    "kanji": "温泉旅館",
+    "translate": "溫泉旅館",
+    "id": "BASIC47"
+  },
+  {
+    "word": "まなぶ",
+    "kanji": "学ぶ",
+    "translate": "學習",
+    "id": "BASIC48"
+  },
+  {
+    "word": "きんぞく",
+    "kanji": "金属",
+    "translate": "金屬",
+    "id": "BASIC49"
+  },
+  {
+    "word": "むすぶ",
+    "kanji": "結ぶ",
+    "translate": "連結",
+    "id": "BASIC50"
+  },
+  {
+    "word": "クラシック",
+    "kanji": "null",
+    "translate": "古典樂",
+    "id": "BASIC51"
+  },
+  {
+    "word": "とじる",
+    "kanji": "閉じる",
+    "translate": "關閉、結束",
+    "id": "BASIC52"
+  },
+  {
+    "word": "かかく",
+    "kanji": "価格",
+    "translate": "價格",
+    "id": "BASIC53"
+  },
+  {
+    "word": "けいやく",
+    "kanji": "契約",
+    "translate": "器樂",
+    "id": "BASIC54"
+  },
+  {
+    "word": "そん",
+    "kanji": "損",
+    "translate": "虧損",
+    "id": "BASIC55"
+  },
+  {
+    "word": "ひづけ",
+    "kanji": "日付",
+    "translate": "日期",
+    "id": "BASIC56"
+  },
+  {
+    "word": "さくばん",
+    "kanji": "昨晩",
+    "translate": "那天晚上",
+    "id": "BASIC57"
+  },
+  {
+    "word": "すませる",
+    "kanji": "済ませる",
+    "translate": "完成",
+    "id": "BASIC58"
+  },
+  {
+    "word": "ぶじ",
+    "kanji": "無事",
+    "translate": "平安",
+    "id": "BASIC59"
+  },
+  {
+    "word": "かぶき",
+    "kanji": "歌舞伎",
+    "translate": "歌舞伎",
+    "id": "BASIC60"
+  },
+  {
+    "word": "ゆうびん",
+    "kanji": "郵便",
+    "translate": "郵政",
+    "id": "BASIC61"
+  },
+  {
+    "word": "はつめい",
+    "kanji": "発明",
+    "translate": "發明",
+    "id": "BASIC62"
+  },
+  {
+    "word": "きらう",
+    "kanji": "嫌う",
+    "translate": "嫌棄、厭惡",
+    "id": "BASIC63"
+  },
+  {
+    "word": "こむぎ",
+    "kanji": "小麦",
+    "translate": "小麥",
+    "id": "BASIC64"
+  },
+  {
+    "word": "こづつみ",
+    "kanji": "小包",
+    "translate": "包裹",
+    "id": "BASIC65"
+  },
+  {
+    "word": "あかり",
+    "kanji": "明かり",
+    "translate": "亮光",
+    "id": "BASIC66"
+  },
+  {
+    "word": "だいひょう",
+    "kanji": "代表",
+    "translate": "代表",
+    "id": "BASIC67"
+  },
+  {
+    "word": "いっか",
+    "kanji": "一家",
+    "translate": "全家",
+    "id": "BASIC68"
+  },
+  {
+    "word": "たび",
+    "kanji": "旅",
+    "translate": "旅行",
+    "id": "BASIC69"
+  },
+  {
+    "word": "にんげん",
+    "kanji": "人間",
+    "translate": "人類",
+    "id": "BASIC70"
+  },
+  {
+    "word": "ねんだい",
+    "kanji": "年代",
+    "translate": "年代",
+    "id": "BASIC71"
+  },
+  {
+    "word": "しゅじゅつ",
+    "kanji": "手術",
+    "translate": "手術",
+    "id": "BASIC72"
+  },
+  {
+    "word": "ぶっか",
+    "kanji": "物価",
+    "translate": "物價",
+    "id": "BASIC73"
+  },
+  {
+    "word": "もっとも",
+    "kanji": "最も",
+    "translate": "最~",
+    "id": "BASIC74"
+  },
+  {
+    "word": "こんかい",
+    "kanji": "今回",
+    "translate": "這次",
+    "id": "BASIC75"
+  },
+  {
+    "word": "がんじつ",
+    "kanji": "元日",
+    "translate": "元旦",
+    "id": "BASIC76"
+  },
+  {
+    "word": "きゅうけい",
+    "kanji": "休憩",
+    "translate": "休息",
+    "id": "BASIC77"
+  },
+  {
+    "word": "ひっぱる",
+    "kanji": "引っ張る",
+    "translate": "拉緊",
+    "id": "BASIC78"
+  },
+  {
+    "word": "あきる",
+    "kanji": "飽きる",
+    "translate": "受夠",
+    "id": "BASIC79"
+  },
+  {
+    "word": "いがい",
+    "kanji": "意外",
+    "translate": "出乎意料",
+    "id": "BASIC80"
+  },
+  {
+    "word": "しょうじき",
+    "kanji": "正直",
+    "translate": "老實、坦白",
+    "id": "BASIC81"
+  },
+  {
+    "word": "であう",
+    "kanji": "出会う",
+    "translate": "遇見、碰到",
+    "id": "BASIC82"
+  },
+  {
+    "word": "うんどう",
+    "kanji": "運動",
+    "translate": "運動",
+    "id": "BASIC83"
+  },
+  {
+    "word": "ひはん",
+    "kanji": "批判",
+    "translate": "批判",
+    "id": "BASIC84"
+  },
+  {
+    "word": "さぎょう",
+    "kanji": "作業",
+    "translate": "工作、操作",
+    "id": "BASIC85"
+  },
+  {
+    "word": "きんがく",
+    "kanji": "金額",
+    "translate": "金額",
+    "id": "BASIC86"
+  },
+  {
+    "word": "ちい",
+    "kanji": "地位",
+    "translate": "地位",
+    "id": "BASIC87"
+  },
+  {
+    "word": "てつがく",
+    "kanji": "哲学",
+    "translate": "哲學",
+    "id": "BASIC88"
+  },
+  {
+    "word": "とおりすぎる",
+    "kanji": "通り過ぎる",
+    "translate": "走過、越過",
+    "id": "BASIC89"
+  },
+  {
+    "word": "たいら",
+    "kanji": "平ら",
+    "translate": "平地",
+    "id": "BASIC90"
+  },
+  {
+    "word": "すこしも",
+    "kanji": "少しも",
+    "translate": "一點也不~",
+    "id": "BASIC91"
+  },
+  {
+    "word": "かいけい",
+    "kanji": "会計",
+    "translate": "會計",
+    "id": "BASIC92"
+  },
+  {
+    "word": "さまざま",
+    "kanji": "様々",
+    "translate": "各式各樣",
+    "id": "BASIC93"
+  },
+  {
+    "word": "あいて",
+    "kanji": "相手",
+    "translate": "對手",
+    "id": "BASIC94"
+  },
+  {
+    "word": "じみ",
+    "kanji": "地味",
+    "translate": "樸素",
+    "id": "BASIC95"
+  },
+  {
+    "word": "ゆたか",
+    "kanji": "豊か",
+    "translate": "豐裕",
+    "id": "BASIC96"
+  },
+  {
+    "word": "かんきゃく",
+    "kanji": "観客",
+    "translate": "觀眾",
+    "id": "BASIC97"
+  },
+  {
+    "word": "インターネット",
+    "kanji": "null",
+    "translate": "網際網路",
+    "id": "BASIC98"
+  },
+  {
+    "word": "あずける",
+    "kanji": "預ける",
+    "translate": "寄放",
+    "id": "BASIC99"
+  },
+  {
+    "word": "いったい",
+    "kanji": "一体",
+    "translate": "到底",
+    "id": "BASIC100"
+  },
+  {
+    "word": "こじん",
+    "kanji": "個人",
+    "translate": "個人",
+    "id": "BASIC101"
+  },
+  {
+    "word": "がか",
+    "kanji": "画家",
+    "translate": "畫家",
+    "id": "BASIC102"
+  },
+  {
+    "word": "じっしゅう",
+    "kanji": "実習",
+    "translate": "實習",
+    "id": "BASIC103"
+  },
+  {
+    "word": "あらわす",
+    "kanji": "現す",
+    "translate": "出現",
+    "id": "BASIC104"
+  },
+  {
+    "word": "セット",
+    "kanji": "null",
+    "translate": "套、組",
+    "id": "BASIC105"
+  },
+  {
+    "word": "ちょうじょう",
+    "kanji": "頂上",
+    "translate": "山頂",
+    "id": "BASIC106"
+  },
+  {
+    "word": "あたえる",
+    "kanji": "与える",
+    "translate": "給予",
+    "id": "BASIC107"
+  },
+  {
+    "word": "いとこ",
+    "kanji": "従兄弟",
+    "translate": "堂(表)兄弟",
+    "id": "BASIC108"
+  },
+  {
+    "word": "むちゅう",
+    "kanji": "夢中",
+    "translate": "熱衷",
+    "id": "BASIC109"
+  },
+  {
+    "word": "ゆるす",
+    "kanji": "許す",
+    "translate": "允許",
+    "id": "BASIC110"
+  },
+  {
+    "word": "へいわ",
+    "kanji": "平和",
+    "translate": "和平",
+    "id": "BASIC111"
+  },
+  {
+    "word": "すいせん",
+    "kanji": "推薦",
+    "translate": "推薦",
+    "id": "BASIC112"
+  },
+  {
+    "word": "からから",
+    "kanji": "null",
+    "translate": "乾燥",
+    "id": "BASIC113"
+  },
+  {
+    "word": "はし",
+    "kanji": "端",
+    "translate": "一頭",
+    "id": "BASIC114"
+  },
+  {
+    "word": "かわいそう",
+    "kanji": "null",
+    "translate": "可憐的",
+    "id": "BASIC115"
+  },
+  {
+    "word": "かんぜん",
+    "kanji": "完全",
+    "translate": "完全",
+    "id": "BASIC116"
+  },
+  {
+    "word": "しょうとつ",
+    "kanji": "衝突",
+    "translate": "衝突",
+    "id": "BASIC117"
+  },
+  {
+    "word": "プロ",
+    "kanji": "null",
+    "translate": "專業的",
+    "id": "BASIC118"
+  },
+  {
+    "word": "とれる",
+    "kanji": "取れる",
+    "translate": "脫落",
+    "id": "BASIC119"
+  },
+  {
+    "word": "ししゅつ",
+    "kanji": "支出",
+    "translate": "支出",
+    "id": "BASIC120"
+  },
+  {
+    "word": "ですから",
+    "kanji": "null",
+    "translate": "因此",
+    "id": "BASIC121"
+  },
+  {
+    "word": "かんこう",
+    "kanji": "観光",
+    "translate": "觀光",
+    "id": "BASIC122"
+  },
+  {
+    "word": "しよう",
+    "kanji": "使用",
+    "translate": "使用",
+    "id": "BASIC123"
+  },
+  {
+    "word": "さっか",
+    "kanji": "作家",
+    "translate": "作家",
+    "id": "BASIC124"
+  },
+  {
+    "word": "そろう",
+    "kanji": "揃う",
+    "translate": "集合",
+    "id": "BASIC125"
+  },
+  {
+    "word": "いし",
+    "kanji": "意志",
+    "translate": "意志",
+    "id": "BASIC126"
+  },
+  {
+    "word": "わだい",
+    "kanji": "話題",
+    "translate": "話題",
+    "id": "BASIC127"
+  },
+  {
+    "word": "のうぎょう",
+    "kanji": "農業",
+    "translate": "農業",
+    "id": "BASIC128"
+  },
+  {
+    "word": "あたためる",
+    "kanji": "温める",
+    "translate": "變熱",
+    "id": "BASIC129"
+  },
+  {
+    "word": "ぶん",
+    "kanji": "文",
+    "translate": "文章",
+    "id": "BASIC130"
+  },
+  {
+    "word": "マイク",
+    "kanji": "null",
+    "translate": "麥克風",
+    "id": "BASIC131"
+  },
+  {
+    "word": "ろうどう",
+    "kanji": "労働",
+    "translate": "勞動",
+    "id": "BASIC132"
+  },
+  {
+    "word": "こうりつ",
+    "kanji": "効率",
+    "translate": "效率",
+    "id": "BASIC133"
+  },
+  {
+    "word": "だいじん",
+    "kanji": "大臣",
+    "translate": "大臣",
+    "id": "BASIC134"
+  },
+  {
+    "word": "たんい",
+    "kanji": "単位",
+    "translate": "單位",
+    "id": "BASIC135"
+  },
+  {
+    "word": "ちゅうこ",
+    "kanji": "中古",
+    "translate": "中古、二手",
+    "id": "BASIC136"
+  },
+  {
+    "word": "せいねん",
+    "kanji": "青年",
+    "translate": "年輕人",
+    "id": "BASIC137"
+  },
+  {
+    "word": "はんざい",
+    "kanji": "犯罪",
+    "translate": "犯罪",
+    "id": "BASIC138"
+  },
+  {
+    "word": "いどう",
+    "kanji": "移動",
+    "translate": "移動",
+    "id": "BASIC139"
+  },
+  {
+    "word": "しゅっせき",
+    "kanji": "出席",
+    "translate": "出席",
+    "id": "BASIC140"
+  },
+  {
+    "word": "ペンキ",
+    "kanji": "null",
+    "translate": "油漆",
+    "id": "BASIC141"
+  },
+  {
+    "word": "いわい",
+    "kanji": "祝い",
+    "translate": "慶祝",
+    "id": "BASIC142"
+  },
+  {
+    "word": "おいこし",
+    "kanji": "追い越す",
+    "translate": "超過",
+    "id": "BASIC143"
+  },
+  {
+    "word": "すすめる",
+    "kanji": "勧める",
+    "translate": "推薦、勸誘",
+    "id": "BASIC144"
+  },
+  {
+    "word": "おさえる",
+    "kanji": "押さえる",
+    "translate": "按、壓",
+    "id": "BASIC145"
+  },
+  {
+    "word": "ぶんぼうぐ",
+    "kanji": "文房具",
+    "translate": "文具",
+    "id": "BASIC146"
+  },
+  {
+    "word": "かんじょう",
+    "kanji": "勘定",
+    "translate": "結帳",
+    "id": "BASIC147"
+  },
+  {
+    "word": "さす",
+    "kanji": "刺す",
+    "translate": "刺、穿",
+    "id": "BASIC148"
+  },
+  {
+    "word": "ところが",
+    "kanji": "null",
+    "translate": "然而",
+    "id": "BASIC149"
+  },
+  {
+    "word": "ぶたい",
+    "kanji": "舞台",
+    "translate": "舞台",
+    "id": "BASIC150"
+  },
+  {
+    "word": "げんば",
+    "kanji": "現場",
+    "translate": "現場、工地",
+    "id": "BASIC151"
+  },
+  {
+    "word": "てんねん",
+    "kanji": "天然",
+    "translate": "天然",
+    "id": "BASIC152"
+  },
+  {
+    "word": "のびる",
+    "kanji": "伸びる",
+    "translate": "變長",
+    "id": "BASIC153"
+  },
+  {
+    "word": "おいつく",
+    "kanji": "追い付く",
+    "translate": "追上",
+    "id": "BASIC154"
+  },
+  {
+    "word": "ながめる",
+    "kanji": "眺める",
+    "translate": "遠眺",
+    "id": "BASIC155"
+  },
+  {
+    "word": "たんじゅん",
+    "kanji": "単純",
+    "translate": "單純",
+    "id": "BASIC156"
+  },
+  {
+    "word": "こっせつ",
+    "kanji": "骨折",
+    "translate": "骨折",
+    "id": "BASIC157"
+  },
+  {
+    "word": "もくてき",
+    "kanji": "目的",
+    "translate": "目的",
+    "id": "BASIC158"
+  },
+  {
+    "word": "すぐれる",
+    "kanji": "優れる",
+    "translate": "出色",
+    "id": "BASIC159"
+  },
+  {
+    "word": "ぞうか",
+    "kanji": "増加",
+    "translate": "增加",
+    "id": "BASIC160"
+  },
+  {
+    "word": "しめきり",
+    "kanji": "締め切り",
+    "translate": "截止",
+    "id": "BASIC161"
+  },
+  {
+    "word": "しんこく",
+    "kanji": "深刻",
+    "translate": "深刻的",
+    "id": "BASIC162"
+  },
+  {
+    "word": "のぞみ",
+    "kanji": "望み",
+    "translate": "希望",
+    "id": "BASIC163"
+  },
+  {
+    "word": "ふこうへい",
+    "kanji": "不公平",
+    "translate": "不公平",
+    "id": "BASIC164"
+  },
+  {
+    "word": "つゆ",
+    "kanji": "梅雨",
+    "translate": "梅雨",
+    "id": "BASIC165"
+  },
+  {
+    "word": "ひみつ",
+    "kanji": "秘密",
+    "translate": "秘密",
+    "id": "BASIC166"
+  },
+  {
+    "word": "かんしん",
+    "kanji": "関心",
+    "translate": "關心",
+    "id": "BASIC167"
+  },
+  {
+    "word": "せいひん",
+    "kanji": "製品",
+    "translate": "產品",
+    "id": "BASIC168"
+  },
+  {
+    "word": "こうそくどうろ",
+    "kanji": "高速道路",
+    "translate": "高速公路",
+    "id": "BASIC169"
+  },
+  {
+    "word": "てんこう",
+    "kanji": "天候",
+    "translate": "天氣",
+    "id": "BASIC170"
+  },
+  {
+    "word": "けっか",
+    "kanji": "結果",
+    "translate": "結果",
+    "id": "BASIC171"
+  },
+  {
+    "word": "さす",
+    "kanji": "指す",
+    "translate": "指示",
+    "id": "BASIC172"
+  },
+  {
+    "word": "なんでも",
+    "kanji": "何でも",
+    "translate": "什麼都~",
+    "id": "BASIC173"
+  },
+  {
+    "word": "ほぞん",
+    "kanji": "保存",
+    "translate": "保存",
+    "id": "BASIC174"
+  },
+  {
+    "word": "ひげき",
+    "kanji": "悲劇",
+    "translate": "悲劇",
+    "id": "BASIC175"
+  },
+  {
+    "word": "りこう",
+    "kanji": "利口",
+    "translate": "聰明",
+    "id": "BASIC176"
+  },
+  {
+    "word": "ふくろ",
+    "kanji": "袋",
+    "translate": "袋子",
+    "id": "BASIC177"
+  },
+  {
+    "word": "にえる",
+    "kanji": "煮える",
+    "translate": "煮熟",
+    "id": "BASIC178"
+  },
+  {
+    "word": "つつみ",
+    "kanji": "包み",
+    "translate": "包裝、包裹",
+    "id": "BASIC179"
+  },
+  {
+    "word": "かち",
+    "kanji": "勝ち",
+    "translate": "勝利",
+    "id": "BASIC180"
+  },
+  {
+    "word": "かつどう",
+    "kanji": "活動",
+    "translate": "活動",
+    "id": "BASIC181"
+  },
+  {
+    "word": "しんよう",
+    "kanji": "信用",
+    "translate": "信用",
+    "id": "BASIC182"
+  },
+  {
+    "word": "パスポート",
+    "kanji": "null",
+    "translate": "護照",
+    "id": "BASIC183"
+  },
+  {
+    "word": "さいよう",
+    "kanji": "採用",
+    "translate": "採用",
+    "id": "BASIC184"
+  },
+  {
+    "word": "くらす",
+    "kanji": "暮らす",
+    "translate": "生活",
+    "id": "BASIC185"
+  },
+  {
+    "word": "さいのう",
+    "kanji": "才能",
+    "translate": "才能",
+    "id": "BASIC186"
+  },
+  {
+    "word": "いずみ",
+    "kanji": "泉",
+    "translate": "泉水",
+    "id": "BASIC187"
+  },
+  {
+    "word": "であい",
+    "kanji": "出会い",
+    "translate": "會面、碰面",
+    "id": "BASIC188"
+  },
+  {
+    "word": "じょし",
+    "kanji": "女子",
+    "translate": "婦女、女子",
+    "id": "BASIC189"
+  },
+  {
+    "word": "しはらう",
+    "kanji": "支払う",
+    "translate": "付錢",
+    "id": "BASIC190"
+  },
+  {
+    "word": "きほん",
+    "kanji": "基本",
+    "translate": "基本",
+    "id": "BASIC191"
+  },
+  {
+    "word": "あらわれる",
+    "kanji": "現れる",
+    "translate": "顯示",
+    "id": "BASIC192"
+  },
+  {
+    "word": "はなしあう",
+    "kanji": "話し合う",
+    "translate": "談話",
+    "id": "BASIC193"
+  },
+  {
+    "word": "せつび",
+    "kanji": "設備",
+    "translate": "設備",
+    "id": "BASIC194"
+  },
+  {
+    "word": "いつか",
+    "kanji": "null",
+    "translate": "某個時候",
+    "id": "BASIC195"
+  },
+  {
+    "word": "ヨーロッパ",
+    "kanji": "null",
+    "translate": "歐洲",
+    "id": "BASIC196"
+  },
+  {
+    "word": "じつに",
+    "kanji": "実に",
+    "translate": "實在、非常",
+    "id": "BASIC197"
+  },
+  {
+    "word": "あるいは",
+    "kanji": "null",
+    "translate": "或者",
+    "id": "BASIC198"
+  },
+  {
+    "word": "たば",
+    "kanji": "束",
+    "translate": "捆",
+    "id": "BASIC199"
+  },
+  {
+    "word": "はね",
+    "kanji": "羽",
+    "translate": "羽翼",
+    "id": "BASIC200"
+  },
+  {
+    "word": "しょうじょ",
+    "kanji": "少女",
+    "translate": "少女",
+    "id": "BASIC201"
+  },
+  {
+    "word": "ゴール",
+    "kanji": "null",
+    "translate": "終點、球門、籃框",
+    "id": "BASIC202"
+  },
+  {
+    "word": "どうとく",
+    "kanji": "道徳",
+    "translate": "道德",
+    "id": "BASIC203"
+  },
+  {
+    "word": "りようしゃ",
+    "kanji": "利用者",
+    "translate": "使用者",
+    "id": "BASIC204"
+  },
+  {
+    "word": "わかれ",
+    "kanji": "別れ",
+    "translate": "告別",
+    "id": "BASIC205"
+  },
+  {
+    "word": "れい",
+    "kanji": "礼",
+    "translate": "敬禮",
+    "id": "BASIC206"
+  },
+  {
+    "word": "いいん",
+    "kanji": "委員",
+    "translate": "委員",
+    "id": "BASIC207"
+  },
+  {
+    "word": "じゅうたい",
+    "kanji": "渋滞",
+    "translate": "滯留",
+    "id": "BASIC208"
+  },
+  {
+    "word": "ひとり",
+    "kanji": "独り",
+    "translate": "獨自",
+    "id": "BASIC209"
+  },
+  {
+    "word": "もと",
+    "kanji": "元",
+    "translate": "原來",
+    "id": "BASIC210"
+  },
+  {
+    "word": "うわさ",
+    "kanji": "噂",
+    "translate": "閒聊、討論",
+    "id": "BASIC211"
+  },
+  {
+    "word": "てきする",
+    "kanji": "適する",
+    "translate": "適合",
+    "id": "BASIC212"
+  },
+  {
+    "word": "きねんひん",
+    "kanji": "記念品",
+    "translate": "紀念品",
+    "id": "BASIC213"
+  },
+  {
+    "word": "じどう",
+    "kanji": "自動",
+    "translate": "自動",
+    "id": "BASIC214"
+  },
+  {
+    "word": "わがまま",
+    "kanji": "null",
+    "translate": "任性",
+    "id": "BASIC215"
+  },
+  {
+    "word": "ないよう",
+    "kanji": "内容",
+    "translate": "內容",
+    "id": "BASIC216"
+  },
+  {
+    "word": "しょり",
+    "kanji": "処理",
+    "translate": "處理",
+    "id": "BASIC217"
+  },
+  {
+    "word": "せいきゅう",
+    "kanji": "請求",
+    "translate": "請求",
+    "id": "BASIC218"
+  },
+  {
+    "word": "ハンサム",
+    "kanji": "null",
+    "translate": "英俊的",
+    "id": "BASIC219"
+  },
+  {
+    "word": "たんじょう",
+    "kanji": "誕生",
+    "translate": "出生",
+    "id": "BASIC220"
+  },
+  {
+    "word": "とうちゃく",
+    "kanji": "到着",
+    "translate": "抵達",
+    "id": "BASIC221"
+  },
+  {
+    "word": "あまり",
+    "kanji": "余り",
+    "translate": "剩餘",
+    "id": "BASIC222"
+  },
+  {
+    "word": "たに",
+    "kanji": "谷",
+    "translate": "山谷",
+    "id": "BASIC223"
+  },
+  {
+    "word": "ひこう",
+    "kanji": "飛行",
+    "translate": "飛行",
+    "id": "BASIC224"
+  },
+  {
+    "word": "まねく",
+    "kanji": "招く",
+    "translate": "招呼",
+    "id": "BASIC225"
+  },
+  {
+    "word": "リスト",
+    "kanji": "null",
+    "translate": "名單",
+    "id": "BASIC226"
+  },
+  {
+    "word": "ちか",
+    "kanji": "地下",
+    "translate": "地下",
+    "id": "BASIC227"
+  },
+  {
+    "word": "きおん",
+    "kanji": "気温",
+    "translate": "氣溫",
+    "id": "BASIC228"
+  },
+  {
+    "word": "し",
+    "kanji": "詩",
+    "translate": "詩",
+    "id": "BASIC229"
+  },
+  {
+    "word": "ぬの",
+    "kanji": "布",
+    "translate": "布料",
+    "id": "BASIC230"
+  },
+  {
+    "word": "にっこう",
+    "kanji": "日光",
+    "translate": "陽光",
+    "id": "BASIC231"
+  },
+  {
+    "word": "かち",
+    "kanji": "価値",
+    "translate": "價值",
+    "id": "BASIC232"
+  },
+  {
+    "word": "しりあう",
+    "kanji": "知り合う",
+    "translate": "相識",
+    "id": "BASIC233"
+  },
+  {
+    "word": "ためす",
+    "kanji": "試す",
+    "translate": "嘗試",
+    "id": "BASIC234"
+  },
+  {
+    "word": "さます",
+    "kanji": "覚ます",
+    "translate": "弄醒",
+    "id": "BASIC235"
+  },
+  {
+    "word": "いずれ",
+    "kanji": "null",
+    "translate": "哪個",
+    "id": "BASIC236"
+  },
+  {
+    "word": "げんだい",
+    "kanji": "現代",
+    "translate": "現代",
+    "id": "BASIC237"
+  },
+  {
+    "word": "けいこく",
+    "kanji": "警告",
+    "translate": "警告",
+    "id": "BASIC238"
+  },
+  {
+    "word": "くべつ",
+    "kanji": "区別",
+    "translate": "區別",
+    "id": "BASIC239"
+  },
+  {
+    "word": "ピン",
+    "kanji": "null",
+    "translate": "別針、髮夾",
+    "id": "BASIC240"
+  },
+  {
+    "word": "なかま",
+    "kanji": "仲間",
+    "translate": "夥伴",
+    "id": "BASIC241"
+  },
+  {
+    "word": "テーマ",
+    "kanji": "null",
+    "translate": "主題",
+    "id": "BASIC242"
+  },
+  {
+    "word": "スープ",
+    "kanji": "null",
+    "translate": "湯",
+    "id": "BASIC243"
+  },
+  {
+    "word": "ほうふ",
+    "kanji": "豊富",
+    "translate": "豐富",
+    "id": "BASIC244"
+  },
+  {
+    "word": "けってん",
+    "kanji": "欠点",
+    "translate": "毛病、問題",
+    "id": "BASIC245"
+  },
+  {
+    "word": "かのうせい",
+    "kanji": "可能性",
+    "translate": "可能性",
+    "id": "BASIC246"
+  },
+  {
+    "word": "はた",
+    "kanji": "旗",
+    "translate": "旗幟",
+    "id": "BASIC247"
+  },
+  {
+    "word": "ふくむ",
+    "kanji": "含む",
+    "translate": "含有",
+    "id": "BASIC248"
+  },
+  {
+    "word": "さて",
+    "kanji": "null",
+    "translate": "那樣的畫",
+    "id": "BASIC249"
+  },
+  {
+    "word": "こうふく",
+    "kanji": "幸福",
+    "translate": "幸福",
+    "id": "BASIC250"
+  },
+  {
+    "word": "かんきょう",
+    "kanji": "環境",
+    "translate": "環境",
+    "id": "BASIC251"
+  },
+  {
+    "word": "すべて",
+    "kanji": "全て",
+    "translate": "全部",
+    "id": "BASIC252"
+  },
+  {
+    "word": "ごうか",
+    "kanji": "豪華",
+    "translate": "豪華",
+    "id": "BASIC253"
+  },
+  {
+    "word": "もんく",
+    "kanji": "文句",
+    "translate": "抱怨",
+    "id": "BASIC254"
+  },
+  {
+    "word": "ぼう",
+    "kanji": "棒",
+    "translate": "棒子",
+    "id": "BASIC255"
+  },
+  {
+    "word": "こきゅう",
+    "kanji": "呼吸",
+    "translate": "呼吸",
+    "id": "BASIC256"
+  },
+  {
+    "word": "はたらき",
+    "kanji": "働き",
+    "translate": "工作",
+    "id": "BASIC257"
+  },
+  {
+    "word": "れつ",
+    "kanji": "列",
+    "translate": "列、排",
+    "id": "BASIC258"
+  },
+  {
+    "word": "あな",
+    "kanji": "穴",
+    "translate": "洞穴",
+    "id": "BASIC259"
+  },
+  {
+    "word": "おい",
+    "kanji": "甥",
+    "translate": "外甥",
+    "id": "BASIC260"
+  },
+  {
+    "word": "どくとく",
+    "kanji": "独特",
+    "translate": "獨特",
+    "id": "BASIC261"
+  },
+  {
+    "word": "なみ",
+    "kanji": "波",
+    "translate": "波浪",
+    "id": "BASIC262"
+  },
+  {
+    "word": "ウイスキー",
+    "kanji": "null",
+    "translate": "威士忌",
+    "id": "BASIC263"
+  },
+  {
+    "word": "せいせき",
+    "kanji": "成績",
+    "translate": "成績",
+    "id": "BASIC264"
+  },
+  {
+    "word": "あくしゅ",
+    "kanji": "握手",
+    "translate": "握手",
+    "id": "BASIC265"
+  },
+  {
+    "word": "こっか",
+    "kanji": "国家",
+    "translate": "國家",
+    "id": "BASIC266"
+  },
+  {
+    "word": "ひょうげん",
+    "kanji": "表現",
+    "translate": "表現",
+    "id": "BASIC267"
+  },
+  {
+    "word": "ちゅうい",
+    "kanji": "注意",
+    "translate": "注意",
+    "id": "BASIC268"
+  },
+  {
+    "word": "かわ",
+    "kanji": "革",
+    "translate": "皮革",
+    "id": "BASIC269"
+  },
+  {
+    "word": "こんやく",
+    "kanji": "婚約",
+    "translate": "婚約",
+    "id": "BASIC270"
+  },
+  {
+    "word": "キャンセル",
+    "kanji": "null",
+    "translate": "取消",
+    "id": "BASIC271"
+  },
+  {
+    "word": "さばく",
+    "kanji": "砂漠",
+    "translate": "沙漠",
+    "id": "BASIC272"
+  },
+  {
+    "word": "ふで",
+    "kanji": "筆",
+    "translate": "毛筆",
+    "id": "BASIC273"
+  },
+  {
+    "word": "へいじつ",
+    "kanji": "平日",
+    "translate": "平日、平常",
+    "id": "BASIC274"
+  },
+  {
+    "word": "ちょうき",
+    "kanji": "長期",
+    "translate": "長期",
+    "id": "BASIC275"
+  },
+  {
+    "word": "きんだい",
+    "kanji": "近代",
+    "translate": "近代",
+    "id": "BASIC276"
+  },
+  {
+    "word": "あちこち",
+    "kanji": "null",
+    "translate": "這裡那裡、到處",
+    "id": "BASIC277"
+  },
+  {
+    "word": "せいど",
+    "kanji": "制度",
+    "translate": "制度",
+    "id": "BASIC278"
+  },
+  {
+    "word": "あつかう",
+    "kanji": "扱う",
+    "translate": "處理、經營",
+    "id": "BASIC279"
+  },
+  {
+    "word": "ひがえり",
+    "kanji": "日帰り",
+    "translate": "當天來回",
+    "id": "BASIC280"
+  },
+  {
+    "word": "けち",
+    "kanji": "null",
+    "translate": "小氣",
+    "id": "BASIC281"
+  },
+  {
+    "word": "おやこ",
+    "kanji": "親子",
+    "translate": "親子",
+    "id": "BASIC282"
+  },
+  {
+    "word": "じゅうみん",
+    "kanji": "住民",
+    "translate": "居民",
+    "id": "BASIC283"
+  },
+  {
+    "word": "つうがく",
+    "kanji": "通学",
+    "translate": "上下學",
+    "id": "BASIC284"
+  },
+  {
+    "word": "じじょう",
+    "kanji": "事情",
+    "translate": "情況",
+    "id": "BASIC285"
+  },
+  {
+    "word": "へらす",
+    "kanji": "減らす",
+    "translate": "縮減",
+    "id": "BASIC286"
+  },
+  {
+    "word": "じっさい",
+    "kanji": "実際",
+    "translate": "實際",
+    "id": "BASIC287"
+  },
+  {
+    "word": "とざん",
+    "kanji": "登山",
+    "translate": "登山",
+    "id": "BASIC288"
+  },
+  {
+    "word": "ほど",
+    "kanji": "程",
+    "translate": "程度",
+    "id": "BASIC289"
+  },
+  {
+    "word": "しょうめい",
+    "kanji": "証明",
+    "translate": "證明",
+    "id": "BASIC290"
+  },
+  {
+    "word": "しんり",
+    "kanji": "心理",
+    "translate": "心理",
+    "id": "BASIC291"
+  },
+  {
+    "word": "よごれ",
+    "kanji": "汚れ",
+    "translate": "汙垢",
+    "id": "BASIC292"
+  },
+  {
+    "word": "しまった",
+    "kanji": "null",
+    "translate": "糟糕",
+    "id": "BASIC293"
+  },
+  {
+    "word": "サービス",
+    "kanji": "null",
+    "translate": "服務",
+    "id": "BASIC294"
+  },
+  {
+    "word": "しぜん",
+    "kanji": "自然",
+    "translate": "自然",
+    "id": "BASIC295"
+  },
+  {
+    "word": "トラック",
+    "kanji": "null",
+    "translate": "卡車",
+    "id": "BASIC296"
+  },
+  {
+    "word": "まもる",
+    "kanji": "守る",
+    "translate": "守護",
+    "id": "BASIC297"
+  },
+  {
+    "word": "ミス",
+    "kanji": "null",
+    "translate": "錯誤",
+    "id": "BASIC298"
+  },
+  {
+    "word": "しゅうり",
+    "kanji": "修理",
+    "translate": "修理",
+    "id": "BASIC299"
+  },
+  {
+    "word": "はんい",
+    "kanji": "範囲",
+    "translate": "範圍",
+    "id": "BASIC300"
+  },
+  {
+    "word": "いちご",
+    "kanji": "苺",
+    "translate": "草莓",
+    "id": "BASIC301"
+  },
+  {
+    "word": "あたりまえ",
+    "kanji": "当たり前",
+    "translate": "當然",
+    "id": "BASIC302"
+  },
+  {
+    "word": "たいかい",
+    "kanji": "大会",
+    "translate": "代會",
+    "id": "BASIC303"
+  },
+  {
+    "word": "すいぞくかん",
+    "kanji": "水族館",
+    "translate": "水族館",
+    "id": "BASIC304"
+  },
+  {
+    "word": "いんしょう",
+    "kanji": "印象",
+    "translate": "印象",
+    "id": "BASIC305"
+  },
+  {
+    "word": "けってい",
+    "kanji": "決定",
+    "translate": "決定",
+    "id": "BASIC306"
+  },
+  {
+    "word": "めいじる",
+    "kanji": "命じる",
+    "translate": "吩咐",
+    "id": "BASIC307"
+  },
+  {
+    "word": "しつない",
+    "kanji": "室内",
+    "translate": "室內",
+    "id": "BASIC308"
+  },
+  {
+    "word": "こしょう",
+    "kanji": "故障",
+    "translate": "壞掉",
+    "id": "BASIC309"
+  },
+  {
+    "word": "あいする",
+    "kanji": "愛する",
+    "translate": "喜愛",
+    "id": "BASIC310"
+  },
+  {
+    "word": "スキー",
+    "kanji": "null",
+    "translate": "滑雪",
+    "id": "BASIC311"
+  },
+  {
+    "word": "つち",
+    "kanji": "土",
+    "translate": "土",
+    "id": "BASIC312"
+  },
+  {
+    "word": "ながれ",
+    "kanji": "流れ",
+    "translate": "水流",
+    "id": "BASIC313"
+  },
+  {
+    "word": "ゆうりょう",
+    "kanji": "有料",
+    "translate": "收費",
+    "id": "BASIC314"
+  },
+  {
+    "word": "かた",
+    "kanji": "肩",
+    "translate": "肩膀",
+    "id": "BASIC315"
+  },
+  {
+    "word": "えんき",
+    "kanji": "延期",
+    "translate": "延期",
+    "id": "BASIC316"
+  },
+  {
+    "word": "つうか",
+    "kanji": "通過",
+    "translate": "通過、經過",
+    "id": "BASIC317"
+  },
+  {
+    "word": "ちほう",
+    "kanji": "地方",
+    "translate": "地方",
+    "id": "BASIC318"
+  },
+  {
+    "word": "ぼうけん",
+    "kanji": "冒険",
+    "translate": "冒險",
+    "id": "BASIC319"
+  },
+  {
+    "word": "できれば",
+    "kanji": "null",
+    "translate": "可以的話",
+    "id": "BASIC320"
+  },
+  {
+    "word": "もちろん",
+    "kanji": "勿論",
+    "translate": "當然",
+    "id": "BASIC321"
+  },
+  {
+    "word": "れいせい",
+    "kanji": "冷静",
+    "translate": "冷靜",
+    "id": "BASIC322"
+  },
+  {
+    "word": "ちゅうしゃ",
+    "kanji": "駐車",
+    "translate": "停車",
+    "id": "BASIC323"
+  },
+  {
+    "word": "せきゆ",
+    "kanji": "石油",
+    "translate": "石油",
+    "id": "BASIC324"
+  },
+  {
+    "word": "なか",
+    "kanji": "仲",
+    "translate": "交情",
+    "id": "BASIC325"
+  },
+  {
+    "word": "せいげん",
+    "kanji": "制限",
+    "translate": "限制",
+    "id": "BASIC326"
+  },
+  {
+    "word": "じゅけん",
+    "kanji": "受験",
+    "translate": "報考",
+    "id": "BASIC327"
+  },
+  {
+    "word": "ほうせき",
+    "kanji": "宝石",
+    "translate": "寶石",
+    "id": "BASIC328"
+  },
+  {
+    "word": "いたずら",
+    "kanji": "null",
+    "translate": "開玩笑",
+    "id": "BASIC329"
+  },
+  {
+    "word": "いわ",
+    "kanji": "岩",
+    "translate": "岩石",
+    "id": "BASIC330"
+  },
+  {
+    "word": "つきあい",
+    "kanji": "付き合い",
+    "translate": "交際應酬",
+    "id": "BASIC331"
+  },
+  {
+    "word": "ばんやり",
+    "kanji": "null",
+    "translate": "模糊的",
+    "id": "BASIC332"
+  },
+  {
+    "word": "さっぱり",
+    "kanji": "null",
+    "translate": "清爽",
+    "id": "BASIC333"
+  },
+  {
+    "word": "メンバー",
+    "kanji": "null",
+    "translate": "會員",
+    "id": "BASIC334"
+  },
+  {
+    "word": "かせぐ",
+    "kanji": "稼ぐ",
+    "translate": "拼命賺錢",
+    "id": "BASIC335"
+  },
+  {
+    "word": "あらゆる",
+    "kanji": "null",
+    "translate": "所有",
+    "id": "BASIC336"
+  },
+  {
+    "word": "しょくひん",
+    "kanji": "食品",
+    "translate": "食品",
+    "id": "BASIC337"
+  },
+  {
+    "word": "ひよう",
+    "kanji": "費用",
+    "translate": "費用",
+    "id": "BASIC338"
+  },
+  {
+    "word": "のぼる",
+    "kanji": "昇る",
+    "translate": "上升",
+    "id": "BASIC339"
+  },
+  {
+    "word": "たまたま",
+    "kanji": "偶々",
+    "translate": "偶然",
+    "id": "BASIC340"
+  },
+  {
+    "word": "あつまり",
+    "kanji": "集まり",
+    "translate": "集合、集會",
+    "id": "BASIC341"
+  },
+  {
+    "word": "ふうふ",
+    "kanji": "夫婦",
+    "translate": "夫婦",
+    "id": "BASIC342"
+  },
+  {
+    "word": "えいきょう",
+    "kanji": "影響",
+    "translate": "影響",
+    "id": "BASIC343"
+  },
+  {
+    "word": "かならずしも",
+    "kanji": "必ずしも",
+    "translate": "不一定",
+    "id": "BASIC344"
+  },
+  {
+    "word": "せめる",
+    "kanji": "責める",
+    "translate": "責備",
+    "id": "BASIC345"
+  },
+  {
+    "word": "つとめる",
+    "kanji": "勤める",
+    "translate": "工作",
+    "id": "BASIC346"
+  },
+  {
+    "word": "かげ",
+    "kanji": "影",
+    "translate": "影子",
+    "id": "BASIC347"
+  },
+  {
+    "word": "きく",
+    "kanji": "効く",
+    "translate": "見效",
+    "id": "BASIC348"
+  },
+  {
+    "word": "げんご",
+    "kanji": "言語",
+    "translate": "語言",
+    "id": "BASIC349"
+  },
+  {
+    "word": "けいじ",
+    "kanji": "刑事",
+    "translate": "刑警",
+    "id": "BASIC350"
+  },
+  {
+    "word": "ところで",
+    "kanji": "null",
+    "translate": "可是",
+    "id": "BASIC351"
+  },
+  {
+    "word": "まどぐち",
+    "kanji": "窓口",
+    "translate": "窗口",
+    "id": "BASIC352"
+  },
+  {
+    "word": "しはらい",
+    "kanji": "支払い",
+    "translate": "支付",
+    "id": "BASIC353"
+  },
+  {
+    "word": "じゅんばん",
+    "kanji": "順番",
+    "translate": "輪流",
+    "id": "BASIC354"
+  },
+  {
+    "word": "ぐっすり",
+    "kanji": "null",
+    "translate": "熟睡的",
+    "id": "BASIC355"
+  },
+  {
+    "word": "ぎむ",
+    "kanji": "義務",
+    "translate": "義務",
+    "id": "BASIC356"
+  },
+  {
+    "word": "こうりゅう",
+    "kanji": "交流",
+    "translate": "交流",
+    "id": "BASIC357"
+  },
+  {
+    "word": "ねんがじょう",
+    "kanji": "年賀状",
+    "translate": "賀年卡",
+    "id": "BASIC358"
+  },
+  {
+    "word": "ていしゅつ",
+    "kanji": "提出",
+    "translate": "繳交",
+    "id": "BASIC359"
+  },
+  {
+    "word": "かいさつぐち",
+    "kanji": "改札口",
+    "translate": "驗票口",
+    "id": "BASIC360"
+  },
+  {
+    "word": "ほどう",
+    "kanji": "歩道",
+    "translate": "人行道",
+    "id": "BASIC361"
+  },
+  {
+    "word": "けん",
+    "kanji": "券",
+    "translate": "票券",
+    "id": "BASIC362"
+  },
+  {
+    "word": "ゼミ",
+    "kanji": "null",
+    "translate": "研討會",
+    "id": "BASIC363"
+  },
+  {
+    "word": "きゅうじょ",
+    "kanji": "救助",
+    "translate": "救助",
+    "id": "BASIC364"
+  },
+  {
+    "word": "たいしょく",
+    "kanji": "退職",
+    "translate": "退休",
+    "id": "BASIC365"
+  },
+  {
+    "word": "そうち",
+    "kanji": "装置",
+    "translate": "壯志",
+    "id": "BASIC366"
+  },
+  {
+    "word": "おいかける",
+    "kanji": "追いかける",
+    "translate": "緊跟",
+    "id": "BASIC367"
+  },
+  {
+    "word": "つかまる",
+    "kanji": "捕まる",
+    "translate": "抓捕",
+    "id": "BASIC368"
+  },
+  {
+    "word": "ひきうける",
+    "kanji": "引き受ける",
+    "translate": "接受",
+    "id": "BASIC369"
+  },
+  {
+    "word": "うれる",
+    "kanji": "売れる",
+    "translate": "暢銷",
+    "id": "BASIC370"
+  },
+  {
+    "word": "ほお",
+    "kanji": "頬",
+    "translate": "臉頰",
+    "id": "BASIC371"
+  },
+  {
+    "word": "ふじゆう",
+    "kanji": "不自由",
+    "translate": "不自由",
+    "id": "BASIC372"
+  },
+  {
+    "word": "はっしゃ",
+    "kanji": "発車",
+    "translate": "發車",
+    "id": "BASIC373"
+  },
+  {
+    "word": "しあわせ",
+    "kanji": "幸せ",
+    "translate": "幸福",
+    "id": "BASIC374"
+  },
+  {
+    "word": "かみなり",
+    "kanji": "雷",
+    "translate": "雷",
+    "id": "BASIC375"
+  },
+  {
+    "word": "かんそう",
+    "kanji": "感想",
+    "translate": "感想",
+    "id": "BASIC376"
+  },
+  {
+    "word": "ちゅうしょく",
+    "kanji": "昼食",
+    "translate": "中餐",
+    "id": "BASIC377"
+  },
+  {
+    "word": "あと",
+    "kanji": "跡",
+    "translate": "痕跡",
+    "id": "BASIC378"
+  },
+  {
+    "word": "くりかえす",
+    "kanji": "繰り返す",
+    "translate": "反覆",
+    "id": "BASIC379"
+  },
+  {
+    "word": "さわやか",
+    "kanji": "爽やか",
+    "translate": "舒爽",
+    "id": "BASIC380"
+  },
+  {
+    "word": "カード",
+    "kanji": "null",
+    "translate": "卡片",
+    "id": "BASIC381"
+  },
+  {
+    "word": "のうりょく",
+    "kanji": "能力",
+    "translate": "能力",
+    "id": "BASIC382"
+  },
+  {
+    "word": "では",
+    "kanji": "null",
+    "translate": "那麼",
+    "id": "BASIC383"
+  },
+  {
+    "word": "やちん",
+    "kanji": "家賃",
+    "translate": "房租",
+    "id": "BASIC384"
+  },
+  {
+    "word": "よぶん",
+    "kanji": "余分",
+    "translate": "多餘",
+    "id": "BASIC385"
+  },
+  {
+    "word": "つい",
+    "kanji": "null",
+    "translate": "不知不覺",
+    "id": "BASIC386"
+  },
+  {
+    "word": "なにも",
+    "kanji": "何も",
+    "translate": "什麼也~",
+    "id": "BASIC387"
+  },
+  {
+    "word": "しあさって",
+    "kanji": "null",
+    "translate": "大後天",
+    "id": "BASIC388"
+  },
+  {
+    "word": "たんに",
+    "kanji": "単に",
+    "translate": "單、只",
+    "id": "BASIC389"
+  },
+  {
+    "word": "ろんぶん",
+    "kanji": "論文",
+    "translate": "論文",
+    "id": "BASIC390"
+  },
+  {
+    "word": "びん",
+    "kanji": "便",
+    "translate": "班機、班車",
+    "id": "BASIC391"
+  },
+  {
+    "word": "おだやか",
+    "kanji": "穏やか",
+    "translate": "平穩的",
+    "id": "BASIC392"
+  },
+  {
+    "word": "かんする",
+    "kanji": "関する",
+    "translate": "關於",
+    "id": "BASIC393"
+  },
+  {
+    "word": "いま",
+    "kanji": "居間",
+    "translate": "客廳",
+    "id": "BASIC394"
+  },
+  {
+    "word": "よあけ",
+    "kanji": "夜明け",
+    "translate": "黎明",
+    "id": "BASIC395"
+  },
+  {
+    "word": "ちゅうもく",
+    "kanji": "注目",
+    "translate": "注視",
+    "id": "BASIC396"
+  },
+  {
+    "word": "たっぷり",
+    "kanji": "null",
+    "translate": "充分",
+    "id": "BASIC397"
+  },
+  {
+    "word": "しりあい",
+    "kanji": "知り合い",
+    "translate": "認識的人",
+    "id": "BASIC398"
+  },
+  {
+    "word": "おうじる",
+    "kanji": "応じる",
+    "translate": "接受",
+    "id": "BASIC399"
+  },
+  {
+    "word": "つうこう",
+    "kanji": "通行",
+    "translate": "往來",
+    "id": "BASIC400"
+  },
+  {
+    "word": "かかえる",
+    "kanji": "抱える",
+    "translate": "擁有",
+    "id": "BASIC401"
+  },
+  {
+    "word": "こおる",
+    "kanji": "凍る",
+    "translate": "結凍",
+    "id": "BASIC402"
+  },
+  {
+    "word": "ごがく",
+    "kanji": "語学",
+    "translate": "語言學",
+    "id": "BASIC403"
+  },
+  {
+    "word": "うごかす",
+    "kanji": "動かす",
+    "translate": "搖動",
+    "id": "BASIC404"
+  },
+  {
+    "word": "ゆうべ",
+    "kanji": "夕べ",
+    "translate": "傍晚",
+    "id": "BASIC405"
+  },
+  {
+    "word": "ダンス",
+    "kanji": "null",
+    "translate": "舞蹈",
+    "id": "BASIC406"
+  },
+  {
+    "word": "さめる",
+    "kanji": "覚める",
+    "translate": "醒來",
+    "id": "BASIC407"
+  },
+  {
+    "word": "へんしん",
+    "kanji": "返信",
+    "translate": "回信、回電",
+    "id": "BASIC408"
+  },
+  {
+    "word": "はたけ",
+    "kanji": "畑",
+    "translate": "田地",
+    "id": "BASIC409"
+  },
+  {
+    "word": "かさい",
+    "kanji": "火災",
+    "translate": "火災",
+    "id": "BASIC410"
+  },
+  {
+    "word": "もどす",
+    "kanji": "戻す",
+    "translate": "歸還",
+    "id": "BASIC411"
+  },
+  {
+    "word": "しんじる",
+    "kanji": "信じる",
+    "translate": "相信",
+    "id": "BASIC412"
+  },
+  {
+    "word": "はずす",
+    "kanji": "外す",
+    "translate": "取下",
+    "id": "BASIC413"
+  },
+  {
+    "word": "そこ",
+    "kanji": "底",
+    "translate": "底部",
+    "id": "BASIC414"
+  },
+  {
+    "word": "ジーンズ",
+    "kanji": "null",
+    "translate": "牛仔褲",
+    "id": "BASIC415"
+  },
+  {
+    "word": "なきごえ",
+    "kanji": "鳴き声",
+    "translate": "叫聲",
+    "id": "BASIC416"
+  },
+  {
+    "word": "きふ",
+    "kanji": "寄付",
+    "translate": "捐贈",
+    "id": "BASIC417"
+  },
+  {
+    "word": "けいき",
+    "kanji": "景気",
+    "translate": "景氣",
+    "id": "BASIC418"
+  },
+  {
+    "word": "はり",
+    "kanji": "針",
+    "translate": "針狀物",
+    "id": "BASIC419"
+  },
+  {
+    "word": "ひとこと",
+    "kanji": "一言",
+    "translate": "一句話",
+    "id": "BASIC420"
+  },
+  {
+    "word": "讀音",
+    "kanji": "漢字",
+    "translate": "中文翻譯",
+    "id": "BASIC421"
+  },
+  {
+    "word": "しつ",
+    "kanji": "質",
+    "translate": "質量、內容",
+    "id": "BASIC422"
+  },
+  {
+    "word": "かっこいい",
+    "kanji": "null",
+    "translate": "酷、帥",
+    "id": "BASIC423"
+  },
+  {
+    "word": "しゃべる",
+    "kanji": "喋る",
+    "translate": "喋喋不休",
+    "id": "BASIC424"
+  },
+  {
+    "word": "こうきゅう",
+    "kanji": "高級",
+    "translate": "高級",
+    "id": "BASIC425"
+  },
+  {
+    "word": "そろえる",
+    "kanji": "揃える",
+    "translate": "整齊",
+    "id": "BASIC426"
+  },
+  {
+    "word": "さい",
+    "kanji": "際",
+    "translate": "時候、時機",
+    "id": "BASIC427"
+  },
+  {
+    "word": "あいず",
+    "kanji": "合図",
+    "translate": "信號",
+    "id": "BASIC428"
+  },
+  {
+    "word": "とばす",
+    "kanji": "飛ばす",
+    "translate": "吹起",
+    "id": "BASIC429"
+  },
+  {
+    "word": "だって",
+    "kanji": "null",
+    "translate": "因為",
+    "id": "BASIC430"
+  },
+  {
+    "word": "ぐらぐら",
+    "kanji": "null",
+    "translate": "搖搖晃晃",
+    "id": "BASIC431"
+  },
+  {
+    "word": "きず",
+    "kanji": "傷",
+    "translate": "缺陷",
+    "id": "BASIC432"
+  },
+  {
+    "word": "つまり",
+    "kanji": "null",
+    "translate": "也就是說",
+    "id": "BASIC433"
+  },
+  {
+    "word": "おえる",
+    "kanji": "終える",
+    "translate": "完成",
+    "id": "BASIC434"
+  },
+  {
+    "word": "だい",
+    "kanji": "大",
+    "translate": "大",
+    "id": "BASIC435"
+  },
+  {
+    "word": "ホストファミリー",
+    "kanji": "null",
+    "translate": "寄宿家庭",
+    "id": "BASIC436"
+  },
+  {
+    "word": "てつ",
+    "kanji": "鉄",
+    "translate": "鐵",
+    "id": "BASIC437"
+  },
+  {
+    "word": "けいご",
+    "kanji": "敬語",
+    "translate": "尊敬語",
+    "id": "BASIC438"
+  },
+  {
+    "word": "ぐたいてき",
+    "kanji": "具体的",
+    "translate": "具體的",
+    "id": "BASIC439"
+  },
+  {
+    "word": "かくだい",
+    "kanji": "拡大",
+    "translate": "放大",
+    "id": "BASIC440"
+  },
+  {
+    "word": "さべつ",
+    "kanji": "差別",
+    "translate": "歧視",
+    "id": "BASIC441"
+  },
+  {
+    "word": "まんいち",
+    "kanji": "万一",
+    "translate": "萬一",
+    "id": "BASIC442"
+  },
+  {
+    "word": "しゅよう",
+    "kanji": "主要",
+    "translate": "主要",
+    "id": "BASIC443"
+  },
+  {
+    "word": "たんとう",
+    "kanji": "担当",
+    "translate": "負責",
+    "id": "BASIC444"
+  },
+  {
+    "word": "いき",
+    "kanji": "息",
+    "translate": "氣息",
+    "id": "BASIC445"
+  },
+  {
+    "word": "まずしい",
+    "kanji": "貧しい",
+    "translate": "貧窮的",
+    "id": "BASIC446"
+  },
+  {
+    "word": "のんびり",
+    "kanji": "null",
+    "translate": "自由自在",
+    "id": "BASIC447"
+  },
+  {
+    "word": "ボーイ",
+    "kanji": "null",
+    "translate": "旅館服務生",
+    "id": "BASIC448"
+  },
+  {
+    "word": "じょゆう",
+    "kanji": "女優",
+    "translate": "女演員",
+    "id": "BASIC449"
+  },
+  {
+    "word": "テント",
+    "kanji": "null",
+    "translate": "帳篷",
+    "id": "BASIC450"
+  },
+  {
+    "word": "のべる",
+    "kanji": "述べる",
+    "translate": "陳述",
+    "id": "BASIC451"
+  },
+  {
+    "word": "むだ",
+    "kanji": "無駄",
+    "translate": "徒勞",
+    "id": "BASIC452"
+  },
+  {
+    "word": "おたがい",
+    "kanji": "お互い",
+    "translate": "彼此",
+    "id": "BASIC453"
+  },
+  {
+    "word": "きょうじゅ",
+    "kanji": "教授",
+    "translate": "教授",
+    "id": "BASIC454"
+  },
+  {
+    "word": "わずか",
+    "kanji": "僅か",
+    "translate": "僅僅、勉強",
+    "id": "BASIC455"
+  },
+  {
+    "word": "きんちょう",
+    "kanji": "緊張",
+    "translate": "緊張",
+    "id": "BASIC456"
+  },
+  {
+    "word": "のち",
+    "kanji": "後",
+    "translate": "之後",
+    "id": "BASIC457"
+  },
+  {
+    "word": "エネルギー",
+    "kanji": "null",
+    "translate": "能量、精力",
+    "id": "BASIC458"
+  },
+  {
+    "word": "うったえる",
+    "kanji": "訴える",
+    "translate": "控告",
+    "id": "BASIC459"
+  },
+  {
+    "word": "ひょうじょう",
+    "kanji": "表情",
+    "translate": "表情",
+    "id": "BASIC460"
+  },
+  {
+    "word": "ライダー",
+    "kanji": "null",
+    "translate": "打火機",
+    "id": "BASIC461"
+  },
+  {
+    "word": "あげる",
+    "kanji": "揚げる",
+    "translate": "油炸",
+    "id": "BASIC462"
+  },
+  {
+    "word": "たいほ",
+    "kanji": "逮捕",
+    "translate": "待補",
+    "id": "BASIC463"
+  },
+  {
+    "word": "りょうきん",
+    "kanji": "料金",
+    "translate": "費用",
+    "id": "BASIC464"
+  },
+  {
+    "word": "なべ",
+    "kanji": "鍋",
+    "translate": "鍋子、火鍋",
+    "id": "BASIC465"
+  },
+  {
+    "word": "じつは",
+    "kanji": "実は",
+    "translate": "坦白說",
+    "id": "BASIC466"
+  },
+  {
+    "word": "いりょう",
+    "kanji": "医療",
+    "translate": "醫療",
+    "id": "BASIC467"
+  },
+  {
+    "word": "いちば",
+    "kanji": "市場",
+    "translate": "市場",
+    "id": "BASIC468"
+  },
+  {
+    "word": "みりょく",
+    "kanji": "魅力",
+    "translate": "魅力",
+    "id": "BASIC469"
+  },
+  {
+    "word": "わける",
+    "kanji": "分ける",
+    "translate": "劃分、分類",
+    "id": "BASIC470"
+  },
+  {
+    "word": "しょうじょう",
+    "kanji": "症状",
+    "translate": "症狀",
+    "id": "BASIC471"
+  },
+  {
+    "word": "ぜんしん",
+    "kanji": "全身",
+    "translate": "全身",
+    "id": "BASIC472"
+  },
+  {
+    "word": "にんき",
+    "kanji": "人気",
+    "translate": "人氣",
+    "id": "BASIC473"
+  },
+  {
+    "word": "もよう",
+    "kanji": "模様",
+    "translate": "花樣",
+    "id": "BASIC474"
+  },
+  {
+    "word": "はか",
+    "kanji": "墓",
+    "translate": "墳墓",
+    "id": "BASIC475"
+  },
+  {
+    "word": "いや",
+    "kanji": "否",
+    "translate": "不",
+    "id": "BASIC476"
+  },
+  {
+    "word": "たい",
+    "kanji": "対",
+    "translate": "相對",
+    "id": "BASIC477"
+  },
+  {
+    "word": "ぶん",
+    "kanji": "分",
+    "translate": "部分",
+    "id": "BASIC478"
+  },
+  {
+    "word": "ころす",
+    "kanji": "殺す",
+    "translate": "殺死",
+    "id": "BASIC479"
+  },
+  {
+    "word": "すくう",
+    "kanji": "救う",
+    "translate": "拯救",
+    "id": "BASIC480"
+  },
+  {
+    "word": "かっこわるい",
+    "kanji": "かっこ悪い",
+    "translate": "難看",
+    "id": "BASIC481"
+  },
+  {
+    "word": "いたみ",
+    "kanji": "痛み",
+    "translate": "疼痛",
+    "id": "BASIC482"
+  },
+  {
+    "word": "きじ",
+    "kanji": "記事",
+    "translate": "報導",
+    "id": "BASIC483"
+  },
+  {
+    "word": "じょうしき",
+    "kanji": "常識",
+    "translate": "嘗試",
+    "id": "BASIC484"
+  },
+  {
+    "word": "がいしゅつ",
+    "kanji": "外出",
+    "translate": "外出",
+    "id": "BASIC485"
+  },
+  {
+    "word": "つかむ",
+    "kanji": "掴む",
+    "translate": "抓住",
+    "id": "BASIC486"
+  },
+  {
+    "word": "ぜいたく",
+    "kanji": "贅沢",
+    "translate": "奢侈",
+    "id": "BASIC487"
+  },
+  {
+    "word": "ひがい",
+    "kanji": "被害",
+    "translate": "災害、損失",
+    "id": "BASIC488"
+  },
+  {
+    "word": "だいぶぶん",
+    "kanji": "大部分",
+    "translate": "大部分",
+    "id": "BASIC489"
+  },
+  {
+    "word": "りえき",
+    "kanji": "利益",
+    "translate": "利益",
+    "id": "BASIC490"
+  },
+  {
+    "word": "ふあん",
+    "kanji": "不安",
+    "translate": "不安",
+    "id": "BASIC491"
+  },
+  {
+    "word": "あたり",
+    "kanji": "辺り",
+    "translate": "附近",
+    "id": "BASIC492"
+  },
+  {
+    "word": "くみ",
+    "kanji": "組",
+    "translate": "班級",
+    "id": "BASIC493"
+  },
+  {
+    "word": "ふそく",
+    "kanji": "不足",
+    "translate": "不夠",
+    "id": "BASIC494"
+  },
+  {
+    "word": "つづき",
+    "kanji": "続き",
+    "translate": "持續",
+    "id": "BASIC495"
+  },
+  {
+    "word": "いらい",
+    "kanji": "以来",
+    "translate": "以後",
+    "id": "BASIC496"
+  },
+  {
+    "word": "ほんじつ",
+    "kanji": "本日",
+    "translate": "本日",
+    "id": "BASIC497"
+  },
+  {
+    "word": "じゅうよう",
+    "kanji": "重要",
+    "translate": "重要",
+    "id": "BASIC498"
+  },
+  {
+    "word": "かくれる",
+    "kanji": "隠れる",
+    "translate": "隱藏、朵",
+    "id": "BASIC499"
+  },
+  {
+    "word": "かんじょう",
+    "kanji": "感情",
+    "translate": "感情",
+    "id": "BASIC500"
+  },
+  {
+    "word": "はんだん",
+    "kanji": "判断",
+    "translate": "判斷",
+    "id": "BASIC501"
+  },
+  {
+    "word": "れいぎ",
+    "kanji": "礼儀",
+    "translate": "禮儀",
+    "id": "BASIC502"
+  },
+  {
+    "word": "こきょう",
+    "kanji": "故郷",
+    "translate": "故鄉",
+    "id": "BASIC503"
+  },
+  {
+    "word": "ごかい",
+    "kanji": "誤解",
+    "translate": "誤解",
+    "id": "BASIC504"
+  },
+  {
+    "word": "かんせい",
+    "kanji": "完成",
+    "translate": "完成",
+    "id": "BASIC505"
+  },
+  {
+    "word": "きょうりょく",
+    "kanji": "協力",
+    "translate": "共同努力",
+    "id": "BASIC506"
+  },
+  {
+    "word": "おとなしい",
+    "kanji": "大人しい",
+    "translate": "溫順的",
+    "id": "BASIC507"
+  },
+  {
+    "word": "ちょうさ",
+    "kanji": "調査",
+    "translate": "調查",
+    "id": "BASIC508"
+  },
+  {
+    "word": "いはん",
+    "kanji": "違反",
+    "translate": "違反",
+    "id": "BASIC509"
+  },
+  {
+    "word": "けんり",
+    "kanji": "権利",
+    "translate": "權利",
+    "id": "BASIC510"
+  },
+  {
+    "word": "けんさ",
+    "kanji": "検査",
+    "translate": "檢查",
+    "id": "BASIC511"
+  },
+  {
+    "word": "こくみん",
+    "kanji": "国民",
+    "translate": "國民",
+    "id": "BASIC512"
+  },
+  {
+    "word": "びょう",
+    "kanji": "秒",
+    "translate": "秒",
+    "id": "BASIC513"
+  },
+  {
+    "word": "はじまり",
+    "kanji": "始まり",
+    "translate": "開始、起源",
+    "id": "BASIC514"
+  },
+  {
+    "word": "いだい",
+    "kanji": "偉大",
+    "translate": "偉大",
+    "id": "BASIC515"
+  },
+  {
+    "word": "ちいき",
+    "kanji": "地域",
+    "translate": "地區",
+    "id": "BASIC516"
+  },
+  {
+    "word": "さいこう",
+    "kanji": "最高",
+    "translate": "最棒",
+    "id": "BASIC517"
+  },
+  {
+    "word": "ぜんたい",
+    "kanji": "全体",
+    "translate": "全體",
+    "id": "BASIC518"
+  },
+  {
+    "word": "たいはん",
+    "kanji": "大半",
+    "translate": "多半",
+    "id": "BASIC519"
+  },
+  {
+    "word": "そっと",
+    "kanji": "null",
+    "translate": "輕輕地",
+    "id": "BASIC520"
+  },
+  {
+    "word": "ひとばん",
+    "kanji": "一晩",
+    "translate": "某個晚上",
+    "id": "BASIC521"
+  },
+  {
+    "word": "さいしゅう",
+    "kanji": "最終",
+    "translate": "最終",
+    "id": "BASIC522"
+  },
+  {
+    "word": "かいひ",
+    "kanji": "会費",
+    "translate": "會費",
+    "id": "BASIC523"
+  },
+  {
+    "word": "じっけん",
+    "kanji": "実験",
+    "translate": "實驗",
+    "id": "BASIC524"
+  },
+  {
+    "word": "しゅくはく",
+    "kanji": "宿泊",
+    "translate": "住宿",
+    "id": "BASIC525"
+  },
+  {
+    "word": "ようじん",
+    "kanji": "用心",
+    "translate": "小心",
+    "id": "BASIC526"
+  },
+  {
+    "word": "じけん",
+    "kanji": "事件",
+    "translate": "事件",
+    "id": "BASIC527"
+  },
+  {
+    "word": "あきらか",
+    "kanji": "明らか",
+    "translate": "明顯的",
+    "id": "BASIC528"
+  },
+  {
+    "word": "かんがえ",
+    "kanji": "考え",
+    "translate": "可慮",
+    "id": "BASIC529"
+  },
+  {
+    "word": "ちじ",
+    "kanji": "知事",
+    "translate": "首長",
+    "id": "BASIC530"
+  },
+  {
+    "word": "チェックイン",
+    "kanji": "null",
+    "translate": "登記住宿",
+    "id": "BASIC531"
+  },
+  {
+    "word": "ベンチ",
+    "kanji": "null",
+    "translate": "長椅",
+    "id": "BASIC532"
+  },
+  {
+    "word": "かんしん",
+    "kanji": "感心",
+    "translate": "欽佩",
+    "id": "BASIC533"
+  },
+  {
+    "word": "てきせつ",
+    "kanji": "適切",
+    "translate": "妥當",
+    "id": "BASIC534"
+  },
+  {
+    "word": "かいぜん",
+    "kanji": "改善",
+    "translate": "改善",
+    "id": "BASIC535"
+  },
+  {
+    "word": "とら",
+    "kanji": "虎",
+    "translate": "老虎",
+    "id": "BASIC536"
+  },
+  {
+    "word": "たいおん",
+    "kanji": "体温",
+    "translate": "體溫",
+    "id": "BASIC537"
+  },
+  {
+    "word": "じょうほう",
+    "kanji": "情報",
+    "translate": "情報",
+    "id": "BASIC538"
+  },
+  {
+    "word": "やね",
+    "kanji": "屋根",
+    "translate": "屋頂",
+    "id": "BASIC539"
+  },
+  {
+    "word": "たんご",
+    "kanji": "単語",
+    "translate": "單字",
+    "id": "BASIC540"
+  },
+  {
+    "word": "かんげい",
+    "kanji": "歓迎",
+    "translate": "歡迎",
+    "id": "BASIC541"
+  },
+  {
+    "word": "おもわず",
+    "kanji": "思わず",
+    "translate": "忍不住",
+    "id": "BASIC542"
+  },
+  {
+    "word": "しるし",
+    "kanji": "印",
+    "translate": "印記",
+    "id": "BASIC543"
+  },
+  {
+    "word": "こくもつ",
+    "kanji": "穀物",
+    "translate": "五榖",
+    "id": "BASIC544"
+  },
+  {
+    "word": "しかく",
+    "kanji": "資格",
+    "translate": "資格",
+    "id": "BASIC545"
+  },
+  {
+    "word": "あらい",
+    "kanji": "粗い",
+    "translate": "粗心",
+    "id": "BASIC546"
+  },
+  {
+    "word": "しかも",
+    "kanji": "null",
+    "translate": "儘管如此",
+    "id": "BASIC547"
+  },
+  {
+    "word": "ちょしゃ",
+    "kanji": "著者",
+    "translate": "作者",
+    "id": "BASIC548"
+  },
+  {
+    "word": "ふか",
+    "kanji": "不可",
+    "translate": "不可~",
+    "id": "BASIC549"
+  },
+  {
+    "word": "してん",
+    "kanji": "支店",
+    "translate": "分店",
+    "id": "BASIC550"
+  },
+  {
+    "word": "ねがう",
+    "kanji": "願う",
+    "translate": "請求",
+    "id": "BASIC551"
+  },
+  {
+    "word": "やぶる",
+    "kanji": "破る",
+    "translate": "打破",
+    "id": "BASIC552"
+  },
+  {
+    "word": "ステッキ",
+    "kanji": "null",
+    "translate": "手杖",
+    "id": "BASIC553"
+  },
+  {
+    "word": "きし",
+    "kanji": "岸",
+    "translate": "岸、崖",
+    "id": "BASIC554"
+  },
+  {
+    "word": "こんざつ",
+    "kanji": "混雑",
+    "translate": "混亂",
+    "id": "BASIC555"
+  },
+  {
+    "word": "せっけい",
+    "kanji": "設計",
+    "translate": "設計",
+    "id": "BASIC556"
+  },
+  {
+    "word": "おそれる",
+    "kanji": "恐れる",
+    "translate": "害怕",
+    "id": "BASIC557"
+  },
+  {
+    "word": "ながめ",
+    "kanji": "眺め",
+    "translate": "瞭望",
+    "id": "BASIC558"
+  },
+  {
+    "word": "ちしき",
+    "kanji": "知識",
+    "translate": "知識",
+    "id": "BASIC559"
+  },
+  {
+    "word": "けっしん",
+    "kanji": "決心",
+    "translate": "決心",
+    "id": "BASIC560"
+  },
+  {
+    "word": "てきど",
+    "kanji": "適度",
+    "translate": "適當",
+    "id": "BASIC561"
+  },
+  {
+    "word": "けんちく",
+    "kanji": "建築",
+    "translate": "建築",
+    "id": "BASIC562"
+  },
+  {
+    "word": "がくひ",
+    "kanji": "学費",
+    "translate": "學費",
+    "id": "BASIC563"
+  },
+  {
+    "word": "ふうけい",
+    "kanji": "風景",
+    "translate": "風景",
+    "id": "BASIC564"
+  },
+  {
+    "word": "そだつ",
+    "kanji": "育つ",
+    "translate": "成長",
+    "id": "BASIC565"
+  },
+  {
+    "word": "バイオリン",
+    "kanji": "null",
+    "translate": "小提琴",
+    "id": "BASIC566"
+  },
+  {
+    "word": "ねんれい",
+    "kanji": "年齢",
+    "translate": "年齡",
+    "id": "BASIC567"
+  },
+  {
+    "word": "どくしょ",
+    "kanji": "読書",
+    "translate": "看書",
+    "id": "BASIC568"
+  },
+  {
+    "word": "アルバム",
+    "kanji": "null",
+    "translate": "相簿",
+    "id": "BASIC569"
+  },
+  {
+    "word": "こうくう",
+    "kanji": "航空",
+    "translate": "航空",
+    "id": "BASIC570"
+  },
+  {
+    "word": "かなり",
+    "kanji": "null",
+    "translate": "相當",
+    "id": "BASIC571"
+  },
+  {
+    "word": "はっせい",
+    "kanji": "発生",
+    "translate": "發生",
+    "id": "BASIC572"
+  },
+  {
+    "word": "かみ",
+    "kanji": "神",
+    "translate": "神明",
+    "id": "BASIC573"
+  },
+  {
+    "word": "めん",
+    "kanji": "綿",
+    "translate": "棉",
+    "id": "BASIC574"
+  },
+  {
+    "word": "こうげき",
+    "kanji": "攻撃",
+    "translate": "攻擊",
+    "id": "BASIC575"
+  },
+  {
+    "word": "ずるい",
+    "kanji": "null",
+    "translate": "狡猾的",
+    "id": "BASIC576"
+  },
+  {
+    "word": "なつかしい",
+    "kanji": "懐かしい",
+    "translate": "懷念的",
+    "id": "BASIC577"
+  },
+  {
+    "word": "りょう",
+    "kanji": "量",
+    "translate": "數量",
+    "id": "BASIC578"
+  },
+  {
+    "word": "きたく",
+    "kanji": "帰宅",
+    "translate": "回家",
+    "id": "BASIC579"
+  },
+  {
+    "word": "がっき",
+    "kanji": "学期",
+    "translate": "學期",
+    "id": "BASIC580"
+  },
+  {
+    "word": "うばう",
+    "kanji": "奪う",
+    "translate": "搶奪",
+    "id": "BASIC581"
+  },
+  {
+    "word": "よ",
+    "kanji": "夜",
+    "translate": "晚上",
+    "id": "BASIC582"
+  },
+  {
+    "word": "こうか",
+    "kanji": "効果",
+    "translate": "效果",
+    "id": "BASIC583"
+  },
+  {
+    "word": "かんさい",
+    "kanji": "関西",
+    "translate": "關西",
+    "id": "BASIC584"
+  },
+  {
+    "word": "ふえ",
+    "kanji": "笛",
+    "translate": "笛子",
+    "id": "BASIC585"
+  },
+  {
+    "word": "きかん",
+    "kanji": "期間",
+    "translate": "期間",
+    "id": "BASIC586"
+  },
+  {
+    "word": "ていりゅうじょ",
+    "kanji": "停留所",
+    "translate": "公車站",
+    "id": "BASIC587"
+  },
+  {
+    "word": "たにん",
+    "kanji": "他人",
+    "translate": "別人",
+    "id": "BASIC588"
+  },
+  {
+    "word": "さける",
+    "kanji": "避ける",
+    "translate": "躲避",
+    "id": "BASIC589"
+  },
+  {
+    "word": "たしかめる",
+    "kanji": "確かめる",
+    "translate": "確認",
+    "id": "BASIC590"
+  },
+  {
+    "word": "まわす",
+    "kanji": "回す",
+    "translate": "轉動",
+    "id": "BASIC591"
+  },
+  {
+    "word": "しゃっきん",
+    "kanji": "借金",
+    "translate": "貸款",
+    "id": "BASIC592"
+  },
+  {
+    "word": "なかなか",
+    "kanji": "null",
+    "translate": "非常",
+    "id": "BASIC593"
+  },
+  {
+    "word": "かいとう",
+    "kanji": "解答",
+    "translate": "解答",
+    "id": "BASIC594"
+  },
+  {
+    "word": "ぶつり",
+    "kanji": "物理",
+    "translate": "物理",
+    "id": "BASIC595"
+  },
+  {
+    "word": "たびたび",
+    "kanji": "null",
+    "translate": "屢次",
+    "id": "BASIC596"
+  },
+  {
+    "word": "てつや",
+    "kanji": "徹夜",
+    "translate": "通宵",
+    "id": "BASIC597"
+  },
+  {
+    "word": "だいり",
+    "kanji": "代理",
+    "translate": "代理、代表",
+    "id": "BASIC598"
+  },
+  {
+    "word": "びょうどう",
+    "kanji": "平等",
+    "translate": "平等",
+    "id": "BASIC599"
+  },
+  {
+    "word": "ぎかい",
+    "kanji": "議会",
+    "translate": "議會",
+    "id": "BASIC600"
+  },
+  {
+    "word": "むかえ",
+    "kanji": "迎え",
+    "translate": "迎接",
+    "id": "BASIC601"
+  },
+  {
+    "word": "じこく",
+    "kanji": "時刻",
+    "translate": "時刻",
+    "id": "BASIC602"
+  },
+  {
+    "word": "ひょうばん",
+    "kanji": "評判",
+    "translate": "評判",
+    "id": "BASIC603"
+  },
+  {
+    "word": "へいきん",
+    "kanji": "平均",
+    "translate": "平均",
+    "id": "BASIC604"
+  },
+  {
+    "word": "かける",
+    "kanji": "欠ける",
+    "translate": "欠缺",
+    "id": "BASIC605"
+  },
+  {
+    "word": "せんしゅ",
+    "kanji": "選手",
+    "translate": "選手",
+    "id": "BASIC606"
+  },
+  {
+    "word": "けっせき",
+    "kanji": "欠席",
+    "translate": "缺席",
+    "id": "BASIC607"
+  },
+  {
+    "word": "のこす",
+    "kanji": "残す",
+    "translate": "殘留",
+    "id": "BASIC608"
+  },
+  {
+    "word": "ひてい",
+    "kanji": "否定",
+    "translate": "否定",
+    "id": "BASIC609"
+  },
+  {
+    "word": "すごす",
+    "kanji": "過ごす",
+    "translate": "度過",
+    "id": "BASIC610"
+  },
+  {
+    "word": "ぜったい",
+    "kanji": "絶対",
+    "translate": "絕對",
+    "id": "BASIC611"
+  },
+  {
+    "word": "ノック",
+    "kanji": "null",
+    "translate": "敲門",
+    "id": "BASIC612"
+  },
+  {
+    "word": "しじ",
+    "kanji": "指示",
+    "translate": "命令",
+    "id": "BASIC613"
+  },
+  {
+    "word": "かんじゃ",
+    "kanji": "患者",
+    "translate": "病人",
+    "id": "BASIC614"
+  },
+  {
+    "word": "える",
+    "kanji": "得る",
+    "translate": "得到",
+    "id": "BASIC615"
+  },
+  {
+    "word": "しんぞう",
+    "kanji": "心臓",
+    "translate": "心臟",
+    "id": "BASIC616"
+  },
+  {
+    "word": "たたく",
+    "kanji": "叩く",
+    "translate": "敲打",
+    "id": "BASIC617"
+  },
+  {
+    "word": "ひん",
+    "kanji": "品",
+    "translate": "品格、風度",
+    "id": "BASIC618"
+  },
+  {
+    "word": "けっかん",
+    "kanji": "欠陥",
+    "translate": "缺點",
+    "id": "BASIC619"
+  },
+  {
+    "word": "はなす",
+    "kanji": "放す",
+    "translate": "放開",
+    "id": "BASIC620"
+  },
+  {
+    "word": "むかい",
+    "kanji": "向かい",
+    "translate": "對面",
+    "id": "BASIC621"
+  },
+  {
+    "word": "はかせ",
+    "kanji": "博士",
+    "translate": "博士",
+    "id": "BASIC622"
+  },
+  {
+    "word": "きょうかしょ",
+    "kanji": "教科書",
+    "translate": "課本",
+    "id": "BASIC623"
+  },
+  {
+    "word": "せきにん",
+    "kanji": "責任",
+    "translate": "責任",
+    "id": "BASIC624"
+  },
+  {
+    "word": "しゅしょう",
+    "kanji": "首相",
+    "translate": "首相",
+    "id": "BASIC625"
+  },
+  {
+    "word": "しょうひん",
+    "kanji": "商品",
+    "translate": "商品",
+    "id": "BASIC626"
+  },
+  {
+    "word": "よう",
+    "kanji": "酔う",
+    "translate": "喝醉、暈車",
+    "id": "BASIC627"
+  },
+  {
+    "word": "あばれる",
+    "kanji": "暴れる",
+    "translate": "橫衝直撞",
+    "id": "BASIC628"
+  },
+  {
+    "word": "きにいる",
+    "kanji": "気に入る",
+    "translate": "喜歡",
+    "id": "BASIC629"
+  },
+  {
+    "word": "それと",
+    "kanji": "null",
+    "translate": "還有",
+    "id": "BASIC630"
+  },
+  {
+    "word": "ものごと",
+    "kanji": "物事",
+    "translate": "事物",
+    "id": "BASIC631"
+  },
+  {
+    "word": "きん",
+    "kanji": "金",
+    "translate": "金",
+    "id": "BASIC632"
+  },
+  {
+    "word": "もうしこむ",
+    "kanji": "申し込む",
+    "translate": "報名",
+    "id": "BASIC633"
+  },
+  {
+    "word": "けいえい",
+    "kanji": "経営",
+    "translate": "經營",
+    "id": "BASIC634"
+  },
+  {
+    "word": "えいよう",
+    "kanji": "栄養",
+    "translate": "營養",
+    "id": "BASIC635"
+  },
+  {
+    "word": "ゆか",
+    "kanji": "床",
+    "translate": "地板",
+    "id": "BASIC636"
+  },
+  {
+    "word": "しゅうまつ",
+    "kanji": "週末",
+    "translate": "周末",
+    "id": "BASIC637"
+  },
+  {
+    "word": "たてる",
+    "kanji": "立てる",
+    "translate": "立起、創立",
+    "id": "BASIC638"
+  },
+  {
+    "word": "おくる",
+    "kanji": "贈る",
+    "translate": "贈送",
+    "id": "BASIC639"
+  },
+  {
+    "word": "しゅうせい",
+    "kanji": "修正",
+    "translate": "修正",
+    "id": "BASIC640"
+  },
+  {
+    "word": "いじょう",
+    "kanji": "異常",
+    "translate": "異常",
+    "id": "BASIC641"
+  },
+  {
+    "word": "ひかく",
+    "kanji": "比較",
+    "translate": "比較",
+    "id": "BASIC642"
+  },
+  {
+    "word": "せいふ",
+    "kanji": "政府",
+    "translate": "政府",
+    "id": "BASIC643"
+  },
+  {
+    "word": "すでに",
+    "kanji": "既に",
+    "translate": "已經",
+    "id": "BASIC644"
+  },
+  {
+    "word": "きよう",
+    "kanji": "器用",
+    "translate": "手巧、靈巧",
+    "id": "BASIC645"
+  },
+  {
+    "word": "たよる",
+    "kanji": "頼る",
+    "translate": "依賴",
+    "id": "BASIC646"
+  },
+  {
+    "word": "つうきん",
+    "kanji": "通勤",
+    "translate": "上下班",
+    "id": "BASIC647"
+  },
+  {
+    "word": "よゆう",
+    "kanji": "余裕",
+    "translate": "剩餘",
+    "id": "BASIC648"
+  },
+  {
+    "word": "しゅうにゅう",
+    "kanji": "収入",
+    "translate": "收入",
+    "id": "BASIC649"
+  },
+  {
+    "word": "へんか",
+    "kanji": "変化",
+    "translate": "變化",
+    "id": "BASIC650"
+  },
+  {
+    "word": "ちゃんと",
+    "kanji": "null",
+    "translate": "好好地",
+    "id": "BASIC651"
+  },
+  {
+    "word": "そのまま",
+    "kanji": "null",
+    "translate": "就照那樣",
+    "id": "BASIC652"
+  },
+  {
+    "word": "とうひょう",
+    "kanji": "投票",
+    "translate": "投票",
+    "id": "BASIC653"
+  },
+  {
+    "word": "みおくる",
+    "kanji": "見送る",
+    "translate": "送行",
+    "id": "BASIC654"
+  },
+  {
+    "word": "ふだん",
+    "kanji": "普段",
+    "translate": "平常",
+    "id": "BASIC655"
+  },
+  {
+    "word": "しんちょう",
+    "kanji": "身長",
+    "translate": "身高",
+    "id": "BASIC656"
+  },
+  {
+    "word": "すいみん",
+    "kanji": "睡眠",
+    "translate": "睡眠",
+    "id": "BASIC657"
+  },
+  {
+    "word": "たすう",
+    "kanji": "多数",
+    "translate": "大多數",
+    "id": "BASIC658"
+  },
+  {
+    "word": "いつでも",
+    "kanji": "null",
+    "translate": "無論何時",
+    "id": "BASIC659"
+  },
+  {
+    "word": "すいじゅん",
+    "kanji": "水準",
+    "translate": "水準",
+    "id": "BASIC660"
+  },
+  {
+    "word": "しも",
+    "kanji": "霜",
+    "translate": "霜",
+    "id": "BASIC661"
+  },
+  {
+    "word": "じゅよう",
+    "kanji": "需要",
+    "translate": "需求",
+    "id": "BASIC662"
+  },
+  {
+    "word": "ぶぶん",
+    "kanji": "部分",
+    "translate": "部分",
+    "id": "BASIC663"
+  },
+  {
+    "word": "しかる",
+    "kanji": "叱る",
+    "translate": "斥責",
+    "id": "BASIC664"
+  },
+  {
+    "word": "ゆかい",
+    "kanji": "愉快",
+    "translate": "愉快",
+    "id": "BASIC665"
+  },
+  {
+    "word": "じつげん",
+    "kanji": "実現",
+    "translate": "實現",
+    "id": "BASIC666"
+  },
+  {
+    "word": "しんらい",
+    "kanji": "信頼",
+    "translate": "信賴",
+    "id": "BASIC667"
+  },
+  {
+    "word": "はってん",
+    "kanji": "発展",
+    "translate": "發展",
+    "id": "BASIC668"
+  },
+  {
+    "word": "はくしゅ",
+    "kanji": "拍手",
+    "translate": "拍手",
+    "id": "BASIC669"
+  },
+  {
+    "word": "かがく",
+    "kanji": "化学",
+    "translate": "化學",
+    "id": "BASIC670"
+  },
+  {
+    "word": "かわいらしい",
+    "kanji": "null",
+    "translate": "可愛的",
+    "id": "BASIC671"
+  },
+  {
+    "word": "ひとしい",
+    "kanji": "等しい",
+    "translate": "相等的",
+    "id": "BASIC672"
+  },
+  {
+    "word": "ミルク",
+    "kanji": "null",
+    "translate": "牛奶",
+    "id": "BASIC673"
+  },
+  {
+    "word": "ラッシュアワー",
+    "kanji": "null",
+    "translate": "尖峰時刻",
+    "id": "BASIC674"
+  },
+  {
+    "word": "せき",
+    "kanji": "咳",
+    "translate": "咳嗽",
+    "id": "BASIC675"
+  },
+  {
+    "word": "がら",
+    "kanji": "柄",
+    "translate": "花樣",
+    "id": "BASIC676"
+  },
+  {
+    "word": "けんせつ",
+    "kanji": "建設",
+    "translate": "建設",
+    "id": "BASIC677"
+  },
+  {
+    "word": "デート",
+    "kanji": "null",
+    "translate": "約會",
+    "id": "BASIC678"
+  },
+  {
+    "word": "げんざい",
+    "kanji": "現在",
+    "translate": "現在",
+    "id": "BASIC679"
+  },
+  {
+    "word": "しじん",
+    "kanji": "詩人",
+    "translate": "詩人",
+    "id": "BASIC680"
+  },
+  {
+    "word": "さくら",
+    "kanji": "桜",
+    "translate": "櫻花",
+    "id": "BASIC681"
+  },
+  {
+    "word": "つく",
+    "kanji": "就く",
+    "translate": "從事",
+    "id": "BASIC682"
+  },
+  {
+    "word": "ぜん",
+    "kanji": "全",
+    "translate": "全部",
+    "id": "BASIC683"
+  },
+  {
+    "word": "きゅうに",
+    "kanji": "急に",
+    "translate": "突然",
+    "id": "BASIC684"
+  },
+  {
+    "word": "きり",
+    "kanji": "霧",
+    "translate": "噴霧、霧",
+    "id": "BASIC685"
+  },
+  {
+    "word": "アンケート",
+    "kanji": "null",
+    "translate": "問卷調查",
+    "id": "BASIC686"
+  },
+  {
+    "word": "クリスマス",
+    "kanji": "null",
+    "translate": "聖誕節",
+    "id": "BASIC687"
+  },
+  {
+    "word": "のぞく",
+    "kanji": "除く",
+    "translate": "刪去",
+    "id": "BASIC688"
+  },
+  {
+    "word": "せんこう",
+    "kanji": "専攻",
+    "translate": "專業",
+    "id": "BASIC689"
+  },
+  {
+    "word": "おもいで",
+    "kanji": "思い出",
+    "translate": "回憶",
+    "id": "BASIC690"
+  },
+  {
+    "word": "かくにん",
+    "kanji": "確認",
+    "translate": "確認",
+    "id": "BASIC691"
+  },
+  {
+    "word": "しんゆう",
+    "kanji": "親友",
+    "translate": "親密好友",
+    "id": "BASIC692"
+  },
+  {
+    "word": "いらいら",
+    "kanji": "null",
+    "translate": "著急",
+    "id": "BASIC693"
+  },
+  {
+    "word": "たいいく",
+    "kanji": "体育",
+    "translate": "體育",
+    "id": "BASIC694"
+  },
+  {
+    "word": "レンタカー",
+    "kanji": "null",
+    "translate": "出租車",
+    "id": "BASIC695"
+  },
+  {
+    "word": "ちこく",
+    "kanji": "遅刻",
+    "translate": "遲到",
+    "id": "BASIC696"
+  },
+  {
+    "word": "こや",
+    "kanji": "小屋",
+    "translate": "茅舍",
+    "id": "BASIC697"
+  },
+  {
+    "word": "のばす",
+    "kanji": "伸ばす",
+    "translate": "伸長",
+    "id": "BASIC698"
+  },
+  {
+    "word": "すると",
+    "kanji": "null",
+    "translate": "於是",
+    "id": "BASIC699"
+  },
+  {
+    "word": "およぎ",
+    "kanji": "泳ぎ",
+    "translate": "游泳",
+    "id": "BASIC700"
+  },
+  {
+    "word": "こんなに",
+    "kanji": "null",
+    "translate": "如此、這樣",
+    "id": "BASIC701"
+  },
+  {
+    "word": "そんがい",
+    "kanji": "損害",
+    "translate": "損害",
+    "id": "BASIC702"
+  },
+  {
+    "word": "どうろ",
+    "kanji": "道路",
+    "translate": "道路",
+    "id": "BASIC703"
+  },
+  {
+    "word": "トンネル",
+    "kanji": "null",
+    "translate": "隧道",
+    "id": "BASIC704"
+  },
+  {
+    "word": "りょうがえ",
+    "kanji": "両替",
+    "translate": "兌幣",
+    "id": "BASIC705"
+  },
+  {
+    "word": "うん",
+    "kanji": "運",
+    "translate": "運氣",
+    "id": "BASIC706"
+  },
+  {
+    "word": "こうか",
+    "kanji": "硬貨",
+    "translate": "硬幣",
+    "id": "BASIC707"
+  },
+  {
+    "word": "うりきれ",
+    "kanji": "売る切れ",
+    "translate": "全部售完",
+    "id": "BASIC708"
+  },
+  {
+    "word": "せい",
+    "kanji": "null",
+    "translate": "原因",
+    "id": "BASIC709"
+  },
+  {
+    "word": "たから",
+    "kanji": "宝",
+    "translate": "財寶",
+    "id": "BASIC710"
+  },
+  {
+    "word": "とうじ",
+    "kanji": "当時",
+    "translate": "當時、目前",
+    "id": "BASIC711"
+  },
+  {
+    "word": "かいけつ",
+    "kanji": "解決",
+    "translate": "解決",
+    "id": "BASIC712"
+  },
+  {
+    "word": "ハイキング",
+    "kanji": "null",
+    "translate": "健行",
+    "id": "BASIC713"
+  },
+  {
+    "word": "げんしょう",
+    "kanji": "現象",
+    "translate": "現象",
+    "id": "BASIC714"
+  },
+  {
+    "word": "かいが",
+    "kanji": "絵画",
+    "translate": "繪畫",
+    "id": "BASIC715"
+  },
+  {
+    "word": "あらわす",
+    "kanji": "表す",
+    "translate": "表示",
+    "id": "BASIC716"
+  },
+  {
+    "word": "くやしい",
+    "kanji": "悔しい",
+    "translate": "令人懊悔",
+    "id": "BASIC717"
+  },
+  {
+    "word": "たっする",
+    "kanji": "達する",
+    "translate": "達到",
+    "id": "BASIC718"
+  },
+  {
+    "word": "かしこい",
+    "kanji": "賢い",
+    "translate": "聰明的",
+    "id": "BASIC719"
+  },
+  {
+    "word": "はくぶつかん",
+    "kanji": "博物館",
+    "translate": "博物館",
+    "id": "BASIC720"
+  },
+  {
+    "word": "けっきょく",
+    "kanji": "結局",
+    "translate": "結局",
+    "id": "BASIC721"
+  },
+  {
+    "word": "はかる",
+    "kanji": "計る",
+    "translate": "丈量",
+    "id": "BASIC722"
+  },
+  {
+    "word": "しょくぶつ",
+    "kanji": "植物",
+    "translate": "植物",
+    "id": "BASIC723"
+  },
+  {
+    "word": "おぼれる",
+    "kanji": "溺れる",
+    "translate": "溺水",
+    "id": "BASIC724"
+  },
+  {
+    "word": "けいけんしゃ",
+    "kanji": "経験者",
+    "translate": "有經驗的人",
+    "id": "BASIC725"
+  },
+  {
+    "word": "じむ",
+    "kanji": "事務",
+    "translate": "工作、事務",
+    "id": "BASIC726"
+  },
+  {
+    "word": "いっしゅん",
+    "kanji": "一瞬",
+    "translate": "瞬間",
+    "id": "BASIC727"
+  },
+  {
+    "word": "せいじん",
+    "kanji": "成人",
+    "translate": "成年人",
+    "id": "BASIC728"
+  },
+  {
+    "word": "あんき",
+    "kanji": "暗記",
+    "translate": "記住",
+    "id": "BASIC729"
+  },
+  {
+    "word": "つかれ",
+    "kanji": "疲れ",
+    "translate": "疲勞",
+    "id": "BASIC730"
+  },
+  {
+    "word": "わかもの",
+    "kanji": "若者",
+    "translate": "年輕人",
+    "id": "BASIC731"
+  },
+  {
+    "word": "きこく",
+    "kanji": "帰国",
+    "translate": "回國",
+    "id": "BASIC732"
+  },
+  {
+    "word": "ぎちょう",
+    "kanji": "議長",
+    "translate": "議長",
+    "id": "BASIC733"
+  },
+  {
+    "word": "ばったり",
+    "kanji": "null",
+    "translate": "突然相遇",
+    "id": "BASIC734"
+  },
+  {
+    "word": "しゅっぱん",
+    "kanji": "出版",
+    "translate": "出版",
+    "id": "BASIC735"
+  },
+  {
+    "word": "ほうもん",
+    "kanji": "訪問",
+    "translate": "訪問",
+    "id": "BASIC736"
+  },
+  {
+    "word": "せいかく",
+    "kanji": "性格",
+    "translate": "性格",
+    "id": "BASIC737"
+  },
+  {
+    "word": "うりきれる",
+    "kanji": "売り切れる",
+    "translate": "售完",
+    "id": "BASIC738"
+  },
+  {
+    "word": "もじ",
+    "kanji": "文字",
+    "translate": "文字、字跡",
+    "id": "BASIC739"
+  },
+  {
+    "word": "とんでもない",
+    "kanji": "null",
+    "translate": "出乎意料",
+    "id": "BASIC740"
+  },
+  {
+    "word": "ぴったり",
+    "kanji": "null",
+    "translate": "恰巧",
+    "id": "BASIC741"
+  },
+  {
+    "word": "おめにかかる",
+    "kanji": "お目に掛かる",
+    "translate": "拜會",
+    "id": "BASIC742"
+  },
+  {
+    "word": "きたい",
+    "kanji": "期待",
+    "translate": "期待",
+    "id": "BASIC743"
+  },
+  {
+    "word": "かのう",
+    "kanji": "可能",
+    "translate": "可能的",
+    "id": "BASIC744"
+  },
+  {
+    "word": "りつ",
+    "kanji": "率",
+    "translate": "比例",
+    "id": "BASIC745"
+  },
+  {
+    "word": "えんぎ",
+    "kanji": "演技",
+    "translate": "演技",
+    "id": "BASIC746"
+  },
+  {
+    "word": "あい",
+    "kanji": "愛",
+    "translate": "愛",
+    "id": "BASIC747"
+  },
+  {
+    "word": "きゅうか",
+    "kanji": "休暇",
+    "translate": "休假",
+    "id": "BASIC748"
+  },
+  {
+    "word": "ゆうこう",
+    "kanji": "有効",
+    "translate": "有效",
+    "id": "BASIC749"
+  },
+  {
+    "word": "それでも",
+    "kanji": "null",
+    "translate": "儘管如此",
+    "id": "BASIC750"
+  },
+  {
+    "word": "はく",
+    "kanji": "吐く",
+    "translate": "吐出",
+    "id": "BASIC751"
+  },
+  {
+    "word": "たいりょう",
+    "kanji": "大量",
+    "translate": "大量",
+    "id": "BASIC752"
+  },
+  {
+    "word": "もとめる",
+    "kanji": "求める",
+    "translate": "尋求",
+    "id": "BASIC753"
+  },
+  {
+    "word": "おそろしい",
+    "kanji": "恐ろしい",
+    "translate": "可怕的",
+    "id": "BASIC754"
+  },
+  {
+    "word": "たつ",
+    "kanji": "建つ",
+    "translate": "建、蓋",
+    "id": "BASIC755"
+  },
+  {
+    "word": "しんがく",
+    "kanji": "進学",
+    "translate": "升學",
+    "id": "BASIC756"
+  },
+  {
+    "word": "あき",
+    "kanji": "空き",
+    "translate": "空隙、空閒",
+    "id": "BASIC757"
+  },
+  {
+    "word": "ふらふら",
+    "kanji": "null",
+    "translate": "搖晃",
+    "id": "BASIC758"
+  },
+  {
+    "word": "ぬける",
+    "kanji": "抜ける",
+    "translate": "脫落",
+    "id": "BASIC759"
+  },
+  {
+    "word": "のこり",
+    "kanji": "残り",
+    "translate": "剩餘",
+    "id": "BASIC760"
+  },
+  {
+    "word": "かこ",
+    "kanji": "過去",
+    "translate": "過去",
+    "id": "BASIC761"
+  },
+  {
+    "word": "ほうこう",
+    "kanji": "方向",
+    "translate": "方向",
+    "id": "BASIC762"
+  },
+  {
+    "word": "にゅうじょう",
+    "kanji": "入場",
+    "translate": "入場",
+    "id": "BASIC763"
+  },
+  {
+    "word": "びじゅつ",
+    "kanji": "美術",
+    "translate": "美術",
+    "id": "BASIC764"
+  },
+  {
+    "word": "のうか",
+    "kanji": "農家",
+    "translate": "農家",
+    "id": "BASIC765"
+  },
+  {
+    "word": "たて",
+    "kanji": "縦",
+    "translate": "縱、豎",
+    "id": "BASIC766"
+  },
+  {
+    "word": "りゅうこう",
+    "kanji": "流行",
+    "translate": "時尚",
+    "id": "BASIC767"
+  },
+  {
+    "word": "えんそう",
+    "kanji": "演奏",
+    "translate": "演奏",
+    "id": "BASIC768"
+  },
+  {
+    "word": "たいする",
+    "kanji": "対する",
+    "translate": "對於",
+    "id": "BASIC769"
+  },
+  {
+    "word": "いしき",
+    "kanji": "意識",
+    "translate": "意識",
+    "id": "BASIC770"
+  },
+  {
+    "word": "ひっし",
+    "kanji": "必死",
+    "translate": "拼命、必死",
+    "id": "BASIC771"
+  },
+  {
+    "word": "ほえる",
+    "kanji": "吠える",
+    "translate": "吠、叫",
+    "id": "BASIC772"
+  },
+  {
+    "word": "チャレンジ",
+    "kanji": "null",
+    "translate": "挑戰",
+    "id": "BASIC773"
+  },
+  {
+    "word": "よなか",
+    "kanji": "夜中",
+    "translate": "半夜",
+    "id": "BASIC774"
+  },
+  {
+    "word": "はなれる",
+    "kanji": "離れる",
+    "translate": "分離",
+    "id": "BASIC775"
+  },
+  {
+    "word": "はい",
+    "kanji": "灰",
+    "translate": "灰",
+    "id": "BASIC776"
+  },
+  {
+    "word": "りょうしゅうしょ",
+    "kanji": "領収書",
+    "translate": "收據",
+    "id": "BASIC777"
+  },
+  {
+    "word": "ゆうしょう",
+    "kanji": "優勝",
+    "translate": "優勝",
+    "id": "BASIC778"
+  },
+  {
+    "word": "あいじょう",
+    "kanji": "愛情",
+    "translate": "愛情",
+    "id": "BASIC779"
+  },
+  {
+    "word": "つらい",
+    "kanji": "辛い",
+    "translate": "辛苦的",
+    "id": "BASIC780"
+  },
+  {
+    "word": "えいせい",
+    "kanji": "衛星",
+    "translate": "衛星",
+    "id": "BASIC781"
+  },
+  {
+    "word": "ながす",
+    "kanji": "流す",
+    "translate": "使流動",
+    "id": "BASIC782"
+  },
+  {
+    "word": "よさん",
+    "kanji": "予算",
+    "translate": "預算",
+    "id": "BASIC783"
+  },
+  {
+    "word": "うま",
+    "kanji": "馬",
+    "translate": "馬",
+    "id": "BASIC784"
+  },
+  {
+    "word": "しゅうしょく",
+    "kanji": "就職",
+    "translate": "就業",
+    "id": "BASIC785"
+  },
+  {
+    "word": "おすまい",
+    "kanji": "お住まい",
+    "translate": "住的地方",
+    "id": "BASIC786"
+  },
+  {
+    "word": "くるしむ",
+    "kanji": "苦しむ",
+    "translate": "感到痛苦",
+    "id": "BASIC787"
+  },
+  {
+    "word": "どうし",
+    "kanji": "動詞",
+    "translate": "動詞",
+    "id": "BASIC788"
+  },
+  {
+    "word": "じまん",
+    "kanji": "自慢",
+    "translate": "自負",
+    "id": "BASIC789"
+  },
+  {
+    "word": "ろうじん",
+    "kanji": "老人",
+    "translate": "老年人",
+    "id": "BASIC790"
+  },
+  {
+    "word": "したしい",
+    "kanji": "親しい",
+    "translate": "親近的",
+    "id": "BASIC791"
+  },
+  {
+    "word": "いし",
+    "kanji": "医師",
+    "translate": "醫師",
+    "id": "BASIC792"
+  },
+  {
+    "word": "やめる",
+    "kanji": "辞める",
+    "translate": "辭職",
+    "id": "BASIC793"
+  },
+  {
+    "word": "ぜんこく",
+    "kanji": "全国",
+    "translate": "全國",
+    "id": "BASIC794"
+  },
+  {
+    "word": "まんぞく",
+    "kanji": "満足",
+    "translate": "滿足",
+    "id": "BASIC795"
+  },
+  {
+    "word": "むく",
+    "kanji": "向く",
+    "translate": "面向",
+    "id": "BASIC796"
+  },
+  {
+    "word": "コーチ",
+    "kanji": "null",
+    "translate": "教練",
+    "id": "BASIC797"
+  },
+  {
+    "word": "えいぎょう",
+    "kanji": "営業",
+    "translate": "營業",
+    "id": "BASIC798"
+  },
+  {
+    "word": "こえる",
+    "kanji": "超える",
+    "translate": "超過",
+    "id": "BASIC799"
+  },
+  {
+    "word": "ねっちゅう",
+    "kanji": "熱中",
+    "translate": "熱中",
+    "id": "BASIC800"
+  },
+  {
+    "word": "ことなる",
+    "kanji": "異なる",
+    "translate": "異常",
+    "id": "BASIC801"
+  },
+  {
+    "word": "べつに",
+    "kanji": "別に",
+    "translate": "分開",
+    "id": "BASIC802"
+  },
+  {
+    "word": "スタイル",
+    "kanji": "null",
+    "translate": "風格",
+    "id": "BASIC803"
+  },
+  {
+    "word": "げきじょう",
+    "kanji": "劇場",
+    "translate": "劇場、電影院",
+    "id": "BASIC804"
+  },
+  {
+    "word": "ごうとう",
+    "kanji": "強盗",
+    "translate": "強盜",
+    "id": "BASIC805"
+  },
+  {
+    "word": "だい",
+    "kanji": "題",
+    "translate": "題目",
+    "id": "BASIC806"
+  },
+  {
+    "word": "のぞむ",
+    "kanji": "望む",
+    "translate": "期望",
+    "id": "BASIC807"
+  },
+  {
+    "word": "おさない",
+    "kanji": "幼い",
+    "translate": "幼小的",
+    "id": "BASIC808"
+  },
+  {
+    "word": "こうほ",
+    "kanji": "候補",
+    "translate": "候補",
+    "id": "BASIC809"
+  },
+  {
+    "word": "プラン",
+    "kanji": "null",
+    "translate": "計畫",
+    "id": "BASIC810"
+  },
+  {
+    "word": "あんなに",
+    "kanji": "null",
+    "translate": "那麼、那樣",
+    "id": "BASIC811"
+  },
+  {
+    "word": "らいにち",
+    "kanji": "来日",
+    "translate": "來日本",
+    "id": "BASIC812"
+  },
+  {
+    "word": "ぎもん",
+    "kanji": "疑問",
+    "translate": "疑問",
+    "id": "BASIC813"
+  },
+  {
+    "word": "ちゅうしん",
+    "kanji": "中心",
+    "translate": "中心、重心",
+    "id": "BASIC814"
+  },
+  {
+    "word": "いち",
+    "kanji": "位置",
+    "translate": "位置、地點",
+    "id": "BASIC815"
+  },
+  {
+    "word": "すうじ",
+    "kanji": "数字",
+    "translate": "數字",
+    "id": "BASIC816"
+  },
+  {
+    "word": "にんげんかんけい",
+    "kanji": "人間関係",
+    "translate": "人際關係",
+    "id": "BASIC817"
+  },
+  {
+    "word": "おおや",
+    "kanji": "大家",
+    "translate": "房東",
+    "id": "BASIC818"
+  },
+  {
+    "word": "したがう",
+    "kanji": "従う",
+    "translate": "服從",
+    "id": "BASIC819"
+  },
+  {
+    "word": "げんかい",
+    "kanji": "限界",
+    "translate": "限度",
+    "id": "BASIC820"
+  },
+  {
+    "word": "しみ",
+    "kanji": "null",
+    "translate": "汙垢",
+    "id": "BASIC821"
+  },
+  {
+    "word": "しょうめいしょ",
+    "kanji": "証明書",
+    "translate": "證明書",
+    "id": "BASIC822"
+  },
+  {
+    "word": "あんまり",
+    "kanji": "null",
+    "translate": "過於",
+    "id": "BASIC823"
+  },
+  {
+    "word": "ことわる",
+    "kanji": "断る",
+    "translate": "拒絕",
+    "id": "BASIC824"
+  },
+  {
+    "word": "ベルト",
+    "kanji": "null",
+    "translate": "皮帶",
+    "id": "BASIC825"
+  },
+  {
+    "word": "しょうたい",
+    "kanji": "招待",
+    "translate": "招呼",
+    "id": "BASIC826"
+  },
+  {
+    "word": "ゆうめいじん",
+    "kanji": "有名人",
+    "translate": "著名人物",
+    "id": "BASIC827"
+  },
+  {
+    "word": "さ",
+    "kanji": "差",
+    "translate": "差異",
+    "id": "BASIC828"
+  },
+  {
+    "word": "えがお",
+    "kanji": "笑顔",
+    "translate": "笑容",
+    "id": "BASIC829"
+  },
+  {
+    "word": "げんじつ",
+    "kanji": "現実",
+    "translate": "現實",
+    "id": "BASIC830"
+  },
+  {
+    "word": "きねんび",
+    "kanji": "記念日",
+    "translate": "紀念日",
+    "id": "BASIC831"
+  },
+  {
+    "word": "かんり",
+    "kanji": "管理",
+    "translate": "管理",
+    "id": "BASIC832"
+  },
+  {
+    "word": "ふこう",
+    "kanji": "不幸",
+    "translate": "不幸",
+    "id": "BASIC833"
+  },
+  {
+    "word": "あらし",
+    "kanji": "嵐",
+    "translate": "暴風雨",
+    "id": "BASIC834"
+  },
+  {
+    "word": "こおり",
+    "kanji": "氷",
+    "translate": "冰",
+    "id": "BASIC835"
+  },
+  {
+    "word": "へる",
+    "kanji": "減る",
+    "translate": "減少",
+    "id": "BASIC836"
+  },
+  {
+    "word": "なぜなら",
+    "kanji": "null",
+    "translate": "因為",
+    "id": "BASIC837"
+  },
+  {
+    "word": "かんりょう",
+    "kanji": "完了",
+    "translate": "完畢",
+    "id": "BASIC838"
+  },
+  {
+    "word": "せいさん",
+    "kanji": "生産",
+    "translate": "生產",
+    "id": "BASIC839"
+  },
+  {
+    "word": "つぎつぎ",
+    "kanji": "次々",
+    "translate": "接二連三",
+    "id": "BASIC840"
+  },
+  {
+    "word": "くせ",
+    "kanji": "癖",
+    "translate": "習慣",
+    "id": "BASIC841"
+  },
+  {
+    "word": "もったいない",
+    "kanji": "null",
+    "translate": "可惜",
+    "id": "BASIC842"
+  },
+  {
+    "word": "じょうきょう",
+    "kanji": "状況",
+    "translate": "狀況",
+    "id": "BASIC843"
+  },
+  {
+    "word": "パイロット",
+    "kanji": "null",
+    "translate": "飛行員",
+    "id": "BASIC844"
+  },
+  {
+    "word": "ずつう",
+    "kanji": "頭痛",
+    "translate": "頭痛",
+    "id": "BASIC845"
+  },
+  {
+    "word": "うちゅう",
+    "kanji": "宇宙",
+    "translate": "宇宙",
+    "id": "BASIC846"
+  },
+  {
+    "word": "きがつく",
+    "kanji": "気が付く",
+    "translate": "注意到",
+    "id": "BASIC847"
+  },
+  {
+    "word": "なし",
+    "kanji": "無し",
+    "translate": "沒有",
+    "id": "BASIC848"
+  },
+  {
+    "word": "おおいに",
+    "kanji": "大いに",
+    "translate": "非常",
+    "id": "BASIC849"
+  },
+  {
+    "word": "ひざ",
+    "kanji": "膝",
+    "translate": "膝蓋",
+    "id": "BASIC850"
+  },
+  {
+    "word": "おうさま",
+    "kanji": "王様",
+    "translate": "國王",
+    "id": "BASIC851"
+  },
+  {
+    "word": "むしば",
+    "kanji": "虫歯",
+    "translate": "蛀牙",
+    "id": "BASIC852"
+  },
+  {
+    "word": "つもる",
+    "kanji": "積もる",
+    "translate": "累積",
+    "id": "BASIC853"
+  },
+  {
+    "word": "たとえ",
+    "kanji": "null",
+    "translate": "縱使",
+    "id": "BASIC854"
+  },
+  {
+    "word": "ほうこく",
+    "kanji": "報告",
+    "translate": "報告",
+    "id": "BASIC855"
+  },
+  {
+    "word": "おわかれかい",
+    "kanji": "お別れ会",
+    "translate": "惜別會",
+    "id": "BASIC856"
+  },
+  {
+    "word": "バイキング",
+    "kanji": "null",
+    "translate": "西式吃到飽",
+    "id": "BASIC857"
+  },
+  {
+    "word": "じじつ",
+    "kanji": "事実",
+    "translate": "事實",
+    "id": "BASIC858"
+  },
+  {
+    "word": "よぼう",
+    "kanji": "予防",
+    "translate": "預防",
+    "id": "BASIC859"
+  },
+  {
+    "word": "ぎゃくに",
+    "kanji": "逆に",
+    "translate": "相反",
+    "id": "BASIC860"
+  },
+  {
+    "word": "うめ",
+    "kanji": "梅",
+    "translate": "梅花",
+    "id": "BASIC861"
+  },
+  {
+    "word": "かわ",
+    "kanji": "皮",
+    "translate": "外皮",
+    "id": "BASIC862"
+  },
+  {
+    "word": "さんこう",
+    "kanji": "参考",
+    "translate": "參考",
+    "id": "BASIC863"
+  },
+  {
+    "word": "ゆうしゅう",
+    "kanji": "優秀",
+    "translate": "優秀",
+    "id": "BASIC864"
+  },
+  {
+    "word": "ころぶ",
+    "kanji": "転ぶ",
+    "translate": "滾轉",
+    "id": "BASIC865"
+  },
+  {
+    "word": "じょうたい",
+    "kanji": "状態",
+    "translate": "狀態",
+    "id": "BASIC866"
+  },
+  {
+    "word": "しまい",
+    "kanji": "姉妹",
+    "translate": "姊妹",
+    "id": "BASIC867"
+  },
+  {
+    "word": "けいさん",
+    "kanji": "計算",
+    "translate": "計算",
+    "id": "BASIC868"
+  },
+  {
+    "word": "しゅうちゅう",
+    "kanji": "集中",
+    "translate": "集中",
+    "id": "BASIC869"
+  },
+  {
+    "word": "なやむ",
+    "kanji": "悩む",
+    "translate": "煩惱",
+    "id": "BASIC870"
+  },
+  {
+    "word": "ばか",
+    "kanji": "馬鹿",
+    "translate": "笨蛋",
+    "id": "BASIC871"
+  },
+  {
+    "word": "おわび",
+    "kanji": "お詫び",
+    "translate": "道歉",
+    "id": "BASIC872"
+  },
+  {
+    "word": "くんれん",
+    "kanji": "訓練",
+    "translate": "訓練",
+    "id": "BASIC873"
+  },
+  {
+    "word": "ひとりひとり",
+    "kanji": "一人一人",
+    "translate": "每一個人",
+    "id": "BASIC874"
+  },
+  {
+    "word": "しんせん",
+    "kanji": "新鮮",
+    "translate": "新鮮的",
+    "id": "BASIC875"
+  },
+  {
+    "word": "じきゅう",
+    "kanji": "時給",
+    "translate": "時薪",
+    "id": "BASIC876"
+  },
+  {
+    "word": "いまにも",
+    "kanji": "今にも",
+    "translate": "馬上",
+    "id": "BASIC877"
+  },
+  {
+    "word": "よほう",
+    "kanji": "予報",
+    "translate": "預報",
+    "id": "BASIC878"
+  },
+  {
+    "word": "けいこう",
+    "kanji": "傾向",
+    "translate": "趨勢",
+    "id": "BASIC879"
+  },
+  {
+    "word": "めいれい",
+    "kanji": "命令",
+    "translate": "命令",
+    "id": "BASIC880"
+  },
+  {
+    "word": "じんぶつ",
+    "kanji": "人物",
+    "translate": "人物",
+    "id": "BASIC881"
+  },
+  {
+    "word": "ほんもの",
+    "kanji": "本物",
+    "translate": "真貨",
+    "id": "BASIC882"
+  },
+  {
+    "word": "しめい",
+    "kanji": "指名",
+    "translate": "姓名",
+    "id": "BASIC883"
+  },
+  {
+    "word": "たいりく",
+    "kanji": "大陸",
+    "translate": "大陸",
+    "id": "BASIC884"
+  },
+  {
+    "word": "ざいりょう",
+    "kanji": "材料",
+    "translate": "材料",
+    "id": "BASIC885"
+  },
+  {
+    "word": "ちょきん",
+    "kanji": "貯金",
+    "translate": "儲蓄",
+    "id": "BASIC886"
+  },
+  {
+    "word": "くさる",
+    "kanji": "腐る",
+    "translate": "腐壞",
+    "id": "BASIC887"
+  },
+  {
+    "word": "きまり",
+    "kanji": "決まり",
+    "translate": "規定",
+    "id": "BASIC888"
+  },
+  {
+    "word": "バン",
+    "kanji": "null",
+    "translate": "休旅車",
+    "id": "BASIC889"
+  },
+  {
+    "word": "しゅっしん",
+    "kanji": "出身",
+    "translate": "出身",
+    "id": "BASIC890"
+  },
+  {
+    "word": "アイロン",
+    "kanji": "null",
+    "translate": "熨斗",
+    "id": "BASIC891"
+  },
+  {
+    "word": "うたがう",
+    "kanji": "疑う",
+    "translate": "懷疑",
+    "id": "BASIC892"
+  },
+  {
+    "word": "つなぐ",
+    "kanji": "繋ぐ",
+    "translate": "繫起",
+    "id": "BASIC893"
+  },
+  {
+    "word": "はっぴょう",
+    "kanji": "発表",
+    "translate": "發表",
+    "id": "BASIC894"
+  },
+  {
+    "word": "せいかく",
+    "kanji": "正確",
+    "translate": "正確",
+    "id": "BASIC895"
+  },
+  {
+    "word": "じょうだん",
+    "kanji": "冗談",
+    "translate": "玩笑",
+    "id": "BASIC896"
+  },
+  {
+    "word": "ていあん",
+    "kanji": "提案",
+    "translate": "建議、提案",
+    "id": "BASIC897"
+  },
+  {
+    "word": "くみあい",
+    "kanji": "組合",
+    "translate": "組合、公會",
+    "id": "BASIC898"
+  },
+  {
+    "word": "つみ",
+    "kanji": "罪",
+    "translate": "罪過",
+    "id": "BASIC899"
+  },
+  {
+    "word": "たいよう",
+    "kanji": "太陽",
+    "translate": "太陽",
+    "id": "BASIC900"
+  },
+  {
+    "word": "ひろがる",
+    "kanji": "広がる",
+    "translate": "變寬",
+    "id": "BASIC901"
+  },
+  {
+    "word": "にあう",
+    "kanji": "似合う",
+    "translate": "合適",
+    "id": "BASIC902"
+  },
+  {
+    "word": "どく",
+    "kanji": "毒",
+    "translate": "毒物",
+    "id": "BASIC903"
+  },
+  {
+    "word": "そうおん",
+    "kanji": "騒音",
+    "translate": "噪音",
+    "id": "BASIC904"
+  },
+  {
+    "word": "おじぎ",
+    "kanji": "お辞儀",
+    "translate": "敬禮",
+    "id": "BASIC905"
+  },
+  {
+    "word": "した",
+    "kanji": "舌",
+    "translate": "舌頭",
+    "id": "BASIC906"
+  },
+  {
+    "word": "じんせい",
+    "kanji": "人生",
+    "translate": "人生",
+    "id": "BASIC907"
+  },
+  {
+    "word": "コミュニケーション",
+    "kanji": "null",
+    "translate": "溝通",
+    "id": "BASIC908"
+  },
+  {
+    "word": "つぐ",
+    "kanji": "注ぐ",
+    "translate": "注入",
+    "id": "BASIC909"
+  },
+  {
+    "word": "ユーモア",
+    "kanji": "null",
+    "translate": "幽默",
+    "id": "BASIC910"
+  },
+  {
+    "word": "かん",
+    "kanji": "缶",
+    "translate": "罐、桶",
+    "id": "BASIC911"
+  },
+  {
+    "word": "まね",
+    "kanji": "真似",
+    "translate": "模仿",
+    "id": "BASIC912"
+  },
+  {
+    "word": "ほこり",
+    "kanji": "埃",
+    "translate": "塵埃",
+    "id": "BASIC913"
+  },
+  {
+    "word": "かいがい",
+    "kanji": "海外",
+    "translate": "國外",
+    "id": "BASIC914"
+  },
+  {
+    "word": "よめ",
+    "kanji": "嫁",
+    "translate": "媳婦",
+    "id": "BASIC915"
+  },
+  {
+    "word": "なかなおり",
+    "kanji": "仲直り",
+    "translate": "和好",
+    "id": "BASIC916"
+  },
+  {
+    "word": "どうじ",
+    "kanji": "同時",
+    "translate": "同時",
+    "id": "BASIC917"
+  },
+  {
+    "word": "こうどう",
+    "kanji": "行動",
+    "translate": "行動",
+    "id": "BASIC918"
+  },
+  {
+    "word": "こくご",
+    "kanji": "国語",
+    "translate": "一國的語言",
+    "id": "BASIC919"
+  },
+  {
+    "word": "しゅうりょう",
+    "kanji": "終了",
+    "translate": "完畢",
+    "id": "BASIC920"
+  },
+  {
+    "word": "いた",
+    "kanji": "板",
+    "translate": "板子",
+    "id": "BASIC921"
+  },
+  {
+    "word": "トップ",
+    "kanji": "null",
+    "translate": "頂端",
+    "id": "BASIC922"
+  },
+  {
+    "word": "れい",
+    "kanji": "例",
+    "translate": "例子",
+    "id": "BASIC923"
+  },
+  {
+    "word": "ロケット",
+    "kanji": "null",
+    "translate": "火箭",
+    "id": "BASIC924"
+  },
+  {
+    "word": "かぞえる",
+    "kanji": "数える",
+    "translate": "算、數",
+    "id": "BASIC925"
+  },
+  {
+    "word": "とくちょう",
+    "kanji": "特徴",
+    "translate": "特徵",
+    "id": "BASIC926"
+  },
+  {
+    "word": "じっこう",
+    "kanji": "実行",
+    "translate": "實行",
+    "id": "BASIC927"
+  },
+  {
+    "word": "せいき",
+    "kanji": "世紀",
+    "translate": "世紀",
+    "id": "BASIC928"
+  },
+  {
+    "word": "ちゅうおう",
+    "kanji": "中央",
+    "translate": "中央",
+    "id": "BASIC929"
+  },
+  {
+    "word": "ドラマ",
+    "kanji": "null",
+    "translate": "連續劇",
+    "id": "BASIC930"
+  },
+  {
+    "word": "みかた",
+    "kanji": "味方",
+    "translate": "我方",
+    "id": "BASIC931"
+  },
+  {
+    "word": "くさい",
+    "kanji": "臭い",
+    "translate": "臭的",
+    "id": "BASIC932"
+  },
+  {
+    "word": "のうみん",
+    "kanji": "農民",
+    "translate": "農民",
+    "id": "BASIC933"
+  },
+  {
+    "word": "いぜん",
+    "kanji": "以前",
+    "translate": "從前",
+    "id": "BASIC934"
+  },
+  {
+    "word": "いっぱん",
+    "kanji": "一般",
+    "translate": "普通",
+    "id": "BASIC935"
+  },
+  {
+    "word": "せいじょう",
+    "kanji": "正常",
+    "translate": "正常",
+    "id": "BASIC936"
+  },
+  {
+    "word": "くらし",
+    "kanji": "暮らし",
+    "translate": "家計",
+    "id": "BASIC937"
+  },
+  {
+    "word": "ホームステイ",
+    "kanji": "null",
+    "translate": "家庭寄宿",
+    "id": "BASIC938"
+  },
+  {
+    "word": "インク",
+    "kanji": "null",
+    "translate": "墨水",
+    "id": "BASIC939"
+  },
+  {
+    "word": "きねん",
+    "kanji": "記念",
+    "translate": "紀念",
+    "id": "BASIC940"
+  },
+  {
+    "word": "ぎいん",
+    "kanji": "議員",
+    "translate": "議員",
+    "id": "BASIC941"
+  },
+  {
+    "word": "チーム",
+    "kanji": "null",
+    "translate": "隊伍",
+    "id": "BASIC942"
+  },
+  {
+    "word": "ばめん",
+    "kanji": "場面",
+    "translate": "場面",
+    "id": "BASIC943"
+  },
+  {
+    "word": "ごちそう",
+    "kanji": "御馳走",
+    "translate": "請客",
+    "id": "BASIC944"
+  },
+  {
+    "word": "ふくそう",
+    "kanji": "服装",
+    "translate": "服裝",
+    "id": "BASIC945"
+  },
+  {
+    "word": "けしょうひん",
+    "kanji": "化粧品",
+    "translate": "化妝品",
+    "id": "BASIC946"
+  },
+  {
+    "word": "かたがた",
+    "kanji": "方々",
+    "translate": "人們",
+    "id": "BASIC947"
+  },
+  {
+    "word": "ゆずる",
+    "kanji": "譲る",
+    "translate": "轉讓",
+    "id": "BASIC948"
+  },
+  {
+    "word": "もうふ",
+    "kanji": "毛布",
+    "translate": "毛毯",
+    "id": "BASIC949"
+  },
+  {
+    "word": "くふう",
+    "kanji": "工夫",
+    "translate": "辦法、技巧",
+    "id": "BASIC950"
+  },
+  {
+    "word": "ようす",
+    "kanji": "様子",
+    "translate": "狀態",
+    "id": "BASIC951"
+  },
+  {
+    "word": "きづく",
+    "kanji": "気付く",
+    "translate": "察覺、意識到",
+    "id": "BASIC952"
+  },
+  {
+    "word": "かって",
+    "kanji": "勝手",
+    "translate": "太隨便、只顧自己",
+    "id": "BASIC953"
+  },
+  {
+    "word": "ばくはつ",
+    "kanji": "爆発",
+    "translate": "爆發",
+    "id": "BASIC954"
+  },
+  {
+    "word": "きろく",
+    "kanji": "記録",
+    "translate": "紀錄",
+    "id": "BASIC955"
+  },
+  {
+    "word": "ぐうぜん",
+    "kanji": "偶然",
+    "translate": "偶然",
+    "id": "BASIC956"
+  },
+  {
+    "word": "こうえん",
+    "kanji": "講演",
+    "translate": "演說",
+    "id": "BASIC957"
+  },
+  {
+    "word": "でんとう",
+    "kanji": "伝統",
+    "translate": "傳統",
+    "id": "BASIC958"
+  },
+  {
+    "word": "かもく",
+    "kanji": "科目",
+    "translate": "科目",
+    "id": "BASIC959"
+  },
+  {
+    "word": "にちじょう",
+    "kanji": "日常",
+    "translate": "日常",
+    "id": "BASIC960"
+  },
+  {
+    "word": "ぶらぶら",
+    "kanji": "null",
+    "translate": "晃蕩",
+    "id": "BASIC961"
+  },
+  {
+    "word": "ちょくせつ",
+    "kanji": "直接",
+    "translate": "直接",
+    "id": "BASIC962"
+  },
+  {
+    "word": "ざせき",
+    "kanji": "座席",
+    "translate": "座位",
+    "id": "BASIC963"
+  },
+  {
+    "word": "よくあさ",
+    "kanji": "翌朝",
+    "translate": "隔天早上",
+    "id": "BASIC964"
+  },
+  {
+    "word": "まるい",
+    "kanji": "丸い",
+    "translate": "圓形的",
+    "id": "BASIC965"
+  },
+  {
+    "word": "なんとか",
+    "kanji": "何とか",
+    "translate": "想辦法",
+    "id": "BASIC966"
+  },
+  {
+    "word": "してい",
+    "kanji": "指定",
+    "translate": "指定",
+    "id": "BASIC967"
+  },
+  {
+    "word": "しない",
+    "kanji": "市内",
+    "translate": "市內",
+    "id": "BASIC968"
+  },
+  {
+    "word": "かおり",
+    "kanji": "香り",
+    "translate": "芳香",
+    "id": "BASIC969"
+  },
+  {
+    "word": "はげしい",
+    "kanji": "激しい",
+    "translate": "激烈的",
+    "id": "BASIC970"
+  },
+  {
+    "word": "せんたく",
+    "kanji": "選択",
+    "translate": "選擇",
+    "id": "BASIC971"
+  },
+  {
+    "word": "いっち",
+    "kanji": "一致",
+    "translate": "全部",
+    "id": "BASIC972"
+  },
+  {
+    "word": "うしなう",
+    "kanji": "失う",
+    "translate": "丟失",
+    "id": "BASIC973"
+  },
+  {
+    "word": "たいりょく",
+    "kanji": "体力",
+    "translate": "體力",
+    "id": "BASIC974"
+  },
+  {
+    "word": "かいいん",
+    "kanji": "会員",
+    "translate": "會員",
+    "id": "BASIC975"
+  },
+  {
+    "word": "かたみち",
+    "kanji": "片道",
+    "translate": "單程",
+    "id": "BASIC976"
+  },
+  {
+    "word": "こうせい",
+    "kanji": "構成",
+    "translate": "構成、組織",
+    "id": "BASIC977"
+  },
+  {
+    "word": "けんこう",
+    "kanji": "健康",
+    "translate": "健康",
+    "id": "BASIC978"
+  },
+  {
+    "word": "こんご",
+    "kanji": "今後",
+    "translate": "今後、後來",
+    "id": "BASIC979"
+  },
+  {
+    "word": "もうしこみ",
+    "kanji": "申し込み",
+    "translate": "申請",
+    "id": "BASIC980"
+  },
+  {
+    "word": "しゅるい",
+    "kanji": "種類",
+    "translate": "樣式",
+    "id": "BASIC981"
+  },
+  {
+    "word": "たね",
+    "kanji": "種",
+    "translate": "種子",
+    "id": "BASIC982"
+  },
+  {
+    "word": "ビデオ",
+    "kanji": "null",
+    "translate": "影片",
+    "id": "BASIC983"
+  },
+  {
+    "word": "りかい",
+    "kanji": "理解",
+    "translate": "理解",
+    "id": "BASIC984"
+  },
+  {
+    "word": "こんなん",
+    "kanji": "困難",
+    "translate": "困難",
+    "id": "BASIC985"
+  },
+  {
+    "word": "きょり",
+    "kanji": "距離",
+    "translate": "距離",
+    "id": "BASIC986"
+  },
+  {
+    "word": "いきもの",
+    "kanji": "生き物",
+    "translate": "生物、活的東西",
+    "id": "BASIC987"
+  },
+  {
+    "word": "こうこく",
+    "kanji": "広告",
+    "translate": "廣告",
+    "id": "BASIC988"
+  },
+  {
+    "word": "まご",
+    "kanji": "孫",
+    "translate": "孫子",
+    "id": "BASIC989"
+  },
+  {
+    "word": "こくふく",
+    "kanji": "克服",
+    "translate": "克服",
+    "id": "BASIC990"
+  },
+  {
+    "word": "きこう",
+    "kanji": "気候",
+    "translate": "氣候",
+    "id": "BASIC991"
+  },
+  {
+    "word": "けつろん",
+    "kanji": "結論",
+    "translate": "結論",
+    "id": "BASIC992"
+  },
+  {
+    "word": "がくしゃ",
+    "kanji": "学者",
+    "translate": "學者",
+    "id": "BASIC993"
+  },
+  {
+    "word": "きょか",
+    "kanji": "許可",
+    "translate": "許可",
+    "id": "BASIC994"
+  },
+  {
+    "word": "さいしん",
+    "kanji": "最新",
+    "translate": "最新",
+    "id": "BASIC995"
+  },
+  {
+    "word": "そんざい",
+    "kanji": "存在",
+    "translate": "存在",
+    "id": "BASIC996"
+  },
+  {
+    "word": "ビール",
+    "kanji": "null",
+    "translate": "啤酒",
+    "id": "BASIC997"
+  },
+  {
+    "word": "いね",
+    "kanji": "稲",
+    "translate": "稻子",
+    "id": "BASIC998"
+  },
+  {
+    "word": "スケート",
+    "kanji": "null",
+    "translate": "溜冰",
+    "id": "BASIC999"
+  },
+  {
+    "word": "ものがたり",
+    "kanji": "物語",
+    "translate": "故事",
+    "id": "BASIC1000"
+  },
+  {
+    "word": "はんにん",
+    "kanji": "犯人",
+    "translate": "犯人",
+    "id": "BASIC1001"
+  },
+  {
+    "word": "はる",
+    "kanji": "張る",
+    "translate": "擴張",
+    "id": "BASIC1002"
+  },
+  {
+    "word": "はいたつ",
+    "kanji": "配達",
+    "translate": "配送",
+    "id": "BASIC1003"
+  },
+  {
+    "word": "いねむり",
+    "kanji": "居眠り",
+    "translate": "瞌睡",
+    "id": "BASIC1004"
+  },
+  {
+    "word": "きょうぎ",
+    "kanji": "競技",
+    "translate": "比賽",
+    "id": "BASIC1005"
+  },
+  {
+    "word": "じょうけん",
+    "kanji": "条件",
+    "translate": "條件",
+    "id": "BASIC1006"
+  },
+  {
+    "word": "ごうけい",
+    "kanji": "合計",
+    "translate": "總共",
+    "id": "BASIC1007"
+  },
+  {
+    "word": "かんかく",
+    "kanji": "感覚",
+    "translate": "感覺",
+    "id": "BASIC1008"
+  },
+  {
+    "word": "かぐ",
+    "kanji": "家具",
+    "translate": "家具",
+    "id": "BASIC1009"
+  },
+  {
+    "word": "ふるえる",
+    "kanji": "震える",
+    "translate": "發抖",
+    "id": "BASIC1010"
+  },
+  {
+    "word": "ふきゅう",
+    "kanji": "普及",
+    "translate": "普及",
+    "id": "BASIC1011"
+  },
+  {
+    "word": "かんどう",
+    "kanji": "感動",
+    "translate": "感動",
+    "id": "BASIC1012"
+  },
+  {
+    "word": "しんかんせん",
+    "kanji": "新幹線",
+    "translate": "新幹線",
+    "id": "BASIC1013"
+  },
+  {
+    "word": "ながれる",
+    "kanji": "流れる",
+    "translate": "流動",
+    "id": "BASIC1014"
+  },
+  {
+    "word": "ぎし",
+    "kanji": "技師",
+    "translate": "技術人員",
+    "id": "BASIC1015"
+  },
+  {
+    "word": "はんばい",
+    "kanji": "販売",
+    "translate": "販賣",
+    "id": "BASIC1016"
+  },
+  {
+    "word": "ごうかく",
+    "kanji": "合格",
+    "translate": "合格",
+    "id": "BASIC1017"
+  },
+  {
+    "word": "おうふく",
+    "kanji": "往復",
+    "translate": "往返",
+    "id": "BASIC1018"
+  },
+  {
+    "word": "どりょく",
+    "kanji": "努力",
+    "translate": "努力",
+    "id": "BASIC1019"
+  },
+  {
+    "word": "てき",
+    "kanji": "敵",
+    "translate": "敵人、對手",
+    "id": "BASIC1020"
+  },
+  {
+    "word": "いわう",
+    "kanji": "祝う",
+    "translate": "祝賀",
+    "id": "BASIC1021"
+  },
+  {
+    "word": "しょうぼうしょ",
+    "kanji": "消防署",
+    "translate": "消防隊",
+    "id": "BASIC1022"
+  },
+  {
+    "word": "なんで",
+    "kanji": "何で",
+    "translate": "為什麼",
+    "id": "BASIC1023"
+  },
+  {
+    "word": "きしゃ",
+    "kanji": "記者",
+    "translate": "記者",
+    "id": "BASIC1024"
+  },
+  {
+    "word": "みごと",
+    "kanji": "見事",
+    "translate": "好看",
+    "id": "BASIC1025"
+  },
+  {
+    "word": "けんか",
+    "kanji": "喧嘩",
+    "translate": "吵架、打架",
+    "id": "BASIC1026"
+  },
+  {
+    "word": "はなす",
+    "kanji": "離す",
+    "translate": "使離開",
+    "id": "BASIC1027"
+  },
+  {
+    "word": "まかせる",
+    "kanji": "任せる",
+    "translate": "委託",
+    "id": "BASIC1028"
+  },
+  {
+    "word": "いし",
+    "kanji": "意思",
+    "translate": "意思、想法",
+    "id": "BASIC1029"
+  },
+  {
+    "word": "あずかる",
+    "kanji": "預かる",
+    "translate": "收存、保養",
+    "id": "BASIC1030"
+  },
+  {
+    "word": "こうりょ",
+    "kanji": "考慮",
+    "translate": "考慮",
+    "id": "BASIC1031"
+  },
+  {
+    "word": "とにかく",
+    "kanji": "null",
+    "translate": "總之",
+    "id": "BASIC1032"
+  },
+  {
+    "word": "どくりつ",
+    "kanji": "独立",
+    "translate": "獨立",
+    "id": "BASIC1033"
+  },
+  {
+    "word": "かんとう",
+    "kanji": "関東",
+    "translate": "關東",
+    "id": "BASIC1034"
+  },
+  {
+    "word": "すてき",
+    "kanji": "素敵",
+    "translate": "絕佳",
+    "id": "BASIC1035"
+  },
+  {
+    "word": "はだ",
+    "kanji": "肌",
+    "translate": "皮膚",
+    "id": "BASIC1036"
+  },
+  {
+    "word": "カバー",
+    "kanji": "null",
+    "translate": "防守",
+    "id": "BASIC1037"
+  },
+  {
+    "word": "おうえん",
+    "kanji": "応援",
+    "translate": "加油",
+    "id": "BASIC1038"
+  },
+  {
+    "word": "おきなわ",
+    "kanji": "沖縄",
+    "translate": "沖繩",
+    "id": "BASIC1039"
+  },
+  {
+    "word": "くわしい",
+    "kanji": "詳しい",
+    "translate": "詳細的",
+    "id": "BASIC1040"
+  },
+  {
+    "word": "ねずみ",
+    "kanji": "鼠",
+    "translate": "老鼠",
+    "id": "BASIC1041"
+  },
+  {
+    "word": "あんてい",
+    "kanji": "安定",
+    "translate": "安定",
+    "id": "BASIC1042"
+  },
+  {
+    "word": "けんとう",
+    "kanji": "検討",
+    "translate": "討論",
+    "id": "BASIC1043"
+  },
+  {
+    "word": "ひょうめん",
+    "kanji": "表面",
+    "translate": "表面",
+    "id": "BASIC1044"
+  },
+  {
+    "word": "あきらめる",
+    "kanji": "諦める",
+    "translate": "死心、放棄",
+    "id": "BASIC1045"
+  },
+  {
+    "word": "ね",
+    "kanji": "根",
+    "translate": "根源",
+    "id": "BASIC1046"
+  },
+  {
+    "word": "たいし",
+    "kanji": "大使",
+    "translate": "大使",
+    "id": "BASIC1047"
+  },
+  {
+    "word": "どろ",
+    "kanji": "泥",
+    "translate": "泥巴",
+    "id": "BASIC1048"
+  },
+  {
+    "word": "しょうねん",
+    "kanji": "少年",
+    "translate": "少年",
+    "id": "BASIC1049"
+  },
+  {
+    "word": "ほか",
+    "kanji": "外",
+    "translate": "別處",
+    "id": "BASIC1050"
+  },
+  {
+    "word": "たいど",
+    "kanji": "態度",
+    "translate": "態度",
+    "id": "BASIC1051"
+  },
+  {
+    "word": "おうぼ",
+    "kanji": "応募",
+    "translate": "招募、報名",
+    "id": "BASIC1052"
+  },
+  {
+    "word": "もえる",
+    "kanji": "燃える",
+    "translate": "燃燒",
+    "id": "BASIC1053"
+  },
+  {
+    "word": "おく",
+    "kanji": "奥",
+    "translate": "裡面",
+    "id": "BASIC1054"
+  },
+  {
+    "word": "しせい",
+    "kanji": "姿勢",
+    "translate": "姿勢",
+    "id": "BASIC1055"
+  },
+  {
+    "word": "たび",
+    "kanji": "度",
+    "translate": "幾次",
+    "id": "BASIC1056"
+  },
+  {
+    "word": "かんげいかい",
+    "kanji": "歓迎会",
+    "translate": "歡迎會",
+    "id": "BASIC1057"
+  },
+  {
+    "word": "せいり",
+    "kanji": "整理",
+    "translate": "整理",
+    "id": "BASIC1058"
+  },
+  {
+    "word": "ちょうし",
+    "kanji": "調子",
+    "translate": "狀況",
+    "id": "BASIC1059"
+  },
+  {
+    "word": "よそく",
+    "kanji": "予測",
+    "translate": "預測",
+    "id": "BASIC1060"
+  },
+  {
+    "word": "みらい",
+    "kanji": "未来",
+    "translate": "未來",
+    "id": "BASIC1061"
+  },
+  {
+    "word": "さんこうしょ",
+    "kanji": "参考書",
+    "translate": "參考書",
+    "id": "BASIC1062"
+  },
+  {
+    "word": "むね",
+    "kanji": "胸",
+    "translate": "心胸",
+    "id": "BASIC1063"
+  },
+  {
+    "word": "びじん",
+    "kanji": "美人",
+    "translate": "美女",
+    "id": "BASIC1064"
+  },
+  {
+    "word": "もうしわけない",
+    "kanji": "申し訳ない",
+    "translate": "道歉、辯解",
+    "id": "BASIC1065"
+  },
+  {
+    "word": "もうしこみしょ",
+    "kanji": "申し込み書",
+    "translate": "申請書",
+    "id": "BASIC1066"
+  },
+  {
+    "word": "かこむ",
+    "kanji": "囲む",
+    "translate": "包圍",
+    "id": "BASIC1067"
+  },
+  {
+    "word": "きちょう",
+    "kanji": "貴重",
+    "translate": "珍貴",
+    "id": "BASIC1068"
+  },
+  {
+    "word": "アドバイス",
+    "kanji": "null",
+    "translate": "建議",
+    "id": "BASIC1069"
+  },
+  {
+    "word": "むし",
+    "kanji": "無視",
+    "translate": "無視",
+    "id": "BASIC1070"
+  },
+  {
+    "word": "かしゅ",
+    "kanji": "歌手",
+    "translate": "歌手",
+    "id": "BASIC1071"
+  },
+  {
+    "word": "けいじ",
+    "kanji": "掲示",
+    "translate": "公告",
+    "id": "BASIC1072"
+  },
+  {
+    "word": "ぜんいん",
+    "kanji": "全員",
+    "translate": "全體",
+    "id": "BASIC1073"
+  },
+  {
+    "word": "みおくり",
+    "kanji": "見送り",
+    "translate": "送別",
+    "id": "BASIC1074"
+  },
+  {
+    "word": "こい",
+    "kanji": "濃い",
+    "translate": "濃的、深的",
+    "id": "BASIC1075"
+  },
+  {
+    "word": "きれる",
+    "kanji": "切れる",
+    "translate": "切開、斷開",
+    "id": "BASIC1076"
+  },
+  {
+    "word": "しょうきょくてき",
+    "kanji": "消極的",
+    "translate": "消極的",
+    "id": "BASIC1077"
+  },
+  {
+    "word": "さいてい",
+    "kanji": "最低",
+    "translate": "最糟、最差",
+    "id": "BASIC1078"
+  },
+  {
+    "word": "まいご",
+    "kanji": "迷子",
+    "translate": "迷路、走失的小孩",
+    "id": "BASIC1079"
+  },
+  {
+    "word": "バーセント",
+    "kanji": "null",
+    "translate": "百分比",
+    "id": "BASIC1080"
+  },
+  {
+    "word": "おう",
+    "kanji": "追う",
+    "translate": "追趕",
+    "id": "BASIC1081"
+  },
+  {
+    "word": "チャンス",
+    "kanji": "null",
+    "translate": "機會",
+    "id": "BASIC1082"
+  },
+  {
+    "word": "そうさ",
+    "kanji": "操作",
+    "translate": "操作",
+    "id": "BASIC1083"
+  },
+  {
+    "word": "めいじん",
+    "kanji": "名人",
+    "translate": "名人",
+    "id": "BASIC1084"
+  },
+  {
+    "word": "あてる",
+    "kanji": "当てる",
+    "translate": "碰撞",
+    "id": "BASIC1085"
+  },
+  {
+    "word": "そこで",
+    "kanji": "null",
+    "translate": "因此",
+    "id": "BASIC1086"
+  },
+  {
+    "word": "こうさい",
+    "kanji": "交際",
+    "translate": "交際應酬",
+    "id": "BASIC1087"
+  },
+  {
+    "word": "へんこう",
+    "kanji": "変更",
+    "translate": "變動",
+    "id": "BASIC1088"
+  },
+  {
+    "word": "あいにく",
+    "kanji": "null",
+    "translate": "不湊巧",
+    "id": "BASIC1089"
+  },
+  {
+    "word": "ざいさん",
+    "kanji": "財産",
+    "translate": "財產",
+    "id": "BASIC1090"
+  },
+  {
+    "word": "こむぎこ",
+    "kanji": "小麦粉",
+    "translate": "小麥粉",
+    "id": "BASIC1091"
+  },
+  {
+    "word": "おせん",
+    "kanji": "汚染",
+    "translate": "汙染",
+    "id": "BASIC1092"
+  },
+  {
+    "word": "だんし",
+    "kanji": "男子",
+    "translate": "男子",
+    "id": "BASIC1093"
+  },
+  {
+    "word": "だいきん",
+    "kanji": "代金",
+    "translate": "費用",
+    "id": "BASIC1094"
+  },
+  {
+    "word": "しんさつ",
+    "kanji": "診察",
+    "translate": "診察",
+    "id": "BASIC1095"
+  },
+  {
+    "word": "しょくぎょう",
+    "kanji": "職業",
+    "translate": "職業",
+    "id": "BASIC1096"
+  },
+  {
+    "word": "だんたい",
+    "kanji": "団体",
+    "translate": "團體",
+    "id": "BASIC1097"
+  },
+  {
+    "word": "スイッチ",
+    "kanji": "null",
+    "translate": "開關、轉換",
+    "id": "BASIC1098"
+  },
+  {
+    "word": "ぞう",
+    "kanji": "象",
+    "translate": "大象",
+    "id": "BASIC1099"
+  },
+  {
+    "word": "くわえる",
+    "kanji": "加える",
+    "translate": "增加",
+    "id": "BASIC1100"
+  },
+  {
+    "word": "げいじゅつ",
+    "kanji": "芸術",
+    "translate": "藝術",
+    "id": "BASIC1101"
+  },
+  {
+    "word": "いちどに",
+    "kanji": "一度に",
+    "translate": "同時",
+    "id": "BASIC1102"
+  },
+  {
+    "word": "らく",
+    "kanji": "楽",
+    "translate": "輕鬆",
+    "id": "BASIC1103"
+  },
+  {
+    "word": "め",
+    "kanji": "芽",
+    "translate": "芽",
+    "id": "BASIC1104"
+  },
+  {
+    "word": "たたかう",
+    "kanji": "戦う",
+    "translate": "競技",
+    "id": "BASIC1105"
+  },
+  {
+    "word": "きぼうび",
+    "kanji": "希望日",
+    "translate": "希望的日子",
+    "id": "BASIC1106"
+  },
+  {
+    "word": "にっこり",
+    "kanji": "null",
+    "translate": "微微笑地",
+    "id": "BASIC1107"
+  },
+  {
+    "word": "しな",
+    "kanji": "品",
+    "translate": "商品、物品",
+    "id": "BASIC1108"
+  },
+  {
+    "word": "とち",
+    "kanji": "土地",
+    "translate": "土地",
+    "id": "BASIC1109"
+  },
+  {
+    "word": "おくがい",
+    "kanji": "屋外",
+    "translate": "室外",
+    "id": "BASIC1110"
+  },
+  {
+    "word": "おとしより",
+    "kanji": "お年寄り",
+    "translate": "老人",
+    "id": "BASIC1111"
+  },
+  {
+    "word": "このみ",
+    "kanji": "好み",
+    "translate": "喜好",
+    "id": "BASIC1112"
+  },
+  {
+    "word": "みとめる",
+    "kanji": "認める",
+    "translate": "認可",
+    "id": "BASIC1113"
+  },
+  {
+    "word": "しゅだん",
+    "kanji": "手段",
+    "translate": "手段",
+    "id": "BASIC1114"
+  },
+  {
+    "word": "ちえ",
+    "kanji": "知恵",
+    "translate": "智慧",
+    "id": "BASIC1115"
+  },
+  {
+    "word": "ねったい",
+    "kanji": "熱帯",
+    "translate": "熱帶",
+    "id": "BASIC1116"
+  },
+  {
+    "word": "へい",
+    "kanji": "塀",
+    "translate": "牆壁、柵欄",
+    "id": "BASIC1117"
+  },
+  {
+    "word": "およそ",
+    "kanji": "null",
+    "translate": "大概",
+    "id": "BASIC1118"
+  },
+  {
+    "word": "きぼう",
+    "kanji": "希望",
+    "translate": "希望",
+    "id": "BASIC1119"
+  },
+  {
+    "word": "あける",
+    "kanji": "明ける",
+    "translate": "變亮、破曉",
+    "id": "BASIC1120"
+  },
+  {
+    "word": "しょう",
+    "kanji": "小",
+    "translate": "小",
+    "id": "BASIC1121"
+  },
+  {
+    "word": "ふた",
+    "kanji": "蓋",
+    "translate": "蓋子",
+    "id": "BASIC1122"
+  },
+  {
+    "word": "ひく",
+    "kanji": "轢く",
+    "translate": "撞",
+    "id": "BASIC1123"
+  },
+  {
+    "word": "やく",
+    "kanji": "約",
+    "translate": "大約",
+    "id": "BASIC1124"
+  },
+  {
+    "word": "しょきゅう",
+    "kanji": "初級",
+    "translate": "初級",
+    "id": "BASIC1125"
+  },
+  {
+    "word": "わざと",
+    "kanji": "null",
+    "translate": "故意的、特意",
+    "id": "BASIC1126"
+  },
+  {
+    "word": "とたん",
+    "kanji": "途端",
+    "translate": "正要~時",
+    "id": "BASIC1127"
+  },
+  {
+    "word": "スピーチ",
+    "kanji": "null",
+    "translate": "演說",
+    "id": "BASIC1128"
+  },
+  {
+    "word": "できごと",
+    "kanji": "出来事",
+    "translate": "發生的事情",
+    "id": "BASIC1129"
+  },
+  {
+    "word": "いっぽう",
+    "kanji": "一方",
+    "translate": "持續",
+    "id": "BASIC1130"
+  },
+  {
+    "word": "きぎょう",
+    "kanji": "企業",
+    "translate": "企業",
+    "id": "BASIC1131"
+  },
+  {
+    "word": "アイスクリーム",
+    "kanji": "null",
+    "translate": "冰淇淋",
+    "id": "BASIC1132"
+  },
+  {
+    "word": "チェックアウト",
+    "kanji": "null",
+    "translate": "結帳離開",
+    "id": "BASIC1133"
+  },
+  {
+    "word": "いっしょう",
+    "kanji": "一生",
+    "translate": "一輩子",
+    "id": "BASIC1134"
+  },
+  {
+    "word": "やぶれる",
+    "kanji": "敗れる",
+    "translate": "破損",
+    "id": "BASIC1135"
+  },
+  {
+    "word": "いつまでも",
+    "kanji": "null",
+    "translate": "永遠",
+    "id": "BASIC1136"
+  },
+  {
+    "word": "まる",
+    "kanji": "丸",
+    "translate": "圓圈",
+    "id": "BASIC1137"
+  },
+  {
+    "word": "りこん",
+    "kanji": "離婚",
+    "translate": "離婚",
+    "id": "BASIC1138"
+  },
+  {
+    "word": "こい",
+    "kanji": "恋",
+    "translate": "戀情",
+    "id": "BASIC1139"
+  },
+  {
+    "word": "しょるい",
+    "kanji": "書類",
+    "translate": "文件",
+    "id": "BASIC1140"
+  },
+  {
+    "word": "えんぜつ",
+    "kanji": "演説",
+    "translate": "演說",
+    "id": "BASIC1141"
+  },
+  {
+    "word": "ひょうか",
+    "kanji": "評価",
+    "translate": "評價",
+    "id": "BASIC1142"
+  },
+  {
+    "word": "ゆうり",
+    "kanji": "有利",
+    "translate": "有利",
+    "id": "BASIC1143"
+  },
+  {
+    "word": "しゅと",
+    "kanji": "首都",
+    "translate": "首都",
+    "id": "BASIC1144"
+  },
+  {
+    "word": "うし",
+    "kanji": "牛",
+    "translate": "牛",
+    "id": "BASIC1145"
+  },
+  {
+    "word": "きょうし",
+    "kanji": "教師",
+    "translate": "老師",
+    "id": "BASIC1146"
+  },
+  {
+    "word": "しずむ",
+    "kanji": "沈む",
+    "translate": "沉沒",
+    "id": "BASIC1147"
+  },
+  {
+    "word": "ぎん",
+    "kanji": "銀",
+    "translate": "銀",
+    "id": "BASIC1148"
+  },
+  {
+    "word": "あっというまに",
+    "kanji": "あっという間に",
+    "translate": "剎那間",
+    "id": "BASIC1149"
+  },
+  {
+    "word": "せんじつ",
+    "kanji": "先日",
+    "translate": "前幾天",
+    "id": "BASIC1150"
+  },
+  {
+    "word": "きじ",
+    "kanji": "生地",
+    "translate": "質地",
+    "id": "BASIC1151"
+  },
+  {
+    "word": "センター",
+    "kanji": "null",
+    "translate": "中心",
+    "id": "BASIC1152"
+  },
+  {
+    "word": "ついに",
+    "kanji": "遂に",
+    "translate": "終於",
+    "id": "BASIC1153"
+  },
+  {
+    "word": "おとしだま",
+    "kanji": "お年玉",
+    "translate": "紅包",
+    "id": "BASIC1154"
+  },
+  {
+    "word": "りゅうがく",
+    "kanji": "留学",
+    "translate": "留學",
+    "id": "BASIC1155"
+  },
+  {
+    "word": "がくもん",
+    "kanji": "学問",
+    "translate": "學問",
+    "id": "BASIC1156"
+  },
+  {
+    "word": "かいてき",
+    "kanji": "快適",
+    "translate": "舒適",
+    "id": "BASIC1157"
+  },
+  {
+    "word": "こううん",
+    "kanji": "幸運",
+    "translate": "幸運",
+    "id": "BASIC1158"
+  },
+  {
+    "word": "こえる",
+    "kanji": "越える",
+    "translate": "越過",
+    "id": "BASIC1159"
+  },
+  {
+    "word": "ひも",
+    "kanji": "紐",
+    "translate": "細繩",
+    "id": "BASIC1160"
+  },
+  {
+    "word": "ようきゅう",
+    "kanji": "要求",
+    "translate": "要求",
+    "id": "BASIC1161"
+  },
+  {
+    "word": "さつえい",
+    "kanji": "撮影",
+    "translate": "攝影、拍照",
+    "id": "BASIC1162"
+  },
+  {
+    "word": "たいくつ",
+    "kanji": "退屈",
+    "translate": "無聊",
+    "id": "BASIC1163"
+  },
+  {
+    "word": "なっとく",
+    "kanji": "納得",
+    "translate": "瞭解、同意",
+    "id": "BASIC1164"
+  },
+  {
+    "word": "にっちゅう",
+    "kanji": "日中",
+    "translate": "白天",
+    "id": "BASIC1165"
+  },
+  {
+    "word": "かっき",
+    "kanji": "活気",
+    "translate": "活力",
+    "id": "BASIC1166"
+  },
+  {
+    "word": "はったつ",
+    "kanji": "発達",
+    "translate": "發達",
+    "id": "BASIC1167"
+  },
+  {
+    "word": "ゆうじょう",
+    "kanji": "友情",
+    "translate": "友情",
+    "id": "BASIC1168"
+  },
+  {
+    "word": "あたる",
+    "kanji": "当たる",
+    "translate": "曬、照",
+    "id": "BASIC1169"
+  },
+  {
+    "word": "かんじる",
+    "kanji": "感じる",
+    "translate": "感覺、感想",
+    "id": "BASIC1170"
+  },
+  {
+    "word": "さくひん",
+    "kanji": "作品",
+    "translate": "作品",
+    "id": "BASIC1171"
+  },
+  {
+    "word": "つねに",
+    "kanji": "常に",
+    "translate": "時常",
+    "id": "BASIC1172"
+  },
+  {
+    "word": "かんとく",
+    "kanji": "監督",
+    "translate": "監督、教練",
+    "id": "BASIC1173"
+  },
+  {
+    "word": "すききらい",
+    "kanji": "好き嫌い",
+    "translate": "挑剔",
+    "id": "BASIC1174"
+  },
+  {
+    "word": "こうけい",
+    "kanji": "光景",
+    "translate": "光景",
+    "id": "BASIC1175"
+  },
+  {
+    "word": "さいわい",
+    "kanji": "幸い",
+    "translate": "幸福",
+    "id": "BASIC1176"
+  },
+  {
+    "word": "せいこう",
+    "kanji": "成功",
+    "translate": "成功",
+    "id": "BASIC1177"
+  },
+  {
+    "word": "まけ",
+    "kanji": "負け",
+    "translate": "輸掉",
+    "id": "BASIC1178"
+  },
+  {
+    "word": "えがく",
+    "kanji": "描く",
+    "translate": "描繪",
+    "id": "BASIC1179"
+  },
+  {
+    "word": "きちんと",
+    "kanji": "null",
+    "translate": "恰當",
+    "id": "BASIC1180"
+  },
+  {
+    "word": "びみょう",
+    "kanji": "微妙",
+    "translate": "微妙的",
+    "id": "BASIC1181"
+  },
+  {
+    "word": "もちあげる",
+    "kanji": "持ち上げる",
+    "translate": "抬起",
+    "id": "BASIC1182"
+  },
+  {
+    "word": "どうしても",
+    "kanji": "null",
+    "translate": "務必",
+    "id": "BASIC1183"
+  },
+  {
+    "word": "おに",
+    "kanji": "鬼",
+    "translate": "鬼怪",
+    "id": "BASIC1184"
+  },
+  {
+    "word": "そで",
+    "kanji": "袖",
+    "translate": "袖子",
+    "id": "BASIC1185"
+  },
+  {
+    "word": "しつぼう",
+    "kanji": "失望",
+    "translate": "失望",
+    "id": "BASIC1186"
+  },
+  {
+    "word": "メッセージ",
+    "kanji": "null",
+    "translate": "訊息",
+    "id": "BASIC1187"
+  },
+  {
+    "word": "げじゅん",
+    "kanji": "下旬",
+    "translate": "下旬",
+    "id": "BASIC1188"
+  },
+  {
+    "word": "かいし",
+    "kanji": "開始",
+    "translate": "開始",
+    "id": "BASIC1189"
+  },
+  {
+    "word": "そくど",
+    "kanji": "速度",
+    "translate": "速度",
+    "id": "BASIC1190"
+  },
+  {
+    "word": "こうかん",
+    "kanji": "交換",
+    "translate": "交換",
+    "id": "BASIC1191"
+  },
+  {
+    "word": "ほしょう",
+    "kanji": "保障",
+    "translate": "保證",
+    "id": "BASIC1192"
+  },
+  {
+    "word": "にちじ",
+    "kanji": "日時",
+    "translate": "時期和時間",
+    "id": "BASIC1193"
+  },
+  {
+    "word": "プリンター",
+    "kanji": "null",
+    "translate": "印表機",
+    "id": "BASIC1194"
+  },
+  {
+    "word": "ランチ",
+    "kanji": "null",
+    "translate": "午餐",
+    "id": "BASIC1195"
+  },
+  {
+    "word": "きょうつう",
+    "kanji": "共通",
+    "translate": "共通",
+    "id": "BASIC1196"
+  },
+  {
+    "word": "たおす",
+    "kanji": "倒す",
+    "translate": "推倒",
+    "id": "BASIC1197"
+  },
+  {
+    "word": "ひじょう",
+    "kanji": "非常",
+    "translate": "非常",
+    "id": "BASIC1198"
+  },
+  {
+    "word": "じょうきゃく",
+    "kanji": "乗客",
+    "translate": "乘客",
+    "id": "BASIC1199"
+  },
+  {
+    "word": "しんぽ",
+    "kanji": "進歩",
+    "translate": "進步",
+    "id": "BASIC1200"
+  },
+  {
+    "word": "かなしむ",
+    "kanji": "悲しむ",
+    "translate": "悲傷",
+    "id": "BASIC1201"
+  },
+  {
+    "word": "インタビュー",
+    "kanji": "null",
+    "translate": "面試",
+    "id": "BASIC1202"
+  },
+  {
+    "word": "てま",
+    "kanji": "手間",
+    "translate": "工作需要的時間",
+    "id": "BASIC1203"
+  },
+  {
+    "word": "めいわく",
+    "kanji": "迷惑",
+    "translate": "煩惱",
+    "id": "BASIC1204"
+  },
+  {
+    "word": "ドレス",
+    "kanji": "null",
+    "translate": "禮服、洋裝",
+    "id": "BASIC1205"
+  },
+  {
+    "word": "すえ",
+    "kanji": "末",
+    "translate": "末尾",
+    "id": "BASIC1206"
+  },
+  {
+    "word": "じき",
+    "kanji": "時期",
+    "translate": "時期",
+    "id": "BASIC1207"
+  },
+  {
+    "word": "それぞれ",
+    "kanji": "null",
+    "translate": "每一個",
+    "id": "BASIC1208"
+  },
+  {
+    "word": "ていど",
+    "kanji": "程度",
+    "translate": "程度",
+    "id": "BASIC1209"
+  },
+  {
+    "word": "たしょう",
+    "kanji": "多少",
+    "translate": "多少",
+    "id": "BASIC1210"
+  },
+  {
+    "word": "なま",
+    "kanji": "生",
+    "translate": "生的",
+    "id": "BASIC1211"
+  },
+  {
+    "word": "たすける",
+    "kanji": "助ける",
+    "translate": "幫助",
+    "id": "BASIC1212"
+  },
+  {
+    "word": "ねんげつ",
+    "kanji": "年月",
+    "translate": "光陰",
+    "id": "BASIC1213"
+  },
+  {
+    "word": "ちかごろ",
+    "kanji": "近頃",
+    "translate": "近來",
+    "id": "BASIC1214"
+  },
+  {
+    "word": "しどう",
+    "kanji": "指導",
+    "translate": "指導",
+    "id": "BASIC1215"
+  },
+  {
+    "word": "かご",
+    "kanji": "籠",
+    "translate": "籃子",
+    "id": "BASIC1216"
+  },
+  {
+    "word": "にる",
+    "kanji": "煮る",
+    "translate": "煮、燉",
+    "id": "BASIC1217"
+  },
+  {
+    "word": "じつようてき",
+    "kanji": "実用的",
+    "translate": "實用性",
+    "id": "BASIC1218"
+  },
+  {
+    "word": "たぶん",
+    "kanji": "多分",
+    "translate": "大概",
+    "id": "BASIC1219"
+  },
+  {
+    "word": "だいとうりょう",
+    "kanji": "大統領",
+    "translate": "總統",
+    "id": "BASIC1220"
+  },
+  {
+    "word": "とびだす",
+    "kanji": "飛び出す",
+    "translate": "飛起、跑出",
+    "id": "BASIC1221"
+  },
+  {
+    "word": "きのう",
+    "kanji": "機能",
+    "translate": "功能",
+    "id": "BASIC1222"
+  },
+  {
+    "word": "のせる",
+    "kanji": "乗せる",
+    "translate": "放到~上",
+    "id": "BASIC1223"
+  },
+  {
+    "word": "あせ",
+    "kanji": "汗",
+    "translate": "汗水",
+    "id": "BASIC1224"
+  },
+  {
+    "word": "あん",
+    "kanji": "案",
+    "translate": "計畫、意見",
+    "id": "BASIC1225"
+  },
+  {
+    "word": "いじ",
+    "kanji": "維持",
+    "translate": "維持",
+    "id": "BASIC1226"
+  },
+  {
+    "word": "ひょう",
+    "kanji": "表",
+    "translate": "表格",
+    "id": "BASIC1227"
+  },
+  {
+    "word": "はぶく",
+    "kanji": "省く",
+    "translate": "精簡",
+    "id": "BASIC1228"
+  },
+  {
+    "word": "たたかい",
+    "kanji": "戦い",
+    "translate": "戰鬥",
+    "id": "BASIC1229"
+  },
+  {
+    "word": "てってい",
+    "kanji": "徹底",
+    "translate": "徹底",
+    "id": "BASIC1230"
+  },
+  {
+    "word": "せいちょう",
+    "kanji": "成長",
+    "translate": "成長",
+    "id": "BASIC1231"
+  },
+  {
+    "word": "うそ",
+    "kanji": "嘘",
+    "translate": "謊言",
+    "id": "BASIC1232"
+  },
+  {
+    "word": "めい",
+    "kanji": "姪",
+    "translate": "姪女",
+    "id": "BASIC1233"
+  },
+  {
+    "word": "じんこう",
+    "kanji": "人工",
+    "translate": "人工",
+    "id": "BASIC1234"
+  },
+  {
+    "word": "しかい",
+    "kanji": "司会",
+    "translate": "主持人",
+    "id": "BASIC1235"
+  },
+  {
+    "word": "めんきょ",
+    "kanji": "免許",
+    "translate": "批准",
+    "id": "BASIC1236"
+  },
+  {
+    "word": "はっけん",
+    "kanji": "発見",
+    "translate": "發現",
+    "id": "BASIC1237"
+  },
+  {
+    "word": "ちがい",
+    "kanji": "違い",
+    "translate": "差異",
+    "id": "BASIC1238"
+  },
+  {
+    "word": "きおく",
+    "kanji": "記憶",
+    "translate": "記憶",
+    "id": "BASIC1239"
+  },
+  {
+    "word": "こうへい",
+    "kanji": "公平",
+    "translate": "公平",
+    "id": "BASIC1240"
+  },
+  {
+    "word": "めんどう",
+    "kanji": "面倒",
+    "translate": "麻煩、照顧",
+    "id": "BASIC1241"
+  },
+  {
+    "word": "まちがい",
+    "kanji": "間違い",
+    "translate": "錯誤、錯過",
+    "id": "BASIC1242"
+  },
+  {
+    "word": "ず",
+    "kanji": "図",
+    "translate": "圖表",
+    "id": "BASIC1243"
+  },
+  {
+    "word": "せいぶつ",
+    "kanji": "生物",
+    "translate": "生物",
+    "id": "BASIC1244"
+  },
+  {
+    "word": "なまける",
+    "kanji": "怠ける",
+    "translate": "懶惰",
+    "id": "BASIC1245"
+  },
+  {
+    "word": "てつだい",
+    "kanji": "手伝い",
+    "translate": "幫助",
+    "id": "BASIC1246"
+  },
+  {
+    "word": "しゅうだん",
+    "kanji": "集団",
+    "translate": "集團",
+    "id": "BASIC1247"
+  },
+  {
+    "word": "えらい",
+    "kanji": "偉い",
+    "translate": "偉大",
+    "id": "BASIC1248"
+  },
+  {
+    "word": "たつ",
+    "kanji": "経つ",
+    "translate": "經過",
+    "id": "BASIC1249"
+  },
+  {
+    "word": "しぼう",
+    "kanji": "死亡",
+    "translate": "死亡",
+    "id": "BASIC1250"
+  },
+  {
+    "word": "こんらん",
+    "kanji": "混乱",
+    "translate": "混亂",
+    "id": "BASIC1251"
+  },
+  {
+    "word": "げんきん",
+    "kanji": "現金",
+    "translate": "現金",
+    "id": "BASIC1252"
+  },
+  {
+    "word": "かんしゃ",
+    "kanji": "感謝",
+    "translate": "感謝",
+    "id": "BASIC1253"
+  },
+  {
+    "word": "せつやく",
+    "kanji": "節約",
+    "translate": "節約",
+    "id": "BASIC1254"
+  },
+  {
+    "word": "ピクニック",
+    "kanji": "null",
+    "translate": "野餐",
+    "id": "BASIC1255"
+  },
+  {
+    "word": "むりょう",
+    "kanji": "無料",
+    "translate": "免費",
+    "id": "BASIC1256"
+  },
+  {
+    "word": "がっかり",
+    "kanji": "null",
+    "translate": "失望",
+    "id": "BASIC1257"
+  },
+  {
+    "word": "かいはつ",
+    "kanji": "開発",
+    "translate": "開發",
+    "id": "BASIC1258"
+  },
+  {
+    "word": "ふまん",
+    "kanji": "不満",
+    "translate": "不滿意",
+    "id": "BASIC1259"
+  },
+  {
+    "word": "ただ",
+    "kanji": "唯",
+    "translate": "只有",
+    "id": "BASIC1260"
+  },
+  {
+    "word": "ひとごみ",
+    "kanji": "人込み",
+    "translate": "人山人海",
+    "id": "BASIC1261"
+  },
+  {
+    "word": "しゅっちょう",
+    "kanji": "出張",
+    "translate": "出差",
+    "id": "BASIC1262"
+  },
+  {
+    "word": "のり",
+    "kanji": "海苔",
+    "translate": "海苔",
+    "id": "BASIC1263"
+  },
+  {
+    "word": "とう",
+    "kanji": "党",
+    "translate": "政黨",
+    "id": "BASIC1264"
+  },
+  {
+    "word": "ふたご",
+    "kanji": "双子",
+    "translate": "雙胞胎",
+    "id": "BASIC1265"
+  },
+  {
+    "word": "ちく",
+    "kanji": "地区",
+    "translate": "地區",
+    "id": "BASIC1266"
+  },
+  {
+    "word": "いためる",
+    "kanji": "痛める",
+    "translate": "弄傷",
+    "id": "BASIC1267"
+  },
+  {
+    "word": "きゅうりょう",
+    "kanji": "給料",
+    "translate": "薪水",
+    "id": "BASIC1268"
+  },
+  {
+    "word": "ちゅうもん",
+    "kanji": "注文",
+    "translate": "訂購",
+    "id": "BASIC1269"
+  },
+  {
+    "word": "ちょうだい",
+    "kanji": "null",
+    "translate": "給我",
+    "id": "BASIC1270"
+  },
+  {
+    "word": "はば",
+    "kanji": "幅",
+    "translate": "幅度",
+    "id": "BASIC1271"
+  },
+  {
+    "word": "でんし",
+    "kanji": "電子",
+    "translate": "電子",
+    "id": "BASIC1272"
+  },
+  {
+    "word": "ふる",
+    "kanji": "振る",
+    "translate": "揮、搖",
+    "id": "BASIC1273"
+  },
+  {
+    "word": "ゆうき",
+    "kanji": "勇気",
+    "translate": "勇氣",
+    "id": "BASIC1274"
+  },
+  {
+    "word": "すみ",
+    "kanji": "隅",
+    "translate": "角落",
+    "id": "BASIC1275"
+  },
+  {
+    "word": "やとう",
+    "kanji": "雇う",
+    "translate": "雇用",
+    "id": "BASIC1276"
+  },
+  {
+    "word": "きげん",
+    "kanji": "機嫌",
+    "translate": "心情",
+    "id": "BASIC1277"
+  },
+  {
+    "word": "いんさつ",
+    "kanji": "印刷",
+    "translate": "印刷",
+    "id": "BASIC1278"
+  },
+  {
+    "word": "あらた",
+    "kanji": "新た",
+    "translate": "新鮮的",
+    "id": "BASIC1279"
+  },
+  {
+    "word": "かず",
+    "kanji": "数",
+    "translate": "樹木",
+    "id": "BASIC1280"
+  },
+  {
+    "word": "とうろく",
+    "kanji": "登録",
+    "translate": "登記",
+    "id": "BASIC1281"
+  },
+  {
+    "word": "れんぞく",
+    "kanji": "連続",
+    "translate": "連續",
+    "id": "BASIC1282"
+  },
+  {
+    "word": "どくしん",
+    "kanji": "独身",
+    "translate": "單身",
+    "id": "BASIC1283"
+  },
+  {
+    "word": "しゅうい",
+    "kanji": "周囲",
+    "translate": "周圍",
+    "id": "BASIC1284"
+  },
+  {
+    "word": "まっか",
+    "kanji": "真っ赤",
+    "translate": "鮮紅",
+    "id": "BASIC1285"
+  },
+  {
+    "word": "もくひょう",
+    "kanji": "目標",
+    "translate": "目標",
+    "id": "BASIC1286"
+  },
+  {
+    "word": "ことわざ",
+    "kanji": "諺",
+    "translate": "諺語",
+    "id": "BASIC1287"
+  },
+  {
+    "word": "たちば",
+    "kanji": "立場",
+    "translate": "立場",
+    "id": "BASIC1288"
+  },
+  {
+    "word": "めちゃくちゃ",
+    "kanji": "null",
+    "translate": "亂七八糟",
+    "id": "BASIC1289"
+  },
+  {
+    "word": "げんしょう",
+    "kanji": "減少",
+    "translate": "減少",
+    "id": "BASIC1290"
+  },
+  {
+    "word": "まめ",
+    "kanji": "豆",
+    "translate": "豆子",
+    "id": "BASIC1291"
+  },
+  {
+    "word": "そんちょう",
+    "kanji": "尊重",
+    "translate": "尊重",
+    "id": "BASIC1292"
+  },
+  {
+    "word": "しんせき",
+    "kanji": "親戚",
+    "translate": "親戚",
+    "id": "BASIC1293"
+  },
+  {
+    "word": "たいざい",
+    "kanji": "滞在",
+    "translate": "停留",
+    "id": "BASIC1294"
+  },
+  {
+    "word": "けしょう",
+    "kanji": "化粧",
+    "translate": "化妝",
+    "id": "BASIC1295"
+  },
+  {
+    "word": "とつぜん",
+    "kanji": "突然",
+    "translate": "突然",
+    "id": "BASIC1296"
+  },
+  {
+    "word": "たいじゅう",
+    "kanji": "体重",
+    "translate": "體重",
+    "id": "BASIC1297"
+  },
+  {
+    "word": "ともに",
+    "kanji": "共に",
+    "translate": "共同",
+    "id": "BASIC1298"
+  },
+  {
+    "word": "きそ",
+    "kanji": "基礎",
+    "translate": "基礎",
+    "id": "BASIC1299"
+  },
+  {
+    "word": "せっきょくてき",
+    "kanji": "積極的",
+    "translate": "積極的",
+    "id": "BASIC1300"
+  },
+  {
+    "word": "おうじ",
+    "kanji": "王子",
+    "translate": "王子",
+    "id": "BASIC1301"
+  },
+  {
+    "word": "けんぽう",
+    "kanji": "憲法",
+    "translate": "憲法",
+    "id": "BASIC1302"
+  },
+  {
+    "word": "いじょう",
+    "kanji": "以上",
+    "translate": "以上",
+    "id": "BASIC1303"
+  },
+  {
+    "word": "そんな",
+    "kanji": "null",
+    "translate": "那樣",
+    "id": "BASIC1304"
+  },
+  {
+    "word": "アルバイト",
+    "kanji": "null",
+    "translate": "打工",
+    "id": "BASIC1305"
+  },
+  {
+    "word": "よろしい",
+    "kanji": "宜しい",
+    "translate": "好的",
+    "id": "BASIC1306"
+  },
+  {
+    "word": "おもて",
+    "kanji": "表",
+    "translate": "表面、正面",
+    "id": "BASIC1307"
+  },
+  {
+    "word": "めしあがる",
+    "kanji": "召し上がる",
+    "translate": "吃、喝",
+    "id": "BASIC1308"
+  },
+  {
+    "word": "チケット",
+    "kanji": "null",
+    "translate": "票",
+    "id": "BASIC1309"
+  },
+  {
+    "word": "むすめ",
+    "kanji": "娘",
+    "translate": "女兒",
+    "id": "BASIC1310"
+  },
+  {
+    "word": "ていねい",
+    "kanji": "丁寧",
+    "translate": "有禮貌、客氣",
+    "id": "BASIC1311"
+  },
+  {
+    "word": "すむ",
+    "kanji": "済む",
+    "translate": "結束",
+    "id": "BASIC1312"
+  },
+  {
+    "word": "せなか",
+    "kanji": "背中",
+    "translate": "背脊",
+    "id": "BASIC1313"
+  },
+  {
+    "word": "ルール",
+    "kanji": "null",
+    "translate": "規則",
+    "id": "BASIC1314"
+  },
+  {
+    "word": "くうこう",
+    "kanji": "空港",
+    "translate": "機場",
+    "id": "BASIC1315"
+  },
+  {
+    "word": "ごみ",
+    "kanji": "塵",
+    "translate": "灰塵、垃圾",
+    "id": "BASIC1316"
+  },
+  {
+    "word": "～だて",
+    "kanji": "～建て",
+    "translate": "~層樓",
+    "id": "BASIC1317"
+  },
+  {
+    "word": "わりあいに",
+    "kanji": "割合に",
+    "translate": "比較",
+    "id": "BASIC1318"
+  },
+  {
+    "word": "チェック",
+    "kanji": "null",
+    "translate": "檢查",
+    "id": "BASIC1319"
+  },
+  {
+    "word": "ボール",
+    "kanji": "null",
+    "translate": "球",
+    "id": "BASIC1320"
+  },
+  {
+    "word": "あんない",
+    "kanji": "案内",
+    "translate": "引導、指引",
+    "id": "BASIC1321"
+  },
+  {
+    "word": "にがい",
+    "kanji": "苦い",
+    "translate": "苦的",
+    "id": "BASIC1322"
+  },
+  {
+    "word": "にっき",
+    "kanji": "日記",
+    "translate": "日記",
+    "id": "BASIC1323"
+  },
+  {
+    "word": "ふくしゅう",
+    "kanji": "復習",
+    "translate": "複習",
+    "id": "BASIC1324"
+  },
+  {
+    "word": "ことり",
+    "kanji": "小鳥",
+    "translate": "小鳥",
+    "id": "BASIC1325"
+  },
+  {
+    "word": "かいぎ",
+    "kanji": "会議",
+    "translate": "會議",
+    "id": "BASIC1326"
+  },
+  {
+    "word": "しっぱい",
+    "kanji": "失敗",
+    "translate": "失敗",
+    "id": "BASIC1327"
+  },
+  {
+    "word": "のど",
+    "kanji": "喉",
+    "translate": "喉嚨",
+    "id": "BASIC1328"
+  },
+  {
+    "word": "ひろう",
+    "kanji": "拾う",
+    "translate": "撿到",
+    "id": "BASIC1329"
+  },
+  {
+    "word": "あんな",
+    "kanji": "null",
+    "translate": "那樣的",
+    "id": "BASIC1330"
+  },
+  {
+    "word": "さげる",
+    "kanji": "下げる",
+    "translate": "下降",
+    "id": "BASIC1331"
+  },
+  {
+    "word": "ちゅうごくご",
+    "kanji": "中国語",
+    "translate": "中文",
+    "id": "BASIC1332"
+  },
+  {
+    "word": "したぎ",
+    "kanji": "下着",
+    "translate": "貼身衣物",
+    "id": "BASIC1333"
+  },
+  {
+    "word": "さいきん",
+    "kanji": "最近",
+    "translate": "最近",
+    "id": "BASIC1334"
+  },
+  {
+    "word": "けんきゅう",
+    "kanji": "研究",
+    "translate": "研究",
+    "id": "BASIC1335"
+  },
+  {
+    "word": "いきる",
+    "kanji": "生きる",
+    "translate": "生存",
+    "id": "BASIC1336"
+  },
+  {
+    "word": "すてる",
+    "kanji": "捨てる",
+    "translate": "丟掉、捨棄",
+    "id": "BASIC1337"
+  },
+  {
+    "word": "どにち",
+    "kanji": "土日",
+    "translate": "六日",
+    "id": "BASIC1338"
+  },
+  {
+    "word": "みなと",
+    "kanji": "港",
+    "translate": "港口",
+    "id": "BASIC1339"
+  },
+  {
+    "word": "りよう",
+    "kanji": "利用",
+    "translate": "利用",
+    "id": "BASIC1340"
+  },
+  {
+    "word": "えだ",
+    "kanji": "枝",
+    "translate": "樹枝",
+    "id": "BASIC1341"
+  },
+  {
+    "word": "かない",
+    "kanji": "家内",
+    "translate": "妻子",
+    "id": "BASIC1342"
+  },
+  {
+    "word": "ねえ",
+    "kanji": "null",
+    "translate": "喂",
+    "id": "BASIC1343"
+  },
+  {
+    "word": "かわり",
+    "kanji": "代わり",
+    "translate": "換、代替",
+    "id": "BASIC1344"
+  },
+  {
+    "word": "ぬれる",
+    "kanji": "濡れる",
+    "translate": "淋濕",
+    "id": "BASIC1345"
+  },
+  {
+    "word": "～やすい",
+    "kanji": "～易い",
+    "translate": "容易~的",
+    "id": "BASIC1346"
+  },
+  {
+    "word": "そうだん",
+    "kanji": "相談",
+    "translate": "討論",
+    "id": "BASIC1347"
+  },
+  {
+    "word": "かいぎしつ",
+    "kanji": "会議室",
+    "translate": "會議室",
+    "id": "BASIC1348"
+  },
+  {
+    "word": "きょうみ",
+    "kanji": "興味",
+    "translate": "對~有興趣",
+    "id": "BASIC1349"
+  },
+  {
+    "word": "はず",
+    "kanji": "null",
+    "translate": "應該",
+    "id": "BASIC1350"
+  },
+  {
+    "word": "きんじょ",
+    "kanji": "近所",
+    "translate": "附近",
+    "id": "BASIC1351"
+  },
+  {
+    "word": "は",
+    "kanji": "葉",
+    "translate": "葉子",
+    "id": "BASIC1352"
+  },
+  {
+    "word": "たまに",
+    "kanji": "偶に",
+    "translate": "偶爾",
+    "id": "BASIC1353"
+  },
+  {
+    "word": "せつめい",
+    "kanji": "説明",
+    "translate": "說明",
+    "id": "BASIC1354"
+  },
+  {
+    "word": "ピアノ",
+    "kanji": "null",
+    "translate": "鋼琴",
+    "id": "BASIC1355"
+  },
+  {
+    "word": "うけつけ",
+    "kanji": "受付",
+    "translate": "受理",
+    "id": "BASIC1356"
+  },
+  {
+    "word": "プレゼント",
+    "kanji": "null",
+    "translate": "禮物",
+    "id": "BASIC1357"
+  },
+  {
+    "word": "しゅじん",
+    "kanji": "主人",
+    "translate": "主人、老公",
+    "id": "BASIC1358"
+  },
+  {
+    "word": "じゆう",
+    "kanji": "自由",
+    "translate": "自由、隨意",
+    "id": "BASIC1359"
+  },
+  {
+    "word": "ひらく",
+    "kanji": "開く",
+    "translate": "打開",
+    "id": "BASIC1360"
+  },
+  {
+    "word": "しつれい",
+    "kanji": "失礼",
+    "translate": "失禮、無理",
+    "id": "BASIC1361"
+  },
+  {
+    "word": "おれる",
+    "kanji": "折れる",
+    "translate": "折斷",
+    "id": "BASIC1362"
+  },
+  {
+    "word": "カーテン",
+    "kanji": "null",
+    "translate": "窗簾",
+    "id": "BASIC1363"
+  },
+  {
+    "word": "やる",
+    "kanji": "遣る",
+    "translate": "給予",
+    "id": "BASIC1364"
+  },
+  {
+    "word": "はさみ",
+    "kanji": "null",
+    "translate": "剪刀",
+    "id": "BASIC1365"
+  },
+  {
+    "word": "つく",
+    "kanji": "点く",
+    "translate": "點著",
+    "id": "BASIC1366"
+  },
+  {
+    "word": "ずっと",
+    "kanji": "null",
+    "translate": "一直",
+    "id": "BASIC1367"
+  },
+  {
+    "word": "うまい",
+    "kanji": "上手い",
+    "translate": "拿手的",
+    "id": "BASIC1368"
+  },
+  {
+    "word": "かみ",
+    "kanji": "髪",
+    "translate": "頭髮",
+    "id": "BASIC1369"
+  },
+  {
+    "word": "うまい",
+    "kanji": "旨い",
+    "translate": "好吃的",
+    "id": "BASIC1370"
+  },
+  {
+    "word": "それなら",
+    "kanji": "null",
+    "translate": "那樣的話",
+    "id": "BASIC1371"
+  },
+  {
+    "word": "かんけい",
+    "kanji": "関係",
+    "translate": "關係",
+    "id": "BASIC1372"
+  },
+  {
+    "word": "すぐに",
+    "kanji": "直ぐに",
+    "translate": "馬上、立刻",
+    "id": "BASIC1373"
+  },
+  {
+    "word": "だんぼう",
+    "kanji": "暖房",
+    "translate": "暖氣",
+    "id": "BASIC1374"
+  },
+  {
+    "word": "こうぎ",
+    "kanji": "講義",
+    "translate": "講義",
+    "id": "BASIC1375"
+  },
+  {
+    "word": "みつける",
+    "kanji": "見つける",
+    "translate": "尋找、發現",
+    "id": "BASIC1376"
+  },
+  {
+    "word": "きっと",
+    "kanji": "null",
+    "translate": "一定、必定",
+    "id": "BASIC1377"
+  },
+  {
+    "word": "～にくい",
+    "kanji": "～難い",
+    "translate": "難以~",
+    "id": "BASIC1378"
+  },
+  {
+    "word": "げんいん",
+    "kanji": "原因",
+    "translate": "原因",
+    "id": "BASIC1379"
+  },
+  {
+    "word": "け",
+    "kanji": "毛",
+    "translate": "毛",
+    "id": "BASIC1380"
+  },
+  {
+    "word": "ドライブ",
+    "kanji": "null",
+    "translate": "兜風",
+    "id": "BASIC1381"
+  },
+  {
+    "word": "そぼ",
+    "kanji": "祖母",
+    "translate": "祖母",
+    "id": "BASIC1382"
+  },
+  {
+    "word": "ぬる",
+    "kanji": "塗る",
+    "translate": "塗、抹",
+    "id": "BASIC1383"
+  },
+  {
+    "word": "ちょう",
+    "kanji": "町",
+    "translate": "鎮",
+    "id": "BASIC1384"
+  },
+  {
+    "word": "ぶんぽう",
+    "kanji": "文法",
+    "translate": "文法",
+    "id": "BASIC1385"
+  },
+  {
+    "word": "すごい",
+    "kanji": "null",
+    "translate": "厲害的",
+    "id": "BASIC1386"
+  },
+  {
+    "word": "とうきょう",
+    "kanji": "東京",
+    "translate": "東京",
+    "id": "BASIC1387"
+  },
+  {
+    "word": "びっくり",
+    "kanji": "null",
+    "translate": "吃驚",
+    "id": "BASIC1388"
+  },
+  {
+    "word": "スーツケース",
+    "kanji": "null",
+    "translate": "行李箱",
+    "id": "BASIC1389"
+  },
+  {
+    "word": "かならず",
+    "kanji": "必ず",
+    "translate": "必定",
+    "id": "BASIC1390"
+  },
+  {
+    "word": "おく",
+    "kanji": "億",
+    "translate": "一億",
+    "id": "BASIC1391"
+  },
+  {
+    "word": "ばあい",
+    "kanji": "場合",
+    "translate": "場合、狀況",
+    "id": "BASIC1392"
+  },
+  {
+    "word": "むし",
+    "kanji": "虫",
+    "translate": "昆蟲",
+    "id": "BASIC1393"
+  },
+  {
+    "word": "それほど",
+    "kanji": "其れ程",
+    "translate": "那麼、那種程度",
+    "id": "BASIC1394"
+  },
+  {
+    "word": "うりば",
+    "kanji": "売り場",
+    "translate": "販賣處",
+    "id": "BASIC1395"
+  },
+  {
+    "word": "けんか",
+    "kanji": "喧嘩",
+    "translate": "爭吵",
+    "id": "BASIC1396"
+  },
+  {
+    "word": "ゆめ",
+    "kanji": "夢",
+    "translate": "夢、夢想",
+    "id": "BASIC1397"
+  },
+  {
+    "word": "こうじょう",
+    "kanji": "工場",
+    "translate": "工廠",
+    "id": "BASIC1398"
+  },
+  {
+    "word": "あす",
+    "kanji": "明日",
+    "translate": "明天",
+    "id": "BASIC1399"
+  },
+  {
+    "word": "さか",
+    "kanji": "坂",
+    "translate": "斜坡",
+    "id": "BASIC1400"
+  },
+  {
+    "word": "つづく",
+    "kanji": "続く",
+    "translate": "繼續",
+    "id": "BASIC1401"
+  },
+  {
+    "word": "とうとう",
+    "kanji": "null",
+    "translate": "終於",
+    "id": "BASIC1402"
+  },
+  {
+    "word": "エスカレーター",
+    "kanji": "null",
+    "translate": "手扶梯",
+    "id": "BASIC1403"
+  },
+  {
+    "word": "せんぱい",
+    "kanji": "先輩",
+    "translate": "前輩",
+    "id": "BASIC1404"
+  },
+  {
+    "word": "おじょうさん",
+    "kanji": "お嬢さん",
+    "translate": "令媛、小姐",
+    "id": "BASIC1405"
+  },
+  {
+    "word": "すく",
+    "kanji": "空く",
+    "translate": "肚子餓、空著",
+    "id": "BASIC1406"
+  },
+  {
+    "word": "ただしい",
+    "kanji": "正しい",
+    "translate": "正確的",
+    "id": "BASIC1407"
+  },
+  {
+    "word": "せいよう",
+    "kanji": "西洋",
+    "translate": "西方、西洋",
+    "id": "BASIC1408"
+  },
+  {
+    "word": "とこや",
+    "kanji": "床屋",
+    "translate": "理髮店",
+    "id": "BASIC1409"
+  },
+  {
+    "word": "あさい",
+    "kanji": "浅い",
+    "translate": "淺的",
+    "id": "BASIC1410"
+  },
+  {
+    "word": "いがく",
+    "kanji": "医学",
+    "translate": "醫學",
+    "id": "BASIC1411"
+  },
+  {
+    "word": "ひげ",
+    "kanji": "髭",
+    "translate": "鬍子",
+    "id": "BASIC1412"
+  },
+  {
+    "word": "せかい",
+    "kanji": "世界",
+    "translate": "世界",
+    "id": "BASIC1413"
+  },
+  {
+    "word": "おちる",
+    "kanji": "落ちる",
+    "translate": "落下、掉落",
+    "id": "BASIC1414"
+  },
+  {
+    "word": "おたく",
+    "kanji": "お宅",
+    "translate": "府上",
+    "id": "BASIC1415"
+  },
+  {
+    "word": "ステーキ",
+    "kanji": "null",
+    "translate": "牛排",
+    "id": "BASIC1416"
+  },
+  {
+    "word": "せん",
+    "kanji": "線",
+    "translate": "線",
+    "id": "BASIC1417"
+  },
+  {
+    "word": "けいけん",
+    "kanji": "経験",
+    "translate": "經驗",
+    "id": "BASIC1418"
+  },
+  {
+    "word": "ワイン",
+    "kanji": "null",
+    "translate": "葡萄酒",
+    "id": "BASIC1419"
+  },
+  {
+    "word": "とめる",
+    "kanji": "止める",
+    "translate": "停止",
+    "id": "BASIC1420"
+  },
+  {
+    "word": "ちり",
+    "kanji": "地理",
+    "translate": "地理",
+    "id": "BASIC1421"
+  },
+  {
+    "word": "わすれもの",
+    "kanji": "忘れ物",
+    "translate": "遺失物",
+    "id": "BASIC1422"
+  },
+  {
+    "word": "ガラス",
+    "kanji": "null",
+    "translate": "玻璃",
+    "id": "BASIC1423"
+  },
+  {
+    "word": "たす",
+    "kanji": "足す",
+    "translate": "加上",
+    "id": "BASIC1424"
+  },
+  {
+    "word": "なれる",
+    "kanji": "慣れる",
+    "translate": "習慣",
+    "id": "BASIC1425"
+  },
+  {
+    "word": "はっきり",
+    "kanji": "null",
+    "translate": "清楚地",
+    "id": "BASIC1426"
+  },
+  {
+    "word": "のりかえる",
+    "kanji": "乗り換える",
+    "translate": "換乘、轉車",
+    "id": "BASIC1427"
+  },
+  {
+    "word": "きせつ",
+    "kanji": "季節",
+    "translate": "季節",
+    "id": "BASIC1428"
+  },
+  {
+    "word": "はじめる",
+    "kanji": "始める",
+    "translate": "開始",
+    "id": "BASIC1429"
+  },
+  {
+    "word": "ひるやすみ",
+    "kanji": "昼休み",
+    "translate": "午休",
+    "id": "BASIC1430"
+  },
+  {
+    "word": "ぼうえき",
+    "kanji": "貿易",
+    "translate": "貿易",
+    "id": "BASIC1431"
+  },
+  {
+    "word": "あんしん",
+    "kanji": "安心",
+    "translate": "放心",
+    "id": "BASIC1432"
+  },
+  {
+    "word": "こんど",
+    "kanji": "今度",
+    "translate": "這次、下次",
+    "id": "BASIC1433"
+  },
+  {
+    "word": "おくれる",
+    "kanji": "遅れる",
+    "translate": "延遲、落後",
+    "id": "BASIC1434"
+  },
+  {
+    "word": "きそく",
+    "kanji": "規則",
+    "translate": "規則",
+    "id": "BASIC1435"
+  },
+  {
+    "word": "または",
+    "kanji": "又は",
+    "translate": "或是",
+    "id": "BASIC1436"
+  },
+  {
+    "word": "おこす",
+    "kanji": "起こす",
+    "translate": "喚醒",
+    "id": "BASIC1437"
+  },
+  {
+    "word": "しゃかい",
+    "kanji": "社会",
+    "translate": "社會",
+    "id": "BASIC1438"
+  },
+  {
+    "word": "くうき",
+    "kanji": "空気",
+    "translate": "空氣",
+    "id": "BASIC1439"
+  },
+  {
+    "word": "アルコール",
+    "kanji": "null",
+    "translate": "酒精",
+    "id": "BASIC1440"
+  },
+  {
+    "word": "じゅうどう",
+    "kanji": "柔道",
+    "translate": "柔道",
+    "id": "BASIC1441"
+  },
+  {
+    "word": "おくる",
+    "kanji": "送る",
+    "translate": "送給、寄給、送行",
+    "id": "BASIC1442"
+  },
+  {
+    "word": "おしいれ",
+    "kanji": "押入れ",
+    "translate": "壁櫥",
+    "id": "BASIC1443"
+  },
+  {
+    "word": "ぬるい",
+    "kanji": "温い",
+    "translate": "溫的",
+    "id": "BASIC1444"
+  },
+  {
+    "word": "メール",
+    "kanji": "null",
+    "translate": "電子郵件",
+    "id": "BASIC1445"
+  },
+  {
+    "word": "のりもの",
+    "kanji": "乗り物",
+    "translate": "交通工具",
+    "id": "BASIC1446"
+  },
+  {
+    "word": "ひるね",
+    "kanji": "昼寝",
+    "translate": "午睡",
+    "id": "BASIC1447"
+  },
+  {
+    "word": "やくそく",
+    "kanji": "約束",
+    "translate": "約定",
+    "id": "BASIC1448"
+  },
+  {
+    "word": "きょうと",
+    "kanji": "京都",
+    "translate": "京都",
+    "id": "BASIC1449"
+  },
+  {
+    "word": "はずかしい",
+    "kanji": "恥ずかしい",
+    "translate": "害羞的",
+    "id": "BASIC1450"
+  },
+  {
+    "word": "じゅんび",
+    "kanji": "準備",
+    "translate": "準備",
+    "id": "BASIC1451"
+  },
+  {
+    "word": "ばしょ",
+    "kanji": "場所",
+    "translate": "場所",
+    "id": "BASIC1452"
+  },
+  {
+    "word": "たのしむ",
+    "kanji": "楽しむ",
+    "translate": "欣賞",
+    "id": "BASIC1453"
+  },
+  {
+    "word": "さがる",
+    "kanji": "下がる",
+    "translate": "下降",
+    "id": "BASIC1454"
+  },
+  {
+    "word": "へんじ",
+    "kanji": "返事",
+    "translate": "回答",
+    "id": "BASIC1455"
+  },
+  {
+    "word": "にげる",
+    "kanji": "逃げる",
+    "translate": "逃走、逃避",
+    "id": "BASIC1456"
+  },
+  {
+    "word": "レジ",
+    "kanji": "null",
+    "translate": "收銀台",
+    "id": "BASIC1457"
+  },
+  {
+    "word": "いただく",
+    "kanji": "頂く",
+    "translate": "接受",
+    "id": "BASIC1458"
+  },
+  {
+    "word": "たとえぱ",
+    "kanji": "例えば",
+    "translate": "例如",
+    "id": "BASIC1459"
+  },
+  {
+    "word": "あじ",
+    "kanji": "味",
+    "translate": "味道",
+    "id": "BASIC1460"
+  },
+  {
+    "word": "よてい",
+    "kanji": "予定",
+    "translate": "預定",
+    "id": "BASIC1461"
+  },
+  {
+    "word": "しょうち",
+    "kanji": "承知",
+    "translate": "同意、知道",
+    "id": "BASIC1462"
+  },
+  {
+    "word": "とる",
+    "kanji": "捕る",
+    "translate": "捕獲",
+    "id": "BASIC1463"
+  },
+  {
+    "word": "こめ",
+    "kanji": "米",
+    "translate": "米",
+    "id": "BASIC1464"
+  },
+  {
+    "word": "うつ",
+    "kanji": "打つ",
+    "translate": "打、擊",
+    "id": "BASIC1465"
+  },
+  {
+    "word": "かがく",
+    "kanji": "科学",
+    "translate": "科學",
+    "id": "BASIC1466"
+  },
+  {
+    "word": "やばり",
+    "kanji": "矢張り",
+    "translate": "果然",
+    "id": "BASIC1467"
+  },
+  {
+    "word": "おれい",
+    "kanji": "御礼",
+    "translate": "謝禮",
+    "id": "BASIC1468"
+  },
+  {
+    "word": "そんなに",
+    "kanji": "null",
+    "translate": "那樣地",
+    "id": "BASIC1469"
+  },
+  {
+    "word": "こと",
+    "kanji": "事",
+    "translate": "事情",
+    "id": "BASIC1470"
+  },
+  {
+    "word": "～だす",
+    "kanji": "～出す",
+    "translate": "開始~、~起來",
+    "id": "BASIC1471"
+  },
+  {
+    "word": "きをつける",
+    "kanji": "気をつける",
+    "translate": "小心",
+    "id": "BASIC1472"
+  },
+  {
+    "word": "こうちょう",
+    "kanji": "校長",
+    "translate": "校長",
+    "id": "BASIC1473"
+  },
+  {
+    "word": "あく",
+    "kanji": "空く",
+    "translate": "空著",
+    "id": "BASIC1474"
+  },
+  {
+    "word": "まんなか",
+    "kanji": "真ん中",
+    "translate": "正中央",
+    "id": "BASIC1475"
+  },
+  {
+    "word": "ちゅうし",
+    "kanji": "中止",
+    "translate": "中止",
+    "id": "BASIC1476"
+  },
+  {
+    "word": "コンビニ",
+    "kanji": "null",
+    "translate": "便利商店",
+    "id": "BASIC1477"
+  },
+  {
+    "word": "まだ",
+    "kanji": "null",
+    "translate": "還",
+    "id": "BASIC1478"
+  },
+  {
+    "word": "きょういく",
+    "kanji": "教育",
+    "translate": "教育",
+    "id": "BASIC1479"
+  },
+  {
+    "word": "きみ",
+    "kanji": "君",
+    "translate": "你、您",
+    "id": "BASIC1480"
+  },
+  {
+    "word": "アナウンサー",
+    "kanji": "null",
+    "translate": "播音員",
+    "id": "BASIC1481"
+  },
+  {
+    "word": "まま",
+    "kanji": "null",
+    "translate": "原封不動",
+    "id": "BASIC1482"
+  },
+  {
+    "word": "つもる",
+    "kanji": "積もる",
+    "translate": "堆積",
+    "id": "BASIC1483"
+  },
+  {
+    "word": "おこさん",
+    "kanji": "お子さん",
+    "translate": "令郎、令媛",
+    "id": "BASIC1484"
+  },
+  {
+    "word": "にゅうがく",
+    "kanji": "入学",
+    "translate": "入學",
+    "id": "BASIC1485"
+  },
+  {
+    "word": "きしゃ",
+    "kanji": "汽車",
+    "translate": "火車",
+    "id": "BASIC1486"
+  },
+  {
+    "word": "おもいだす",
+    "kanji": "思い出す",
+    "translate": "回想、想起來",
+    "id": "BASIC1487"
+  },
+  {
+    "word": "そろそろ",
+    "kanji": "null",
+    "translate": "差不多",
+    "id": "BASIC1488"
+  },
+  {
+    "word": "きかい",
+    "kanji": "機械",
+    "translate": "機械",
+    "id": "BASIC1489"
+  },
+  {
+    "word": "いし",
+    "kanji": "石",
+    "translate": "石頭",
+    "id": "BASIC1490"
+  },
+  {
+    "word": "のこる",
+    "kanji": "残る",
+    "translate": "剩下",
+    "id": "BASIC1491"
+  },
+  {
+    "word": "ざんねん",
+    "kanji": "残念",
+    "translate": "可惜",
+    "id": "BASIC1492"
+  },
+  {
+    "word": "バートタイム",
+    "kanji": "null",
+    "translate": "打工",
+    "id": "BASIC1493"
+  },
+  {
+    "word": "こんや",
+    "kanji": "今夜",
+    "translate": "今晚",
+    "id": "BASIC1494"
+  },
+  {
+    "word": "しらせる",
+    "kanji": "知らせる",
+    "translate": "通知、告訴",
+    "id": "BASIC1495"
+  },
+  {
+    "word": "たてる",
+    "kanji": "建てる",
+    "translate": "建立",
+    "id": "BASIC1496"
+  },
+  {
+    "word": "よると",
+    "kanji": "拠ると",
+    "translate": "由於~",
+    "id": "BASIC1497"
+  },
+  {
+    "word": "だいぶ",
+    "kanji": "大分",
+    "translate": "很、想當",
+    "id": "BASIC1498"
+  },
+  {
+    "word": "つめ",
+    "kanji": "爪",
+    "translate": "指甲",
+    "id": "BASIC1499"
+  },
+  {
+    "word": "つま",
+    "kanji": "妻",
+    "translate": "妻子",
+    "id": "BASIC1500"
+  },
+  {
+    "word": "つかまえる",
+    "kanji": "捕まえる",
+    "translate": "抓住",
+    "id": "BASIC1501"
+  },
+  {
+    "word": "でる",
+    "kanji": "出る",
+    "translate": "參加",
+    "id": "BASIC1502"
+  },
+  {
+    "word": "よう",
+    "kanji": "用",
+    "translate": "事情",
+    "id": "BASIC1503"
+  },
+  {
+    "word": "いそぐ",
+    "kanji": "急ぐ",
+    "translate": "快點",
+    "id": "BASIC1504"
+  },
+  {
+    "word": "アフリカ",
+    "kanji": "null",
+    "translate": "非洲",
+    "id": "BASIC1505"
+  },
+  {
+    "word": "たのしい",
+    "kanji": "楽しい",
+    "translate": "快樂",
+    "id": "BASIC1506"
+  },
+  {
+    "word": "きびしい",
+    "kanji": "厳しい",
+    "translate": "嚴厲的",
+    "id": "BASIC1507"
+  },
+  {
+    "word": "ひこうじょう",
+    "kanji": "飛行場",
+    "translate": "機場",
+    "id": "BASIC1508"
+  },
+  {
+    "word": "もうひとつ",
+    "kanji": "null",
+    "translate": "再一個",
+    "id": "BASIC1509"
+  },
+  {
+    "word": "けっして",
+    "kanji": "決して",
+    "translate": "絕對",
+    "id": "BASIC1510"
+  },
+  {
+    "word": "けんぶつ",
+    "kanji": "見物",
+    "translate": "觀光",
+    "id": "BASIC1511"
+  },
+  {
+    "word": "ひきだし",
+    "kanji": "引き出し",
+    "translate": "抽屜",
+    "id": "BASIC1512"
+  },
+  {
+    "word": "おしらせ",
+    "kanji": "お知らせ",
+    "translate": "消息、通知",
+    "id": "BASIC1513"
+  },
+  {
+    "word": "むかえる",
+    "kanji": "迎える",
+    "translate": "迎接",
+    "id": "BASIC1514"
+  },
+  {
+    "word": "すうがく",
+    "kanji": "数学",
+    "translate": "數學",
+    "id": "BASIC1515"
+  },
+  {
+    "word": "べつ",
+    "kanji": "別",
+    "translate": "別的",
+    "id": "BASIC1516"
+  },
+  {
+    "word": "ひ",
+    "kanji": "火",
+    "translate": "火、燈",
+    "id": "BASIC1517"
+  },
+  {
+    "word": "それに",
+    "kanji": "其れに",
+    "translate": "而且",
+    "id": "BASIC1518"
+  },
+  {
+    "word": "しらべる",
+    "kanji": "調べる",
+    "translate": "調查",
+    "id": "BASIC1519"
+  },
+  {
+    "word": "にがて",
+    "kanji": "苦手",
+    "translate": "不擅長",
+    "id": "BASIC1520"
+  },
+  {
+    "word": "びじゅつかん",
+    "kanji": "美術館",
+    "translate": "美術館",
+    "id": "BASIC1521"
+  },
+  {
+    "word": "ついて",
+    "kanji": "null",
+    "translate": "關於",
+    "id": "BASIC1522"
+  },
+  {
+    "word": "すばらしい",
+    "kanji": "素晴らしい",
+    "translate": "了不起的",
+    "id": "BASIC1523"
+  },
+  {
+    "word": "つる",
+    "kanji": "釣る",
+    "translate": "釣、引誘",
+    "id": "BASIC1524"
+  },
+  {
+    "word": "すいどう",
+    "kanji": "水道",
+    "translate": "自來水",
+    "id": "BASIC1525"
+  },
+  {
+    "word": "けしき",
+    "kanji": "景色",
+    "translate": "風景",
+    "id": "BASIC1526"
+  },
+  {
+    "word": "いと",
+    "kanji": "糸",
+    "translate": "線",
+    "id": "BASIC1527"
+  },
+  {
+    "word": "すぎる",
+    "kanji": "過ぎる",
+    "translate": "經過、過於",
+    "id": "BASIC1528"
+  },
+  {
+    "word": "たしか",
+    "kanji": "確か",
+    "translate": "的確",
+    "id": "BASIC1529"
+  },
+  {
+    "word": "たいてい",
+    "kanji": "大抵",
+    "translate": "大抵",
+    "id": "BASIC1530"
+  },
+  {
+    "word": "じゅうしょ",
+    "kanji": "住所",
+    "translate": "地址",
+    "id": "BASIC1531"
+  },
+  {
+    "word": "ひつう",
+    "kanji": "普通",
+    "translate": "普通",
+    "id": "BASIC1532"
+  },
+  {
+    "word": "われつ",
+    "kanji": "null",
+    "translate": "破掉、碎裂",
+    "id": "BASIC1533"
+  },
+  {
+    "word": "あいさつ",
+    "kanji": "挨拶",
+    "translate": "打招呼",
+    "id": "BASIC1534"
+  },
+  {
+    "word": "かたづける",
+    "kanji": "片付ける",
+    "translate": "整理",
+    "id": "BASIC1535"
+  },
+  {
+    "word": "ぶんがく",
+    "kanji": "文学",
+    "translate": "文學",
+    "id": "BASIC1536"
+  },
+  {
+    "word": "すごく",
+    "kanji": "null",
+    "translate": "非常地",
+    "id": "BASIC1537"
+  },
+  {
+    "word": "どうぶつえん",
+    "kanji": "動物園",
+    "translate": "動物園",
+    "id": "BASIC1538"
+  },
+  {
+    "word": "きゅう",
+    "kanji": "急",
+    "translate": "急迫、突然",
+    "id": "BASIC1539"
+  },
+  {
+    "word": "みつかる",
+    "kanji": "見つかる",
+    "translate": "被看到、找到",
+    "id": "BASIC1540"
+  },
+  {
+    "word": "うかがう",
+    "kanji": "伺う",
+    "translate": "拜訪、請教",
+    "id": "BASIC1541"
+  },
+  {
+    "word": "がくぶ",
+    "kanji": "学部",
+    "translate": "學科",
+    "id": "BASIC1542"
+  },
+  {
+    "word": "ちゅうがっこう",
+    "kanji": "中学校",
+    "translate": "國中",
+    "id": "BASIC1543"
+  },
+  {
+    "word": "つもり",
+    "kanji": "null",
+    "translate": "打算",
+    "id": "BASIC1544"
+  },
+  {
+    "word": "ははおや",
+    "kanji": "母親",
+    "translate": "母親",
+    "id": "BASIC1545"
+  },
+  {
+    "word": "わる",
+    "kanji": "割る",
+    "translate": "打破",
+    "id": "BASIC1546"
+  },
+  {
+    "word": "まじめ",
+    "kanji": "真面目",
+    "translate": "認真的",
+    "id": "BASIC1547"
+  },
+  {
+    "word": "とどく",
+    "kanji": "届く",
+    "translate": "收到",
+    "id": "BASIC1548"
+  },
+  {
+    "word": "あいだ",
+    "kanji": "間",
+    "translate": "期間",
+    "id": "BASIC1549"
+  },
+  {
+    "word": "すいか",
+    "kanji": "西瓜",
+    "translate": "西瓜",
+    "id": "BASIC1550"
+  },
+  {
+    "word": "もし",
+    "kanji": "null",
+    "translate": "如果",
+    "id": "BASIC1551"
+  },
+  {
+    "word": "かえり",
+    "kanji": "帰り",
+    "translate": "回家",
+    "id": "BASIC1552"
+  },
+  {
+    "word": "だめ",
+    "kanji": "駄目",
+    "translate": "不行、沒辦法",
+    "id": "BASIC1553"
+  },
+  {
+    "word": "かえる",
+    "kanji": "変える",
+    "translate": "改變",
+    "id": "BASIC1554"
+  },
+  {
+    "word": "もうす",
+    "kanji": "申す",
+    "translate": "說、講",
+    "id": "BASIC1555"
+  },
+  {
+    "word": "きょうそう",
+    "kanji": "競争",
+    "translate": "競爭",
+    "id": "BASIC1556"
+  },
+  {
+    "word": "せわ",
+    "kanji": "世話",
+    "translate": "照顧、幫忙",
+    "id": "BASIC1557"
+  },
+  {
+    "word": "りょかん",
+    "kanji": "旅館",
+    "translate": "旅館",
+    "id": "BASIC1558"
+  },
+  {
+    "word": "なる",
+    "kanji": "鳴る",
+    "translate": "鳴響",
+    "id": "BASIC1559"
+  },
+  {
+    "word": "まんが",
+    "kanji": "漫画",
+    "translate": "漫畫",
+    "id": "BASIC1560"
+  },
+  {
+    "word": "なくなる",
+    "kanji": "亡くなる",
+    "translate": "過世",
+    "id": "BASIC1561"
+  },
+  {
+    "word": "こまかい",
+    "kanji": "細かい",
+    "translate": "細的、詳細的",
+    "id": "BASIC1562"
+  },
+  {
+    "word": "おや",
+    "kanji": "null",
+    "translate": "哎呀",
+    "id": "BASIC1563"
+  },
+  {
+    "word": "におい",
+    "kanji": "匂い",
+    "translate": "氣味",
+    "id": "BASIC1564"
+  },
+  {
+    "word": "しかた",
+    "kanji": "仕方",
+    "translate": "辦法",
+    "id": "BASIC1565"
+  },
+  {
+    "word": "もうすぐ",
+    "kanji": "もう直ぐ",
+    "translate": "馬上",
+    "id": "BASIC1566"
+  },
+  {
+    "word": "サンドイッチ",
+    "kanji": "null",
+    "translate": "三明治",
+    "id": "BASIC1567"
+  },
+  {
+    "word": "しょうせつ",
+    "kanji": "小説",
+    "translate": "小說",
+    "id": "BASIC1568"
+  },
+  {
+    "word": "とまる",
+    "kanji": "泊まる",
+    "translate": "住宿",
+    "id": "BASIC1569"
+  },
+  {
+    "word": "てら",
+    "kanji": "寺",
+    "translate": "寺院",
+    "id": "BASIC1570"
+  },
+  {
+    "word": "ため",
+    "kanji": "為",
+    "translate": "因為~",
+    "id": "BASIC1571"
+  },
+  {
+    "word": "じゃま",
+    "kanji": "邪魔",
+    "translate": "打擾、妨礙",
+    "id": "BASIC1572"
+  },
+  {
+    "word": "しばらく",
+    "kanji": "暫く",
+    "translate": "暫時",
+    "id": "BASIC1573"
+  },
+  {
+    "word": "なく",
+    "kanji": "泣く",
+    "translate": "哭泣",
+    "id": "BASIC1574"
+  },
+  {
+    "word": "バスてい",
+    "kanji": "バス停",
+    "translate": "公車站",
+    "id": "BASIC1575"
+  },
+  {
+    "word": "あつまる",
+    "kanji": "集まる",
+    "translate": "集合",
+    "id": "BASIC1576"
+  },
+  {
+    "word": "れきし",
+    "kanji": "歴史",
+    "translate": "歷史",
+    "id": "BASIC1577"
+  },
+  {
+    "word": "せいかつ",
+    "kanji": "生活",
+    "translate": "生活",
+    "id": "BASIC1578"
+  },
+  {
+    "word": "ばんぐみ",
+    "kanji": "番組",
+    "translate": "節目",
+    "id": "BASIC1579"
+  },
+  {
+    "word": "ふべん",
+    "kanji": "不便",
+    "translate": "不方便",
+    "id": "BASIC1580"
+  },
+  {
+    "word": "こころ",
+    "kanji": "心",
+    "translate": "心意、心理",
+    "id": "BASIC1581"
+  },
+  {
+    "word": "やっと",
+    "kanji": "null",
+    "translate": "終於、好不容易",
+    "id": "BASIC1582"
+  },
+  {
+    "word": "さわる",
+    "kanji": "触る",
+    "translate": "觸摸",
+    "id": "BASIC1583"
+  },
+  {
+    "word": "しんせつ",
+    "kanji": "親切",
+    "translate": "親切",
+    "id": "BASIC1584"
+  },
+  {
+    "word": "じょせい",
+    "kanji": "女性",
+    "translate": "女性",
+    "id": "BASIC1585"
+  },
+  {
+    "word": "はらう",
+    "kanji": "払う",
+    "translate": "付錢",
+    "id": "BASIC1586"
+  },
+  {
+    "word": "たおれる",
+    "kanji": "倒れる",
+    "translate": "倒下",
+    "id": "BASIC1587"
+  },
+  {
+    "word": "かちょう",
+    "kanji": "課長",
+    "translate": "課長",
+    "id": "BASIC1588"
+  },
+  {
+    "word": "こしょう",
+    "kanji": "故障",
+    "translate": "故障",
+    "id": "BASIC1589"
+  },
+  {
+    "word": "びん",
+    "kanji": "瓶",
+    "translate": "瓶子",
+    "id": "BASIC1590"
+  },
+  {
+    "word": "じむしょ",
+    "kanji": "事務所",
+    "translate": "事務所",
+    "id": "BASIC1591"
+  },
+  {
+    "word": "ほとんど",
+    "kanji": "殆ど",
+    "translate": "大部分",
+    "id": "BASIC1592"
+  },
+  {
+    "word": "ピアニスト",
+    "kanji": "null",
+    "translate": "鋼琴家",
+    "id": "BASIC1593"
+  },
+  {
+    "word": "つれる",
+    "kanji": "連れる",
+    "translate": "帶領",
+    "id": "BASIC1594"
+  },
+  {
+    "word": "かまう",
+    "kanji": "構う",
+    "translate": "在意、介意",
+    "id": "BASIC1595"
+  },
+  {
+    "word": "かわる",
+    "kanji": "代わる",
+    "translate": "換、代替",
+    "id": "BASIC1596"
+  },
+  {
+    "word": "ちゅうしゃ",
+    "kanji": "注射",
+    "translate": "注射",
+    "id": "BASIC1597"
+  },
+  {
+    "word": "いじめる",
+    "kanji": "苛める",
+    "translate": "欺負",
+    "id": "BASIC1598"
+  },
+  {
+    "word": "きめる",
+    "kanji": "決める",
+    "translate": "決定",
+    "id": "BASIC1599"
+  },
+  {
+    "word": "こわれる",
+    "kanji": "壊れる",
+    "translate": "故障",
+    "id": "BASIC1600"
+  },
+  {
+    "word": "てん",
+    "kanji": "点",
+    "translate": "分數",
+    "id": "BASIC1601"
+  },
+  {
+    "word": "きもち",
+    "kanji": "気持ち",
+    "translate": "心情、感受",
+    "id": "BASIC1602"
+  },
+  {
+    "word": "ステレオ",
+    "kanji": "null",
+    "translate": "音響",
+    "id": "BASIC1603"
+  },
+  {
+    "word": "レポート",
+    "kanji": "null",
+    "translate": "報告",
+    "id": "BASIC1604"
+  },
+  {
+    "word": "がんばる",
+    "kanji": "頑張る",
+    "translate": "努力",
+    "id": "BASIC1605"
+  },
+  {
+    "word": "ただ",
+    "kanji": "null",
+    "translate": "免費",
+    "id": "BASIC1606"
+  },
+  {
+    "word": "あつめる",
+    "kanji": "集める",
+    "translate": "收集",
+    "id": "BASIC1607"
+  },
+  {
+    "word": "いらっしゃる",
+    "kanji": "null",
+    "translate": "在、去、來",
+    "id": "BASIC1608"
+  },
+  {
+    "word": "こうつう",
+    "kanji": "交通",
+    "translate": "交通",
+    "id": "BASIC1609"
+  },
+  {
+    "word": "ひどい",
+    "kanji": "酷い",
+    "translate": "過分的",
+    "id": "BASIC1610"
+  },
+  {
+    "word": "きぬ",
+    "kanji": "絹",
+    "translate": "絲織品",
+    "id": "BASIC1611"
+  },
+  {
+    "word": "くらべる",
+    "kanji": "比べる",
+    "translate": "比較",
+    "id": "BASIC1612"
+  },
+  {
+    "word": "タイプ",
+    "kanji": "null",
+    "translate": "類型",
+    "id": "BASIC1613"
+  },
+  {
+    "word": "むり",
+    "kanji": "無理",
+    "translate": "不可能",
+    "id": "BASIC1614"
+  },
+  {
+    "word": "えらぶ",
+    "kanji": "選ぶ",
+    "translate": "選擇",
+    "id": "BASIC1615"
+  },
+  {
+    "word": "さらいしゅう",
+    "kanji": "再来週",
+    "translate": "下下星期",
+    "id": "BASIC1616"
+  },
+  {
+    "word": "こくさい",
+    "kanji": "国際",
+    "translate": "國際",
+    "id": "BASIC1617"
+  },
+  {
+    "word": "テキスト",
+    "kanji": "null",
+    "translate": "課本、文字",
+    "id": "BASIC1618"
+  },
+  {
+    "word": "しみん",
+    "kanji": "市民",
+    "translate": "市民",
+    "id": "BASIC1619"
+  },
+  {
+    "word": "おる",
+    "kanji": "居る",
+    "translate": "在",
+    "id": "BASIC1620"
+  },
+  {
+    "word": "ぬすむ",
+    "kanji": "盗む",
+    "translate": "盜取",
+    "id": "BASIC1621"
+  },
+  {
+    "word": "いけん",
+    "kanji": "意見",
+    "translate": "意見",
+    "id": "BASIC1622"
+  },
+  {
+    "word": "やく",
+    "kanji": "焼く",
+    "translate": "烤",
+    "id": "BASIC1623"
+  },
+  {
+    "word": "ほし",
+    "kanji": "星",
+    "translate": "星星",
+    "id": "BASIC1624"
+  },
+  {
+    "word": "レシート",
+    "kanji": "null",
+    "translate": "收據",
+    "id": "BASIC1625"
+  },
+  {
+    "word": "しんぱい",
+    "kanji": "心配",
+    "translate": "擔心",
+    "id": "BASIC1626"
+  },
+  {
+    "word": "かんごし",
+    "kanji": "看護師",
+    "translate": "護理師",
+    "id": "BASIC1627"
+  },
+  {
+    "word": "けいざい",
+    "kanji": "経済",
+    "translate": "經濟",
+    "id": "BASIC1628"
+  },
+  {
+    "word": "いがい",
+    "kanji": "以外",
+    "translate": "以外",
+    "id": "BASIC1629"
+  },
+  {
+    "word": "いない",
+    "kanji": "以内",
+    "translate": "以內",
+    "id": "BASIC1630"
+  },
+  {
+    "word": "もめん",
+    "kanji": "木綿",
+    "translate": "棉花",
+    "id": "BASIC1631"
+  },
+  {
+    "word": "かたい",
+    "kanji": "硬い",
+    "translate": "堅毅的",
+    "id": "BASIC1632"
+  },
+  {
+    "word": "なるべく",
+    "kanji": "null",
+    "translate": "盡可能",
+    "id": "BASIC1633"
+  },
+  {
+    "word": "あう",
+    "kanji": "会う",
+    "translate": "合適、符合",
+    "id": "BASIC1634"
+  },
+  {
+    "word": "おくじょう",
+    "kanji": "屋上",
+    "translate": "屋頂",
+    "id": "BASIC1635"
+  },
+  {
+    "word": "しま",
+    "kanji": "島",
+    "translate": "島嶼",
+    "id": "BASIC1636"
+  },
+  {
+    "word": "しあい",
+    "kanji": "試合",
+    "translate": "比賽",
+    "id": "BASIC1637"
+  },
+  {
+    "word": "ごちそう",
+    "kanji": "ご馳走",
+    "translate": "招待",
+    "id": "BASIC1638"
+  },
+  {
+    "word": "たずねる",
+    "kanji": "訪ねる",
+    "translate": "拜訪、打聽",
+    "id": "BASIC1639"
+  },
+  {
+    "word": "おかげ",
+    "kanji": "御蔭",
+    "translate": "多虧、幸好",
+    "id": "BASIC1640"
+  },
+  {
+    "word": "うける",
+    "kanji": "受ける",
+    "translate": "收到",
+    "id": "BASIC1641"
+  },
+  {
+    "word": "これから",
+    "kanji": "null",
+    "translate": "接下來",
+    "id": "BASIC1642"
+  },
+  {
+    "word": "ソファー",
+    "kanji": "null",
+    "translate": "沙發",
+    "id": "BASIC1643"
+  },
+  {
+    "word": "わけ",
+    "kanji": "訳",
+    "translate": "理由",
+    "id": "BASIC1644"
+  },
+  {
+    "word": "やける",
+    "kanji": "焼ける",
+    "translate": "烤",
+    "id": "BASIC1645"
+  },
+  {
+    "word": "さわぐ",
+    "kanji": "騒ぐ",
+    "translate": "喧鬧",
+    "id": "BASIC1646"
+  },
+  {
+    "word": "ひかり",
+    "kanji": "光",
+    "translate": "光線",
+    "id": "BASIC1647"
+  },
+  {
+    "word": "～おき",
+    "kanji": "～置き",
+    "translate": "每隔~",
+    "id": "BASIC1648"
+  },
+  {
+    "word": "しゅみ",
+    "kanji": "趣味",
+    "translate": "興趣",
+    "id": "BASIC1649"
+  },
+  {
+    "word": "しゃちょう",
+    "kanji": "社長",
+    "translate": "社長",
+    "id": "BASIC1650"
+  },
+  {
+    "word": "ジャム",
+    "kanji": "null",
+    "translate": "果醬",
+    "id": "BASIC1651"
+  },
+  {
+    "word": "ひかる",
+    "kanji": "光る",
+    "translate": "發光",
+    "id": "BASIC1652"
+  },
+  {
+    "word": "コンサート",
+    "kanji": "null",
+    "translate": "演唱會",
+    "id": "BASIC1653"
+  },
+  {
+    "word": "なくなる",
+    "kanji": "無くなる",
+    "translate": "遺失",
+    "id": "BASIC1654"
+  },
+  {
+    "word": "てきとう",
+    "kanji": "適当",
+    "translate": "適當",
+    "id": "BASIC1655"
+  },
+  {
+    "word": "アジア",
+    "kanji": "null",
+    "translate": "亞洲",
+    "id": "BASIC1656"
+  },
+  {
+    "word": "とりかえる",
+    "kanji": "取り替える",
+    "translate": "替換",
+    "id": "BASIC1657"
+  },
+  {
+    "word": "ふとん",
+    "kanji": "布団",
+    "translate": "被子",
+    "id": "BASIC1658"
+  },
+  {
+    "word": "ねむる",
+    "kanji": "眠る",
+    "translate": "睡覺",
+    "id": "BASIC1659"
+  },
+  {
+    "word": "うでどけい",
+    "kanji": "腕時計",
+    "translate": "手錶",
+    "id": "BASIC1660"
+  },
+  {
+    "word": "せいじ",
+    "kanji": "政治",
+    "translate": "政治",
+    "id": "BASIC1661"
+  },
+  {
+    "word": "おきゃくさま",
+    "kanji": "お客様",
+    "translate": "顧客",
+    "id": "BASIC1662"
+  },
+  {
+    "word": "しんぶんしゃ",
+    "kanji": "新聞社",
+    "translate": "報社",
+    "id": "BASIC1663"
+  },
+  {
+    "word": "へん",
+    "kanji": "変",
+    "translate": "奇怪、反常",
+    "id": "BASIC1664"
+  },
+  {
+    "word": "ふかい",
+    "kanji": "深い",
+    "translate": "深的",
+    "id": "BASIC1665"
+  },
+  {
+    "word": "しょうかい",
+    "kanji": "紹介",
+    "translate": "介紹",
+    "id": "BASIC1666"
+  },
+  {
+    "word": "おどり",
+    "kanji": "踊り",
+    "translate": "舞蹈",
+    "id": "BASIC1667"
+  },
+  {
+    "word": "たいいん",
+    "kanji": "退院",
+    "translate": "出院",
+    "id": "BASIC1668"
+  },
+  {
+    "word": "さかん",
+    "kanji": "盛ん",
+    "translate": "興盛",
+    "id": "BASIC1669"
+  },
+  {
+    "word": "ふね",
+    "kanji": "船",
+    "translate": "船",
+    "id": "BASIC1670"
+  },
+  {
+    "word": "ひっこす",
+    "kanji": "引っ越す",
+    "translate": "搬家、搬遷",
+    "id": "BASIC1671"
+  },
+  {
+    "word": "おもちゃ",
+    "kanji": "玩具",
+    "translate": "玩具",
+    "id": "BASIC1672"
+  },
+  {
+    "word": "なおる",
+    "kanji": "直る",
+    "translate": "修復",
+    "id": "BASIC1673"
+  },
+  {
+    "word": "ばい",
+    "kanji": "倍",
+    "translate": "倍",
+    "id": "BASIC1674"
+  },
+  {
+    "word": "せんもん",
+    "kanji": "専門",
+    "translate": "專業",
+    "id": "BASIC1675"
+  },
+  {
+    "word": "あやまる",
+    "kanji": "謝る",
+    "translate": "道歉",
+    "id": "BASIC1676"
+  },
+  {
+    "word": "えんりょ",
+    "kanji": "遠慮",
+    "translate": "考慮、擔心",
+    "id": "BASIC1677"
+  },
+  {
+    "word": "パパ",
+    "kanji": "null",
+    "translate": "爸爸",
+    "id": "BASIC1678"
+  },
+  {
+    "word": "けれど",
+    "kanji": "null",
+    "translate": "可是、然而",
+    "id": "BASIC1679"
+  },
+  {
+    "word": "さっき",
+    "kanji": "null",
+    "translate": "剛才",
+    "id": "BASIC1680"
+  },
+  {
+    "word": "かがみ",
+    "kanji": "鏡",
+    "translate": "鏡子",
+    "id": "BASIC1681"
+  },
+  {
+    "word": "しか",
+    "kanji": "null",
+    "translate": "只有",
+    "id": "BASIC1682"
+  },
+  {
+    "word": "いか",
+    "kanji": "以下",
+    "translate": "以下",
+    "id": "BASIC1683"
+  },
+  {
+    "word": "だいがくせん",
+    "kanji": "大学生",
+    "translate": "大學生",
+    "id": "BASIC1684"
+  },
+  {
+    "word": "かれし",
+    "kanji": "彼氏",
+    "translate": "男朋友",
+    "id": "BASIC1685"
+  },
+  {
+    "word": "しゅうかん",
+    "kanji": "習慣",
+    "translate": "習慣",
+    "id": "BASIC1686"
+  },
+  {
+    "word": "オフィス",
+    "kanji": "null",
+    "translate": "辦公室",
+    "id": "BASIC1687"
+  },
+  {
+    "word": "こうぎょう",
+    "kanji": "工業",
+    "translate": "工業",
+    "id": "BASIC1688"
+  },
+  {
+    "word": "おまつり",
+    "kanji": "御祭り",
+    "translate": "祭典",
+    "id": "BASIC1689"
+  },
+  {
+    "word": "うえる",
+    "kanji": "植える",
+    "translate": "種植",
+    "id": "BASIC1690"
+  },
+  {
+    "word": "ゲーム",
+    "kanji": "null",
+    "translate": "遊戲",
+    "id": "BASIC1691"
+  },
+  {
+    "word": "ようじ",
+    "kanji": "用事",
+    "translate": "事情、工作",
+    "id": "BASIC1692"
+  },
+  {
+    "word": "なるほど",
+    "kanji": "null",
+    "translate": "原來如此",
+    "id": "BASIC1693"
+  },
+  {
+    "word": "てつだう",
+    "kanji": "手伝う",
+    "translate": "幫助",
+    "id": "BASIC1694"
+  },
+  {
+    "word": "けいかく",
+    "kanji": "計画",
+    "translate": "計畫",
+    "id": "BASIC1695"
+  },
+  {
+    "word": "オーバー",
+    "kanji": "null",
+    "translate": "外套",
+    "id": "BASIC1696"
+  },
+  {
+    "word": "ちっとも",
+    "kanji": "null",
+    "translate": "一點也不",
+    "id": "BASIC1697"
+  },
+  {
+    "word": "むすこ",
+    "kanji": "息子",
+    "translate": "兒子",
+    "id": "BASIC1698"
+  },
+  {
+    "word": "さそう",
+    "kanji": "誘う",
+    "translate": "邀請",
+    "id": "BASIC1699"
+  },
+  {
+    "word": "スーツ",
+    "kanji": "null",
+    "translate": "套裝",
+    "id": "BASIC1700"
+  },
+  {
+    "word": "やむ",
+    "kanji": "止む",
+    "translate": "停止",
+    "id": "BASIC1701"
+  },
+  {
+    "word": "おりる",
+    "kanji": "下りる",
+    "translate": "下降",
+    "id": "BASIC1702"
+  },
+  {
+    "word": "なかなか",
+    "kanji": "中々",
+    "translate": "相當",
+    "id": "BASIC1703"
+  },
+  {
+    "word": "サンダル",
+    "kanji": "null",
+    "translate": "涼鞋",
+    "id": "BASIC1704"
+  },
+  {
+    "word": "しょうがつ",
+    "kanji": "正月",
+    "translate": "新年",
+    "id": "BASIC1705"
+  },
+  {
+    "word": "かいじょう",
+    "kanji": "会場",
+    "translate": "會場",
+    "id": "BASIC1706"
+  },
+  {
+    "word": "このあいだ",
+    "kanji": "此の間",
+    "translate": "上次",
+    "id": "BASIC1707"
+  },
+  {
+    "word": "つたえる",
+    "kanji": "伝える",
+    "translate": "傳達",
+    "id": "BASIC1708"
+  },
+  {
+    "word": "しょうたい",
+    "kanji": "招待",
+    "translate": "招待",
+    "id": "BASIC1709"
+  },
+  {
+    "word": "はんたい",
+    "kanji": "反対",
+    "translate": "反對、想返",
+    "id": "BASIC1710"
+  },
+  {
+    "word": "ひつよう",
+    "kanji": "必要",
+    "translate": "必要、需要",
+    "id": "BASIC1711"
+  },
+  {
+    "word": "てんいん",
+    "kanji": "店員",
+    "translate": "店員",
+    "id": "BASIC1712"
+  },
+  {
+    "word": "きゅうこう",
+    "kanji": "急行",
+    "translate": "快車",
+    "id": "BASIC1713"
+  },
+  {
+    "word": "しかる",
+    "kanji": "叱る",
+    "translate": "責備",
+    "id": "BASIC1714"
+  },
+  {
+    "word": "おしゃべり",
+    "kanji": "お喋り",
+    "translate": "聊天",
+    "id": "BASIC1715"
+  },
+  {
+    "word": "よろこぶ",
+    "kanji": "喜ぶ",
+    "translate": "高興",
+    "id": "BASIC1716"
+  },
+  {
+    "word": "やわらかい",
+    "kanji": "柔らかい",
+    "translate": "柔軟的",
+    "id": "BASIC1717"
+  },
+  {
+    "word": "いのる",
+    "kanji": "祈る",
+    "translate": "祈禱",
+    "id": "BASIC1718"
+  },
+  {
+    "word": "だから",
+    "kanji": "null",
+    "translate": "因此、所以",
+    "id": "BASIC1719"
+  },
+  {
+    "word": "コンピュータ",
+    "kanji": "null",
+    "translate": "電腦",
+    "id": "BASIC1720"
+  },
+  {
+    "word": "くださる",
+    "kanji": "下さる",
+    "translate": "給我",
+    "id": "BASIC1721"
+  },
+  {
+    "word": "いなか",
+    "kanji": "田舎",
+    "translate": "鄉下",
+    "id": "BASIC1722"
+  },
+  {
+    "word": "くれる",
+    "kanji": "暮れる",
+    "translate": "天黑",
+    "id": "BASIC1723"
+  },
+  {
+    "word": "はいけん",
+    "kanji": "拝見",
+    "translate": "拜會",
+    "id": "BASIC1724"
+  },
+  {
+    "word": "すると",
+    "kanji": "null",
+    "translate": "於是、然後",
+    "id": "BASIC1725"
+  },
+  {
+    "word": "おみまい",
+    "kanji": "御見舞い",
+    "translate": "探望",
+    "id": "BASIC1726"
+  },
+  {
+    "word": "うつる",
+    "kanji": "移る",
+    "translate": "遷移",
+    "id": "BASIC1727"
+  },
+  {
+    "word": "ソフト",
+    "kanji": "null",
+    "translate": "軟體",
+    "id": "BASIC1728"
+  },
+  {
+    "word": "せんそう",
+    "kanji": "戦争",
+    "translate": "戰爭",
+    "id": "BASIC1729"
+  },
+  {
+    "word": "わらう",
+    "kanji": "笑う",
+    "translate": "笑",
+    "id": "BASIC1730"
+  },
+  {
+    "word": "したく",
+    "kanji": "支度",
+    "translate": "準備",
+    "id": "BASIC1731"
+  },
+  {
+    "word": "そつぎょう",
+    "kanji": "卒業",
+    "translate": "畢業",
+    "id": "BASIC1732"
+  },
+  {
+    "word": "カップ",
+    "kanji": "null",
+    "translate": "有把手的杯子",
+    "id": "BASIC1733"
+  },
+  {
+    "word": "とくに",
+    "kanji": "特に",
+    "translate": "尤其",
+    "id": "BASIC1734"
+  },
+  {
+    "word": "すな",
+    "kanji": "砂",
+    "translate": "沙子",
+    "id": "BASIC1735"
+  },
+  {
+    "word": "うんどうじょう",
+    "kanji": "運動場",
+    "translate": "運動場",
+    "id": "BASIC1736"
+  },
+  {
+    "word": "よやく",
+    "kanji": "予約",
+    "translate": "預約",
+    "id": "BASIC1737"
+  },
+  {
+    "word": "つき",
+    "kanji": "月",
+    "translate": "月亮",
+    "id": "BASIC1738"
+  },
+  {
+    "word": "ゆれる",
+    "kanji": "揺れる",
+    "translate": "搖動",
+    "id": "BASIC1739"
+  },
+  {
+    "word": "けしゴム",
+    "kanji": "消しゴム",
+    "translate": "橡皮擦",
+    "id": "BASIC1740"
+  },
+  {
+    "word": "スクリーン",
+    "kanji": "null",
+    "translate": "螢幕",
+    "id": "BASIC1741"
+  },
+  {
+    "word": "まず",
+    "kanji": "先ず",
+    "translate": "首先",
+    "id": "BASIC1742"
+  },
+  {
+    "word": "うで",
+    "kanji": "腕",
+    "translate": "手腕",
+    "id": "BASIC1743"
+  },
+  {
+    "word": "はつおん",
+    "kanji": "発音",
+    "translate": "發音",
+    "id": "BASIC1744"
+  },
+  {
+    "word": "おいわい",
+    "kanji": "お祝い",
+    "translate": "祝福",
+    "id": "BASIC1745"
+  },
+  {
+    "word": "みなさん",
+    "kanji": "皆さん",
+    "translate": "大家",
+    "id": "BASIC1746"
+  },
+  {
+    "word": "こう",
+    "kanji": "null",
+    "translate": "小孩",
+    "id": "BASIC1747"
+  },
+  {
+    "word": "ふくざつ",
+    "kanji": "複雑",
+    "translate": "複雜、不單純",
+    "id": "BASIC1748"
+  },
+  {
+    "word": "こうこう",
+    "kanji": "高校",
+    "translate": "高中",
+    "id": "BASIC1749"
+  },
+  {
+    "word": "アクセサリー",
+    "kanji": "null",
+    "translate": "裝飾品",
+    "id": "BASIC1750"
+  },
+  {
+    "word": "どろぼう",
+    "kanji": "泥棒",
+    "translate": "小偷",
+    "id": "BASIC1751"
+  },
+  {
+    "word": "このごろ",
+    "kanji": "この頃",
+    "translate": "近來",
+    "id": "BASIC1752"
+  },
+  {
+    "word": "さがす",
+    "kanji": "探す",
+    "translate": "尋找",
+    "id": "BASIC1753"
+  },
+  {
+    "word": "でんとう",
+    "kanji": "電灯",
+    "translate": "電燈",
+    "id": "BASIC1754"
+  },
+  {
+    "word": "あかちゃん",
+    "kanji": "赤ちゃん",
+    "translate": "嬰兒",
+    "id": "BASIC1755"
+  },
+  {
+    "word": "ガソリンスタンド",
+    "kanji": "null",
+    "translate": "加油站",
+    "id": "BASIC1756"
+  },
+  {
+    "word": "みずうみ",
+    "kanji": "湖",
+    "translate": "湖",
+    "id": "BASIC1757"
+  },
+  {
+    "word": "こわい",
+    "kanji": "怖い",
+    "translate": "可怕的",
+    "id": "BASIC1758"
+  },
+  {
+    "word": "じしん",
+    "kanji": "地震",
+    "translate": "地震",
+    "id": "BASIC1759"
+  },
+  {
+    "word": "ひえる",
+    "kanji": "冷える",
+    "translate": "變冷",
+    "id": "BASIC1760"
+  },
+  {
+    "word": "にんぎょう",
+    "kanji": "人形",
+    "translate": "玩偶",
+    "id": "BASIC1761"
+  },
+  {
+    "word": "だいじ",
+    "kanji": "大事",
+    "translate": "重要的",
+    "id": "BASIC1762"
+  },
+  {
+    "word": "わりあい",
+    "kanji": "割合",
+    "translate": "比例",
+    "id": "BASIC1763"
+  },
+  {
+    "word": "とっきゅう",
+    "kanji": "特急",
+    "translate": "特快車",
+    "id": "BASIC1764"
+  },
+  {
+    "word": "ねむい",
+    "kanji": "眠い",
+    "translate": "睏的",
+    "id": "BASIC1765"
+  },
+  {
+    "word": "スーパー",
+    "kanji": "null",
+    "translate": "超級市場",
+    "id": "BASIC1766"
+  },
+  {
+    "word": "やせる",
+    "kanji": "痩せる",
+    "translate": "變瘦",
+    "id": "BASIC1767"
+  },
+  {
+    "word": "ひさしぶり",
+    "kanji": "久しぶり",
+    "translate": "好久不見",
+    "id": "BASIC1768"
+  },
+  {
+    "word": "ひっこし",
+    "kanji": "引っ越し",
+    "translate": "搬家、搬遷",
+    "id": "BASIC1769"
+  },
+  {
+    "word": "ふえる",
+    "kanji": "増える",
+    "translate": "增加",
+    "id": "BASIC1770"
+  },
+  {
+    "word": "しかし",
+    "kanji": "null",
+    "translate": "但是",
+    "id": "BASIC1771"
+  },
+  {
+    "word": "～しき",
+    "kanji": "～式",
+    "translate": "儀式",
+    "id": "BASIC1772"
+  },
+  {
+    "word": "ほうりつ",
+    "kanji": "法律",
+    "translate": "法律",
+    "id": "BASIC1773"
+  },
+  {
+    "word": "パソコン",
+    "kanji": "null",
+    "translate": "電腦",
+    "id": "BASIC1774"
+  },
+  {
+    "word": "りゆう",
+    "kanji": "理由",
+    "translate": "理由",
+    "id": "BASIC1775"
+  },
+  {
+    "word": "こうどう",
+    "kanji": "講堂",
+    "translate": "禮堂",
+    "id": "BASIC1776"
+  },
+  {
+    "word": "ゆにゅう",
+    "kanji": "輸入",
+    "translate": "輸入、進口",
+    "id": "BASIC1777"
+  },
+  {
+    "word": "けが",
+    "kanji": "怪我",
+    "translate": "受傷",
+    "id": "BASIC1778"
+  },
+  {
+    "word": "よごれる",
+    "kanji": "汚れる",
+    "translate": "弄髒",
+    "id": "BASIC1779"
+  },
+  {
+    "word": "オートバイ",
+    "kanji": "null",
+    "translate": "摩托車",
+    "id": "BASIC1780"
+  },
+  {
+    "word": "ねだん",
+    "kanji": "値段",
+    "translate": "價格",
+    "id": "BASIC1781"
+  },
+  {
+    "word": "せき",
+    "kanji": "席",
+    "translate": "座位",
+    "id": "BASIC1782"
+  },
+  {
+    "word": "～だい",
+    "kanji": "～代",
+    "translate": "費用、年代",
+    "id": "BASIC1783"
+  },
+  {
+    "word": "けいたいでんわ",
+    "kanji": "携帯電話",
+    "translate": "手機",
+    "id": "BASIC1784"
+  },
+  {
+    "word": "どうぐ",
+    "kanji": "道具",
+    "translate": "道具",
+    "id": "BASIC1785"
+  },
+  {
+    "word": "じゅうぶん",
+    "kanji": "十分",
+    "translate": "充分",
+    "id": "BASIC1786"
+  },
+  {
+    "word": "たたみ",
+    "kanji": "畳",
+    "translate": "塌塌米",
+    "id": "BASIC1787"
+  },
+  {
+    "word": "かべ",
+    "kanji": "壁",
+    "translate": "牆壁",
+    "id": "BASIC1788"
+  },
+  {
+    "word": "さしあげる",
+    "kanji": "差し上げる",
+    "translate": "贈送",
+    "id": "BASIC1789"
+  },
+  {
+    "word": "とちゅう",
+    "kanji": "途中",
+    "translate": "途中",
+    "id": "BASIC1790"
+  },
+  {
+    "word": "ハンバーグ",
+    "kanji": "null",
+    "translate": "漢堡排",
+    "id": "BASIC1791"
+  },
+  {
+    "word": "みえる",
+    "kanji": "見える",
+    "translate": "看的見",
+    "id": "BASIC1792"
+  },
+  {
+    "word": "ひるま",
+    "kanji": "昼間",
+    "translate": "白天",
+    "id": "BASIC1793"
+  },
+  {
+    "word": "にゅういん",
+    "kanji": "入院",
+    "translate": "住院",
+    "id": "BASIC1794"
+  },
+  {
+    "word": "なおす",
+    "kanji": "直す",
+    "translate": "訂正",
+    "id": "BASIC1795"
+  },
+  {
+    "word": "ふとる",
+    "kanji": "太る",
+    "translate": "變胖",
+    "id": "BASIC1796"
+  },
+  {
+    "word": "まにあう",
+    "kanji": "間に合う",
+    "translate": "來得及",
+    "id": "BASIC1797"
+  },
+  {
+    "word": "きく",
+    "kanji": "聴く",
+    "translate": "聽",
+    "id": "BASIC1798"
+  },
+  {
+    "word": "アイディア",
+    "kanji": "null",
+    "translate": "主意",
+    "id": "BASIC1799"
+  },
+  {
+    "word": "かんごふ",
+    "kanji": "看護婦",
+    "translate": "護士",
+    "id": "BASIC1800"
+  },
+  {
+    "word": "エアコン",
+    "kanji": "null",
+    "translate": "空調",
+    "id": "BASIC1801"
+  },
+  {
+    "word": "する",
+    "kanji": "null",
+    "translate": "決定",
+    "id": "BASIC1802"
+  },
+  {
+    "word": "よしゅう",
+    "kanji": "予習",
+    "translate": "預習",
+    "id": "BASIC1803"
+  },
+  {
+    "word": "とくい",
+    "kanji": "得意",
+    "translate": "擅長",
+    "id": "BASIC1804"
+  },
+  {
+    "word": "ごらんになる",
+    "kanji": "ご覧になる",
+    "translate": "看、觀覽",
+    "id": "BASIC1805"
+  },
+  {
+    "word": "さんせい",
+    "kanji": "賛成",
+    "translate": "贊成",
+    "id": "BASIC1806"
+  },
+  {
+    "word": "かんがえる",
+    "kanji": "考える",
+    "translate": "考慮",
+    "id": "BASIC1807"
+  },
+  {
+    "word": "チーズ",
+    "kanji": "null",
+    "translate": "起司",
+    "id": "BASIC1808"
+  },
+  {
+    "word": "ぜひ",
+    "kanji": "是非",
+    "translate": "一定",
+    "id": "BASIC1809"
+  },
+  {
+    "word": "しっかり",
+    "kanji": "null",
+    "translate": "堅固、可靠",
+    "id": "BASIC1810"
+  },
+  {
+    "word": "うつる",
+    "kanji": "映る",
+    "translate": "照",
+    "id": "BASIC1811"
+  },
+  {
+    "word": "はなみ",
+    "kanji": "花見",
+    "translate": "賞花",
+    "id": "BASIC1812"
+  },
+  {
+    "word": "おと",
+    "kanji": "音",
+    "translate": "聲音",
+    "id": "BASIC1813"
+  },
+  {
+    "word": "ひじょうに",
+    "kanji": "非常に",
+    "translate": "非常地",
+    "id": "BASIC1814"
+  },
+  {
+    "word": "うごく",
+    "kanji": "動く",
+    "translate": "移動",
+    "id": "BASIC1815"
+  },
+  {
+    "word": "じだい",
+    "kanji": "時代",
+    "translate": "時代",
+    "id": "BASIC1816"
+  },
+  {
+    "word": "みな",
+    "kanji": "皆",
+    "translate": "全部",
+    "id": "BASIC1817"
+  },
+  {
+    "word": "いちど",
+    "kanji": "一度",
+    "translate": "一次",
+    "id": "BASIC1818"
+  },
+  {
+    "word": "きゃく",
+    "kanji": "客",
+    "translate": "客人",
+    "id": "BASIC1819"
+  },
+  {
+    "word": "うち",
+    "kanji": "null",
+    "translate": "在~之內",
+    "id": "BASIC1820"
+  },
+  {
+    "word": "ほうそう",
+    "kanji": "放送",
+    "translate": "播放",
+    "id": "BASIC1821"
+  },
+  {
+    "word": "なおる",
+    "kanji": "治る",
+    "translate": "治好",
+    "id": "BASIC1822"
+  },
+  {
+    "word": "にる",
+    "kanji": "似る",
+    "translate": "相似",
+    "id": "BASIC1823"
+  },
+  {
+    "word": "たりる",
+    "kanji": "足りる",
+    "translate": "足夠",
+    "id": "BASIC1824"
+  },
+  {
+    "word": "じてん",
+    "kanji": "辞典",
+    "translate": "字典",
+    "id": "BASIC1825"
+  },
+  {
+    "word": "おる",
+    "kanji": "折る",
+    "translate": "折、彎",
+    "id": "BASIC1826"
+  },
+  {
+    "word": "ぶんか",
+    "kanji": "文化",
+    "translate": "文化",
+    "id": "BASIC1827"
+  },
+  {
+    "word": "つける",
+    "kanji": "漬ける",
+    "translate": "醃漬",
+    "id": "BASIC1828"
+  },
+  {
+    "word": "りょうほう",
+    "kanji": "両方",
+    "translate": "雙方",
+    "id": "BASIC1829"
+  },
+  {
+    "word": "ぜんぜん",
+    "kanji": "全然",
+    "translate": "完全",
+    "id": "BASIC1830"
+  },
+  {
+    "word": "おどろく",
+    "kanji": "驚く",
+    "translate": "吃驚",
+    "id": "BASIC1831"
+  },
+  {
+    "word": "とくべつ",
+    "kanji": "特別",
+    "translate": "特別、特殊",
+    "id": "BASIC1832"
+  },
+  {
+    "word": "どんどん",
+    "kanji": "null",
+    "translate": "連續不斷",
+    "id": "BASIC1833"
+  },
+  {
+    "word": "てんきよほう",
+    "kanji": "天気予報",
+    "translate": "天氣預報",
+    "id": "BASIC1834"
+  },
+  {
+    "word": "なげる",
+    "kanji": "投げる",
+    "translate": "投擲",
+    "id": "BASIC1835"
+  },
+  {
+    "word": "できる",
+    "kanji": "出来る",
+    "translate": "做成、形成",
+    "id": "BASIC1836"
+  },
+  {
+    "word": "すすむ",
+    "kanji": "進む",
+    "translate": "前進、進展",
+    "id": "BASIC1837"
+  },
+  {
+    "word": "ほう",
+    "kanji": "方",
+    "translate": "這一方面",
+    "id": "BASIC1838"
+  },
+  {
+    "word": "サラダ",
+    "kanji": "null",
+    "translate": "沙拉",
+    "id": "BASIC1839"
+  },
+  {
+    "word": "きもの",
+    "kanji": "着物",
+    "translate": "和服、衣服",
+    "id": "BASIC1840"
+  },
+  {
+    "word": "しゅっぱつ",
+    "kanji": "出発",
+    "translate": "出發",
+    "id": "BASIC1841"
+  },
+  {
+    "word": "いたす",
+    "kanji": "致す",
+    "translate": "做",
+    "id": "BASIC1842"
+  },
+  {
+    "word": "なさる",
+    "kanji": "為さる",
+    "translate": "做",
+    "id": "BASIC1843"
+  },
+  {
+    "word": "おつり",
+    "kanji": "御釣り",
+    "translate": "零錢",
+    "id": "BASIC1844"
+  },
+  {
+    "word": "かむ",
+    "kanji": "噛む",
+    "translate": "咬",
+    "id": "BASIC1845"
+  },
+  {
+    "word": "やくにたつ",
+    "kanji": "役に立つ",
+    "translate": "有益處",
+    "id": "BASIC1846"
+  },
+  {
+    "word": "ちちおや",
+    "kanji": "父親",
+    "translate": "父親",
+    "id": "BASIC1847"
+  },
+  {
+    "word": "バスケットボール",
+    "kanji": "null",
+    "translate": "籃球",
+    "id": "BASIC1848"
+  },
+  {
+    "word": "はいしゃ",
+    "kanji": "歯医者",
+    "translate": "牙醫",
+    "id": "BASIC1849"
+  },
+  {
+    "word": "かわく",
+    "kanji": "乾く",
+    "translate": "乾",
+    "id": "BASIC1850"
+  },
+  {
+    "word": "おこる",
+    "kanji": "怒る",
+    "translate": "生氣",
+    "id": "BASIC1851"
+  },
+  {
+    "word": "てぶくろ",
+    "kanji": "手袋",
+    "translate": "手套",
+    "id": "BASIC1852"
+  },
+  {
+    "word": "おっしゃる",
+    "kanji": "仰る",
+    "translate": "說",
+    "id": "BASIC1853"
+  },
+  {
+    "word": "まける",
+    "kanji": "負ける",
+    "translate": "輸、失敗",
+    "id": "BASIC1854"
+  },
+  {
+    "word": "まわる",
+    "kanji": "回る",
+    "translate": "繞道、轉",
+    "id": "BASIC1855"
+  },
+  {
+    "word": "テニス",
+    "kanji": "null",
+    "translate": "網球",
+    "id": "BASIC1856"
+  },
+  {
+    "word": "のる",
+    "kanji": "載る",
+    "translate": "刊載",
+    "id": "BASIC1857"
+  },
+  {
+    "word": "うつす",
+    "kanji": "写す",
+    "translate": "寫",
+    "id": "BASIC1858"
+  },
+  {
+    "word": "つける",
+    "kanji": "付ける",
+    "translate": "加上",
+    "id": "BASIC1859"
+  },
+  {
+    "word": "かつ",
+    "kanji": "勝つ",
+    "translate": "勝利",
+    "id": "BASIC1860"
+  },
+  {
+    "word": "ようい",
+    "kanji": "用意",
+    "translate": "準備",
+    "id": "BASIC1861"
+  },
+  {
+    "word": "かざる",
+    "kanji": "飾る",
+    "translate": "裝飾",
+    "id": "BASIC1862"
+  },
+  {
+    "word": "つごう",
+    "kanji": "都合",
+    "translate": "方便",
+    "id": "BASIC1863"
+  },
+  {
+    "word": "ぐあい",
+    "kanji": "具合",
+    "translate": "情況",
+    "id": "BASIC1864"
+  },
+  {
+    "word": "ガソリン",
+    "kanji": "null",
+    "translate": "汽油",
+    "id": "BASIC1865"
+  },
+  {
+    "word": "こむ",
+    "kanji": "込む",
+    "translate": "擁擠",
+    "id": "BASIC1866"
+  },
+  {
+    "word": "おくりもの",
+    "kanji": "贈り物",
+    "translate": "禮物",
+    "id": "BASIC1867"
+  },
+  {
+    "word": "かのじょ",
+    "kanji": "彼女",
+    "translate": "女朋友",
+    "id": "BASIC1868"
+  },
+  {
+    "word": "えほん",
+    "kanji": "絵本",
+    "translate": "繪本",
+    "id": "BASIC1869"
+  },
+  {
+    "word": "じんじゃ",
+    "kanji": "神社",
+    "translate": "神社",
+    "id": "BASIC1870"
+  },
+  {
+    "word": "ぶどう",
+    "kanji": "葡萄",
+    "translate": "葡萄",
+    "id": "BASIC1871"
+  },
+  {
+    "word": "おかしい",
+    "kanji": "可笑しい",
+    "translate": "可笑的、奇怪的",
+    "id": "BASIC1872"
+  },
+  {
+    "word": "さらいげつ",
+    "kanji": "再来月",
+    "translate": "下下個月",
+    "id": "BASIC1873"
+  },
+  {
+    "word": "ひ",
+    "kanji": "日",
+    "translate": "太陽、白天",
+    "id": "BASIC1874"
+  },
+  {
+    "word": "よる",
+    "kanji": "寄る",
+    "translate": "靠近",
+    "id": "BASIC1875"
+  },
+  {
+    "word": "とおく",
+    "kanji": "遠く",
+    "translate": "遠處",
+    "id": "BASIC1876"
+  },
+  {
+    "word": "くも",
+    "kanji": "雲",
+    "translate": "雲朵",
+    "id": "BASIC1877"
+  },
+  {
+    "word": "うら",
+    "kanji": "裏",
+    "translate": "裡面",
+    "id": "BASIC1878"
+  },
+  {
+    "word": "じこ",
+    "kanji": "事故",
+    "translate": "事故",
+    "id": "BASIC1879"
+  },
+  {
+    "word": "くさ",
+    "kanji": "草",
+    "translate": "草",
+    "id": "BASIC1880"
+  },
+  {
+    "word": "むかし",
+    "kanji": "昔",
+    "translate": "從前",
+    "id": "BASIC1881"
+  },
+  {
+    "word": "いっしょうけんめい",
+    "kanji": "一生懸命",
+    "translate": "非常努力",
+    "id": "BASIC1882"
+  },
+  {
+    "word": "いちいん",
+    "kanji": "一員",
+    "translate": "一員",
+    "id": "BASIC1883"
+  },
+  {
+    "word": "おこなう",
+    "kanji": "行う",
+    "translate": "舉行",
+    "id": "BASIC1884"
+  },
+  {
+    "word": "しょうらい",
+    "kanji": "将来",
+    "translate": "將來",
+    "id": "BASIC1885"
+  },
+  {
+    "word": "だんだん",
+    "kanji": "段々",
+    "translate": "逐漸",
+    "id": "BASIC1886"
+  },
+  {
+    "word": "いくら～ても",
+    "kanji": "null",
+    "translate": "即使多~也",
+    "id": "BASIC1887"
+  },
+  {
+    "word": "それで",
+    "kanji": "其れで",
+    "translate": "所以、那樣",
+    "id": "BASIC1888"
+  },
+  {
+    "word": "かける",
+    "kanji": "掛ける",
+    "translate": "掛著、坐在~上",
+    "id": "BASIC1889"
+  },
+  {
+    "word": "かねもち",
+    "kanji": "金持ち",
+    "translate": "有錢人",
+    "id": "BASIC1890"
+  },
+  {
+    "word": "ゆしゅつ",
+    "kanji": "輸出",
+    "translate": "輸出、出口",
+    "id": "BASIC1891"
+  },
+  {
+    "word": "つつむ",
+    "kanji": "包む",
+    "translate": "包圍",
+    "id": "BASIC1892"
+  },
+  {
+    "word": "うんてんしゅ",
+    "kanji": "運転手",
+    "translate": "駕駛員",
+    "id": "BASIC1893"
+  },
+  {
+    "word": "ちから",
+    "kanji": "力",
+    "translate": "力量",
+    "id": "BASIC1894"
+  },
+  {
+    "word": "おもう",
+    "kanji": "思う",
+    "translate": "認為",
+    "id": "BASIC1895"
+  },
+  {
+    "word": "きかい",
+    "kanji": "機会",
+    "translate": "機會",
+    "id": "BASIC1896"
+  },
+  {
+    "word": "もうしあげる",
+    "kanji": "申し上げる",
+    "translate": "說、講",
+    "id": "BASIC1897"
+  },
+  {
+    "word": "かいわ",
+    "kanji": "会話",
+    "translate": "對話",
+    "id": "BASIC1898"
+  },
+  {
+    "word": "ほめる",
+    "kanji": "褒める",
+    "translate": "讚美",
+    "id": "BASIC1899"
+  },
+  {
+    "word": "まちがえる",
+    "kanji": "間違える",
+    "translate": "搞錯、弄錯",
+    "id": "BASIC1900"
+  },
+  {
+    "word": "きまる",
+    "kanji": "決まる",
+    "translate": "決定",
+    "id": "BASIC1901"
+  },
+  {
+    "word": "れんらく",
+    "kanji": "連絡",
+    "translate": "聯絡",
+    "id": "BASIC1902"
+  },
+  {
+    "word": "かわる",
+    "kanji": "変わる",
+    "translate": "改變、變化",
+    "id": "BASIC1903"
+  },
+  {
+    "word": "もどる",
+    "kanji": "戻る",
+    "translate": "返回",
+    "id": "BASIC1904"
+  },
+  {
+    "word": "すっかり",
+    "kanji": "null",
+    "translate": "完全",
+    "id": "BASIC1905"
+  },
+  {
+    "word": "おいでになる",
+    "kanji": "お出でになる",
+    "translate": "去、來、在",
+    "id": "BASIC1906"
+  },
+  {
+    "word": "けいさつ",
+    "kanji": "警察",
+    "translate": "警察",
+    "id": "BASIC1907"
+  },
+  {
+    "word": "とどける",
+    "kanji": "届ける",
+    "translate": "遞交",
+    "id": "BASIC1908"
+  },
+  {
+    "word": "きこえる",
+    "kanji": "聞こえる",
+    "translate": "聽得見",
+    "id": "BASIC1909"
+  },
+  {
+    "word": "ふむ",
+    "kanji": "踏む",
+    "translate": "採到",
+    "id": "BASIC1910"
+  },
+  {
+    "word": "さびしい",
+    "kanji": "寂しい",
+    "translate": "寂寞的",
+    "id": "BASIC1911"
+  },
+  {
+    "word": "おっと",
+    "kanji": "夫",
+    "translate": "丈夫",
+    "id": "BASIC1912"
+  },
+  {
+    "word": "こうむいん",
+    "kanji": "公務員",
+    "translate": "公務員",
+    "id": "BASIC1913"
+  },
+  {
+    "word": "あがる",
+    "kanji": "上がる",
+    "translate": "上漲、升高",
+    "id": "BASIC1914"
+  },
+  {
+    "word": "はこぶ",
+    "kanji": "運ぶ",
+    "translate": "運送",
+    "id": "BASIC1915"
+  },
+  {
+    "word": "しょくじ",
+    "kanji": "食事",
+    "translate": "用餐",
+    "id": "BASIC1916"
+  },
+  {
+    "word": "めずらしい",
+    "kanji": "珍しい",
+    "translate": "新奇的",
+    "id": "BASIC1917"
+  },
+  {
+    "word": "おとす",
+    "kanji": "落とす",
+    "translate": "丟下",
+    "id": "BASIC1918"
+  },
+  {
+    "word": "グループ",
+    "kanji": "null",
+    "translate": "群組、團體",
+    "id": "BASIC1919"
+  },
+  {
+    "word": "ゆびわ",
+    "kanji": "指輪",
+    "translate": "戒指",
+    "id": "BASIC1920"
+  },
+  {
+    "word": "おどる",
+    "kanji": "踊る",
+    "translate": "跳舞",
+    "id": "BASIC1921"
+  },
+  {
+    "word": "れいぼう",
+    "kanji": "冷房",
+    "translate": "冷氣",
+    "id": "BASIC1922"
+  },
+  {
+    "word": "ぶちょう",
+    "kanji": "部長",
+    "translate": "部長",
+    "id": "BASIC1923"
+  },
+  {
+    "word": "じんこう",
+    "kanji": "人口",
+    "translate": "人口",
+    "id": "BASIC1924"
+  },
+  {
+    "word": "ねぼう",
+    "kanji": "寝坊",
+    "translate": "睡過頭",
+    "id": "BASIC1925"
+  },
+  {
+    "word": "おゆ",
+    "kanji": "お湯",
+    "translate": "熱水",
+    "id": "BASIC1926"
+  },
+  {
+    "word": "うんてん",
+    "kanji": "運転",
+    "translate": "駕駛",
+    "id": "BASIC1927"
+  },
+  {
+    "word": "やさしい",
+    "kanji": "優しい",
+    "translate": "溫柔的",
+    "id": "BASIC1928"
+  },
+  {
+    "word": "ごぞんじ",
+    "kanji": "御存知",
+    "translate": "知道",
+    "id": "BASIC1929"
+  },
+  {
+    "word": "ガス",
+    "kanji": "null",
+    "translate": "瓦斯",
+    "id": "BASIC1930"
+  },
+  {
+    "word": "あんぜん",
+    "kanji": "安全",
+    "translate": "安全的",
+    "id": "BASIC1931"
+  },
+  {
+    "word": "だいたい",
+    "kanji": "大体",
+    "translate": "基本上",
+    "id": "BASIC1932"
+  },
+  {
+    "word": "バッグ",
+    "kanji": "null",
+    "translate": "袋子、皮包",
+    "id": "BASIC1933"
+  },
+  {
+    "word": "はやし",
+    "kanji": "林",
+    "translate": "樹林",
+    "id": "BASIC1934"
+  },
+  {
+    "word": "たな",
+    "kanji": "棚",
+    "translate": "架子",
+    "id": "BASIC1935"
+  },
+  {
+    "word": "たいいくかん",
+    "kanji": "体育館",
+    "translate": "體育館",
+    "id": "BASIC1936"
+  },
+  {
+    "word": "そだてる",
+    "kanji": "育てる",
+    "translate": "養育、培養",
+    "id": "BASIC1937"
+  },
+  {
+    "word": "ねっしん",
+    "kanji": "熱心",
+    "translate": "熱中",
+    "id": "BASIC1938"
+  },
+  {
+    "word": "かっこう",
+    "kanji": "恰好",
+    "translate": "模樣",
+    "id": "BASIC1939"
+  },
+  {
+    "word": "たいふう",
+    "kanji": "台風",
+    "translate": "颱風",
+    "id": "BASIC1940"
+  },
+  {
+    "word": "できるだけ",
+    "kanji": "出来るだけ",
+    "translate": "盡可能",
+    "id": "BASIC1941"
+  },
+  {
+    "word": "いっぱい",
+    "kanji": "一杯",
+    "translate": "滿、全部",
+    "id": "BASIC1942"
+  },
+  {
+    "word": "かう",
+    "kanji": "飼う",
+    "translate": "飼養",
+    "id": "BASIC1943"
+  },
+  {
+    "word": "あそび",
+    "kanji": "遊び",
+    "translate": "遊玩",
+    "id": "BASIC1944"
+  },
+  {
+    "word": "しりょう",
+    "kanji": "資料",
+    "translate": "資料",
+    "id": "BASIC1945"
+  },
+  {
+    "word": "すべる",
+    "kanji": "滑る",
+    "translate": "滑行",
+    "id": "BASIC1946"
+  },
+  {
+    "word": "ねむたい",
+    "kanji": "眠たい",
+    "translate": "想睡的",
+    "id": "BASIC1947"
+  },
+  {
+    "word": "こくばん",
+    "kanji": "黒板",
+    "translate": "黑板",
+    "id": "BASIC1948"
+  },
+  {
+    "word": "くれる",
+    "kanji": "null",
+    "translate": "給我",
+    "id": "BASIC1949"
+  },
+  {
+    "word": "おわり",
+    "kanji": "終わり",
+    "translate": "結束",
+    "id": "BASIC1950"
+  },
+  {
+    "word": "こたえ",
+    "kanji": "答え",
+    "translate": "答案",
+    "id": "BASIC1951"
+  },
+  {
+    "word": "ねつ",
+    "kanji": "熱",
+    "translate": "發燒",
+    "id": "BASIC1952"
+  },
+  {
+    "word": "すいえい",
+    "kanji": "水泳",
+    "translate": "游泳",
+    "id": "BASIC1953"
+  },
+  {
+    "word": "もり",
+    "kanji": "森",
+    "translate": "森林",
+    "id": "BASIC1954"
+  },
+  {
+    "word": "かなしい",
+    "kanji": "悲しい",
+    "translate": "悲傷的",
+    "id": "BASIC1955"
+  },
+  {
+    "word": "とおる",
+    "kanji": "通る",
+    "translate": "通過",
+    "id": "BASIC1956"
+  },
+  {
+    "word": "くび",
+    "kanji": "首",
+    "translate": "脖子",
+    "id": "BASIC1957"
+  },
+  {
+    "word": "おわる",
+    "kanji": "終わる",
+    "translate": "終了",
+    "id": "BASIC1958"
+  },
+  {
+    "word": "てまえ",
+    "kanji": "手前",
+    "translate": "眼前",
+    "id": "BASIC1959"
+  },
+  {
+    "word": "さんぎょう",
+    "kanji": "産業",
+    "translate": "產業",
+    "id": "BASIC1960"
+  },
+  {
+    "word": "きょうかい",
+    "kanji": "教会",
+    "translate": "教會",
+    "id": "BASIC1961"
+  },
+  {
+    "word": "やめる",
+    "kanji": "止める",
+    "translate": "停止",
+    "id": "BASIC1962"
+  },
+  {
+    "word": "そふ",
+    "kanji": "祖父",
+    "translate": "祖父",
+    "id": "BASIC1963"
+  },
+  {
+    "word": "こわす",
+    "kanji": "壊す",
+    "translate": "破壞",
+    "id": "BASIC1964"
+  },
+  {
+    "word": "かいがん",
+    "kanji": "海岸",
+    "translate": "海岸",
+    "id": "BASIC1965"
+  },
+  {
+    "word": "もらう",
+    "kanji": "null",
+    "translate": "拿到、接受",
+    "id": "BASIC1966"
+  },
+  {
+    "word": "てんらんかい",
+    "kanji": "展覧会",
+    "translate": "展覽會",
+    "id": "BASIC1967"
+  },
+  {
+    "word": "こうがい",
+    "kanji": "郊外",
+    "translate": "郊區",
+    "id": "BASIC1968"
+  },
+  {
+    "word": "うつくしい",
+    "kanji": "美しい",
+    "translate": "美麗的",
+    "id": "BASIC1969"
+  },
+  {
+    "word": "ずいぶん",
+    "kanji": "随分",
+    "translate": "相當、非常",
+    "id": "BASIC1970"
+  },
+  {
+    "word": "たてる",
+    "kanji": "立てる",
+    "translate": "直立",
+    "id": "BASIC1971"
+  },
+  {
+    "word": "しなもの",
+    "kanji": "品物",
+    "translate": "物品、商品",
+    "id": "BASIC1972"
+  },
+  {
+    "word": "わく",
+    "kanji": "沸く",
+    "translate": "沸騰",
+    "id": "BASIC1973"
+  },
+  {
+    "word": "かよう",
+    "kanji": "通う",
+    "translate": "來往",
+    "id": "BASIC1974"
+  },
+  {
+    "word": "まいる",
+    "kanji": "参る",
+    "translate": "來、去",
+    "id": "BASIC1975"
+  },
+  {
+    "word": "わかす",
+    "kanji": "沸かす",
+    "translate": "使~沸騰",
+    "id": "BASIC1976"
+  },
+  {
+    "word": "サッカー",
+    "kanji": "null",
+    "translate": "足球",
+    "id": "BASIC1977"
+  },
+  {
+    "word": "だんせい",
+    "kanji": "男性",
+    "translate": "男性",
+    "id": "BASIC1978"
+  },
+  {
+    "word": "ぎじゅつ",
+    "kanji": "技術",
+    "translate": "技術",
+    "id": "BASIC1979"
+  },
+  {
+    "word": "ぼく",
+    "kanji": "僕",
+    "translate": "我",
+    "id": "BASIC1980"
+  },
+  {
+    "word": "かたち",
+    "kanji": "形",
+    "translate": "形狀",
+    "id": "BASIC1981"
+  },
+  {
+    "word": "おみやげ",
+    "kanji": "御土産",
+    "translate": "伴手禮",
+    "id": "BASIC1982"
+  },
+  {
+    "word": "ち",
+    "kanji": "血",
+    "translate": "血液",
+    "id": "BASIC1983"
+  },
+  {
+    "word": "しけん",
+    "kanji": "試験",
+    "translate": "考試",
+    "id": "BASIC1984"
+  },
+  {
+    "word": "むかう",
+    "kanji": "向う",
+    "translate": "向著",
+    "id": "BASIC1985"
+  },
+  {
+    "word": "きけん",
+    "kanji": "危険",
+    "translate": "危險",
+    "id": "BASIC1986"
+  },
+  {
+    "word": "ばかり",
+    "kanji": "null",
+    "translate": "左右、大約",
+    "id": "BASIC1987"
+  },
+  {
+    "word": "かれら",
+    "kanji": "彼等",
+    "translate": "他們",
+    "id": "BASIC1988"
+  },
+  {
+    "word": "かじ",
+    "kanji": "火事",
+    "translate": "火災",
+    "id": "BASIC1989"
+  },
+  {
+    "word": "タオル",
+    "kanji": "null",
+    "translate": "毛巾",
+    "id": "BASIC1990"
+  },
+  {
+    "word": "ゆび",
+    "kanji": "指",
+    "translate": "手指",
+    "id": "BASIC1991"
+  },
+  {
+    "word": "きぶん",
+    "kanji": "気分",
+    "translate": "心情、狀況",
+    "id": "BASIC1992"
+  },
+  {
+    "word": "わかれつ",
+    "kanji": "別れる",
+    "translate": "分別、告別",
+    "id": "BASIC1993"
+  },
+  {
+    "word": "るす",
+    "kanji": "留守",
+    "translate": "不在家",
+    "id": "BASIC1994"
+  },
+  {
+    "word": "しょうがっこう",
+    "kanji": "小学校",
+    "translate": "小學",
+    "id": "BASIC1995"
+  },
+  {
+    "word": "とおり",
+    "kanji": "通り",
+    "translate": "一樣、馬路",
+    "id": "BASIC1996"
+  }
+]
