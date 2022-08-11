@@ -1,0 +1,1370 @@
+[
+  {
+      "word": "わたし",
+      "kanji": "私",
+      "translate": "我",
+      "id": "N51"
+  },
+  {
+      "word": "かれ/かのじょ",
+      "kanji": "彼/彼女",
+      "translate": "他/她",
+      "id": "N52"
+  },
+  {
+      "word": "かぞく",
+      "kanji": "家族",
+      "translate": "家人",
+      "id": "N53"
+  },
+  {
+      "word": "りょうしん",
+      "kanji": "両親",
+      "translate": "父母",
+      "id": "N54"
+  },
+  {
+      "word": "そふ",
+      "kanji": "祖父",
+      "translate": "爺爺/外公",
+      "id": "N55"
+  },
+  {
+      "word": "そぼ",
+      "kanji": "祖母",
+      "translate": "奶奶/外婆",
+      "id": "N56"
+  },
+  {
+      "word": "ちち",
+      "kanji": "父",
+      "translate": "爸爸",
+      "id": "N57"
+  },
+  {
+      "word": "はは",
+      "kanji": "母",
+      "translate": "媽媽",
+      "id": "N58"
+  },
+  {
+      "word": "きょうだい",
+      "kanji": "兄弟",
+      "translate": "兄弟姊妹",
+      "id": "N59"
+  },
+  {
+      "word": "あに",
+      "kanji": "兄",
+      "translate": "哥哥",
+      "id": "N510"
+  },
+  {
+      "word": "あね",
+      "kanji": "姉",
+      "translate": "姊姊",
+      "id": "N511"
+  },
+  {
+      "word": "おとうと",
+      "kanji": "弟",
+      "translate": "弟弟",
+      "id": "N512"
+  },
+  {
+      "word": "いもうと",
+      "kanji": "妹",
+      "translate": "妹妹",
+      "id": "N513"
+  },
+  {
+      "word": "せんせい",
+      "kanji": "先生",
+      "translate": "老師",
+      "id": "N514"
+  },
+  {
+      "word": "がくせい",
+      "kanji": "学生",
+      "translate": "學生",
+      "id": "N515"
+  },
+  {
+      "word": "ともだち",
+      "kanji": "友達",
+      "translate": "朋友（可指複數）",
+      "id": "N516"
+  },
+  {
+      "word": "しんゆう",
+      "kanji": "親友",
+      "translate": "好朋友",
+      "id": "N517"
+  },
+  {
+      "word": "けいさつ",
+      "kanji": "警察",
+      "translate": "警察",
+      "id": "N518"
+  },
+  {
+      "word": "かいしゃいん",
+      "kanji": "会社員",
+      "translate": "公司職員",
+      "id": "N519"
+  },
+  {
+      "word": "みせ",
+      "kanji": "店",
+      "translate": "店",
+      "id": "N520"
+  },
+  {
+      "word": "えき",
+      "kanji": "駅",
+      "translate": "車站",
+      "id": "N521"
+  },
+  {
+      "word": "みち",
+      "kanji": "道",
+      "translate": "道路",
+      "id": "N522"
+  },
+  {
+      "word": "いえ",
+      "kanji": "家",
+      "translate": "家",
+      "id": "N523"
+  },
+  {
+      "word": "へや",
+      "kanji": "部屋",
+      "translate": "房間",
+      "id": "N524"
+  },
+  {
+      "word": "たてもの",
+      "kanji": "建物",
+      "translate": "建築物",
+      "id": "N525"
+  },
+  {
+      "word": "れすとらん",
+      "kanji": "レストラン",
+      "translate": "餐廳",
+      "id": "N526"
+  },
+  {
+      "word": "かいしゃ",
+      "kanji": "会社",
+      "translate": "公司",
+      "id": "N527"
+  },
+  {
+      "word": "ぎんこう",
+      "kanji": "銀行",
+      "translate": "銀行",
+      "id": "N528"
+  },
+  {
+      "word": "こうえん",
+      "kanji": "公園",
+      "translate": "公園",
+      "id": "N529"
+  },
+  {
+      "word": "びょういん",
+      "kanji": "病院",
+      "translate": "醫院",
+      "id": "N530"
+  },
+  {
+      "word": "がっこう",
+      "kanji": "学校",
+      "translate": "學校",
+      "id": "N531"
+  },
+  {
+      "word": "きょうしつ",
+      "kanji": "教室",
+      "translate": "教室",
+      "id": "N532"
+  },
+  {
+      "word": "ちかてつ",
+      "kanji": "地下鉄",
+      "translate": "地鐵",
+      "id": "N533"
+  },
+  {
+      "word": "ばすてい",
+      "kanji": "バス停",
+      "translate": "公車站",
+      "id": "N534"
+  },
+  {
+      "word": "きっさてん",
+      "kanji": "喫茶店",
+      "translate": "咖啡廳、茶館",
+      "id": "N535"
+  },
+  {
+      "word": "ゆうびんきょく",
+      "kanji": "郵便局",
+      "translate": "郵局",
+      "id": "N536"
+  },
+  {
+      "word": "としょかん",
+      "kanji": "図書館",
+      "translate": "圖書館",
+      "id": "N537"
+  },
+  {
+      "word": "えいがかん",
+      "kanji": "映画館",
+      "translate": "電影院",
+      "id": "N538"
+  },
+  {
+      "word": "こうさてん",
+      "kanji": "交差点",
+      "translate": "十字路口",
+      "id": "N539"
+  },
+  {
+      "word": "いりぐち",
+      "kanji": "入り口",
+      "translate": "入口",
+      "id": "N540"
+  },
+  {
+      "word": "でぐち",
+      "kanji": "出口",
+      "translate": "出口",
+      "id": "N541"
+  },
+  {
+      "word": "あぱーと",
+      "kanji": "アパート",
+      "translate": "公寓",
+      "id": "N542"
+  },
+  {
+      "word": "でばーと",
+      "kanji": "デパート",
+      "translate": "百貨公司",
+      "id": "N543"
+  },
+  {
+      "word": "えれべーたー",
+      "kanji": "エレベーター",
+      "translate": "電梯(elevator)",
+      "id": "N544"
+  },
+  {
+      "word": "ほてる",
+      "kanji": "ホテル",
+      "translate": "旅館、飯店",
+      "id": "N545"
+  },
+  {
+      "word": "といれ",
+      "kanji": "トイレ",
+      "translate": "廁所",
+      "id": "N546"
+  },
+  {
+      "word": "ばしょ",
+      "kanji": "場所",
+      "translate": "場所",
+      "id": "N547"
+  },
+  {
+      "word": "ところ",
+      "kanji": "所",
+      "translate": "地點、地方",
+      "id": "N548"
+  },
+  {
+      "word": "たべもの",
+      "kanji": "食べ物",
+      "translate": "食物",
+      "id": "N549"
+  },
+  {
+      "word": "ごはん",
+      "kanji": "ご飯",
+      "translate": "飯",
+      "id": "N550"
+  },
+  {
+      "word": "くだもの",
+      "kanji": "果物",
+      "translate": "水果",
+      "id": "N551"
+  },
+  {
+      "word": "おかし",
+      "kanji": "お菓子",
+      "translate": "點心",
+      "id": "N552"
+  },
+  {
+      "word": "かれー",
+      "kanji": "カレー",
+      "translate": "咖哩",
+      "id": "N553"
+  },
+  {
+      "word": "ぱん",
+      "kanji": "パン",
+      "translate": "麵包",
+      "id": "N554"
+  },
+  {
+      "word": "りょうり",
+      "kanji": "料理",
+      "translate": "料理",
+      "id": "N555"
+  },
+  {
+      "word": "さかな",
+      "kanji": "魚",
+      "translate": "魚",
+      "id": "N556"
+  },
+  {
+      "word": "にく",
+      "kanji": "肉",
+      "translate": "肉",
+      "id": "N557"
+  },
+  {
+      "word": "ぎゅうにく",
+      "kanji": "牛肉",
+      "translate": "牛肉",
+      "id": "N558"
+  },
+  {
+      "word": "ぶたにく",
+      "kanji": "豚肉",
+      "translate": "豬肉",
+      "id": "N559"
+  },
+  {
+      "word": "とりにく",
+      "kanji": "鶏肉",
+      "translate": "鶏肉",
+      "id": "N560"
+  },
+  {
+      "word": "やさい",
+      "kanji": "野菜",
+      "translate": "蔬菜",
+      "id": "N561"
+  },
+  {
+      "word": "たまご",
+      "kanji": "玉子、卵、たまご",
+      "translate": "蛋",
+      "id": "N562"
+  },
+  {
+      "word": "しょうゆ",
+      "kanji": "醤油",
+      "translate": "醬油",
+      "id": "N563"
+  },
+  {
+      "word": "のみもの",
+      "kanji": "飲み物",
+      "translate": "飲料",
+      "id": "N564"
+  },
+  {
+      "word": "みず",
+      "kanji": "水",
+      "translate": "水",
+      "id": "N565"
+  },
+  {
+      "word": "おちゃ",
+      "kanji": "お茶",
+      "translate": "茶",
+      "id": "N566"
+  },
+  {
+      "word": "こうちゃ",
+      "kanji": "紅茶",
+      "translate": "紅茶",
+      "id": "N567"
+  },
+  {
+      "word": "ぎゅうにゅう",
+      "kanji": "牛乳",
+      "translate": "牛奶",
+      "id": "N568"
+  },
+  {
+      "word": "おさけ",
+      "kanji": "お酒",
+      "translate": "酒",
+      "id": "N569"
+  },
+  {
+      "word": "びーる",
+      "kanji": "ビール",
+      "translate": "啤酒",
+      "id": "N570"
+  },
+  {
+      "word": "こーひー",
+      "kanji": "コーヒー",
+      "translate": "咖啡",
+      "id": "N571"
+  },
+  {
+      "word": "じゅーす",
+      "kanji": "ジュース",
+      "translate": "果汁",
+      "id": "N572"
+  },
+  {
+      "word": "ふく",
+      "kanji": "服",
+      "translate": "衣服",
+      "id": "N573"
+  },
+  {
+      "word": "ようふく",
+      "kanji": "洋服",
+      "translate": "西服",
+      "id": "N574"
+  },
+  {
+      "word": "こーと",
+      "kanji": "コート",
+      "translate": "大衣、外衣",
+      "id": "N575"
+  },
+  {
+      "word": "しゃつ",
+      "kanji": "シャツ",
+      "translate": "襯衫(shirt)",
+      "id": "N576"
+  },
+  {
+      "word": "Tしゃつ",
+      "kanji": "Tシャツ",
+      "translate": "T裇(T-shirt)",
+      "id": "N577"
+  },
+  {
+      "word": "せーたー",
+      "kanji": "セーター",
+      "translate": "毛衣(sweater)",
+      "id": "N578"
+  },
+  {
+      "word": "ぽけっと",
+      "kanji": "ポケット",
+      "translate": "口袋(pocket)",
+      "id": "N579"
+  },
+  {
+      "word": "ぼたん",
+      "kanji": "ボタン",
+      "translate": "鈕扣",
+      "id": "N580"
+  },
+  {
+      "word": "ずぼん",
+      "kanji": "ズボン",
+      "translate": "長褲",
+      "id": "N581"
+  },
+  {
+      "word": "はんズボン",
+      "kanji": "半ズボン",
+      "translate": "短褲",
+      "id": "N582"
+  },
+  {
+      "word": "すかーと",
+      "kanji": "スカート",
+      "translate": "裙子(skirt)",
+      "id": "N583"
+  },
+  {
+      "word": "くつ",
+      "kanji": "靴",
+      "translate": "鞋子",
+      "id": "N584"
+  },
+  {
+      "word": "くつした",
+      "kanji": "靴下",
+      "translate": "襪子",
+      "id": "N585"
+  },
+  {
+      "word": "ほん",
+      "kanji": "本",
+      "translate": "書",
+      "id": "N586"
+  },
+  {
+      "word": "かみ",
+      "kanji": "紙",
+      "translate": "紙",
+      "id": "N587"
+  },
+  {
+      "word": "ちず",
+      "kanji": "地図",
+      "translate": "地圖",
+      "id": "N588"
+  },
+  {
+      "word": "じしょ",
+      "kanji": "辞書",
+      "translate": "字典",
+      "id": "N589"
+  },
+  {
+      "word": "てがみ",
+      "kanji": "手紙",
+      "translate": "信",
+      "id": "N590"
+  },
+  {
+      "word": "きって",
+      "kanji": "切手",
+      "translate": "郵票",
+      "id": "N591"
+  },
+  {
+      "word": "ほんだな",
+      "kanji": "本棚",
+      "translate": "書架、書櫃",
+      "id": "N592"
+  },
+  {
+      "word": "えんぴつ",
+      "kanji": "鉛筆",
+      "translate": "鉛筆",
+      "id": "N593"
+  },
+  {
+      "word": "じょうぎ",
+      "kanji": "定規",
+      "translate": "尺",
+      "id": "N594"
+  },
+  {
+      "word": "まんねんひつ",
+      "kanji": "万年筆",
+      "translate": "鋼筆",
+      "id": "N595"
+  },
+  {
+      "word": "けしゴム",
+      "kanji": "消しゴム",
+      "translate": "橡皮擦",
+      "id": "N596"
+  },
+  {
+      "word": "ぺん",
+      "kanji": "ペン",
+      "translate": "筆",
+      "id": "N597"
+  },
+  {
+      "word": "のーと",
+      "kanji": "ノート",
+      "translate": "筆記本",
+      "id": "N598"
+  },
+  {
+      "word": "ぼーるぺん",
+      "kanji": "ボールペン",
+      "translate": "原子筆",
+      "id": "N599"
+  },
+  {
+      "word": "しゃーぷぺんしる",
+      "kanji": "シャープペンシル",
+      "translate": "自動鉛筆",
+      "id": "N5100"
+  },
+  {
+      "word": "でんわ",
+      "kanji": "電話",
+      "translate": "電話",
+      "id": "N5101"
+  },
+  {
+      "word": "れいぞうこ",
+      "kanji": "冷蔵庫",
+      "translate": "冰箱",
+      "id": "N5102"
+  },
+  {
+      "word": "せんたくき",
+      "kanji": "洗濯機",
+      "translate": "洗衣機",
+      "id": "N5103"
+  },
+  {
+      "word": "てれび",
+      "kanji": "テレビ",
+      "translate": "電視",
+      "id": "N5104"
+  },
+  {
+      "word": "びでお",
+      "kanji": "ビデオ",
+      "translate": "影片",
+      "id": "N5105"
+  },
+  {
+      "word": "かめら",
+      "kanji": "カメラ",
+      "translate": "相機",
+      "id": "N5106"
+  },
+  {
+      "word": "ぱそこん",
+      "kanji": "パソコン",
+      "translate": "電腦",
+      "id": "N5107"
+  },
+  {
+      "word": "えあこん",
+      "kanji": "エアコン",
+      "translate": "冷氣",
+      "id": "N5108"
+  },
+  {
+      "word": "うえ",
+      "kanji": "上",
+      "translate": "上面",
+      "id": "N5109"
+  },
+  {
+      "word": "した",
+      "kanji": "下",
+      "translate": "下面",
+      "id": "N5110"
+  },
+  {
+      "word": "ひだり",
+      "kanji": "左",
+      "translate": "左邊",
+      "id": "N5111"
+  },
+  {
+      "word": "みぎ",
+      "kanji": "右",
+      "translate": "右邊",
+      "id": "N5112"
+  },
+  {
+      "word": "なか",
+      "kanji": "中",
+      "translate": "中間",
+      "id": "N5113"
+  },
+  {
+      "word": "まえ",
+      "kanji": "前",
+      "translate": "前面",
+      "id": "N5114"
+  },
+  {
+      "word": "うしろ",
+      "kanji": "後ろ",
+      "translate": "後面",
+      "id": "N5115"
+  },
+  {
+      "word": "ひがし",
+      "kanji": "東",
+      "translate": "東方",
+      "id": "N5116"
+  },
+  {
+      "word": "にし",
+      "kanji": "西",
+      "translate": "西方",
+      "id": "N5117"
+  },
+  {
+      "word": "みなみ",
+      "kanji": "南",
+      "translate": "南方",
+      "id": "N5118"
+  },
+  {
+      "word": "きた",
+      "kanji": "北",
+      "translate": "北方",
+      "id": "N5119"
+  },
+  {
+      "word": "うち",
+      "kanji": "内",
+      "translate": "裡面",
+      "id": "N5120"
+  },
+  {
+      "word": "そと",
+      "kanji": "外",
+      "translate": "外面",
+      "id": "N5121"
+  },
+  {
+      "word": "へん",
+      "kanji": "辺",
+      "translate": "附近",
+      "id": "N5122"
+  },
+  {
+      "word": "となり",
+      "kanji": "隣",
+      "translate": "隔壁",
+      "id": "N5123"
+  },
+  {
+      "word": "よこ",
+      "kanji": "横",
+      "translate": "隔壁、旁邊",
+      "id": "N5124"
+  },
+  {
+      "word": "いち",
+      "kanji": "1",
+      "translate": "1",
+      "id": "N5125"
+  },
+  {
+      "word": "に",
+      "kanji": "2",
+      "translate": "2",
+      "id": "N5126"
+  },
+  {
+      "word": "さん",
+      "kanji": "3",
+      "translate": "3",
+      "id": "N5127"
+  },
+  {
+      "word": "よん",
+      "kanji": "4",
+      "translate": "4",
+      "id": "N5128"
+  },
+  {
+      "word": "ご",
+      "kanji": "5",
+      "translate": "5",
+      "id": "N5129"
+  },
+  {
+      "word": "ろく",
+      "kanji": "6",
+      "translate": "6",
+      "id": "N5130"
+  },
+  {
+      "word": "しち/なな",
+      "kanji": "7",
+      "translate": "7",
+      "id": "N5131"
+  },
+  {
+      "word": "はち",
+      "kanji": "8",
+      "translate": "8",
+      "id": "N5132"
+  },
+  {
+      "word": "きゅう",
+      "kanji": "9",
+      "translate": "9",
+      "id": "N5133"
+  },
+  {
+      "word": "じゅう",
+      "kanji": "10",
+      "translate": "10",
+      "id": "N5134"
+  },
+  {
+      "word": "あう",
+      "kanji": "会う",
+      "translate": "見面",
+      "id": "N5135"
+  },
+  {
+      "word": "あそぶ",
+      "kanji": "遊ぶ",
+      "translate": "玩耍",
+      "id": "N5136"
+  },
+  {
+      "word": "あるく",
+      "kanji": "歩く",
+      "translate": "走路",
+      "id": "N5137"
+  },
+  {
+      "word": "いう",
+      "kanji": "言う",
+      "translate": "說",
+      "id": "N5138"
+  },
+  {
+      "word": "いく",
+      "kanji": "行く",
+      "translate": "去",
+      "id": "N5139"
+  },
+  {
+      "word": "いる",
+      "kanji": "要る",
+      "translate": "需要",
+      "id": "N5140"
+  },
+  {
+      "word": "うたう",
+      "kanji": "歌う",
+      "translate": "唱",
+      "id": "N5141"
+  },
+  {
+      "word": "およぐ",
+      "kanji": "泳ぐ",
+      "translate": "游泳",
+      "id": "N5142"
+  },
+  {
+      "word": "おわる",
+      "kanji": "終わる",
+      "translate": "結束",
+      "id": "N5143"
+  },
+  {
+      "word": "おしえる",
+      "kanji": "教える",
+      "translate": "告訴、教導",
+      "id": "N5144"
+  },
+  {
+      "word": "かう",
+      "kanji": "買う",
+      "translate": "買",
+      "id": "N5145"
+  },
+  {
+      "word": "かく",
+      "kanji": "書く",
+      "translate": "寫",
+      "id": "N5146"
+  },
+  {
+      "word": "かかる",
+      "kanji": "掛かる",
+      "translate": "花費時間、金錢",
+      "id": "N5147"
+  },
+  {
+      "word": "かえる",
+      "kanji": "帰る",
+      "translate": "回家",
+      "id": "N5148"
+  },
+  {
+      "word": "きく",
+      "kanji": "聞く",
+      "translate": "請教、聽到",
+      "id": "N5149"
+  },
+  {
+      "word": "こたえる",
+      "kanji": "答える",
+      "translate": "回答",
+      "id": "N5150"
+  },
+  {
+      "word": "こまる",
+      "kanji": "困る",
+      "translate": "困擾、為難",
+      "id": "N5151"
+  },
+  {
+      "word": "くる",
+      "kanji": "来る",
+      "translate": "來",
+      "id": "N5152"
+  },
+  {
+      "word": "しぬ",
+      "kanji": "死ぬ",
+      "translate": "死",
+      "id": "N5153"
+  },
+  {
+      "word": "すむ",
+      "kanji": "住む",
+      "translate": "居住",
+      "id": "N5154"
+  },
+  {
+      "word": "すわる",
+      "kanji": "座る",
+      "translate": "坐下",
+      "id": "N5155"
+  },
+  {
+      "word": "たつ",
+      "kanji": "立つ",
+      "translate": "站立",
+      "id": "N5156"
+  },
+  {
+      "word": "たべる",
+      "kanji": "食べる",
+      "translate": "吃",
+      "id": "N5157"
+  },
+  {
+      "word": "つかれる",
+      "kanji": "疲れる",
+      "translate": "疲累",
+      "id": "N5158"
+  },
+  {
+      "word": "つく",
+      "kanji": "着く",
+      "translate": "到達",
+      "id": "N5159"
+  },
+  {
+      "word": "つかう",
+      "kanji": "使う",
+      "translate": "使用",
+      "id": "N5160"
+  },
+  {
+      "word": "つくる",
+      "kanji": "作る",
+      "translate": "做",
+      "id": "N5161"
+  },
+  {
+      "word": "とまる",
+      "kanji": "止まる",
+      "translate": "停止",
+      "id": "N5162"
+  },
+  {
+      "word": "とぶ",
+      "kanji": "飛ぶ",
+      "translate": "飛、突然跳出",
+      "id": "N5163"
+  },
+  {
+      "word": "なく",
+      "kanji": "泣く",
+      "translate": "哭泣",
+      "id": "N5164"
+  },
+  {
+      "word": "ねる",
+      "kanji": "寝る",
+      "translate": "睡覺",
+      "id": "N5165"
+  },
+  {
+      "word": "のる",
+      "kanji": "乗る",
+      "translate": "乘坐",
+      "id": "N5166"
+  },
+  {
+      "word": "のむ",
+      "kanji": "飲む",
+      "translate": "喝",
+      "id": "N5167"
+  },
+  {
+      "word": "ちがう",
+      "kanji": "違う",
+      "translate": "不同、錯誤",
+      "id": "N5168"
+  },
+  {
+      "word": "ならぶ",
+      "kanji": "並ぶ",
+      "translate": "排列、排隊",
+      "id": "N5169"
+  },
+  {
+      "word": "はいる",
+      "kanji": "入る",
+      "translate": "進入",
+      "id": "N5170"
+  },
+  {
+      "word": "はじまる",
+      "kanji": "始まる",
+      "translate": "開始",
+      "id": "N5171"
+  },
+  {
+      "word": "はしる",
+      "kanji": "走る",
+      "translate": "跑（人）、行駛（車）",
+      "id": "N5172"
+  },
+  {
+      "word": "ふる",
+      "kanji": "降る",
+      "translate": "降下",
+      "id": "N5173"
+  },
+  {
+      "word": "みる",
+      "kanji": "見る",
+      "translate": "看",
+      "id": "N5174"
+  },
+  {
+      "word": "まつ",
+      "kanji": "待つ",
+      "translate": "等待",
+      "id": "N5175"
+  },
+  {
+      "word": "よむ",
+      "kanji": "読む",
+      "translate": "閱讀",
+      "id": "N5176"
+  },
+  {
+      "word": "あつい",
+      "kanji": "暑い",
+      "translate": "熱的",
+      "id": "N5177"
+  },
+  {
+      "word": "さむい",
+      "kanji": "寒い",
+      "translate": "冷的",
+      "id": "N5178"
+  },
+  {
+      "word": "つめたい",
+      "kanji": "冷たい",
+      "translate": "涼的",
+      "id": "N5179"
+  },
+  {
+      "word": "あたたかい",
+      "kanji": "暖かい",
+      "translate": "溫暖的",
+      "id": "N5180"
+  },
+  {
+      "word": "すずしい",
+      "kanji": "涼しい",
+      "translate": "涼爽的",
+      "id": "N5181"
+  },
+  {
+      "word": "あつい",
+      "kanji": "厚い",
+      "translate": "厚的",
+      "id": "N5182"
+  },
+  {
+      "word": "うすい",
+      "kanji": "薄い",
+      "translate": "薄的、淡的",
+      "id": "N5183"
+  },
+  {
+      "word": "ちかい",
+      "kanji": "近い",
+      "translate": "近的",
+      "id": "N5184"
+  },
+  {
+      "word": "とおい",
+      "kanji": "遠い",
+      "translate": "遠的",
+      "id": "N5185"
+  },
+  {
+      "word": "よわい",
+      "kanji": "弱い",
+      "translate": "弱的",
+      "id": "N5186"
+  },
+  {
+      "word": "つよい",
+      "kanji": "強い",
+      "translate": "強的",
+      "id": "N5187"
+  },
+  {
+      "word": "かるい",
+      "kanji": "軽い",
+      "translate": "輕的",
+      "id": "N5188"
+  },
+  {
+      "word": "おもい",
+      "kanji": "重い",
+      "translate": "重的",
+      "id": "N5189"
+  },
+  {
+      "word": "せまい",
+      "kanji": "狭い",
+      "translate": "狹窄",
+      "id": "N5190"
+  },
+  {
+      "word": "ひろい",
+      "kanji": "広い",
+      "translate": "寬廣",
+      "id": "N5191"
+  },
+  {
+      "word": "はやい",
+      "kanji": "早い",
+      "translate": "早的",
+      "id": "N5192"
+  },
+  {
+      "word": "はやい",
+      "kanji": "速い",
+      "translate": "快的",
+      "id": "N5193"
+  },
+  {
+      "word": "おそい",
+      "kanji": "遅い",
+      "translate": "慢、晚、",
+      "id": "N5194"
+  },
+  {
+      "word": "ふとい",
+      "kanji": "太い",
+      "translate": "粗的、胖的",
+      "id": "N5195"
+  },
+  {
+      "word": "ほそい",
+      "kanji": "細い",
+      "translate": "細的",
+      "id": "N5196"
+  },
+  {
+      "word": "みじかい",
+      "kanji": "短い",
+      "translate": "短的",
+      "id": "N5197"
+  },
+  {
+      "word": "ながい",
+      "kanji": "長い",
+      "translate": "長的",
+      "id": "N5198"
+  },
+  {
+      "word": "やすい",
+      "kanji": "安い",
+      "translate": "便宜",
+      "id": "N5199"
+  },
+  {
+      "word": "たかい",
+      "kanji": "高い",
+      "translate": "貴的、高的",
+      "id": "N5200"
+  },
+  {
+      "word": "ひくい",
+      "kanji": "低い",
+      "translate": "矮的",
+      "id": "N5201"
+  },
+  {
+      "word": "いい",
+      "kanji": "良い",
+      "translate": "好的",
+      "id": "N5202"
+  },
+  {
+      "word": "わるい",
+      "kanji": "悪い",
+      "translate": "壞的",
+      "id": "N5203"
+  },
+  {
+      "word": "きたない",
+      "kanji": "汚い",
+      "translate": "髒的",
+      "id": "N5204"
+  },
+  {
+      "word": "あたらしい",
+      "kanji": "新しい",
+      "translate": "新的",
+      "id": "N5205"
+  },
+  {
+      "word": "ふるい",
+      "kanji": "古い",
+      "translate": "舊的",
+      "id": "N5206"
+  },
+  {
+      "word": "おもしろい",
+      "kanji": "面白い",
+      "translate": "有趣的",
+      "id": "N5207"
+  },
+  {
+      "word": "つまらない",
+      "kanji": "つまらない",
+      "translate": "無聊的",
+      "id": "N5208"
+  },
+  {
+      "word": "おおきい",
+      "kanji": "大きい",
+      "translate": "大的",
+      "id": "N5209"
+  },
+  {
+      "word": "ちいさい",
+      "kanji": "小さい",
+      "translate": "小的",
+      "id": "N5210"
+  },
+  {
+      "word": "あまい",
+      "kanji": "甘い",
+      "translate": "甜的",
+      "id": "N5211"
+  },
+  {
+      "word": "おいしい",
+      "kanji": "美味しい",
+      "translate": "好吃、好喝",
+      "id": "N5212"
+  },
+  {
+      "word": "まずい",
+      "kanji": "null",
+      "translate": "難吃、難喝",
+      "id": "N5213"
+  },
+  {
+      "word": "やさしい",
+      "kanji": "易しい",
+      "translate": "簡單",
+      "id": "N5214"
+  },
+  {
+      "word": "むずかしい",
+      "kanji": "難しい",
+      "translate": "困難的",
+      "id": "N5215"
+  },
+  {
+      "word": "やさしい",
+      "kanji": "優しい",
+      "translate": "溫柔",
+      "id": "N5216"
+  },
+  {
+      "word": "きびしい",
+      "kanji": "厳しい",
+      "translate": "嚴格的",
+      "id": "N5217"
+  },
+  {
+      "word": "くらい",
+      "kanji": "暗い",
+      "translate": "暗暗的",
+      "id": "N5218"
+  },
+  {
+      "word": "あかるい",
+      "kanji": "明るい",
+      "translate": "明亮的",
+      "id": "N5219"
+  },
+  {
+      "word": "いそがしい",
+      "kanji": "忙しい",
+      "translate": "忙碌",
+      "id": "N5220"
+  },
+  {
+      "word": "かわいい",
+      "kanji": "可愛い",
+      "translate": "可愛",
+      "id": "N5221"
+  },
+  {
+      "word": "たのしい",
+      "kanji": "楽しい",
+      "translate": "快樂",
+      "id": "N5222"
+  },
+  {
+      "word": "うるさい",
+      "kanji": "null",
+      "translate": "吵、囉嗦",
+      "id": "N5223"
+  },
+  {
+      "word": "きれい",
+      "kanji": "綺麗",
+      "translate": "漂亮、乾淨",
+      "id": "N5224"
+  },
+  {
+      "word": "べんり",
+      "kanji": "便利",
+      "translate": "方便",
+      "id": "N5225"
+  },
+  {
+      "word": "ゆうめい",
+      "kanji": "有名",
+      "translate": "有名",
+      "id": "N5226"
+  },
+  {
+      "word": "しずか",
+      "kanji": "静か",
+      "translate": "安靜",
+      "id": "N5227"
+  },
+  {
+      "word": "にぎやか",
+      "kanji": "賑やか",
+      "translate": "熱鬧、繁華",
+      "id": "N5228"
+  }
+]

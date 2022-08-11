@@ -1,0 +1,6302 @@
+[
+  {
+      "word": "かならずしも",
+      "kanji": "必ずしも",
+      "translate": "不一定",
+      "id": "N41"
+  },
+  {
+      "word": "かんとく",
+      "kanji": "監督",
+      "translate": "監督、教練",
+      "id": "N42"
+  },
+  {
+      "word": "ながめ",
+      "kanji": "眺め",
+      "translate": "瞭望",
+      "id": "N43"
+  },
+  {
+      "word": "したがう",
+      "kanji": "従う",
+      "translate": "服從",
+      "id": "N44"
+  },
+  {
+      "word": "おおや",
+      "kanji": "大家",
+      "translate": "房東",
+      "id": "N45"
+  },
+  {
+      "word": "ちょくせつ",
+      "kanji": "直接",
+      "translate": "直接",
+      "id": "N46"
+  },
+  {
+      "word": "しめい",
+      "kanji": "指名",
+      "translate": "姓名",
+      "id": "N47"
+  },
+  {
+      "word": "めいじる",
+      "kanji": "命じる",
+      "translate": "吩咐",
+      "id": "N48"
+  },
+  {
+      "word": "もったいない",
+      "kanji": "null",
+      "translate": "可惜",
+      "id": "N49"
+  },
+  {
+      "word": "たいはん",
+      "kanji": "大半",
+      "translate": "多半",
+      "id": "N410"
+  },
+  {
+      "word": "ひょうじょう",
+      "kanji": "表情",
+      "translate": "表情",
+      "id": "N411"
+  },
+  {
+      "word": "けいさん",
+      "kanji": "計算",
+      "translate": "計算",
+      "id": "N412"
+  },
+  {
+      "word": "めん",
+      "kanji": "綿",
+      "translate": "棉",
+      "id": "N413"
+  },
+  {
+      "word": "たたかう",
+      "kanji": "戦う",
+      "translate": "競技",
+      "id": "N414"
+  },
+  {
+      "word": "がんじつ",
+      "kanji": "元日",
+      "translate": "元旦",
+      "id": "N415"
+  },
+  {
+      "word": "ぶっか",
+      "kanji": "物価",
+      "translate": "物價",
+      "id": "N416"
+  },
+  {
+      "word": "はなしあう",
+      "kanji": "話し合う",
+      "translate": "談話",
+      "id": "N417"
+  },
+  {
+      "word": "ユーモア",
+      "kanji": "null",
+      "translate": "幽默",
+      "id": "N418"
+  },
+  {
+      "word": "キャンプ",
+      "kanji": "null",
+      "translate": "露營",
+      "id": "N419"
+  },
+  {
+      "word": "じゅよう",
+      "kanji": "需要",
+      "translate": "需求",
+      "id": "N420"
+  },
+  {
+      "word": "すぐれる",
+      "kanji": "優れる",
+      "translate": "出色",
+      "id": "N421"
+  },
+  {
+      "word": "こうきゅう",
+      "kanji": "高級",
+      "translate": "高級",
+      "id": "N422"
+  },
+  {
+      "word": "とうじ",
+      "kanji": "当時",
+      "translate": "當時、目前",
+      "id": "N423"
+  },
+  {
+      "word": "しょうひん",
+      "kanji": "商品",
+      "translate": "商品",
+      "id": "N424"
+  },
+  {
+      "word": "たんご",
+      "kanji": "単語",
+      "translate": "單字",
+      "id": "N425"
+  },
+  {
+      "word": "おとしだま",
+      "kanji": "お年玉",
+      "translate": "紅包",
+      "id": "N426"
+  },
+  {
+      "word": "にんき",
+      "kanji": "人気",
+      "translate": "人氣",
+      "id": "N427"
+  },
+  {
+      "word": "さいしん",
+      "kanji": "最新",
+      "translate": "最新",
+      "id": "N428"
+  },
+  {
+      "word": "かいけい",
+      "kanji": "会計",
+      "translate": "會計",
+      "id": "N429"
+  },
+  {
+      "word": "じょうきょう",
+      "kanji": "状況",
+      "translate": "狀況",
+      "id": "N430"
+  },
+  {
+      "word": "こくご",
+      "kanji": "国語",
+      "translate": "一國的語言",
+      "id": "N431"
+  },
+  {
+      "word": "りょうがえ",
+      "kanji": "両替",
+      "translate": "兌幣",
+      "id": "N432"
+  },
+  {
+      "word": "パスポート",
+      "kanji": "null",
+      "translate": "護照",
+      "id": "N433"
+  },
+  {
+      "word": "へらす",
+      "kanji": "減らす",
+      "translate": "縮減",
+      "id": "N434"
+  },
+  {
+      "word": "ふだん",
+      "kanji": "普段",
+      "translate": "平常",
+      "id": "N435"
+  },
+  {
+      "word": "りゅうがく",
+      "kanji": "留学",
+      "translate": "留學",
+      "id": "N436"
+  },
+  {
+      "word": "せつび",
+      "kanji": "設備",
+      "translate": "設備",
+      "id": "N437"
+  },
+  {
+      "word": "はやめ",
+      "kanji": "早め",
+      "translate": "提早",
+      "id": "N438"
+  },
+  {
+      "word": "そうさ",
+      "kanji": "操作",
+      "translate": "操作",
+      "id": "N439"
+  },
+  {
+      "word": "にんげんかんけい",
+      "kanji": "人間関係",
+      "translate": "人際關係",
+      "id": "N440"
+  },
+  {
+      "word": "ところで",
+      "kanji": "null",
+      "translate": "可是",
+      "id": "N441"
+  },
+  {
+      "word": "ほどう",
+      "kanji": "歩道",
+      "translate": "人行道",
+      "id": "N442"
+  },
+  {
+      "word": "ひょうばん",
+      "kanji": "評判",
+      "translate": "評判",
+      "id": "N443"
+  },
+  {
+      "word": "ばか",
+      "kanji": "馬鹿",
+      "translate": "笨蛋",
+      "id": "N444"
+  },
+  {
+      "word": "よさん",
+      "kanji": "予算",
+      "translate": "預算",
+      "id": "N445"
+  },
+  {
+      "word": "いちば",
+      "kanji": "市場",
+      "translate": "市場",
+      "id": "N446"
+  },
+  {
+      "word": "ふせぐ",
+      "kanji": "防ぐ",
+      "translate": "防守",
+      "id": "N447"
+  },
+  {
+      "word": "のうりょく",
+      "kanji": "能力",
+      "translate": "能力",
+      "id": "N448"
+  },
+  {
+      "word": "よあけ",
+      "kanji": "夜明け",
+      "translate": "黎明",
+      "id": "N449"
+  },
+  {
+      "word": "のぞく",
+      "kanji": "除く",
+      "translate": "刪去",
+      "id": "N450"
+  },
+  {
+      "word": "すうじ",
+      "kanji": "数字",
+      "translate": "數字",
+      "id": "N451"
+  },
+  {
+      "word": "しんゆう",
+      "kanji": "親友",
+      "translate": "親密好友",
+      "id": "N452"
+  },
+  {
+      "word": "おせん",
+      "kanji": "汚染",
+      "translate": "汙染",
+      "id": "N453"
+  },
+  {
+      "word": "たび",
+      "kanji": "旅",
+      "translate": "旅行",
+      "id": "N454"
+  },
+  {
+      "word": "もうふ",
+      "kanji": "毛布",
+      "translate": "毛毯",
+      "id": "N455"
+  },
+  {
+      "word": "ぎろん",
+      "kanji": "議論",
+      "translate": "爭辯",
+      "id": "N456"
+  },
+  {
+      "word": "さくしゃ",
+      "kanji": "作者",
+      "translate": "作者",
+      "id": "N457"
+  },
+  {
+      "word": "えがお",
+      "kanji": "笑顔",
+      "translate": "笑容",
+      "id": "N458"
+  },
+  {
+      "word": "ものごと",
+      "kanji": "物事",
+      "translate": "事物",
+      "id": "N459"
+  },
+  {
+      "word": "とくちょう",
+      "kanji": "特徴",
+      "translate": "特徵",
+      "id": "N460"
+  },
+  {
+      "word": "おうじる",
+      "kanji": "応じる",
+      "translate": "接受",
+      "id": "N461"
+  },
+  {
+      "word": "いや",
+      "kanji": "否",
+      "translate": "不",
+      "id": "N462"
+  },
+  {
+      "word": "みおくる",
+      "kanji": "見送る",
+      "translate": "送行",
+      "id": "N463"
+  },
+  {
+      "word": "ひょうめん",
+      "kanji": "表面",
+      "translate": "表面",
+      "id": "N464"
+  },
+  {
+      "word": "へんこう",
+      "kanji": "変更",
+      "translate": "變動",
+      "id": "N465"
+  },
+  {
+      "word": "そっと",
+      "kanji": "null",
+      "translate": "輕輕地",
+      "id": "N466"
+  },
+  {
+      "word": "つく",
+      "kanji": "就く",
+      "translate": "從事",
+      "id": "N467"
+  },
+  {
+      "word": "ぜいたく",
+      "kanji": "贅沢",
+      "translate": "奢侈",
+      "id": "N468"
+  },
+  {
+      "word": "ちょうじょう",
+      "kanji": "頂上",
+      "translate": "山頂",
+      "id": "N469"
+  },
+  {
+      "word": "すでに",
+      "kanji": "既に",
+      "translate": "已經",
+      "id": "N470"
+  },
+  {
+      "word": "じょし",
+      "kanji": "女子",
+      "translate": "婦女、女子",
+      "id": "N471"
+  },
+  {
+      "word": "かんする",
+      "kanji": "関する",
+      "translate": "關於",
+      "id": "N472"
+  },
+  {
+      "word": "はじまり",
+      "kanji": "始まり",
+      "translate": "開始、起源",
+      "id": "N473"
+  },
+  {
+      "word": "けっしん",
+      "kanji": "決心",
+      "translate": "決心",
+      "id": "N474"
+  },
+  {
+      "word": "ごかい",
+      "kanji": "誤解",
+      "translate": "誤解",
+      "id": "N475"
+  },
+  {
+      "word": "とうちゃく",
+      "kanji": "到着",
+      "translate": "抵達",
+      "id": "N476"
+  },
+  {
+      "word": "うちゅう",
+      "kanji": "宇宙",
+      "translate": "宇宙",
+      "id": "N477"
+  },
+  {
+      "word": "ふうけい",
+      "kanji": "風景",
+      "translate": "風景",
+      "id": "N478"
+  },
+  {
+      "word": "まなぶ",
+      "kanji": "学ぶ",
+      "translate": "學習",
+      "id": "N479"
+  },
+  {
+      "word": "ひげき",
+      "kanji": "悲劇",
+      "translate": "悲劇",
+      "id": "N480"
+  },
+  {
+      "word": "たいら",
+      "kanji": "平ら",
+      "translate": "平地",
+      "id": "N481"
+  },
+  {
+      "word": "むし",
+      "kanji": "無視",
+      "translate": "無視",
+      "id": "N482"
+  },
+  {
+      "word": "ちい",
+      "kanji": "地位",
+      "translate": "地位",
+      "id": "N483"
+  },
+  {
+      "word": "たいよう",
+      "kanji": "太陽",
+      "translate": "太陽",
+      "id": "N484"
+  },
+  {
+      "word": "あたためる",
+      "kanji": "温める",
+      "translate": "變熱",
+      "id": "N485"
+  },
+  {
+      "word": "ばったり",
+      "kanji": "null",
+      "translate": "突然相遇",
+      "id": "N486"
+  },
+  {
+      "word": "あらし",
+      "kanji": "嵐",
+      "translate": "暴風雨",
+      "id": "N487"
+  },
+  {
+      "word": "ぜんこく",
+      "kanji": "全国",
+      "translate": "全國",
+      "id": "N488"
+  },
+  {
+      "word": "かかり",
+      "kanji": "係",
+      "translate": "負責人員",
+      "id": "N489"
+  },
+  {
+      "word": "はんざい",
+      "kanji": "犯罪",
+      "translate": "犯罪",
+      "id": "N490"
+  },
+  {
+      "word": "きし",
+      "kanji": "岸",
+      "translate": "岸、崖",
+      "id": "N491"
+  },
+  {
+      "word": "ほお",
+      "kanji": "頬",
+      "translate": "臉頰",
+      "id": "N492"
+  },
+  {
+      "word": "あつまり",
+      "kanji": "集まり",
+      "translate": "集合、集會",
+      "id": "N493"
+  },
+  {
+      "word": "メッセージ",
+      "kanji": "null",
+      "translate": "訊息",
+      "id": "N494"
+  },
+  {
+      "word": "プリンター",
+      "kanji": "null",
+      "translate": "印表機",
+      "id": "N495"
+  },
+  {
+      "word": "しかる",
+      "kanji": "叱る",
+      "translate": "斥責",
+      "id": "N496"
+  },
+  {
+      "word": "らく",
+      "kanji": "楽",
+      "translate": "輕鬆",
+      "id": "N497"
+  },
+  {
+      "word": "いぜん",
+      "kanji": "以前",
+      "translate": "從前",
+      "id": "N498"
+  },
+  {
+      "word": "じんせい",
+      "kanji": "人生",
+      "translate": "人生",
+      "id": "N499"
+  },
+  {
+      "word": "はんにん",
+      "kanji": "犯人",
+      "translate": "犯人",
+      "id": "N4100"
+  },
+  {
+      "word": "バン",
+      "kanji": "null",
+      "translate": "休旅車",
+      "id": "N4101"
+  },
+  {
+      "word": "かいが",
+      "kanji": "絵画",
+      "translate": "繪畫",
+      "id": "N4102"
+  },
+  {
+      "word": "けいやく",
+      "kanji": "契約",
+      "translate": "器樂",
+      "id": "N4103"
+  },
+  {
+      "word": "たちあがる",
+      "kanji": "立ち上がる",
+      "translate": "起立",
+      "id": "N4104"
+  },
+  {
+      "word": "こうこく",
+      "kanji": "広告",
+      "translate": "廣告",
+      "id": "N4105"
+  },
+  {
+      "word": "かなしむ",
+      "kanji": "悲しむ",
+      "translate": "悲傷",
+      "id": "N4106"
+  },
+  {
+      "word": "たいくつ",
+      "kanji": "退屈",
+      "translate": "無聊",
+      "id": "N4107"
+  },
+  {
+      "word": "しまった",
+      "kanji": "null",
+      "translate": "糟糕",
+      "id": "N4108"
+  },
+  {
+      "word": "わける",
+      "kanji": "分ける",
+      "translate": "劃分、分類",
+      "id": "N4109"
+  },
+  {
+      "word": "あたり",
+      "kanji": "辺り",
+      "translate": "附近",
+      "id": "N4110"
+  },
+  {
+      "word": "がまん",
+      "kanji": "我慢",
+      "translate": "忍耐",
+      "id": "N4111"
+  },
+  {
+      "word": "ひょうげん",
+      "kanji": "表現",
+      "translate": "表現",
+      "id": "N4112"
+  },
+  {
+      "word": "どくとく",
+      "kanji": "独特",
+      "translate": "獨特",
+      "id": "N4113"
+  },
+  {
+      "word": "つうきん",
+      "kanji": "通勤",
+      "translate": "上下班",
+      "id": "N4114"
+  },
+  {
+      "word": "いわ",
+      "kanji": "岩",
+      "translate": "岩石",
+      "id": "N4115"
+  },
+  {
+      "word": "さくばん",
+      "kanji": "昨晩",
+      "translate": "那天晚上",
+      "id": "N4116"
+  },
+  {
+      "word": "いた",
+      "kanji": "板",
+      "translate": "板子",
+      "id": "N4117"
+  },
+  {
+      "word": "かんり",
+      "kanji": "管理",
+      "translate": "管理",
+      "id": "N4118"
+  },
+  {
+      "word": "けんせつ",
+      "kanji": "建設",
+      "translate": "建設",
+      "id": "N4119"
+  },
+  {
+      "word": "どろ",
+      "kanji": "泥",
+      "translate": "泥巴",
+      "id": "N4120"
+  },
+  {
+      "word": "ぎかい",
+      "kanji": "議会",
+      "translate": "議會",
+      "id": "N4121"
+  },
+  {
+      "word": "ひく",
+      "kanji": "轢く",
+      "translate": "撞",
+      "id": "N4122"
+  },
+  {
+      "word": "ずつう",
+      "kanji": "頭痛",
+      "translate": "頭痛",
+      "id": "N4123"
+  },
+  {
+      "word": "おさえる",
+      "kanji": "押さえる",
+      "translate": "按、壓",
+      "id": "N4124"
+  },
+  {
+      "word": "びじゅつ",
+      "kanji": "美術",
+      "translate": "美術",
+      "id": "N4125"
+  },
+  {
+      "word": "ひはん",
+      "kanji": "批判",
+      "translate": "批判",
+      "id": "N4126"
+  },
+  {
+      "word": "えいぎょう",
+      "kanji": "営業",
+      "translate": "營業",
+      "id": "N4127"
+  },
+  {
+      "word": "かつどう",
+      "kanji": "活動",
+      "translate": "活動",
+      "id": "N4128"
+  },
+  {
+      "word": "ぶん",
+      "kanji": "分",
+      "translate": "部分",
+      "id": "N4129"
+  },
+  {
+      "word": "ししゅつ",
+      "kanji": "支出",
+      "translate": "支出",
+      "id": "N4130"
+  },
+  {
+      "word": "だい",
+      "kanji": "題",
+      "translate": "題目",
+      "id": "N4131"
+  },
+  {
+      "word": "はかせ",
+      "kanji": "博士",
+      "translate": "博士",
+      "id": "N4132"
+  },
+  {
+      "word": "たいいく",
+      "kanji": "体育",
+      "translate": "體育",
+      "id": "N4133"
+  },
+  {
+      "word": "ふじゆう",
+      "kanji": "不自由",
+      "translate": "不自由",
+      "id": "N4134"
+  },
+  {
+      "word": "ごちそう",
+      "kanji": "御馳走",
+      "translate": "請客",
+      "id": "N4135"
+  },
+  {
+      "word": "さい",
+      "kanji": "際",
+      "translate": "時候、時機",
+      "id": "N4136"
+  },
+  {
+      "word": "びん",
+      "kanji": "便",
+      "translate": "班機、班車",
+      "id": "N4137"
+  },
+  {
+      "word": "こうかん",
+      "kanji": "交換",
+      "translate": "交換",
+      "id": "N4138"
+  },
+  {
+      "word": "バイオリン",
+      "kanji": "null",
+      "translate": "小提琴",
+      "id": "N4139"
+  },
+  {
+      "word": "かいいん",
+      "kanji": "会員",
+      "translate": "會員",
+      "id": "N4140"
+  },
+  {
+      "word": "あらい",
+      "kanji": "粗い",
+      "translate": "粗心",
+      "id": "N4141"
+  },
+  {
+      "word": "たとえ",
+      "kanji": "null",
+      "translate": "縱使",
+      "id": "N4142"
+  },
+  {
+      "word": "こむぎ",
+      "kanji": "小麦",
+      "translate": "小麥",
+      "id": "N4143"
+  },
+  {
+      "word": "テント",
+      "kanji": "null",
+      "translate": "帳篷",
+      "id": "N4144"
+  },
+  {
+      "word": "ジーンズ",
+      "kanji": "null",
+      "translate": "牛仔褲",
+      "id": "N4145"
+  },
+  {
+      "word": "きにいる",
+      "kanji": "気に入る",
+      "translate": "喜歡",
+      "id": "N4146"
+  },
+  {
+      "word": "いとこ",
+      "kanji": "従兄弟",
+      "translate": "堂(表)兄弟",
+      "id": "N4147"
+  },
+  {
+      "word": "スケート",
+      "kanji": "null",
+      "translate": "溜冰",
+      "id": "N4148"
+  },
+  {
+      "word": "げんご",
+      "kanji": "言語",
+      "translate": "語言",
+      "id": "N4149"
+  },
+  {
+      "word": "しんぽ",
+      "kanji": "進歩",
+      "translate": "進步",
+      "id": "N4150"
+  },
+  {
+      "word": "げいじゅつ",
+      "kanji": "芸術",
+      "translate": "藝術",
+      "id": "N4151"
+  },
+  {
+      "word": "いっしょう",
+      "kanji": "一生",
+      "translate": "一輩子",
+      "id": "N4152"
+  },
+  {
+      "word": "にちじょう",
+      "kanji": "日常",
+      "translate": "日常",
+      "id": "N4153"
+  },
+  {
+      "word": "カバー",
+      "kanji": "null",
+      "translate": "防守",
+      "id": "N4154"
+  },
+  {
+      "word": "よゆう",
+      "kanji": "余裕",
+      "translate": "剩餘",
+      "id": "N4155"
+  },
+  {
+      "word": "ぎむ",
+      "kanji": "義務",
+      "translate": "義務",
+      "id": "N4156"
+  },
+  {
+      "word": "のこす",
+      "kanji": "残す",
+      "translate": "殘留",
+      "id": "N4157"
+  },
+  {
+      "word": "はい",
+      "kanji": "灰",
+      "translate": "灰",
+      "id": "N4158"
+  },
+  {
+      "word": "にっこう",
+      "kanji": "日光",
+      "translate": "陽光",
+      "id": "N4159"
+  },
+  {
+      "word": "しはらい",
+      "kanji": "支払い",
+      "translate": "支付",
+      "id": "N4160"
+  },
+  {
+      "word": "ちきゅう",
+      "kanji": "地球",
+      "translate": "地球",
+      "id": "N4161"
+  },
+  {
+      "word": "いし",
+      "kanji": "意志",
+      "translate": "意志",
+      "id": "N4162"
+  },
+  {
+      "word": "ねがう",
+      "kanji": "願う",
+      "translate": "請求",
+      "id": "N4163"
+  },
+  {
+      "word": "しょくぶつ",
+      "kanji": "植物",
+      "translate": "植物",
+      "id": "N4164"
+  },
+  {
+      "word": "つち",
+      "kanji": "土",
+      "translate": "土",
+      "id": "N4165"
+  },
+  {
+      "word": "けいえい",
+      "kanji": "経営",
+      "translate": "經營",
+      "id": "N4166"
+  },
+  {
+      "word": "ひとりひとり",
+      "kanji": "一人一人",
+      "translate": "每一個人",
+      "id": "N4167"
+  },
+  {
+      "word": "にっこり",
+      "kanji": "null",
+      "translate": "微微笑地",
+      "id": "N4168"
+  },
+  {
+      "word": "かたがた",
+      "kanji": "方々",
+      "translate": "人們",
+      "id": "N4169"
+  },
+  {
+      "word": "よぶん",
+      "kanji": "余分",
+      "translate": "多餘",
+      "id": "N4170"
+  },
+  {
+      "word": "きれる",
+      "kanji": "切れる",
+      "translate": "切開、斷開",
+      "id": "N4171"
+  },
+  {
+      "word": "たっぷり",
+      "kanji": "null",
+      "translate": "充分",
+      "id": "N4172"
+  },
+  {
+      "word": "ひも",
+      "kanji": "紐",
+      "translate": "細繩",
+      "id": "N4173"
+  },
+  {
+      "word": "さいこう",
+      "kanji": "最高",
+      "translate": "最棒",
+      "id": "N4174"
+  },
+  {
+      "word": "くせ",
+      "kanji": "癖",
+      "translate": "習慣",
+      "id": "N4175"
+  },
+  {
+      "word": "いだい",
+      "kanji": "偉大",
+      "translate": "偉大",
+      "id": "N4176"
+  },
+  {
+      "word": "できごと",
+      "kanji": "出来事",
+      "translate": "發生的事情",
+      "id": "N4177"
+  },
+  {
+      "word": "むかい",
+      "kanji": "向かい",
+      "translate": "對面",
+      "id": "N4178"
+  },
+  {
+      "word": "かいぜん",
+      "kanji": "改善",
+      "translate": "改善",
+      "id": "N4179"
+  },
+  {
+      "word": "それでも",
+      "kanji": "null",
+      "translate": "儘管如此",
+      "id": "N4180"
+  },
+  {
+      "word": "さいわい",
+      "kanji": "幸い",
+      "translate": "幸福",
+      "id": "N4181"
+  },
+  {
+      "word": "こうりつ",
+      "kanji": "効率",
+      "translate": "效率",
+      "id": "N4182"
+  },
+  {
+      "word": "はっせい",
+      "kanji": "発生",
+      "translate": "發生",
+      "id": "N4183"
+  },
+  {
+      "word": "じつは",
+      "kanji": "実は",
+      "translate": "坦白說",
+      "id": "N4184"
+  },
+  {
+      "word": "ろうじん",
+      "kanji": "老人",
+      "translate": "老年人",
+      "id": "N4185"
+  },
+  {
+      "word": "はってん",
+      "kanji": "発展",
+      "translate": "發展",
+      "id": "N4186"
+  },
+  {
+      "word": "してい",
+      "kanji": "指定",
+      "translate": "指定",
+      "id": "N4187"
+  },
+  {
+      "word": "げんしょう",
+      "kanji": "現象",
+      "translate": "現象",
+      "id": "N4188"
+  },
+  {
+      "word": "たおす",
+      "kanji": "倒す",
+      "translate": "推倒",
+      "id": "N4189"
+  },
+  {
+      "word": "なつかしい",
+      "kanji": "懐かしい",
+      "translate": "懷念的",
+      "id": "N4190"
+  },
+  {
+      "word": "しな",
+      "kanji": "品",
+      "translate": "商品、物品",
+      "id": "N4191"
+  },
+  {
+      "word": "そんがい",
+      "kanji": "損害",
+      "translate": "損害",
+      "id": "N4192"
+  },
+  {
+      "word": "せめる",
+      "kanji": "責める",
+      "translate": "責備",
+      "id": "N4193"
+  },
+  {
+      "word": "あきらめる",
+      "kanji": "諦める",
+      "translate": "死心、放棄",
+      "id": "N4194"
+  },
+  {
+      "word": "うわさ",
+      "kanji": "噂",
+      "translate": "閒聊、討論",
+      "id": "N4195"
+  },
+  {
+      "word": "こっせつ",
+      "kanji": "骨折",
+      "translate": "骨折",
+      "id": "N4196"
+  },
+  {
+      "word": "れつ",
+      "kanji": "列",
+      "translate": "列、排",
+      "id": "N4197"
+  },
+  {
+      "word": "さいよう",
+      "kanji": "採用",
+      "translate": "採用",
+      "id": "N4198"
+  },
+  {
+      "word": "ふこう",
+      "kanji": "不幸",
+      "translate": "不幸",
+      "id": "N4199"
+  },
+  {
+      "word": "すべて",
+      "kanji": "全て",
+      "translate": "全部",
+      "id": "N4200"
+  },
+  {
+      "word": "つきあい",
+      "kanji": "付き合い",
+      "translate": "交際應酬",
+      "id": "N4201"
+  },
+  {
+      "word": "さ",
+      "kanji": "差",
+      "translate": "差異",
+      "id": "N4202"
+  },
+  {
+      "word": "けしょうひん",
+      "kanji": "化粧品",
+      "translate": "化妝品",
+      "id": "N4203"
+  },
+  {
+      "word": "しんがく",
+      "kanji": "進学",
+      "translate": "升學",
+      "id": "N4204"
+  },
+  {
+      "word": "ひきうける",
+      "kanji": "引き受ける",
+      "translate": "接受",
+      "id": "N4205"
+  },
+  {
+      "word": "じむ",
+      "kanji": "事務",
+      "translate": "工作、事務",
+      "id": "N4206"
+  },
+  {
+      "word": "てきする",
+      "kanji": "適する",
+      "translate": "適合",
+      "id": "N4207"
+  },
+  {
+      "word": "けん",
+      "kanji": "券",
+      "translate": "票券",
+      "id": "N4208"
+  },
+  {
+      "word": "かんじゃ",
+      "kanji": "患者",
+      "translate": "病人",
+      "id": "N4209"
+  },
+  {
+      "word": "くさる",
+      "kanji": "腐る",
+      "translate": "腐壞",
+      "id": "N4210"
+  },
+  {
+      "word": "じょうきゃく",
+      "kanji": "乗客",
+      "translate": "乘客",
+      "id": "N4211"
+  },
+  {
+      "word": "あっというまに",
+      "kanji": "あっという間に",
+      "translate": "剎那間",
+      "id": "N4212"
+  },
+  {
+      "word": "ゆかい",
+      "kanji": "愉快",
+      "translate": "愉快",
+      "id": "N4213"
+  },
+  {
+      "word": "ひとばん",
+      "kanji": "一晩",
+      "translate": "某個晚上",
+      "id": "N4214"
+  },
+  {
+      "word": "ぶんぼうぐ",
+      "kanji": "文房具",
+      "translate": "文具",
+      "id": "N4215"
+  },
+  {
+      "word": "うれる",
+      "kanji": "売れる",
+      "translate": "暢銷",
+      "id": "N4216"
+  },
+  {
+      "word": "いがい",
+      "kanji": "意外",
+      "translate": "出乎意料",
+      "id": "N4217"
+  },
+  {
+      "word": "チーム",
+      "kanji": "null",
+      "translate": "隊伍",
+      "id": "N4218"
+  },
+  {
+      "word": "ロケット",
+      "kanji": "null",
+      "translate": "火箭",
+      "id": "N4219"
+  },
+  {
+      "word": "しゅうり",
+      "kanji": "修理",
+      "translate": "修理",
+      "id": "N4220"
+  },
+  {
+      "word": "じっしゅう",
+      "kanji": "実習",
+      "translate": "實習",
+      "id": "N4221"
+  },
+  {
+      "word": "けんか",
+      "kanji": "喧嘩",
+      "translate": "吵架、打架",
+      "id": "N4222"
+  },
+  {
+      "word": "うがい",
+      "kanji": "null",
+      "translate": "漱口",
+      "id": "N4223"
+  },
+  {
+      "word": "あつかう",
+      "kanji": "扱う",
+      "translate": "處理、經營",
+      "id": "N4224"
+  },
+  {
+      "word": "センター",
+      "kanji": "null",
+      "translate": "中心",
+      "id": "N4225"
+  },
+  {
+      "word": "へんか",
+      "kanji": "変化",
+      "translate": "變化",
+      "id": "N4226"
+  },
+  {
+      "word": "たびたび",
+      "kanji": "null",
+      "translate": "屢次",
+      "id": "N4227"
+  },
+  {
+      "word": "さす",
+      "kanji": "刺す",
+      "translate": "刺、穿",
+      "id": "N4228"
+  },
+  {
+      "word": "こえる",
+      "kanji": "超える",
+      "translate": "超過",
+      "id": "N4229"
+  },
+  {
+      "word": "きねんび",
+      "kanji": "記念日",
+      "translate": "紀念日",
+      "id": "N4230"
+  },
+  {
+      "word": "ゴール",
+      "kanji": "null",
+      "translate": "終點、球門、籃框",
+      "id": "N4231"
+  },
+  {
+      "word": "すごす",
+      "kanji": "過ごす",
+      "translate": "度過",
+      "id": "N4232"
+  },
+  {
+      "word": "ゆうびん",
+      "kanji": "郵便",
+      "translate": "郵政",
+      "id": "N4233"
+  },
+  {
+      "word": "かみなり",
+      "kanji": "雷",
+      "translate": "雷",
+      "id": "N4234"
+  },
+  {
+      "word": "ぜいきん",
+      "kanji": "税金",
+      "translate": "稅金",
+      "id": "N4235"
+  },
+  {
+      "word": "けっかん",
+      "kanji": "欠陥",
+      "translate": "缺點",
+      "id": "N4236"
+  },
+  {
+      "word": "ぴったり",
+      "kanji": "null",
+      "translate": "恰巧",
+      "id": "N4237"
+  },
+  {
+      "word": "かもしれない",
+      "kanji": "null",
+      "translate": "也許",
+      "id": "N4238"
+  },
+  {
+      "word": "きこう",
+      "kanji": "気候",
+      "translate": "氣候",
+      "id": "N4239"
+  },
+  {
+      "word": "ふくそう",
+      "kanji": "服装",
+      "translate": "服裝",
+      "id": "N4240"
+  },
+  {
+      "word": "けいき",
+      "kanji": "景気",
+      "translate": "景氣",
+      "id": "N4241"
+  },
+  {
+      "word": "なべ",
+      "kanji": "鍋",
+      "translate": "鍋子、火鍋",
+      "id": "N4242"
+  },
+  {
+      "word": "ていしゅつ",
+      "kanji": "提出",
+      "translate": "繳交",
+      "id": "N4243"
+  },
+  {
+      "word": "くるしむ",
+      "kanji": "苦しむ",
+      "translate": "感到痛苦",
+      "id": "N4244"
+  },
+  {
+      "word": "かくだい",
+      "kanji": "拡大",
+      "translate": "放大",
+      "id": "N4245"
+  },
+  {
+      "word": "つうじる",
+      "kanji": "通じる",
+      "translate": "了解、溝通",
+      "id": "N4246"
+  },
+  {
+      "word": "まかせる",
+      "kanji": "任せる",
+      "translate": "委託",
+      "id": "N4247"
+  },
+  {
+      "word": "のうぎょう",
+      "kanji": "農業",
+      "translate": "農業",
+      "id": "N4248"
+  },
+  {
+      "word": "けんり",
+      "kanji": "権利",
+      "translate": "權利",
+      "id": "N4249"
+  },
+  {
+      "word": "にっちゅう",
+      "kanji": "日中",
+      "translate": "白天",
+      "id": "N4250"
+  },
+  {
+      "word": "きょうぎ",
+      "kanji": "競技",
+      "translate": "比賽",
+      "id": "N4251"
+  },
+  {
+      "word": "じょうけん",
+      "kanji": "条件",
+      "translate": "條件",
+      "id": "N4252"
+  },
+  {
+      "word": "たしかめる",
+      "kanji": "確かめる",
+      "translate": "確認",
+      "id": "N4253"
+  },
+  {
+      "word": "きんぞく",
+      "kanji": "金属",
+      "translate": "金屬",
+      "id": "N4254"
+  },
+  {
+      "word": "ぎいん",
+      "kanji": "議員",
+      "translate": "議員",
+      "id": "N4255"
+  },
+  {
+      "word": "ふくむ",
+      "kanji": "含む",
+      "translate": "含有",
+      "id": "N4256"
+  },
+  {
+      "word": "つぎつぎ",
+      "kanji": "次々",
+      "translate": "接二連三",
+      "id": "N4257"
+  },
+  {
+      "word": "アイロン",
+      "kanji": "null",
+      "translate": "熨斗",
+      "id": "N4258"
+  },
+  {
+      "word": "つもる",
+      "kanji": "積もる",
+      "translate": "累積",
+      "id": "N4259"
+  },
+  {
+      "word": "よぼう",
+      "kanji": "予防",
+      "translate": "預防",
+      "id": "N4260"
+  },
+  {
+      "word": "およそ",
+      "kanji": "null",
+      "translate": "大概",
+      "id": "N4261"
+  },
+  {
+      "word": "しゃっきん",
+      "kanji": "借金",
+      "translate": "貸款",
+      "id": "N4262"
+  },
+  {
+      "word": "まんぞく",
+      "kanji": "満足",
+      "translate": "滿足",
+      "id": "N4263"
+  },
+  {
+      "word": "ばめん",
+      "kanji": "場面",
+      "translate": "場面",
+      "id": "N4264"
+  },
+  {
+      "word": "じゅうたい",
+      "kanji": "渋滞",
+      "translate": "滯留",
+      "id": "N4265"
+  },
+  {
+      "word": "ステッキ",
+      "kanji": "null",
+      "translate": "手杖",
+      "id": "N4266"
+  },
+  {
+      "word": "ぎん",
+      "kanji": "銀",
+      "translate": "銀",
+      "id": "N4267"
+  },
+  {
+      "word": "れいせい",
+      "kanji": "冷静",
+      "translate": "冷靜",
+      "id": "N4268"
+  },
+  {
+      "word": "えいせい",
+      "kanji": "衛星",
+      "translate": "衛星",
+      "id": "N4269"
+  },
+  {
+      "word": "しずむ",
+      "kanji": "沈む",
+      "translate": "沉沒",
+      "id": "N4270"
+  },
+  {
+      "word": "ちょうさ",
+      "kanji": "調査",
+      "translate": "調查",
+      "id": "N4271"
+  },
+  {
+      "word": "ミルク",
+      "kanji": "null",
+      "translate": "牛奶",
+      "id": "N4272"
+  },
+  {
+      "word": "のうか",
+      "kanji": "農家",
+      "translate": "農家",
+      "id": "N4273"
+  },
+  {
+      "word": "かわいらしい",
+      "kanji": "null",
+      "translate": "可愛的",
+      "id": "N4274"
+  },
+  {
+      "word": "ほど",
+      "kanji": "程",
+      "translate": "程度",
+      "id": "N4275"
+  },
+  {
+      "word": "たいしょく",
+      "kanji": "退職",
+      "translate": "退休",
+      "id": "N4276"
+  },
+  {
+      "word": "にゅうじょう",
+      "kanji": "入場",
+      "translate": "入場",
+      "id": "N4277"
+  },
+  {
+      "word": "くふう",
+      "kanji": "工夫",
+      "translate": "辦法、技巧",
+      "id": "N4278"
+  },
+  {
+      "word": "がか",
+      "kanji": "画家",
+      "translate": "畫家",
+      "id": "N4279"
+  },
+  {
+      "word": "きよう",
+      "kanji": "器用",
+      "translate": "手巧、靈巧",
+      "id": "N4280"
+  },
+  {
+      "word": "しんかんせん",
+      "kanji": "新幹線",
+      "translate": "新幹線",
+      "id": "N4281"
+  },
+  {
+      "word": "あんまり",
+      "kanji": "null",
+      "translate": "過於",
+      "id": "N4282"
+  },
+  {
+      "word": "ながめる",
+      "kanji": "眺める",
+      "translate": "遠眺",
+      "id": "N4283"
+  },
+  {
+      "word": "たて",
+      "kanji": "縦",
+      "translate": "縱、豎",
+      "id": "N4284"
+  },
+  {
+      "word": "てつ",
+      "kanji": "鉄",
+      "translate": "鐵",
+      "id": "N4285"
+  },
+  {
+      "word": "そこ",
+      "kanji": "底",
+      "translate": "底部",
+      "id": "N4286"
+  },
+  {
+      "word": "ぜんいん",
+      "kanji": "全員",
+      "translate": "全體",
+      "id": "N4287"
+  },
+  {
+      "word": "みらい",
+      "kanji": "未来",
+      "translate": "未來",
+      "id": "N4288"
+  },
+  {
+      "word": "アクセント",
+      "kanji": "null",
+      "translate": "口音",
+      "id": "N4289"
+  },
+  {
+      "word": "むだ",
+      "kanji": "無駄",
+      "translate": "徒勞",
+      "id": "N4290"
+  },
+  {
+      "word": "クラシック",
+      "kanji": "null",
+      "translate": "古典樂",
+      "id": "N4291"
+  },
+  {
+      "word": "ごうかく",
+      "kanji": "合格",
+      "translate": "合格",
+      "id": "N4292"
+  },
+  {
+      "word": "よめ",
+      "kanji": "嫁",
+      "translate": "媳婦",
+      "id": "N4293"
+  },
+  {
+      "word": "だけど",
+      "kanji": "null",
+      "translate": "然而",
+      "id": "N4294"
+  },
+  {
+      "word": "いきもの",
+      "kanji": "生き物",
+      "translate": "生物、活的東西",
+      "id": "N4295"
+  },
+  {
+      "word": "じょゆう",
+      "kanji": "女優",
+      "translate": "女演員",
+      "id": "N4296"
+  },
+  {
+      "word": "やめる",
+      "kanji": "辞める",
+      "translate": "辭職",
+      "id": "N4297"
+  },
+  {
+      "word": "チャレンジ",
+      "kanji": "null",
+      "translate": "挑戰",
+      "id": "N4298"
+  },
+  {
+      "word": "インク",
+      "kanji": "null",
+      "translate": "墨水",
+      "id": "N4299"
+  },
+  {
+      "word": "うし",
+      "kanji": "牛",
+      "translate": "牛",
+      "id": "N4300"
+  },
+  {
+      "word": "こうくう",
+      "kanji": "航空",
+      "translate": "航空",
+      "id": "N4301"
+  },
+  {
+      "word": "もちあげる",
+      "kanji": "持ち上げる",
+      "translate": "抬起",
+      "id": "N4302"
+  },
+  {
+      "word": "こや",
+      "kanji": "小屋",
+      "translate": "茅舍",
+      "id": "N4303"
+  },
+  {
+      "word": "じじょう",
+      "kanji": "事情",
+      "translate": "情況",
+      "id": "N4304"
+  },
+  {
+      "word": "だいぶぶん",
+      "kanji": "大部分",
+      "translate": "大部分",
+      "id": "N4305"
+  },
+  {
+      "word": "であう",
+      "kanji": "出会う",
+      "translate": "遇見、碰到",
+      "id": "N4306"
+  },
+  {
+      "word": "まる",
+      "kanji": "丸",
+      "translate": "圓圈",
+      "id": "N4307"
+  },
+  {
+      "word": "しよう",
+      "kanji": "使用",
+      "translate": "使用",
+      "id": "N4308"
+  },
+  {
+      "word": "けいけんしゃ",
+      "kanji": "経験者",
+      "translate": "有經驗的人",
+      "id": "N4309"
+  },
+  {
+      "word": "ざせき",
+      "kanji": "座席",
+      "translate": "座位",
+      "id": "N4310"
+  },
+  {
+      "word": "うしなう",
+      "kanji": "失う",
+      "translate": "丟失",
+      "id": "N4311"
+  },
+  {
+      "word": "ちゅうこ",
+      "kanji": "中古",
+      "translate": "中古、二手",
+      "id": "N4312"
+  },
+  {
+      "word": "やちん",
+      "kanji": "家賃",
+      "translate": "房租",
+      "id": "N4313"
+  },
+  {
+      "word": "たいど",
+      "kanji": "態度",
+      "translate": "態度",
+      "id": "N4314"
+  },
+  {
+      "word": "りゅうこう",
+      "kanji": "流行",
+      "translate": "時尚",
+      "id": "N4315"
+  },
+  {
+      "word": "しない",
+      "kanji": "市内",
+      "translate": "市內",
+      "id": "N4316"
+  },
+  {
+      "word": "しょるい",
+      "kanji": "書類",
+      "translate": "文件",
+      "id": "N4317"
+  },
+  {
+      "word": "あき",
+      "kanji": "空き",
+      "translate": "空隙、空閒",
+      "id": "N4318"
+  },
+  {
+      "word": "はくぶつかん",
+      "kanji": "博物館",
+      "translate": "博物館",
+      "id": "N4319"
+  },
+  {
+      "word": "ほしょう",
+      "kanji": "保障",
+      "translate": "保證",
+      "id": "N4320"
+  },
+  {
+      "word": "じつげん",
+      "kanji": "実現",
+      "translate": "實現",
+      "id": "N4321"
+  },
+  {
+      "word": "ぼう",
+      "kanji": "棒",
+      "translate": "棒子",
+      "id": "N4322"
+  },
+  {
+      "word": "こうりゅう",
+      "kanji": "交流",
+      "translate": "交流",
+      "id": "N4323"
+  },
+  {
+      "word": "ですから",
+      "kanji": "null",
+      "translate": "因此",
+      "id": "N4324"
+  },
+  {
+      "word": "もんく",
+      "kanji": "文句",
+      "translate": "抱怨",
+      "id": "N4325"
+  },
+  {
+      "word": "へいじつ",
+      "kanji": "平日",
+      "translate": "平日、平常",
+      "id": "N4326"
+  },
+  {
+      "word": "ひてい",
+      "kanji": "否定",
+      "translate": "否定",
+      "id": "N4327"
+  },
+  {
+      "word": "かいがい",
+      "kanji": "海外",
+      "translate": "國外",
+      "id": "N4328"
+  },
+  {
+      "word": "あいて",
+      "kanji": "相手",
+      "translate": "對手",
+      "id": "N4329"
+  },
+  {
+      "word": "おうふく",
+      "kanji": "往復",
+      "translate": "往返",
+      "id": "N4330"
+  },
+  {
+      "word": "しょうとつ",
+      "kanji": "衝突",
+      "translate": "衝突",
+      "id": "N4331"
+  },
+  {
+      "word": "ところが",
+      "kanji": "null",
+      "translate": "然而",
+      "id": "N4332"
+  },
+  {
+      "word": "たたく",
+      "kanji": "叩く",
+      "translate": "敲打",
+      "id": "N4333"
+  },
+  {
+      "word": "いまにも",
+      "kanji": "今にも",
+      "translate": "馬上",
+      "id": "N4334"
+  },
+  {
+      "word": "はた",
+      "kanji": "旗",
+      "translate": "旗幟",
+      "id": "N4335"
+  },
+  {
+      "word": "よほう",
+      "kanji": "予報",
+      "translate": "預報",
+      "id": "N4336"
+  },
+  {
+      "word": "もどす",
+      "kanji": "戻す",
+      "translate": "歸還",
+      "id": "N4337"
+  },
+  {
+      "word": "ぞう",
+      "kanji": "象",
+      "translate": "大象",
+      "id": "N4338"
+  },
+  {
+      "word": "えさ",
+      "kanji": "餌",
+      "translate": "誘餌",
+      "id": "N4339"
+  },
+  {
+      "word": "かがく",
+      "kanji": "化学",
+      "translate": "化學",
+      "id": "N4340"
+  },
+  {
+      "word": "かしこい",
+      "kanji": "賢い",
+      "translate": "聰明的",
+      "id": "N4341"
+  },
+  {
+      "word": "れいぎ",
+      "kanji": "礼儀",
+      "translate": "禮儀",
+      "id": "N4342"
+  },
+  {
+      "word": "おうぼ",
+      "kanji": "応募",
+      "translate": "招募、報名",
+      "id": "N4343"
+  },
+  {
+      "word": "はんい",
+      "kanji": "範囲",
+      "translate": "範圍",
+      "id": "N4344"
+  },
+  {
+      "word": "どくしょ",
+      "kanji": "読書",
+      "translate": "看書",
+      "id": "N4345"
+  },
+  {
+      "word": "いしき",
+      "kanji": "意識",
+      "translate": "意識",
+      "id": "N4346"
+  },
+  {
+      "word": "しょくひん",
+      "kanji": "食品",
+      "translate": "食品",
+      "id": "N4347"
+  },
+  {
+      "word": "したしい",
+      "kanji": "親しい",
+      "translate": "親近的",
+      "id": "N4348"
+  },
+  {
+      "word": "おろす",
+      "kanji": "下ろす",
+      "translate": "下降",
+      "id": "N4349"
+  },
+  {
+      "word": "ビデオ",
+      "kanji": "null",
+      "translate": "影片",
+      "id": "N4350"
+  },
+  {
+      "word": "しょり",
+      "kanji": "処理",
+      "translate": "處理",
+      "id": "N4351"
+  },
+  {
+      "word": "からから",
+      "kanji": "null",
+      "translate": "乾燥",
+      "id": "N4352"
+  },
+  {
+      "word": "ゆうしゅう",
+      "kanji": "優秀",
+      "translate": "優秀",
+      "id": "N4353"
+  },
+  {
+      "word": "まどぐち",
+      "kanji": "窓口",
+      "translate": "窗口",
+      "id": "N4354"
+  },
+  {
+      "word": "かぶき",
+      "kanji": "歌舞伎",
+      "translate": "歌舞伎",
+      "id": "N4355"
+  },
+  {
+      "word": "こんご",
+      "kanji": "今後",
+      "translate": "今後、後來",
+      "id": "N4356"
+  },
+  {
+      "word": "かのう",
+      "kanji": "可能",
+      "translate": "可能的",
+      "id": "N4357"
+  },
+  {
+      "word": "あまり",
+      "kanji": "余り",
+      "translate": "剩餘",
+      "id": "N4358"
+  },
+  {
+      "word": "てんねん",
+      "kanji": "天然",
+      "translate": "天然",
+      "id": "N4359"
+  },
+  {
+      "word": "しょう",
+      "kanji": "小",
+      "translate": "小",
+      "id": "N4360"
+  },
+  {
+      "word": "いっか",
+      "kanji": "一家",
+      "translate": "全家",
+      "id": "N4361"
+  },
+  {
+      "word": "きふ",
+      "kanji": "寄付",
+      "translate": "捐贈",
+      "id": "N4362"
+  },
+  {
+      "word": "がら",
+      "kanji": "柄",
+      "translate": "花樣",
+      "id": "N4363"
+  },
+  {
+      "word": "およぎ",
+      "kanji": "泳ぎ",
+      "translate": "游泳",
+      "id": "N4364"
+  },
+  {
+      "word": "ふあん",
+      "kanji": "不安",
+      "translate": "不安",
+      "id": "N4365"
+  },
+  {
+      "word": "あと",
+      "kanji": "跡",
+      "translate": "痕跡",
+      "id": "N4366"
+  },
+  {
+      "word": "チェックイン",
+      "kanji": "null",
+      "translate": "登記住宿",
+      "id": "N4367"
+  },
+  {
+      "word": "そだつ",
+      "kanji": "育つ",
+      "translate": "成長",
+      "id": "N4368"
+  },
+  {
+      "word": "なんでも",
+      "kanji": "何でも",
+      "translate": "什麼都~",
+      "id": "N4369"
+  },
+  {
+      "word": "やく",
+      "kanji": "約",
+      "translate": "大約",
+      "id": "N4370"
+  },
+  {
+      "word": "しゃべる",
+      "kanji": "喋る",
+      "translate": "喋喋不休",
+      "id": "N4371"
+  },
+  {
+      "word": "ぶぶん",
+      "kanji": "部分",
+      "translate": "部分",
+      "id": "N4372"
+  },
+  {
+      "word": "しあわせ",
+      "kanji": "幸せ",
+      "translate": "幸福",
+      "id": "N4373"
+  },
+  {
+      "word": "できれば",
+      "kanji": "null",
+      "translate": "可以的話",
+      "id": "N4374"
+  },
+  {
+      "word": "おく",
+      "kanji": "奥",
+      "translate": "裡面",
+      "id": "N4375"
+  },
+  {
+      "word": "しょうきょくてき",
+      "kanji": "消極的",
+      "translate": "消極的",
+      "id": "N4376"
+  },
+  {
+      "word": "いずれ",
+      "kanji": "null",
+      "translate": "哪個",
+      "id": "N4377"
+  },
+  {
+      "word": "しゅうりょう",
+      "kanji": "終了",
+      "translate": "完畢",
+      "id": "N4378"
+  },
+  {
+      "word": "わかれ",
+      "kanji": "別れ",
+      "translate": "告別",
+      "id": "N4379"
+  },
+  {
+      "word": "ぎゃくに",
+      "kanji": "逆に",
+      "translate": "相反",
+      "id": "N4380"
+  },
+  {
+      "word": "わかもの",
+      "kanji": "若者",
+      "translate": "年輕人",
+      "id": "N4381"
+  },
+  {
+      "word": "ついに",
+      "kanji": "遂に",
+      "translate": "終於",
+      "id": "N4382"
+  },
+  {
+      "word": "かける",
+      "kanji": "欠ける",
+      "translate": "欠缺",
+      "id": "N4383"
+  },
+  {
+      "word": "たから",
+      "kanji": "宝",
+      "translate": "財寶",
+      "id": "N4384"
+  },
+  {
+      "word": "かんどう",
+      "kanji": "感動",
+      "translate": "感動",
+      "id": "N4385"
+  },
+  {
+      "word": "けんさ",
+      "kanji": "検査",
+      "translate": "檢查",
+      "id": "N4386"
+  },
+  {
+      "word": "ころす",
+      "kanji": "殺す",
+      "translate": "殺死",
+      "id": "N4387"
+  },
+  {
+      "word": "ことわる",
+      "kanji": "断る",
+      "translate": "拒絕",
+      "id": "N4388"
+  },
+  {
+      "word": "こむぎこ",
+      "kanji": "小麦粉",
+      "translate": "小麥粉",
+      "id": "N4389"
+  },
+  {
+      "word": "かっこいい",
+      "kanji": "null",
+      "translate": "酷、帥",
+      "id": "N4390"
+  },
+  {
+      "word": "おやこ",
+      "kanji": "親子",
+      "translate": "親子",
+      "id": "N4391"
+  },
+  {
+      "word": "きじ",
+      "kanji": "記事",
+      "translate": "報導",
+      "id": "N4392"
+  },
+  {
+      "word": "ちじ",
+      "kanji": "知事",
+      "translate": "首長",
+      "id": "N4393"
+  },
+  {
+      "word": "ゆずる",
+      "kanji": "譲る",
+      "translate": "轉讓",
+      "id": "N4394"
+  },
+  {
+      "word": "かいけつ",
+      "kanji": "解決",
+      "translate": "解決",
+      "id": "N4395"
+  },
+  {
+      "word": "ほんもの",
+      "kanji": "本物",
+      "translate": "真貨",
+      "id": "N4396"
+  },
+  {
+      "word": "あくしゅ",
+      "kanji": "握手",
+      "translate": "握手",
+      "id": "N4397"
+  },
+  {
+      "word": "きらう",
+      "kanji": "嫌う",
+      "translate": "嫌棄、厭惡",
+      "id": "N4398"
+  },
+  {
+      "word": "はんだん",
+      "kanji": "判断",
+      "translate": "判斷",
+      "id": "N4399"
+  },
+  {
+      "word": "エネルギー",
+      "kanji": "null",
+      "translate": "能量、精力",
+      "id": "N4400"
+  },
+  {
+      "word": "トップ",
+      "kanji": "null",
+      "translate": "頂端",
+      "id": "N4401"
+  },
+  {
+      "word": "おえる",
+      "kanji": "終える",
+      "translate": "完成",
+      "id": "N4402"
+  },
+  {
+      "word": "すいみん",
+      "kanji": "睡眠",
+      "translate": "睡眠",
+      "id": "N4403"
+  },
+  {
+      "word": "こおり",
+      "kanji": "氷",
+      "translate": "冰",
+      "id": "N4404"
+  },
+  {
+      "word": "こんざつ",
+      "kanji": "混雑",
+      "translate": "混亂",
+      "id": "N4405"
+  },
+  {
+      "word": "せいさん",
+      "kanji": "生産",
+      "translate": "生產",
+      "id": "N4406"
+  },
+  {
+      "word": "じっさい",
+      "kanji": "実際",
+      "translate": "實際",
+      "id": "N4407"
+  },
+  {
+      "word": "ぎちょう",
+      "kanji": "議長",
+      "translate": "議長",
+      "id": "N4408"
+  },
+  {
+      "word": "タイヤ",
+      "kanji": "null",
+      "translate": "輪胎",
+      "id": "N4409"
+  },
+  {
+      "word": "ていあん",
+      "kanji": "提案",
+      "translate": "建議、提案",
+      "id": "N4410"
+  },
+  {
+      "word": "ちゅうしゃ",
+      "kanji": "駐車",
+      "translate": "停車",
+      "id": "N4411"
+  },
+  {
+      "word": "かん",
+      "kanji": "缶",
+      "translate": "罐、桶",
+      "id": "N4412"
+  },
+  {
+      "word": "ぎもん",
+      "kanji": "疑問",
+      "translate": "疑問",
+      "id": "N4413"
+  },
+  {
+      "word": "つかむ",
+      "kanji": "掴む",
+      "translate": "抓住",
+      "id": "N4414"
+  },
+  {
+      "word": "ふえ",
+      "kanji": "笛",
+      "translate": "笛子",
+      "id": "N4415"
+  },
+  {
+      "word": "ぞうか",
+      "kanji": "増加",
+      "translate": "增加",
+      "id": "N4416"
+  },
+  {
+      "word": "かんかく",
+      "kanji": "感覚",
+      "translate": "感覺",
+      "id": "N4417"
+  },
+  {
+      "word": "ふか",
+      "kanji": "不可",
+      "translate": "不可~",
+      "id": "N4418"
+  },
+  {
+      "word": "だんし",
+      "kanji": "男子",
+      "translate": "男子",
+      "id": "N4419"
+  },
+  {
+      "word": "しゅうちゅう",
+      "kanji": "集中",
+      "translate": "集中",
+      "id": "N4420"
+  },
+  {
+      "word": "くみ",
+      "kanji": "組",
+      "translate": "班級",
+      "id": "N4421"
+  },
+  {
+      "word": "きまり",
+      "kanji": "決まり",
+      "translate": "規定",
+      "id": "N4422"
+  },
+  {
+      "word": "かんせい",
+      "kanji": "完成",
+      "translate": "完成",
+      "id": "N4423"
+  },
+  {
+      "word": "すいせん",
+      "kanji": "推薦",
+      "translate": "推薦",
+      "id": "N4424"
+  },
+  {
+      "word": "つなぐ",
+      "kanji": "繋ぐ",
+      "translate": "繫起",
+      "id": "N4425"
+  },
+  {
+      "word": "たてる",
+      "kanji": "立てる",
+      "translate": "立起、創立",
+      "id": "N4426"
+  },
+  {
+      "word": "とんでもない",
+      "kanji": "null",
+      "translate": "出乎意料",
+      "id": "N4427"
+  },
+  {
+      "word": "いわい",
+      "kanji": "祝い",
+      "translate": "慶祝",
+      "id": "N4428"
+  },
+  {
+      "word": "わだい",
+      "kanji": "話題",
+      "translate": "話題",
+      "id": "N4429"
+  },
+  {
+      "word": "あずける",
+      "kanji": "預ける",
+      "translate": "寄放",
+      "id": "N4430"
+  },
+  {
+      "word": "きょうかしょ",
+      "kanji": "教科書",
+      "translate": "課本",
+      "id": "N4431"
+  },
+  {
+      "word": "こい",
+      "kanji": "濃い",
+      "translate": "濃的、深的",
+      "id": "N4432"
+  },
+  {
+      "word": "ふそく",
+      "kanji": "不足",
+      "translate": "不夠",
+      "id": "N4433"
+  },
+  {
+      "word": "わざと",
+      "kanji": "null",
+      "translate": "故意的、特意",
+      "id": "N4434"
+  },
+  {
+      "word": "だいきん",
+      "kanji": "代金",
+      "translate": "費用",
+      "id": "N4435"
+  },
+  {
+      "word": "けいこく",
+      "kanji": "警告",
+      "translate": "警告",
+      "id": "N4436"
+  },
+  {
+      "word": "かわ",
+      "kanji": "皮",
+      "translate": "外皮",
+      "id": "N4437"
+  },
+  {
+      "word": "たんに",
+      "kanji": "単に",
+      "translate": "單、只",
+      "id": "N4438"
+  },
+  {
+      "word": "こい",
+      "kanji": "恋",
+      "translate": "戀情",
+      "id": "N4439"
+  },
+  {
+      "word": "うりきれ",
+      "kanji": "売る切れ",
+      "translate": "全部售完",
+      "id": "N4440"
+  },
+  {
+      "word": "そこで",
+      "kanji": "null",
+      "translate": "因此",
+      "id": "N4441"
+  },
+  {
+      "word": "ひかく",
+      "kanji": "比較",
+      "translate": "比較",
+      "id": "N4442"
+  },
+  {
+      "word": "ビール",
+      "kanji": "null",
+      "translate": "啤酒",
+      "id": "N4443"
+  },
+  {
+      "word": "のぼる",
+      "kanji": "昇る",
+      "translate": "上升",
+      "id": "N4444"
+  },
+  {
+      "word": "のびる",
+      "kanji": "伸びる",
+      "translate": "變長",
+      "id": "N4445"
+  },
+  {
+      "word": "いたみ",
+      "kanji": "痛み",
+      "translate": "疼痛",
+      "id": "N4446"
+  },
+  {
+      "word": "いつでも",
+      "kanji": "null",
+      "translate": "無論何時",
+      "id": "N4447"
+  },
+  {
+      "word": "なんで",
+      "kanji": "何で",
+      "translate": "為什麼",
+      "id": "N4448"
+  },
+  {
+      "word": "こうりょ",
+      "kanji": "考慮",
+      "translate": "考慮",
+      "id": "N4449"
+  },
+  {
+      "word": "こっか",
+      "kanji": "国家",
+      "translate": "國家",
+      "id": "N4450"
+  },
+  {
+      "word": "けいじ",
+      "kanji": "刑事",
+      "translate": "刑警",
+      "id": "N4451"
+  },
+  {
+      "word": "ゆうべ",
+      "kanji": "夕べ",
+      "translate": "傍晚",
+      "id": "N4452"
+  },
+  {
+      "word": "きゅうじょ",
+      "kanji": "救助",
+      "translate": "救助",
+      "id": "N4453"
+  },
+  {
+      "word": "あいじょう",
+      "kanji": "愛情",
+      "translate": "愛情",
+      "id": "N4454"
+  },
+  {
+      "word": "きぼう",
+      "kanji": "希望",
+      "translate": "希望",
+      "id": "N4455"
+  },
+  {
+      "word": "がっき",
+      "kanji": "学期",
+      "translate": "學期",
+      "id": "N4456"
+  },
+  {
+      "word": "けつろん",
+      "kanji": "結論",
+      "translate": "結論",
+      "id": "N4457"
+  },
+  {
+      "word": "ひざ",
+      "kanji": "膝",
+      "translate": "膝蓋",
+      "id": "N4458"
+  },
+  {
+      "word": "げんば",
+      "kanji": "現場",
+      "translate": "現場、工地",
+      "id": "N4459"
+  },
+  {
+      "word": "きょうつう",
+      "kanji": "共通",
+      "translate": "共通",
+      "id": "N4460"
+  },
+  {
+      "word": "のぞむ",
+      "kanji": "望む",
+      "translate": "期望",
+      "id": "N4461"
+  },
+  {
+      "word": "こうげき",
+      "kanji": "攻撃",
+      "translate": "攻擊",
+      "id": "N4462"
+  },
+  {
+      "word": "かこむ",
+      "kanji": "囲む",
+      "translate": "包圍",
+      "id": "N4463"
+  },
+  {
+      "word": "のぞみ",
+      "kanji": "望み",
+      "translate": "希望",
+      "id": "N4464"
+  },
+  {
+      "word": "かたみち",
+      "kanji": "片道",
+      "translate": "單程",
+      "id": "N4465"
+  },
+  {
+      "word": "インターネット",
+      "kanji": "null",
+      "translate": "網際網路",
+      "id": "N4466"
+  },
+  {
+      "word": "どうじ",
+      "kanji": "同時",
+      "translate": "同時",
+      "id": "N4467"
+  },
+  {
+      "word": "おもわず",
+      "kanji": "思わず",
+      "translate": "忍不住",
+      "id": "N4468"
+  },
+  {
+      "word": "みおくり",
+      "kanji": "見送り",
+      "translate": "送別",
+      "id": "N4469"
+  },
+  {
+      "word": "ひとこと",
+      "kanji": "一言",
+      "translate": "一句話",
+      "id": "N4470"
+  },
+  {
+      "word": "たんとう",
+      "kanji": "担当",
+      "translate": "負責",
+      "id": "N4471"
+  },
+  {
+      "word": "ぐっすり",
+      "kanji": "null",
+      "translate": "熟睡的",
+      "id": "N4472"
+  },
+  {
+      "word": "ものがたり",
+      "kanji": "物語",
+      "translate": "故事",
+      "id": "N4473"
+  },
+  {
+      "word": "じみ",
+      "kanji": "地味",
+      "translate": "樸素",
+      "id": "N4474"
+  },
+  {
+      "word": "しりあう",
+      "kanji": "知り合う",
+      "translate": "相識",
+      "id": "N4475"
+  },
+  {
+      "word": "はげしい",
+      "kanji": "激しい",
+      "translate": "激烈的",
+      "id": "N4476"
+  },
+  {
+      "word": "あたる",
+      "kanji": "当たる",
+      "translate": "曬、照",
+      "id": "N4477"
+  },
+  {
+      "word": "まもる",
+      "kanji": "守る",
+      "translate": "守護",
+      "id": "N4478"
+  },
+  {
+      "word": "なし",
+      "kanji": "無し",
+      "translate": "沒有",
+      "id": "N4479"
+  },
+  {
+      "word": "あらゆる",
+      "kanji": "null",
+      "translate": "所有",
+      "id": "N4480"
+  },
+  {
+      "word": "だんたい",
+      "kanji": "団体",
+      "translate": "團體",
+      "id": "N4481"
+  },
+  {
+      "word": "てきせつ",
+      "kanji": "適切",
+      "translate": "妥當",
+      "id": "N4482"
+  },
+  {
+      "word": "くみあい",
+      "kanji": "組合",
+      "translate": "組合、公會",
+      "id": "N4483"
+  },
+  {
+      "word": "こんなに",
+      "kanji": "null",
+      "translate": "如此、這樣",
+      "id": "N4484"
+  },
+  {
+      "word": "そろえる",
+      "kanji": "揃える",
+      "translate": "整齊",
+      "id": "N4485"
+  },
+  {
+      "word": "わるくち",
+      "kanji": "悪口",
+      "translate": "壞話",
+      "id": "N4486"
+  },
+  {
+      "word": "きょうりょく",
+      "kanji": "協力",
+      "translate": "共同努力",
+      "id": "N4487"
+  },
+  {
+      "word": "すすめる",
+      "kanji": "勧める",
+      "translate": "推薦、勸誘",
+      "id": "N4488"
+  },
+  {
+      "word": "のんびり",
+      "kanji": "null",
+      "translate": "自由自在",
+      "id": "N4489"
+  },
+  {
+      "word": "ぐたいてき",
+      "kanji": "具体的",
+      "translate": "具體的",
+      "id": "N4490"
+  },
+  {
+      "word": "えんぎ",
+      "kanji": "演技",
+      "translate": "演技",
+      "id": "N4491"
+  },
+  {
+      "word": "ひじょう",
+      "kanji": "非常",
+      "translate": "非常",
+      "id": "N4492"
+  },
+  {
+      "word": "なんとか",
+      "kanji": "何とか",
+      "translate": "想辦法",
+      "id": "N4493"
+  },
+  {
+      "word": "けってん",
+      "kanji": "欠点",
+      "translate": "毛病、問題",
+      "id": "N4494"
+  },
+  {
+      "word": "さける",
+      "kanji": "避ける",
+      "translate": "躲避",
+      "id": "N4495"
+  },
+  {
+      "word": "しゅだん",
+      "kanji": "手段",
+      "translate": "手段",
+      "id": "N4496"
+  },
+  {
+      "word": "こくもつ",
+      "kanji": "穀物",
+      "translate": "五榖",
+      "id": "N4497"
+  },
+  {
+      "word": "いっぽう",
+      "kanji": "一方",
+      "translate": "持續",
+      "id": "N4498"
+  },
+  {
+      "word": "にんげん",
+      "kanji": "人間",
+      "translate": "人類",
+      "id": "N4499"
+  },
+  {
+      "word": "おわび",
+      "kanji": "お詫び",
+      "translate": "道歉",
+      "id": "N4500"
+  },
+  {
+      "word": "ころぶ",
+      "kanji": "転ぶ",
+      "translate": "滾轉",
+      "id": "N4501"
+  },
+  {
+      "word": "どうとく",
+      "kanji": "道徳",
+      "translate": "道德",
+      "id": "N4502"
+  },
+  {
+      "word": "りつ",
+      "kanji": "率",
+      "translate": "比例",
+      "id": "N4503"
+  },
+  {
+      "word": "すると",
+      "kanji": "null",
+      "translate": "於是",
+      "id": "N4504"
+  },
+  {
+      "word": "なっとく",
+      "kanji": "納得",
+      "translate": "瞭解、同意",
+      "id": "N4505"
+  },
+  {
+      "word": "かかえる",
+      "kanji": "抱える",
+      "translate": "擁有",
+      "id": "N4506"
+  },
+  {
+      "word": "であい",
+      "kanji": "出会い",
+      "translate": "會面、碰面",
+      "id": "N4507"
+  },
+  {
+      "word": "せいしき",
+      "kanji": "正式",
+      "translate": "正式",
+      "id": "N4508"
+  },
+  {
+      "word": "じどう",
+      "kanji": "自動",
+      "translate": "自動",
+      "id": "N4509"
+  },
+  {
+      "word": "かなり",
+      "kanji": "null",
+      "translate": "相當",
+      "id": "N4510"
+  },
+  {
+      "word": "くべつ",
+      "kanji": "区別",
+      "translate": "區別",
+      "id": "N4511"
+  },
+  {
+      "word": "つらい",
+      "kanji": "辛い",
+      "translate": "辛苦的",
+      "id": "N4512"
+  },
+  {
+      "word": "しじん",
+      "kanji": "詩人",
+      "translate": "詩人",
+      "id": "N4513"
+  },
+  {
+      "word": "かんがえ",
+      "kanji": "考え",
+      "translate": "可慮",
+      "id": "N4514"
+  },
+  {
+      "word": "てきど",
+      "kanji": "適度",
+      "translate": "適當",
+      "id": "N4515"
+  },
+  {
+      "word": "しはらう",
+      "kanji": "支払う",
+      "translate": "付錢",
+      "id": "N4516"
+  },
+  {
+      "word": "かんりょう",
+      "kanji": "完了",
+      "translate": "完畢",
+      "id": "N4517"
+  },
+  {
+      "word": "ぜったい",
+      "kanji": "絶対",
+      "translate": "絕對",
+      "id": "N4518"
+  },
+  {
+      "word": "へる",
+      "kanji": "減る",
+      "translate": "減少",
+      "id": "N4519"
+  },
+  {
+      "word": "げきじょう",
+      "kanji": "劇場",
+      "translate": "劇場、電影院",
+      "id": "N4520"
+  },
+  {
+      "word": "リスト",
+      "kanji": "null",
+      "translate": "名單",
+      "id": "N4521"
+  },
+  {
+      "word": "けいこう",
+      "kanji": "傾向",
+      "translate": "趨勢",
+      "id": "N4522"
+  },
+  {
+      "word": "いらい",
+      "kanji": "以来",
+      "translate": "以後",
+      "id": "N4523"
+  },
+  {
+      "word": "きんだい",
+      "kanji": "近代",
+      "translate": "近代",
+      "id": "N4524"
+  },
+  {
+      "word": "はっぴょう",
+      "kanji": "発表",
+      "translate": "發表",
+      "id": "N4525"
+  },
+  {
+      "word": "きょうし",
+      "kanji": "教師",
+      "translate": "老師",
+      "id": "N4526"
+  },
+  {
+      "word": "きく",
+      "kanji": "効く",
+      "translate": "見效",
+      "id": "N4527"
+  },
+  {
+      "word": "さばく",
+      "kanji": "砂漠",
+      "translate": "沙漠",
+      "id": "N4528"
+  },
+  {
+      "word": "れい",
+      "kanji": "礼",
+      "translate": "敬禮",
+      "id": "N4529"
+  },
+  {
+      "word": "うごかす",
+      "kanji": "動かす",
+      "translate": "搖動",
+      "id": "N4530"
+  },
+  {
+      "word": "アイスクリーム",
+      "kanji": "null",
+      "translate": "冰淇淋",
+      "id": "N4531"
+  },
+  {
+      "word": "りこん",
+      "kanji": "離婚",
+      "translate": "離婚",
+      "id": "N4532"
+  },
+  {
+      "word": "にちじ",
+      "kanji": "日時",
+      "translate": "時期和時間",
+      "id": "N4533"
+  },
+  {
+      "word": "けっか",
+      "kanji": "結果",
+      "translate": "結果",
+      "id": "N4534"
+  },
+  {
+      "word": "しめきり",
+      "kanji": "締め切り",
+      "translate": "截止",
+      "id": "N4535"
+  },
+  {
+      "word": "みりょく",
+      "kanji": "魅力",
+      "translate": "魅力",
+      "id": "N4536"
+  },
+  {
+      "word": "おに",
+      "kanji": "鬼",
+      "translate": "鬼怪",
+      "id": "N4537"
+  },
+  {
+      "word": "もと",
+      "kanji": "元",
+      "translate": "原來",
+      "id": "N4538"
+  },
+  {
+      "word": "し",
+      "kanji": "詩",
+      "translate": "詩",
+      "id": "N4539"
+  },
+  {
+      "word": "ふきゅう",
+      "kanji": "普及",
+      "translate": "普及",
+      "id": "N4540"
+  },
+  {
+      "word": "ゆうじょう",
+      "kanji": "友情",
+      "translate": "友情",
+      "id": "N4541"
+  },
+  {
+      "word": "とら",
+      "kanji": "虎",
+      "translate": "老虎",
+      "id": "N4542"
+  },
+  {
+      "word": "キャンセル",
+      "kanji": "null",
+      "translate": "取消",
+      "id": "N4543"
+  },
+  {
+      "word": "きおん",
+      "kanji": "気温",
+      "translate": "氣溫",
+      "id": "N4544"
+  },
+  {
+      "word": "じゅんばん",
+      "kanji": "順番",
+      "translate": "輪流",
+      "id": "N4545"
+  },
+  {
+      "word": "あらわす",
+      "kanji": "表す",
+      "translate": "表示",
+      "id": "N4546"
+  },
+  {
+      "word": "かんしん",
+      "kanji": "関心",
+      "translate": "關心",
+      "id": "N4547"
+  },
+  {
+      "word": "しみ",
+      "kanji": "null",
+      "translate": "汙垢",
+      "id": "N4548"
+  },
+  {
+      "word": "ひこう",
+      "kanji": "飛行",
+      "translate": "飛行",
+      "id": "N4549"
+  },
+  {
+      "word": "てき",
+      "kanji": "敵",
+      "translate": "敵人、對手",
+      "id": "N4550"
+  },
+  {
+      "word": "ねんがじょう",
+      "kanji": "年賀状",
+      "translate": "賀年卡",
+      "id": "N4551"
+  },
+  {
+      "word": "にえる",
+      "kanji": "煮える",
+      "translate": "煮熟",
+      "id": "N4552"
+  },
+  {
+      "word": "しつぼう",
+      "kanji": "失望",
+      "translate": "失望",
+      "id": "N4553"
+  },
+  {
+      "word": "あずかる",
+      "kanji": "預かる",
+      "translate": "收存、保養",
+      "id": "N4554"
+  },
+  {
+      "word": "あらわす",
+      "kanji": "現す",
+      "translate": "出現",
+      "id": "N4555"
+  },
+  {
+      "word": "そん",
+      "kanji": "損",
+      "translate": "虧損",
+      "id": "N4556"
+  },
+  {
+      "word": "おとなしい",
+      "kanji": "大人しい",
+      "translate": "溫順的",
+      "id": "N4557"
+  },
+  {
+      "word": "たい",
+      "kanji": "対",
+      "translate": "相對",
+      "id": "N4558"
+  },
+  {
+      "word": "あたりまえ",
+      "kanji": "当たり前",
+      "translate": "當然",
+      "id": "N4559"
+  },
+  {
+      "word": "じまん",
+      "kanji": "自慢",
+      "translate": "自負",
+      "id": "N4560"
+  },
+  {
+      "word": "かみ",
+      "kanji": "神",
+      "translate": "神明",
+      "id": "N4561"
+  },
+  {
+      "word": "いどう",
+      "kanji": "移動",
+      "translate": "移動",
+      "id": "N4562"
+  },
+  {
+      "word": "きり",
+      "kanji": "霧",
+      "translate": "噴霧、霧",
+      "id": "N4563"
+  },
+  {
+      "word": "しじ",
+      "kanji": "指示",
+      "translate": "命令",
+      "id": "N4564"
+  },
+  {
+      "word": "それと",
+      "kanji": "null",
+      "translate": "還有",
+      "id": "N4565"
+  },
+  {
+      "word": "こうか",
+      "kanji": "硬貨",
+      "translate": "硬幣",
+      "id": "N4566"
+  },
+  {
+      "word": "がくもん",
+      "kanji": "学問",
+      "translate": "學問",
+      "id": "N4567"
+  },
+  {
+      "word": "やぶる",
+      "kanji": "破る",
+      "translate": "打破",
+      "id": "N4568"
+  },
+  {
+      "word": "ちゃんと",
+      "kanji": "null",
+      "translate": "好好地",
+      "id": "N4569"
+  },
+  {
+      "word": "アルバム",
+      "kanji": "null",
+      "translate": "相簿",
+      "id": "N4570"
+  },
+  {
+      "word": "きょか",
+      "kanji": "許可",
+      "translate": "許可",
+      "id": "N4571"
+  },
+  {
+      "word": "くんれん",
+      "kanji": "訓練",
+      "translate": "訓練",
+      "id": "N4572"
+  },
+  {
+      "word": "かさい",
+      "kanji": "火災",
+      "translate": "火災",
+      "id": "N4573"
+  },
+  {
+      "word": "きょり",
+      "kanji": "距離",
+      "translate": "距離",
+      "id": "N4574"
+  },
+  {
+      "word": "きがつく",
+      "kanji": "気が付く",
+      "translate": "注意到",
+      "id": "N4575"
+  },
+  {
+      "word": "まるい",
+      "kanji": "丸い",
+      "translate": "圓形的",
+      "id": "N4576"
+  },
+  {
+      "word": "しょうめい",
+      "kanji": "証明",
+      "translate": "證明",
+      "id": "N4577"
+  },
+  {
+      "word": "ピン",
+      "kanji": "null",
+      "translate": "別針、髮夾",
+      "id": "N4578"
+  },
+  {
+      "word": "した",
+      "kanji": "舌",
+      "translate": "舌頭",
+      "id": "N4579"
+  },
+  {
+      "word": "すてき",
+      "kanji": "素敵",
+      "translate": "絕佳",
+      "id": "N4580"
+  },
+  {
+      "word": "おんせんりょかん",
+      "kanji": "温泉旅館",
+      "translate": "溫泉旅館",
+      "id": "N4581"
+  },
+  {
+      "word": "かんぜん",
+      "kanji": "完全",
+      "translate": "完全",
+      "id": "N4582"
+  },
+  {
+      "word": "りょうきん",
+      "kanji": "料金",
+      "translate": "費用",
+      "id": "N4583"
+  },
+  {
+      "word": "かんそう",
+      "kanji": "感想",
+      "translate": "感想",
+      "id": "N4584"
+  },
+  {
+      "word": "マイク",
+      "kanji": "null",
+      "translate": "麥克風",
+      "id": "N4585"
+  },
+  {
+      "word": "ようきゅう",
+      "kanji": "要求",
+      "translate": "要求",
+      "id": "N4586"
+  },
+  {
+      "word": "よごれ",
+      "kanji": "汚れ",
+      "translate": "汙垢",
+      "id": "N4587"
+  },
+  {
+      "word": "ノック",
+      "kanji": "null",
+      "translate": "敲門",
+      "id": "N4588"
+  },
+  {
+      "word": "ないよう",
+      "kanji": "内容",
+      "translate": "內容",
+      "id": "N4589"
+  },
+  {
+      "word": "おいつく",
+      "kanji": "追い付く",
+      "translate": "追上",
+      "id": "N4590"
+  },
+  {
+      "word": "りえき",
+      "kanji": "利益",
+      "translate": "利益",
+      "id": "N4591"
+  },
+  {
+      "word": "きたい",
+      "kanji": "期待",
+      "translate": "期待",
+      "id": "N4592"
+  },
+  {
+      "word": "える",
+      "kanji": "得る",
+      "translate": "得到",
+      "id": "N4593"
+  },
+  {
+      "word": "げき",
+      "kanji": "劇",
+      "translate": "戲、劇",
+      "id": "N4594"
+  },
+  {
+      "word": "こくふく",
+      "kanji": "克服",
+      "translate": "克服",
+      "id": "N4595"
+  },
+  {
+      "word": "さんこう",
+      "kanji": "参考",
+      "translate": "參考",
+      "id": "N4596"
+  },
+  {
+      "word": "かくれる",
+      "kanji": "隠れる",
+      "translate": "隱藏、朵",
+      "id": "N4597"
+  },
+  {
+      "word": "あいする",
+      "kanji": "愛する",
+      "translate": "喜愛",
+      "id": "N4598"
+  },
+  {
+      "word": "おきなわ",
+      "kanji": "沖縄",
+      "translate": "沖繩",
+      "id": "N4599"
+  },
+  {
+      "word": "チャンス",
+      "kanji": "null",
+      "translate": "機會",
+      "id": "N4600"
+  },
+  {
+      "word": "いっぱん",
+      "kanji": "一般",
+      "translate": "普通",
+      "id": "N4601"
+  },
+  {
+      "word": "いりょう",
+      "kanji": "医療",
+      "translate": "醫療",
+      "id": "N4602"
+  },
+  {
+      "word": "きんがく",
+      "kanji": "金額",
+      "translate": "金額",
+      "id": "N4603"
+  },
+  {
+      "word": "さくひん",
+      "kanji": "作品",
+      "translate": "作品",
+      "id": "N4604"
+  },
+  {
+      "word": "ベンチ",
+      "kanji": "null",
+      "translate": "長椅",
+      "id": "N4605"
+  },
+  {
+      "word": "いじょう",
+      "kanji": "異常",
+      "translate": "異常",
+      "id": "N4606"
+  },
+  {
+      "word": "ゆうり",
+      "kanji": "有利",
+      "translate": "有利",
+      "id": "N4607"
+  },
+  {
+      "word": "げんだい",
+      "kanji": "現代",
+      "translate": "現代",
+      "id": "N4608"
+  },
+  {
+      "word": "メンバー",
+      "kanji": "null",
+      "translate": "會員",
+      "id": "N4609"
+  },
+  {
+      "word": "おすまい",
+      "kanji": "お住まい",
+      "translate": "住的地方",
+      "id": "N4610"
+  },
+  {
+      "word": "かぞえる",
+      "kanji": "数える",
+      "translate": "算、數",
+      "id": "N4611"
+  },
+  {
+      "word": "ちょしゃ",
+      "kanji": "著者",
+      "translate": "作者",
+      "id": "N4612"
+  },
+  {
+      "word": "きちょう",
+      "kanji": "貴重",
+      "translate": "珍貴",
+      "id": "N4613"
+  },
+  {
+      "word": "うけとる",
+      "kanji": "受け取る",
+      "translate": "接收",
+      "id": "N4614"
+  },
+  {
+      "word": "いち",
+      "kanji": "位置",
+      "translate": "位置、地點",
+      "id": "N4615"
+  },
+  {
+      "word": "ひとしい",
+      "kanji": "等しい",
+      "translate": "相等的",
+      "id": "N4616"
+  },
+  {
+      "word": "きぼうび",
+      "kanji": "希望日",
+      "translate": "希望的日子",
+      "id": "N4617"
+  },
+  {
+      "word": "おくる",
+      "kanji": "贈る",
+      "translate": "贈送",
+      "id": "N4618"
+  },
+  {
+      "word": "ハンサム",
+      "kanji": "null",
+      "translate": "英俊的",
+      "id": "N4619"
+  },
+  {
+      "word": "しょうぼうしょ",
+      "kanji": "消防署",
+      "translate": "消防隊",
+      "id": "N4620"
+  },
+  {
+      "word": "あな",
+      "kanji": "穴",
+      "translate": "洞穴",
+      "id": "N4621"
+  },
+  {
+      "word": "しんよう",
+      "kanji": "信用",
+      "translate": "信用",
+      "id": "N4622"
+  },
+  {
+      "word": "たいおん",
+      "kanji": "体温",
+      "translate": "體溫",
+      "id": "N4623"
+  },
+  {
+      "word": "ミス",
+      "kanji": "null",
+      "translate": "錯誤",
+      "id": "N4624"
+  },
+  {
+      "word": "うめ",
+      "kanji": "梅",
+      "translate": "梅花",
+      "id": "N4625"
+  },
+  {
+      "word": "さつえい",
+      "kanji": "撮影",
+      "translate": "攝影、拍照",
+      "id": "N4626"
+  },
+  {
+      "word": "えいよう",
+      "kanji": "栄養",
+      "translate": "營養",
+      "id": "N4627"
+  },
+  {
+      "word": "ちょうき",
+      "kanji": "長期",
+      "translate": "長期",
+      "id": "N4628"
+  },
+  {
+      "word": "バーセント",
+      "kanji": "null",
+      "translate": "百分比",
+      "id": "N4629"
+  },
+  {
+      "word": "せいせき",
+      "kanji": "成績",
+      "translate": "成績",
+      "id": "N4630"
+  },
+  {
+      "word": "ぼうけん",
+      "kanji": "冒険",
+      "translate": "冒險",
+      "id": "N4631"
+  },
+  {
+      "word": "あかり",
+      "kanji": "明かり",
+      "translate": "亮光",
+      "id": "N4632"
+  },
+  {
+      "word": "きしゃ",
+      "kanji": "記者",
+      "translate": "記者",
+      "id": "N4633"
+  },
+  {
+      "word": "かた",
+      "kanji": "肩",
+      "translate": "肩膀",
+      "id": "N4634"
+  },
+  {
+      "word": "さわやか",
+      "kanji": "爽やか",
+      "translate": "舒爽",
+      "id": "N4635"
+  },
+  {
+      "word": "はなす",
+      "kanji": "離す",
+      "translate": "使離開",
+      "id": "N4636"
+  },
+  {
+      "word": "ペンキ",
+      "kanji": "null",
+      "translate": "油漆",
+      "id": "N4637"
+  },
+  {
+      "word": "へい",
+      "kanji": "塀",
+      "translate": "牆壁、柵欄",
+      "id": "N4638"
+  },
+  {
+      "word": "ねっちゅう",
+      "kanji": "熱中",
+      "translate": "熱中",
+      "id": "N4639"
+  },
+  {
+      "word": "しも",
+      "kanji": "霜",
+      "translate": "霜",
+      "id": "N4640"
+  },
+  {
+      "word": "レンタカー",
+      "kanji": "null",
+      "translate": "出租車",
+      "id": "N4641"
+  },
+  {
+      "word": "せいじん",
+      "kanji": "成人",
+      "translate": "成年人",
+      "id": "N4642"
+  },
+  {
+      "word": "くらす",
+      "kanji": "暮らす",
+      "translate": "生活",
+      "id": "N4643"
+  },
+  {
+      "word": "まね",
+      "kanji": "真似",
+      "translate": "模仿",
+      "id": "N4644"
+  },
+  {
+      "word": "とおりすぎる",
+      "kanji": "通り過ぎる",
+      "translate": "走過、越過",
+      "id": "N4645"
+  },
+  {
+      "word": "なにも",
+      "kanji": "何も",
+      "translate": "什麼也~",
+      "id": "N4646"
+  },
+  {
+      "word": "かんきゃく",
+      "kanji": "観客",
+      "translate": "觀眾",
+      "id": "N4647"
+  },
+  {
+      "word": "こうえん",
+      "kanji": "講演",
+      "translate": "演說",
+      "id": "N4648"
+  },
+  {
+      "word": "きほん",
+      "kanji": "基本",
+      "translate": "基本",
+      "id": "N4649"
+  },
+  {
+      "word": "コーチ",
+      "kanji": "null",
+      "translate": "教練",
+      "id": "N4650"
+  },
+  {
+      "word": "ゆか",
+      "kanji": "床",
+      "translate": "地板",
+      "id": "N4651"
+  },
+  {
+      "word": "ごうけい",
+      "kanji": "合計",
+      "translate": "總共",
+      "id": "N4652"
+  },
+  {
+      "word": "いったい",
+      "kanji": "一体",
+      "translate": "到底",
+      "id": "N4653"
+  },
+  {
+      "word": "ぶじ",
+      "kanji": "無事",
+      "translate": "平安",
+      "id": "N4654"
+  },
+  {
+      "word": "りようしゃ",
+      "kanji": "利用者",
+      "translate": "使用者",
+      "id": "N4655"
+  },
+  {
+      "word": "さっか",
+      "kanji": "作家",
+      "translate": "作家",
+      "id": "N4656"
+  },
+  {
+      "word": "きん",
+      "kanji": "金",
+      "translate": "金",
+      "id": "N4657"
+  },
+  {
+      "word": "せきゆ",
+      "kanji": "石油",
+      "translate": "石油",
+      "id": "N4658"
+  },
+  {
+      "word": "そくど",
+      "kanji": "速度",
+      "translate": "速度",
+      "id": "N4659"
+  },
+  {
+      "word": "びみょう",
+      "kanji": "微妙",
+      "translate": "微妙的",
+      "id": "N4660"
+  },
+  {
+      "word": "はいたつ",
+      "kanji": "配達",
+      "translate": "配送",
+      "id": "N4661"
+  },
+  {
+      "word": "ぬける",
+      "kanji": "抜ける",
+      "translate": "脫落",
+      "id": "N4662"
+  },
+  {
+      "word": "あんなに",
+      "kanji": "null",
+      "translate": "那麼、那樣",
+      "id": "N4663"
+  },
+  {
+      "word": "さんこうしょ",
+      "kanji": "参考書",
+      "translate": "參考書",
+      "id": "N4664"
+  },
+  {
+      "word": "くるしい",
+      "kanji": "苦しい",
+      "translate": "難受的",
+      "id": "N4665"
+  },
+  {
+      "word": "せんこう",
+      "kanji": "専攻",
+      "translate": "專業",
+      "id": "N4666"
+  },
+  {
+      "word": "もうしこみしょ",
+      "kanji": "申し込み書",
+      "translate": "申請書",
+      "id": "N4667"
+  },
+  {
+      "word": "ふうふ",
+      "kanji": "夫婦",
+      "translate": "夫婦",
+      "id": "N4668"
+  },
+  {
+      "word": "りょう",
+      "kanji": "量",
+      "translate": "數量",
+      "id": "N4669"
+  },
+  {
+      "word": "しゅと",
+      "kanji": "首都",
+      "translate": "首都",
+      "id": "N4670"
+  },
+  {
+      "word": "とばす",
+      "kanji": "飛ばす",
+      "translate": "吹起",
+      "id": "N4671"
+  },
+  {
+      "word": "なみ",
+      "kanji": "波",
+      "translate": "波浪",
+      "id": "N4672"
+  },
+  {
+      "word": "せっけい",
+      "kanji": "設計",
+      "translate": "設計",
+      "id": "N4673"
+  },
+  {
+      "word": "よ",
+      "kanji": "夜",
+      "translate": "晚上",
+      "id": "N4674"
+  },
+  {
+      "word": "しゅうしょく",
+      "kanji": "就職",
+      "translate": "就業",
+      "id": "N4675"
+  },
+  {
+      "word": "ふしぎ",
+      "kanji": "不思議",
+      "translate": "不可思議、奇怪",
+      "id": "N4676"
+  },
+  {
+      "word": "かんじょう",
+      "kanji": "勘定",
+      "translate": "結帳",
+      "id": "N4677"
+  },
+  {
+      "word": "おめにかかる",
+      "kanji": "お目に掛かる",
+      "translate": "拜會",
+      "id": "N4678"
+  },
+  {
+      "word": "なきごえ",
+      "kanji": "鳴き声",
+      "translate": "叫聲",
+      "id": "N4679"
+  },
+  {
+      "word": "さいのう",
+      "kanji": "才能",
+      "translate": "才能",
+      "id": "N4680"
+  },
+  {
+      "word": "じょうしき",
+      "kanji": "常識",
+      "translate": "嘗試",
+      "id": "N4681"
+  },
+  {
+      "word": "ねんだい",
+      "kanji": "年代",
+      "translate": "年代",
+      "id": "N4682"
+  },
+  {
+      "word": "なかなおり",
+      "kanji": "仲直り",
+      "translate": "和好",
+      "id": "N4683"
+  },
+  {
+      "word": "すませる",
+      "kanji": "済ませる",
+      "translate": "完成",
+      "id": "N4684"
+  },
+  {
+      "word": "ろんぶん",
+      "kanji": "論文",
+      "translate": "論文",
+      "id": "N4685"
+  },
+  {
+      "word": "やぶれる",
+      "kanji": "敗れる",
+      "translate": "破損",
+      "id": "N4686"
+  },
+  {
+      "word": "ひっぱる",
+      "kanji": "引っ張る",
+      "translate": "拉緊",
+      "id": "N4687"
+  },
+  {
+      "word": "かいひ",
+      "kanji": "会費",
+      "translate": "會費",
+      "id": "N4688"
+  },
+  {
+      "word": "びょう",
+      "kanji": "秒",
+      "translate": "秒",
+      "id": "N4689"
+  },
+  {
+      "word": "いっしゅん",
+      "kanji": "一瞬",
+      "translate": "瞬間",
+      "id": "N4690"
+  },
+  {
+      "word": "かんじょう",
+      "kanji": "感情",
+      "translate": "感情",
+      "id": "N4691"
+  },
+  {
+      "word": "ひみつ",
+      "kanji": "秘密",
+      "translate": "秘密",
+      "id": "N4692"
+  },
+  {
+      "word": "えんぜつ",
+      "kanji": "演説",
+      "translate": "演說",
+      "id": "N4693"
+  },
+  {
+      "word": "はなれる",
+      "kanji": "離れる",
+      "translate": "分離",
+      "id": "N4694"
+  },
+  {
+      "word": "さいてい",
+      "kanji": "最低",
+      "translate": "最糟、最差",
+      "id": "N4695"
+  },
+  {
+      "word": "むすぶ",
+      "kanji": "結ぶ",
+      "translate": "連結",
+      "id": "N4696"
+  },
+  {
+      "word": "ぐうぜん",
+      "kanji": "偶然",
+      "translate": "偶然",
+      "id": "N4697"
+  },
+  {
+      "word": "のうみん",
+      "kanji": "農民",
+      "translate": "農民",
+      "id": "N4698"
+  },
+  {
+      "word": "おい",
+      "kanji": "甥",
+      "translate": "外甥",
+      "id": "N4699"
+  },
+  {
+      "word": "とかい",
+      "kanji": "都会",
+      "translate": "都市",
+      "id": "N4700"
+  },
+  {
+      "word": "しゅっせき",
+      "kanji": "出席",
+      "translate": "出席",
+      "id": "N4701"
+  },
+  {
+      "word": "びじん",
+      "kanji": "美人",
+      "translate": "美女",
+      "id": "N4702"
+  },
+  {
+      "word": "けいじ",
+      "kanji": "掲示",
+      "translate": "公告",
+      "id": "N4703"
+  },
+  {
+      "word": "めいじん",
+      "kanji": "名人",
+      "translate": "名人",
+      "id": "N4704"
+  },
+  {
+      "word": "ねったい",
+      "kanji": "熱帯",
+      "translate": "熱帶",
+      "id": "N4705"
+  },
+  {
+      "word": "かいてき",
+      "kanji": "快適",
+      "translate": "舒適",
+      "id": "N4706"
+  },
+  {
+      "word": "やね",
+      "kanji": "屋根",
+      "translate": "屋頂",
+      "id": "N4707"
+  },
+  {
+      "word": "かわいそう",
+      "kanji": "null",
+      "translate": "可憐的",
+      "id": "N4708"
+  },
+  {
+      "word": "ていりゅうじょ",
+      "kanji": "停留所",
+      "translate": "公車站",
+      "id": "N4709"
+  },
+  {
+      "word": "うんどう",
+      "kanji": "運動",
+      "translate": "運動",
+      "id": "N4710"
+  },
+  {
+      "word": "あんてい",
+      "kanji": "安定",
+      "translate": "安定",
+      "id": "N4711"
+  },
+  {
+      "word": "がくしゃ",
+      "kanji": "学者",
+      "translate": "學者",
+      "id": "N4712"
+  },
+  {
+      "word": "ゆうしょう",
+      "kanji": "優勝",
+      "translate": "優勝",
+      "id": "N4713"
+  },
+  {
+      "word": "こきゅう",
+      "kanji": "呼吸",
+      "translate": "呼吸",
+      "id": "N4714"
+  },
+  {
+      "word": "だいひょう",
+      "kanji": "代表",
+      "translate": "代表",
+      "id": "N4715"
+  },
+  {
+      "word": "あらわれる",
+      "kanji": "現れる",
+      "translate": "顯示",
+      "id": "N4716"
+  },
+  {
+      "word": "とち",
+      "kanji": "土地",
+      "translate": "土地",
+      "id": "N4717"
+  },
+  {
+      "word": "つづき",
+      "kanji": "続き",
+      "translate": "持續",
+      "id": "N4718"
+  },
+  {
+      "word": "こうか",
+      "kanji": "効果",
+      "translate": "效果",
+      "id": "N4719"
+  },
+  {
+      "word": "ほうふ",
+      "kanji": "豊富",
+      "translate": "豐富",
+      "id": "N4720"
+  },
+  {
+      "word": "どく",
+      "kanji": "毒",
+      "translate": "毒物",
+      "id": "N4721"
+  },
+  {
+      "word": "しゅるい",
+      "kanji": "種類",
+      "translate": "樣式",
+      "id": "N4722"
+  },
+  {
+      "word": "しせい",
+      "kanji": "姿勢",
+      "translate": "姿勢",
+      "id": "N4723"
+  },
+  {
+      "word": "いんしょう",
+      "kanji": "印象",
+      "translate": "印象",
+      "id": "N4724"
+  },
+  {
+      "word": "はんばい",
+      "kanji": "販売",
+      "translate": "販賣",
+      "id": "N4725"
+  },
+  {
+      "word": "びょうどう",
+      "kanji": "平等",
+      "translate": "平等",
+      "id": "N4726"
+  },
+  {
+      "word": "つうがく",
+      "kanji": "通学",
+      "translate": "上下學",
+      "id": "N4727"
+  },
+  {
+      "word": "はたらき",
+      "kanji": "働き",
+      "translate": "工作",
+      "id": "N4728"
+  },
+  {
+      "word": "おそれる",
+      "kanji": "恐れる",
+      "translate": "害怕",
+      "id": "N4729"
+  },
+  {
+      "word": "はか",
+      "kanji": "墓",
+      "translate": "墳墓",
+      "id": "N4730"
+  },
+  {
+      "word": "つうこう",
+      "kanji": "通行",
+      "translate": "往來",
+      "id": "N4731"
+  },
+  {
+      "word": "のばす",
+      "kanji": "伸ばす",
+      "translate": "伸長",
+      "id": "N4732"
+  },
+  {
+      "word": "きんちょう",
+      "kanji": "緊張",
+      "translate": "緊張",
+      "id": "N4733"
+  },
+  {
+      "word": "らいにち",
+      "kanji": "来日",
+      "translate": "來日本",
+      "id": "N4734"
+  },
+  {
+      "word": "チェックアウト",
+      "kanji": "null",
+      "translate": "結帳離開",
+      "id": "N4735"
+  },
+  {
+      "word": "ホストファミリー",
+      "kanji": "null",
+      "translate": "寄宿家庭",
+      "id": "N4736"
+  },
+  {
+      "word": "くりかえす",
+      "kanji": "繰り返す",
+      "translate": "反覆",
+      "id": "N4737"
+  },
+  {
+      "word": "いちどに",
+      "kanji": "一度に",
+      "translate": "同時",
+      "id": "N4738"
+  },
+  {
+      "word": "ざいりょう",
+      "kanji": "材料",
+      "translate": "材料",
+      "id": "N4739"
+  },
+  {
+      "word": "たんい",
+      "kanji": "単位",
+      "translate": "單位",
+      "id": "N4740"
+  },
+  {
+      "word": "いつまでも",
+      "kanji": "null",
+      "translate": "永遠",
+      "id": "N4741"
+  },
+  {
+      "word": "あたえる",
+      "kanji": "与える",
+      "translate": "給予",
+      "id": "N4742"
+  },
+  {
+      "word": "ほえる",
+      "kanji": "吠える",
+      "translate": "吠、叫",
+      "id": "N4743"
+  },
+  {
+      "word": "つみ",
+      "kanji": "罪",
+      "translate": "罪過",
+      "id": "N4744"
+  },
+  {
+      "word": "ゆるす",
+      "kanji": "許す",
+      "translate": "允許",
+      "id": "N4745"
+  },
+  {
+      "word": "こうほ",
+      "kanji": "候補",
+      "translate": "候補",
+      "id": "N4746"
+  },
+  {
+      "word": "いいん",
+      "kanji": "委員",
+      "translate": "委員",
+      "id": "N4747"
+  },
+  {
+      "word": "せんたく",
+      "kanji": "選択",
+      "translate": "選擇",
+      "id": "N4748"
+  },
+  {
+      "word": "いらいら",
+      "kanji": "null",
+      "translate": "著急",
+      "id": "N4749"
+  },
+  {
+      "word": "さます",
+      "kanji": "覚ます",
+      "translate": "弄醒",
+      "id": "N4750"
+  },
+  {
+      "word": "のこり",
+      "kanji": "残り",
+      "translate": "剩餘",
+      "id": "N4751"
+  },
+  {
+      "word": "トラック",
+      "kanji": "null",
+      "translate": "卡車",
+      "id": "N4752"
+  },
+  {
+      "word": "ちゅうし",
+      "kanji": "中止",
+      "translate": "中指",
+      "id": "N4753"
+  },
+  {
+      "word": "ヨーロッパ",
+      "kanji": "null",
+      "translate": "歐洲",
+      "id": "N4754"
+  },
+  {
+      "word": "しつ",
+      "kanji": "質",
+      "translate": "質量、內容",
+      "id": "N4755"
+  },
+  {
+      "word": "もしも",
+      "kanji": "null",
+      "translate": "假使",
+      "id": "N4756"
+  },
+  {
+      "word": "じゅうよう",
+      "kanji": "重要",
+      "translate": "重要",
+      "id": "N4757"
+  },
+  {
+      "word": "みかた",
+      "kanji": "味方",
+      "translate": "我方",
+      "id": "N4758"
+  },
+  {
+      "word": "ぬの",
+      "kanji": "布",
+      "translate": "布料",
+      "id": "N4759"
+  },
+  {
+      "word": "ホームステイ",
+      "kanji": "null",
+      "translate": "家庭寄宿",
+      "id": "N4760"
+  },
+  {
+      "word": "いし",
+      "kanji": "医師",
+      "translate": "醫師",
+      "id": "N4761"
+  },
+  {
+      "word": "こうせい",
+      "kanji": "構成",
+      "translate": "構成、組織",
+      "id": "N4762"
+  },
+  {
+      "word": "せいど",
+      "kanji": "制度",
+      "translate": "制度",
+      "id": "N4763"
+  },
+  {
+      "word": "かげ",
+      "kanji": "影",
+      "translate": "影子",
+      "id": "N4764"
+  },
+  {
+      "word": "デート",
+      "kanji": "null",
+      "translate": "約會",
+      "id": "N4765"
+  },
+  {
+      "word": "ゆうりょう",
+      "kanji": "有料",
+      "translate": "收費",
+      "id": "N4766"
+  },
+  {
+      "word": "いつか",
+      "kanji": "null",
+      "translate": "某個時候",
+      "id": "N4767"
+  },
+  {
+      "word": "げんかい",
+      "kanji": "限界",
+      "translate": "限度",
+      "id": "N4768"
+  },
+  {
+      "word": "とじる",
+      "kanji": "閉じる",
+      "translate": "關閉、結束",
+      "id": "N4769"
+  },
+  {
+      "word": "せいねん",
+      "kanji": "青年",
+      "translate": "年輕人",
+      "id": "N4770"
+  },
+  {
+      "word": "うけいれる",
+      "kanji": "受け入れる",
+      "translate": "接受",
+      "id": "N4771"
+  },
+  {
+      "word": "こんなん",
+      "kanji": "困難",
+      "translate": "困難",
+      "id": "N4772"
+  },
+  {
+      "word": "かおり",
+      "kanji": "香り",
+      "translate": "芳香",
+      "id": "N4773"
+  },
+  {
+      "word": "ほうこく",
+      "kanji": "報告",
+      "translate": "報告",
+      "id": "N4774"
+  },
+  {
+      "word": "ちゅうしょく",
+      "kanji": "昼食",
+      "translate": "中餐",
+      "id": "N4775"
+  },
+  {
+      "word": "じゅけん",
+      "kanji": "受験",
+      "translate": "報考",
+      "id": "N4776"
+  },
+  {
+      "word": "つつみ",
+      "kanji": "包み",
+      "translate": "包裝、包裹",
+      "id": "N4777"
+  },
+  {
+      "word": "スタイル",
+      "kanji": "null",
+      "translate": "風格",
+      "id": "N4778"
+  },
+  {
+      "word": "しゅしょう",
+      "kanji": "首相",
+      "translate": "首相",
+      "id": "N4779"
+  },
+  {
+      "word": "ねんじゅう",
+      "kanji": "年中",
+      "translate": "全年",
+      "id": "N4780"
+  },
+  {
+      "word": "ゼミ",
+      "kanji": "null",
+      "translate": "研討會",
+      "id": "N4781"
+  },
+  {
+      "word": "げんざい",
+      "kanji": "現在",
+      "translate": "現在",
+      "id": "N4782"
+  },
+  {
+      "word": "くわえる",
+      "kanji": "加える",
+      "translate": "增加",
+      "id": "N4783"
+  },
+  {
+      "word": "まずしい",
+      "kanji": "貧しい",
+      "translate": "貧窮的",
+      "id": "N4784"
+  },
+  {
+      "word": "こな",
+      "kanji": "粉",
+      "translate": "粉末",
+      "id": "N4785"
+  },
+  {
+      "word": "あるいは",
+      "kanji": "null",
+      "translate": "或者",
+      "id": "N4786"
+  },
+  {
+      "word": "コミュニケーション",
+      "kanji": "null",
+      "translate": "溝通",
+      "id": "N4787"
+  },
+  {
+      "word": "うりきれる",
+      "kanji": "売り切れる",
+      "translate": "售完",
+      "id": "N4788"
+  },
+  {
+      "word": "まいご",
+      "kanji": "迷子",
+      "translate": "迷路、走失的小孩",
+      "id": "N4789"
+  },
+  {
+      "word": "いっち",
+      "kanji": "一致",
+      "translate": "全部",
+      "id": "N4790"
+  },
+  {
+      "word": "うったえる",
+      "kanji": "訴える",
+      "translate": "控告",
+      "id": "N4791"
+  },
+  {
+      "word": "なぜなら",
+      "kanji": "null",
+      "translate": "因為",
+      "id": "N4792"
+  },
+  {
+      "word": "りょうしゅうしょ",
+      "kanji": "領収書",
+      "translate": "收據",
+      "id": "N4793"
+  },
+  {
+      "word": "おんど",
+      "kanji": "温度",
+      "translate": "溫度",
+      "id": "N4794"
+  },
+  {
+      "word": "すいじゅん",
+      "kanji": "水準",
+      "translate": "水準",
+      "id": "N4795"
+  },
+  {
+      "word": "かんしん",
+      "kanji": "感心",
+      "translate": "欽佩",
+      "id": "N4796"
+  },
+  {
+      "word": "かこ",
+      "kanji": "過去",
+      "translate": "過去",
+      "id": "N4797"
+  },
+  {
+      "word": "かいし",
+      "kanji": "開始",
+      "translate": "開始",
+      "id": "N4798"
+  },
+  {
+      "word": "おまえ",
+      "kanji": "御前",
+      "translate": "你",
+      "id": "N4799"
+  },
+  {
+      "word": "おもいで",
+      "kanji": "思い出",
+      "translate": "回憶",
+      "id": "N4800"
+  },
+  {
+      "word": "かんこう",
+      "kanji": "観光",
+      "translate": "觀光",
+      "id": "N4801"
+  },
+  {
+      "word": "さぎょう",
+      "kanji": "作業",
+      "translate": "工作、操作",
+      "id": "N4802"
+  },
+  {
+      "word": "たいりく",
+      "kanji": "大陸",
+      "translate": "大陸",
+      "id": "N4803"
+  },
+  {
+      "word": "けいご",
+      "kanji": "敬語",
+      "translate": "尊敬語",
+      "id": "N4804"
+  },
+  {
+      "word": "しょうねん",
+      "kanji": "少年",
+      "translate": "少年",
+      "id": "N4805"
+  },
+  {
+      "word": "おうえん",
+      "kanji": "応援",
+      "translate": "加油",
+      "id": "N4806"
+  },
+  {
+      "word": "ほうもん",
+      "kanji": "訪問",
+      "translate": "訪問",
+      "id": "N4807"
+  },
+  {
+      "word": "くわしい",
+      "kanji": "詳しい",
+      "translate": "詳細的",
+      "id": "N4808"
+  },
+  {
+      "word": "ほか",
+      "kanji": "外",
+      "translate": "別處",
+      "id": "N4809"
+  },
+  {
+      "word": "しゅうにゅう",
+      "kanji": "収入",
+      "translate": "收入",
+      "id": "N4810"
+  },
+  {
+      "word": "ばんやり",
+      "kanji": "null",
+      "translate": "模糊的",
+      "id": "N4811"
+  },
+  {
+      "word": "ぐらぐら",
+      "kanji": "null",
+      "translate": "搖搖晃晃",
+      "id": "N4812"
+  },
+  {
+      "word": "はる",
+      "kanji": "張る",
+      "translate": "擴張",
+      "id": "N4813"
+  },
+  {
+      "word": "めいかく",
+      "kanji": "明確",
+      "translate": "明確",
+      "id": "N4814"
+  },
+  {
+      "word": "くさい",
+      "kanji": "臭い",
+      "translate": "臭的",
+      "id": "N4815"
+  },
+  {
+      "word": "きょうじゅ",
+      "kanji": "教授",
+      "translate": "教授",
+      "id": "N4816"
+  },
+  {
+      "word": "しょうじき",
+      "kanji": "正直",
+      "translate": "老實、坦白",
+      "id": "N4817"
+  },
+  {
+      "word": "なかま",
+      "kanji": "仲間",
+      "translate": "夥伴",
+      "id": "N4818"
+  },
+  {
+      "word": "かいとう",
+      "kanji": "解答",
+      "translate": "解答",
+      "id": "N4819"
+  },
+  {
+      "word": "たんじょう",
+      "kanji": "誕生",
+      "translate": "出生",
+      "id": "N4820"
+  },
+  {
+      "word": "たよる",
+      "kanji": "頼る",
+      "translate": "依賴",
+      "id": "N4821"
+  },
+  {
+      "word": "ちか",
+      "kanji": "地下",
+      "translate": "地下",
+      "id": "N4822"
+  },
+  {
+      "word": "はし",
+      "kanji": "端",
+      "translate": "一頭",
+      "id": "N4823"
+  },
+  {
+      "word": "ろうどう",
+      "kanji": "労働",
+      "translate": "勞動",
+      "id": "N4824"
+  },
+  {
+      "word": "おうさま",
+      "kanji": "王様",
+      "translate": "國王",
+      "id": "N4825"
+  },
+  {
+      "word": "たいりょう",
+      "kanji": "大量",
+      "translate": "大量",
+      "id": "N4826"
+  },
+  {
+      "word": "よそく",
+      "kanji": "予測",
+      "translate": "預測",
+      "id": "N4827"
+  },
+  {
+      "word": "まご",
+      "kanji": "孫",
+      "translate": "孫子",
+      "id": "N4828"
+  },
+  {
+      "word": "はくしゅ",
+      "kanji": "拍手",
+      "translate": "拍手",
+      "id": "N4829"
+  },
+  {
+      "word": "せいり",
+      "kanji": "整理",
+      "translate": "整理",
+      "id": "N4830"
+  },
+  {
+      "word": "たにん",
+      "kanji": "他人",
+      "translate": "別人",
+      "id": "N4831"
+  },
+  {
+      "word": "かくにん",
+      "kanji": "確認",
+      "translate": "確認",
+      "id": "N4832"
+  },
+  {
+      "word": "えいきょう",
+      "kanji": "影響",
+      "translate": "影響",
+      "id": "N4833"
+  },
+  {
+      "word": "こんやく",
+      "kanji": "婚約",
+      "translate": "婚約",
+      "id": "N4834"
+  },
+  {
+      "word": "いねむり",
+      "kanji": "居眠り",
+      "translate": "瞌睡",
+      "id": "N4835"
+  },
+  {
+      "word": "どうろ",
+      "kanji": "道路",
+      "translate": "道路",
+      "id": "N4836"
+  },
+  {
+      "word": "こうそくどうろ",
+      "kanji": "高速道路",
+      "translate": "高速公路",
+      "id": "N4837"
+  },
+  {
+      "word": "せいきゅう",
+      "kanji": "請求",
+      "translate": "請求",
+      "id": "N4838"
+  },
+  {
+      "word": "しょうじょ",
+      "kanji": "少女",
+      "translate": "少女",
+      "id": "N4839"
+  },
+  {
+      "word": "ねずみ",
+      "kanji": "鼠",
+      "translate": "老鼠",
+      "id": "N4840"
+  },
+  {
+      "word": "まねく",
+      "kanji": "招く",
+      "translate": "招呼",
+      "id": "N4841"
+  },
+  {
+      "word": "けち",
+      "kanji": "null",
+      "translate": "小氣",
+      "id": "N4842"
+  },
+  {
+      "word": "がくひ",
+      "kanji": "学費",
+      "translate": "學費",
+      "id": "N4843"
+  },
+  {
+      "word": "こうさい",
+      "kanji": "交際",
+      "translate": "交際應酬",
+      "id": "N4844"
+  },
+  {
+      "word": "しるし",
+      "kanji": "印",
+      "translate": "印記",
+      "id": "N4845"
+  },
+  {
+      "word": "こじん",
+      "kanji": "個人",
+      "translate": "個人",
+      "id": "N4846"
+  },
+  {
+      "word": "プロ",
+      "kanji": "null",
+      "translate": "專業的",
+      "id": "N4847"
+  },
+  {
+      "word": "しゅっしん",
+      "kanji": "出身",
+      "translate": "出身",
+      "id": "N4848"
+  },
+  {
+      "word": "ちゅうい",
+      "kanji": "注意",
+      "translate": "注意",
+      "id": "N4849"
+  },
+  {
+      "word": "そろう",
+      "kanji": "揃う",
+      "translate": "集合",
+      "id": "N4850"
+  },
+  {
+      "word": "おおいに",
+      "kanji": "大いに",
+      "translate": "非常",
+      "id": "N4851"
+  },
+  {
+      "word": "どんなに",
+      "kanji": "null",
+      "translate": "無論如何也",
+      "id": "N4852"
+  },
+  {
+      "word": "じょうだん",
+      "kanji": "冗談",
+      "translate": "玩笑",
+      "id": "N4853"
+  },
+  {
+      "word": "けんとう",
+      "kanji": "検討",
+      "translate": "討論",
+      "id": "N4854"
+  },
+  {
+      "word": "ひょうか",
+      "kanji": "評価",
+      "translate": "評價",
+      "id": "N4855"
+  },
+  {
+      "word": "もっとも",
+      "kanji": "最も",
+      "translate": "最~",
+      "id": "N4856"
+  },
+  {
+      "word": "きねん",
+      "kanji": "記念",
+      "translate": "紀念",
+      "id": "N4857"
+  },
+  {
+      "word": "じっこう",
+      "kanji": "実行",
+      "translate": "實行",
+      "id": "N4858"
+  },
+  {
+      "word": "スイッチ",
+      "kanji": "null",
+      "translate": "開關、轉換",
+      "id": "N4859"
+  },
+  {
+      "word": "さまざま",
+      "kanji": "様々",
+      "translate": "各式各樣",
+      "id": "N4860"
+  },
+  {
+      "word": "げじゅん",
+      "kanji": "下旬",
+      "translate": "下旬",
+      "id": "N4861"
+  },
+  {
+      "word": "はく",
+      "kanji": "吐く",
+      "translate": "吐出",
+      "id": "N4862"
+  },
+  {
+      "word": "ラッシュアワー",
+      "kanji": "null",
+      "translate": "尖峰時刻",
+      "id": "N4863"
+  },
+  {
+      "word": "ふらふら",
+      "kanji": "null",
+      "translate": "搖晃",
+      "id": "N4864"
+  },
+  {
+      "word": "きんえん",
+      "kanji": "禁煙",
+      "translate": "禁煙",
+      "id": "N4865"
+  },
+  {
+      "word": "もえる",
+      "kanji": "燃える",
+      "translate": "燃燒",
+      "id": "N4866"
+  },
+  {
+      "word": "むしば",
+      "kanji": "虫歯",
+      "translate": "蛀牙",
+      "id": "N4867"
+  },
+  {
+      "word": "すいぞくかん",
+      "kanji": "水族館",
+      "translate": "水族館",
+      "id": "N4868"
+  },
+  {
+      "word": "かち",
+      "kanji": "勝ち",
+      "translate": "勝利",
+      "id": "N4869"
+  },
+  {
+      "word": "ちこく",
+      "kanji": "遅刻",
+      "translate": "遲到",
+      "id": "N4870"
+  },
+  {
+      "word": "てんこう",
+      "kanji": "天候",
+      "translate": "天氣",
+      "id": "N4871"
+  },
+  {
+      "word": "さっぱり",
+      "kanji": "null",
+      "translate": "清爽",
+      "id": "N4872"
+  },
+  {
+      "word": "だい",
+      "kanji": "大",
+      "translate": "大",
+      "id": "N4873"
+  },
+  {
+      "word": "すききらい",
+      "kanji": "好き嫌い",
+      "translate": "挑剔",
+      "id": "N4874"
+  },
+  {
+      "word": "ゆたか",
+      "kanji": "豊か",
+      "translate": "豐裕",
+      "id": "N4875"
+  },
+  {
+      "word": "こきょう",
+      "kanji": "故郷",
+      "translate": "故鄉",
+      "id": "N4876"
+  },
+  {
+      "word": "このみ",
+      "kanji": "好み",
+      "translate": "喜好",
+      "id": "N4877"
+  },
+  {
+      "word": "しょうしょう",
+      "kanji": "少々",
+      "translate": "少許",
+      "id": "N4878"
+  },
+  {
+      "word": "かぐ",
+      "kanji": "家具",
+      "translate": "家具",
+      "id": "N4879"
+  },
+  {
+      "word": "おぼれる",
+      "kanji": "溺れる",
+      "translate": "溺水",
+      "id": "N4880"
+  },
+  {
+      "word": "まわす",
+      "kanji": "回す",
+      "translate": "轉動",
+      "id": "N4881"
+  },
+  {
+      "word": "ボーイ",
+      "kanji": "null",
+      "translate": "旅館服務生",
+      "id": "N4882"
+  },
+  {
+      "word": "じょうほう",
+      "kanji": "情報",
+      "translate": "情報",
+      "id": "N4883"
+  },
+  {
+      "word": "なにか",
+      "kanji": "何か",
+      "translate": "什麼",
+      "id": "N4884"
+  },
+  {
+      "word": "め",
+      "kanji": "芽",
+      "translate": "芽",
+      "id": "N4885"
+  },
+  {
+      "word": "たっする",
+      "kanji": "達する",
+      "translate": "達到",
+      "id": "N4886"
+  },
+  {
+      "word": "むね",
+      "kanji": "胸",
+      "translate": "心胸",
+      "id": "N4887"
+  },
+  {
+      "word": "ちいき",
+      "kanji": "地域",
+      "translate": "地區",
+      "id": "N4888"
+  },
+  {
+      "word": "ちしき",
+      "kanji": "知識",
+      "translate": "知識",
+      "id": "N4889"
+  },
+  {
+      "word": "むく",
+      "kanji": "向く",
+      "translate": "面向",
+      "id": "N4890"
+  },
+  {
+      "word": "りかい",
+      "kanji": "理解",
+      "translate": "理解",
+      "id": "N4891"
+  },
+  {
+      "word": "れい",
+      "kanji": "例",
+      "translate": "例子",
+      "id": "N4892"
+  },
+  {
+      "word": "だいり",
+      "kanji": "代理",
+      "translate": "代理、代表",
+      "id": "N4893"
+  },
+  {
+      "word": "たつ",
+      "kanji": "建つ",
+      "translate": "建、蓋",
+      "id": "N4894"
+  },
+  {
+      "word": "きぎょう",
+      "kanji": "企業",
+      "translate": "企業",
+      "id": "N4895"
+  },
+  {
+      "word": "バイキング",
+      "kanji": "null",
+      "translate": "西式吃到飽",
+      "id": "N4896"
+  },
+  {
+      "word": "せいこう",
+      "kanji": "成功",
+      "translate": "成功",
+      "id": "N4897"
+  },
+  {
+      "word": "そうおん",
+      "kanji": "騒音",
+      "translate": "噪音",
+      "id": "N4898"
+  },
+  {
+      "word": "とざん",
+      "kanji": "登山",
+      "translate": "登山",
+      "id": "N4899"
+  },
+  {
+      "word": "ためす",
+      "kanji": "試す",
+      "translate": "嘗試",
+      "id": "N4900"
+  },
+  {
+      "word": "あいず",
+      "kanji": "合図",
+      "translate": "信號",
+      "id": "N4901"
+  },
+  {
+      "word": "としより",
+      "kanji": "年寄り",
+      "translate": "老年人",
+      "id": "N4902"
+  },
+  {
+      "word": "ほうこう",
+      "kanji": "方向",
+      "translate": "方向",
+      "id": "N4903"
+  },
+  {
+      "word": "もくてき",
+      "kanji": "目的",
+      "translate": "目的",
+      "id": "N4904"
+  },
+  {
+      "word": "かんげいかい",
+      "kanji": "歓迎会",
+      "translate": "歡迎會",
+      "id": "N4905"
+  },
+  {
+      "word": "たすう",
+      "kanji": "多数",
+      "translate": "大多數",
+      "id": "N4906"
+  },
+  {
+      "word": "おわかれかい",
+      "kanji": "お別れ会",
+      "translate": "惜別會",
+      "id": "N4907"
+  },
+  {
+      "word": "ひがい",
+      "kanji": "被害",
+      "translate": "災害、損失",
+      "id": "N4908"
+  },
+  {
+      "word": "プラン",
+      "kanji": "null",
+      "translate": "計畫",
+      "id": "N4909"
+  },
+  {
+      "word": "トンネル",
+      "kanji": "null",
+      "translate": "隧道",
+      "id": "N4910"
+  },
+  {
+      "word": "じじつ",
+      "kanji": "事実",
+      "translate": "事實",
+      "id": "N4911"
+  },
+  {
+      "word": "スピーチ",
+      "kanji": "null",
+      "translate": "演說",
+      "id": "N4912"
+  },
+  {
+      "word": "あける",
+      "kanji": "明ける",
+      "translate": "變亮、破曉",
+      "id": "N4913"
+  },
+  {
+      "word": "はったつ",
+      "kanji": "発達",
+      "translate": "發達",
+      "id": "N4914"
+  },
+  {
+      "word": "えんそう",
+      "kanji": "演奏",
+      "translate": "演奏",
+      "id": "N4915"
+  },
+  {
+      "word": "こしょう",
+      "kanji": "故障",
+      "translate": "壞掉",
+      "id": "N4916"
+  },
+  {
+      "word": "きゅうか",
+      "kanji": "休暇",
+      "translate": "休假",
+      "id": "N4917"
+  },
+  {
+      "word": "しんせん",
+      "kanji": "新鮮",
+      "translate": "新鮮的",
+      "id": "N4918"
+  },
+  {
+      "word": "あてる",
+      "kanji": "当てる",
+      "translate": "碰撞",
+      "id": "N4919"
+  },
+  {
+      "word": "ひろがる",
+      "kanji": "広がる",
+      "translate": "變寬",
+      "id": "N4920"
+  },
+  {
+      "word": "みとめる",
+      "kanji": "認める",
+      "translate": "認可",
+      "id": "N4921"
+  },
+  {
+      "word": "きかん",
+      "kanji": "期間",
+      "translate": "期間",
+      "id": "N4922"
+  },
+  {
+      "word": "じきゅう",
+      "kanji": "時給",
+      "translate": "時薪",
+      "id": "N4923"
+  },
+  {
+      "word": "てつがく",
+      "kanji": "哲学",
+      "translate": "哲學",
+      "id": "N4924"
+  },
+  {
+      "word": "きづく",
+      "kanji": "気付く",
+      "translate": "察覺、意識到",
+      "id": "N4925"
+  },
+  {
+      "word": "しんこく",
+      "kanji": "深刻",
+      "translate": "深刻的",
+      "id": "N4926"
+  },
+  {
+      "word": "きじ",
+      "kanji": "生地",
+      "translate": "質地",
+      "id": "N4927"
+  },
+  {
+      "word": "ながれる",
+      "kanji": "流れる",
+      "translate": "流動",
+      "id": "N4928"
+  },
+  {
+      "word": "ちほう",
+      "kanji": "地方",
+      "translate": "地方",
+      "id": "N4929"
+  },
+  {
+      "word": "いね",
+      "kanji": "稲",
+      "translate": "稻子",
+      "id": "N4930"
+  },
+  {
+      "word": "ふた",
+      "kanji": "蓋",
+      "translate": "蓋子",
+      "id": "N4931"
+  },
+  {
+      "word": "そで",
+      "kanji": "袖",
+      "translate": "袖子",
+      "id": "N4932"
+  },
+  {
+      "word": "きたく",
+      "kanji": "帰宅",
+      "translate": "回家",
+      "id": "N4933"
+  },
+  {
+      "word": "いずみ",
+      "kanji": "泉",
+      "translate": "泉水",
+      "id": "N4934"
+  },
+  {
+      "word": "こうけい",
+      "kanji": "光景",
+      "translate": "光景",
+      "id": "N4935"
+  },
+  {
+      "word": "おたがい",
+      "kanji": "お互い",
+      "translate": "彼此",
+      "id": "N4936"
+  },
+  {
+      "word": "ひっし",
+      "kanji": "必死",
+      "translate": "拼命、必死",
+      "id": "N4937"
+  },
+  {
+      "word": "しあさって",
+      "kanji": "null",
+      "translate": "大後天",
+      "id": "N4938"
+  },
+  {
+      "word": "つぐ",
+      "kanji": "注ぐ",
+      "translate": "注入",
+      "id": "N4939"
+  },
+  {
+      "word": "ほんじつ",
+      "kanji": "本日",
+      "translate": "本日",
+      "id": "N4940"
+  },
+  {
+      "word": "けんちく",
+      "kanji": "建築",
+      "translate": "建築",
+      "id": "N4941"
+  },
+  {
+      "word": "かんげい",
+      "kanji": "歓迎",
+      "translate": "歡迎",
+      "id": "N4942"
+  },
+  {
+      "word": "ひとり",
+      "kanji": "独り",
+      "translate": "獨自",
+      "id": "N4943"
+  },
+  {
+      "word": "きねんひん",
+      "kanji": "記念品",
+      "translate": "紀念品",
+      "id": "N4944"
+  },
+  {
+      "word": "しまい",
+      "kanji": "姉妹",
+      "translate": "姊妹",
+      "id": "N4945"
+  },
+  {
+      "word": "つうか",
+      "kanji": "通過",
+      "translate": "通過、經過",
+      "id": "N4946"
+  },
+  {
+      "word": "もちろん",
+      "kanji": "勿論",
+      "translate": "當然",
+      "id": "N4947"
+  },
+  {
+      "word": "せい",
+      "kanji": "null",
+      "translate": "原因",
+      "id": "N4948"
+  },
+  {
+      "word": "うま",
+      "kanji": "馬",
+      "translate": "馬",
+      "id": "N4949"
+  },
+  {
+      "word": "しんり",
+      "kanji": "心理",
+      "translate": "心理",
+      "id": "N4950"
+  },
+  {
+      "word": "ふるえる",
+      "kanji": "震える",
+      "translate": "發抖",
+      "id": "N4951"
+  },
+  {
+      "word": "ひづけ",
+      "kanji": "日付",
+      "translate": "日期",
+      "id": "N4952"
+  },
+  {
+      "word": "つゆ",
+      "kanji": "梅雨",
+      "translate": "梅雨",
+      "id": "N4953"
+  },
+  {
+      "word": "よくあさ",
+      "kanji": "翌朝",
+      "translate": "隔天早上",
+      "id": "N4954"
+  },
+  {
+      "word": "まんいち",
+      "kanji": "万一",
+      "translate": "萬一",
+      "id": "N4955"
+  },
+  {
+      "word": "さくら",
+      "kanji": "桜",
+      "translate": "櫻花",
+      "id": "N4956"
+  },
+  {
+      "word": "おとしより",
+      "kanji": "お年寄り",
+      "translate": "老人",
+      "id": "N4957"
+  },
+  {
+      "word": "ベルト",
+      "kanji": "null",
+      "translate": "皮帶",
+      "id": "N4958"
+  },
+  {
+      "word": "きゅうけい",
+      "kanji": "休憩",
+      "translate": "休息",
+      "id": "N4959"
+  },
+  {
+      "word": "こうどう",
+      "kanji": "行動",
+      "translate": "行動",
+      "id": "N4960"
+  },
+  {
+      "word": "おいこし",
+      "kanji": "追い越す",
+      "translate": "超過",
+      "id": "N4961"
+  },
+  {
+      "word": "きゅうに",
+      "kanji": "急に",
+      "translate": "突然",
+      "id": "N4962"
+  },
+  {
+      "word": "りこう",
+      "kanji": "利口",
+      "translate": "聰明",
+      "id": "N4963"
+  },
+  {
+      "word": "ことなる",
+      "kanji": "異なる",
+      "translate": "異常",
+      "id": "N4964"
+  },
+  {
+      "word": "よなか",
+      "kanji": "夜中",
+      "translate": "半夜",
+      "id": "N4965"
+  },
+  {
+      "word": "パイロット",
+      "kanji": "null",
+      "translate": "飛行員",
+      "id": "N4966"
+  },
+  {
+      "word": "かんさい",
+      "kanji": "関西",
+      "translate": "關西",
+      "id": "N4967"
+  },
+  {
+      "word": "しょうたい",
+      "kanji": "招待",
+      "translate": "招呼",
+      "id": "N4968"
+  },
+  {
+      "word": "しゅうまつ",
+      "kanji": "週末",
+      "translate": "周末",
+      "id": "N4969"
+  },
+  {
+      "word": "どりょく",
+      "kanji": "努力",
+      "translate": "努力",
+      "id": "N4970"
+  },
+  {
+      "word": "すくう",
+      "kanji": "救う",
+      "translate": "拯救",
+      "id": "N4971"
+  },
+  {
+      "word": "つかまる",
+      "kanji": "捕まる",
+      "translate": "抓捕",
+      "id": "N4972"
+  },
+  {
+      "word": "おじぎ",
+      "kanji": "お辞儀",
+      "translate": "敬禮",
+      "id": "N4973"
+  },
+  {
+      "word": "はたけ",
+      "kanji": "畑",
+      "translate": "田地",
+      "id": "N4974"
+  },
+  {
+      "word": "アンケート",
+      "kanji": "null",
+      "translate": "問卷調查",
+      "id": "N4975"
+  },
+  {
+      "word": "こうか",
+      "kanji": "高価",
+      "translate": "高價",
+      "id": "N4976"
+  },
+  {
+      "word": "たば",
+      "kanji": "束",
+      "translate": "捆",
+      "id": "N4977"
+  },
+  {
+      "word": "たいし",
+      "kanji": "大使",
+      "translate": "大使",
+      "id": "N4978"
+  },
+  {
+      "word": "ぜんしん",
+      "kanji": "全身",
+      "translate": "全身",
+      "id": "N4979"
+  },
+  {
+      "word": "アドバイス",
+      "kanji": "null",
+      "translate": "建議",
+      "id": "N4980"
+  },
+  {
+      "word": "じけん",
+      "kanji": "事件",
+      "translate": "事件",
+      "id": "N4981"
+  },
+  {
+      "word": "いちご",
+      "kanji": "苺",
+      "translate": "草莓",
+      "id": "N4982"
+  },
+  {
+      "word": "しょうじょう",
+      "kanji": "症状",
+      "translate": "症狀",
+      "id": "N4983"
+  },
+  {
+      "word": "わがまま",
+      "kanji": "null",
+      "translate": "任性",
+      "id": "N4984"
+  },
+  {
+      "word": "どうし",
+      "kanji": "動詞",
+      "translate": "動詞",
+      "id": "N4985"
+  },
+  {
+      "word": "ハイキング",
+      "kanji": "null",
+      "translate": "健行",
+      "id": "N4986"
+  },
+  {
+      "word": "かわ",
+      "kanji": "革",
+      "translate": "皮革",
+      "id": "N4987"
+  },
+  {
+      "word": "のべる",
+      "kanji": "述べる",
+      "translate": "陳述",
+      "id": "N4988"
+  },
+  {
+      "word": "せんしゅ",
+      "kanji": "選手",
+      "translate": "選手",
+      "id": "N4989"
+  },
+  {
+      "word": "はかる",
+      "kanji": "計る",
+      "translate": "丈量",
+      "id": "N4990"
+  },
+  {
+      "word": "かかく",
+      "kanji": "価格",
+      "translate": "價格",
+      "id": "N4991"
+  },
+  {
+      "word": "とおす",
+      "kanji": "通す",
+      "translate": "穿過、通過",
+      "id": "N4992"
+  },
+  {
+      "word": "カード",
+      "kanji": "null",
+      "translate": "卡片",
+      "id": "N4993"
+  },
+  {
+      "word": "つい",
+      "kanji": "null",
+      "translate": "不知不覺",
+      "id": "N4994"
+  },
+  {
+      "word": "では",
+      "kanji": "null",
+      "translate": "那麼",
+      "id": "N4995"
+  },
+  {
+      "word": "きろく",
+      "kanji": "記録",
+      "translate": "紀錄",
+      "id": "N4996"
+  },
+  {
+      "word": "せいひん",
+      "kanji": "製品",
+      "translate": "產品",
+      "id": "N4997"
+  },
+  {
+      "word": "しかも",
+      "kanji": "null",
+      "translate": "儘管如此",
+      "id": "N4998"
+  },
+  {
+      "word": "たに",
+      "kanji": "谷",
+      "translate": "山谷",
+      "id": "N4999"
+  },
+  {
+      "word": "じっけん",
+      "kanji": "実験",
+      "translate": "實驗",
+      "id": "N41000"
+  },
+  {
+      "word": "どうしても",
+      "kanji": "null",
+      "translate": "務必",
+      "id": "N41001"
+  },
+  {
+      "word": "ライダー",
+      "kanji": "null",
+      "translate": "打火機",
+      "id": "N41002"
+  },
+  {
+      "word": "こづつみ",
+      "kanji": "小包",
+      "translate": "包裹",
+      "id": "N41003"
+  },
+  {
+      "word": "うたがう",
+      "kanji": "疑う",
+      "translate": "懷疑",
+      "id": "N41004"
+  },
+  {
+      "word": "しゅうせい",
+      "kanji": "修正",
+      "translate": "修正",
+      "id": "N41005"
+  },
+  {
+      "word": "ちゅうおう",
+      "kanji": "中央",
+      "translate": "中央",
+      "id": "N41006"
+  },
+  {
+      "word": "せいげん",
+      "kanji": "制限",
+      "translate": "限制",
+      "id": "N41007"
+  },
+  {
+      "word": "てつや",
+      "kanji": "徹夜",
+      "translate": "通宵",
+      "id": "N41008"
+  },
+  {
+      "word": "ちゅうしん",
+      "kanji": "中心",
+      "translate": "中心、重心",
+      "id": "N41009"
+  },
+  {
+      "word": "せいじょう",
+      "kanji": "正常",
+      "translate": "正常",
+      "id": "N41010"
+  },
+  {
+      "word": "ちえ",
+      "kanji": "知恵",
+      "translate": "智慧",
+      "id": "N41011"
+  },
+  {
+      "word": "こんかい",
+      "kanji": "今回",
+      "translate": "這次",
+      "id": "N41012"
+  },
+  {
+      "word": "おさない",
+      "kanji": "幼い",
+      "translate": "幼小的",
+      "id": "N41013"
+  },
+  {
+      "word": "ちょうし",
+      "kanji": "調子",
+      "translate": "狀況",
+      "id": "N41014"
+  },
+  {
+      "word": "はつめい",
+      "kanji": "発明",
+      "translate": "發明",
+      "id": "N41015"
+  },
+  {
+      "word": "さす",
+      "kanji": "指す",
+      "translate": "指示",
+      "id": "N41016"
+  },
+  {
+      "word": "じょうきゅう",
+      "kanji": "上級",
+      "translate": "高級",
+      "id": "N41017"
+  },
+  {
+      "word": "なやむ",
+      "kanji": "悩む",
+      "translate": "煩惱",
+      "id": "N41018"
+  },
+  {
+      "word": "しょうめいしょ",
+      "kanji": "証明書",
+      "translate": "證明書",
+      "id": "N41019"
+  },
+  {
+      "word": "おくがい",
+      "kanji": "屋外",
+      "translate": "室外",
+      "id": "N41020"
+  },
+  {
+      "word": "さいしゅう",
+      "kanji": "最終",
+      "translate": "最終",
+      "id": "N41021"
+  },
+  {
+      "word": "はなす",
+      "kanji": "放す",
+      "translate": "放開",
+      "id": "N41022"
+  },
+  {
+      "word": "けっきょく",
+      "kanji": "結局",
+      "translate": "結局",
+      "id": "N41023"
+  },
+  {
+      "word": "ふこうへい",
+      "kanji": "不公平",
+      "translate": "不公平",
+      "id": "N41024"
+  },
+  {
+      "word": "しり",
+      "kanji": "尻",
+      "translate": "屁股",
+      "id": "N41025"
+  },
+  {
+      "word": "ぜん",
+      "kanji": "全",
+      "translate": "全部",
+      "id": "N41026"
+  },
+  {
+      "word": "しぜん",
+      "kanji": "自然",
+      "translate": "自然",
+      "id": "N41027"
+  },
+  {
+      "word": "めいれい",
+      "kanji": "命令",
+      "translate": "命令",
+      "id": "N41028"
+  },
+  {
+      "word": "もうしわけない",
+      "kanji": "申し訳ない",
+      "translate": "道歉、辯解",
+      "id": "N41029"
+  },
+  {
+      "word": "しゅよう",
+      "kanji": "主要",
+      "translate": "主要",
+      "id": "N41030"
+  },
+  {
+      "word": "えんき",
+      "kanji": "延期",
+      "translate": "延期",
+      "id": "N41031"
+  },
+  {
+      "word": "たまたま",
+      "kanji": "偶々",
+      "translate": "偶然",
+      "id": "N41032"
+  },
+  {
+      "word": "べつに",
+      "kanji": "別に",
+      "translate": "分開",
+      "id": "N41033"
+  },
+  {
+      "word": "ごがく",
+      "kanji": "語学",
+      "translate": "語言學",
+      "id": "N41034"
+  },
+  {
+      "word": "しりあい",
+      "kanji": "知り合い",
+      "translate": "認識的人",
+      "id": "N41035"
+  },
+  {
+      "word": "たんじゅん",
+      "kanji": "単純",
+      "translate": "單純",
+      "id": "N41036"
+  },
+  {
+      "word": "わずか",
+      "kanji": "僅か",
+      "translate": "僅僅、勉強",
+      "id": "N41037"
+  },
+  {
+      "word": "もじ",
+      "kanji": "文字",
+      "translate": "文字、字跡",
+      "id": "N41038"
+  },
+  {
+      "word": "あい",
+      "kanji": "愛",
+      "translate": "愛",
+      "id": "N41039"
+  },
+  {
+      "word": "けんこう",
+      "kanji": "健康",
+      "translate": "健康",
+      "id": "N41040"
+  },
+  {
+      "word": "そのまま",
+      "kanji": "null",
+      "translate": "就照那樣",
+      "id": "N41041"
+  },
+  {
+      "word": "ごうとう",
+      "kanji": "強盗",
+      "translate": "強盜",
+      "id": "N41042"
+  },
+  {
+      "word": "はり",
+      "kanji": "針",
+      "translate": "針狀物",
+      "id": "N41043"
+  },
+  {
+      "word": "けってい",
+      "kanji": "決定",
+      "translate": "決定",
+      "id": "N41044"
+  },
+  {
+      "word": "こえる",
+      "kanji": "越える",
+      "translate": "越過",
+      "id": "N41045"
+  },
+  {
+      "word": "ふくろ",
+      "kanji": "袋",
+      "translate": "袋子",
+      "id": "N41046"
+  },
+  {
+      "word": "ながれ",
+      "kanji": "流れ",
+      "translate": "水流",
+      "id": "N41047"
+  },
+  {
+      "word": "はいゆう",
+      "kanji": "俳優",
+      "translate": "演員",
+      "id": "N41048"
+  },
+  {
+      "word": "うん",
+      "kanji": "運",
+      "translate": "運氣",
+      "id": "N41049"
+  },
+  {
+      "word": "ようじん",
+      "kanji": "用心",
+      "translate": "小心",
+      "id": "N41050"
+  }
+]
