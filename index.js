@@ -99,12 +99,11 @@ function handlePostbackEvent(event) {
       let answer_result = handleAnswer(event.postback.data)
       if (answer_result) {
         updateUserPoints(event);
-        return client.replyMessage(event.replyToken, moreQuestion(postback_result.question_type, postback_result.wid));
+        return client.replyMessage(event.replyToken, moreQuestion(postback_result.question_type, postback_result.wid, true));
       }
       else {
-        echo = { type: "text", text: "答錯了" };
         updateUserWrongAnswer(event);
-        return client.replyMessage(event.replyToken, echo);
+        return client.replyMessage(event.replyToken, moreQuestion(postback_result.question_type, postback_result.wid, false));
       }
       break;
     case 'more_question':
@@ -274,36 +273,14 @@ function createQuestion(question_type, current_wid = null) {
   let w_index = getObjectItemIndex(new_words, w.id);
   if (w_index !== -1) new_words = removeByIndex(new_words, w_index);
 
-  if (w.kanji != "null") {
-    let w_kanji = {
-      "type": "text",
-      "text": `${w.kanji}`,
-      "size": "xxl",
-      "wrap": true
-    };
+  w_text = {
+    "type": "text",
+    "text": `${question}\n`,
+    "size": "xxl",
+    "wrap": true
+  };
 
-    contents.push(w_kanji);
-
-    w_text = {
-      "type": "text",
-      "text": `${question}\n`,
-      "size": "md",
-      "color": "#aaaaaa",
-      "wrap": true
-    };
-
-    contents.push(w_text);
-  }
-  else {
-    w_text = {
-      "type": "text",
-      "text": `${question}\n`,
-      "size": "xxl",
-      "wrap": true
-    };
-
-    contents.push(w_text);
-  }
+  contents.push(w_text);
 
   let answers = createAnswers(new_words, w.id);
   answers.push(w);
@@ -365,7 +342,74 @@ function createAnswers(words, wid, total = 3) {
   return object;
 }
 
-function moreQuestion(question_type, wid) {
+function moreQuestion(question_type, wid, answer) {
+  let words;
+  switch (question_type) {
+    case 'n1':
+      words = words_N1;
+      break;
+    case 'n2n3':
+      words = words_N2N3;
+      break;
+    case 'n4':
+      words = words_N4;
+      break;
+    case 'n5':
+      words = words_N5;
+      break;
+    case 'basic':
+      words = words_BASIC;
+      break;
+    case 'advance':
+      words = words_ADVANCE;
+      break;
+    default:
+      return client.replyMessage(event.replyToken, echo);
+  }
+
+  let w = words.filter(x => x.id == wid);
+  let contents = [];
+
+  if (answer) {
+    contents.push({
+      "type": "text",
+      "size": "xl",
+      "text": "恭喜、答對了！！！\n"
+    });
+  }
+  else {
+    contents.push({
+      "type": "text",
+      "size": "xl",
+      "color": "#ff0000",
+      "text": "❌ 答錯了！\n"
+    });
+  }
+
+  contents.push({
+    "type": "separator"
+  });
+
+  let w_detail = `${w[0].word}\n翻譯：${w[0].translate}\n`;
+  if (w[0].kanji != "null") w_detail = `${w[0].word}\n漢字：${w[0].kanji}\n翻譯：${w[0].translate}\n`;
+
+  contents.push({
+    "type": "text",
+    "wrap": true,
+    "text": `${w_detail}`
+  });
+
+  contents.push({
+    "type": "button",
+    "action": {
+      "type": "postback",
+      "label": "再來一題",
+      "displayText": "再來一題",
+      "data": `wid=${wid}&type=more_question&question_type=${question_type}&content=再來一題`
+    },
+    "style": "primary"
+  });
+
   return {
     "type": "flex",
     "altText": "再來一題",
@@ -375,22 +419,7 @@ function moreQuestion(question_type, wid) {
         "type": "box",
         "layout": "vertical",
         "spacing": "md",
-        "contents": [
-          {
-            "type": "text",
-            "text": "恭喜、答對了！！！\n"
-          },
-          {
-            "type": "button",
-            "action": {
-              "type": "postback",
-              "label": "再來一題",
-              "displayText": "再來一題",
-              "data": `wid=${wid}&type=more_question&question_type=${question_type}&content=再來一題`
-            },
-            "style": "primary"
-          }
-        ]
+        "contents": contents
       },
       "footer": {
         "type": "box",
@@ -516,7 +545,7 @@ function createUserCollection(event) {
 
         return client.replyMessage(event.replyToken, [{
           "type": "flex",
-          "altText": "Flex Message",
+          "altText": "我的字庫",
           "contents": {
             "type": "carousel",
             "contents": bubble_content
