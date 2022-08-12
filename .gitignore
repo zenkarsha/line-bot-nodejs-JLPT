@@ -8,3 +8,4 @@ _production.js
 _commit.js
 package-lock.json
 ngrok.yml
+sftp-config.json

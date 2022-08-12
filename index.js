@@ -188,6 +188,17 @@ function createQuestionType() {
             },
             "style": "secondary",
             "adjustMode": "shrink-to-fit"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "postback",
+              "label": "漢字選平假名",
+              "displayText": "漢字選平假名",
+              "data": `wid=&type=question_type&question_type=kanji&content=kanji`
+            },
+            "style": "secondary",
+            "adjustMode": "shrink-to-fit"
           }
         ]
       }
@@ -283,31 +294,37 @@ function createQuestion(question_type, current_wid = null) {
 
   switch (question_type) {
     case 'n1_word':
+    case 'n1_kanji':
     case 'n1_translate':
       old_words = words_N1;
       new_words = words_N1;
       break;
     case 'n2n3_word':
+    case 'n2n3_kanji':
     case 'n2n3_translate':
       old_words = words_N2N3;
       new_words = words_N2N3;
       break;
     case 'n4_word':
+    case 'n4_kanji':
     case 'n4_translate':
       old_words = words_N4;
       new_words = words_N4;
       break;
     case 'n5_word':
+    case 'n5_kanji':
     case 'n5_translate':
       old_words = words_N5;
       new_words = words_N5;
       break;
     case 'basic_word':
+    case 'basic_kanji':
     case 'basic_translate':
       old_words = words_BASIC;
       new_words = words_BASIC;
       break;
     case 'advance_word':
+    case 'advance_kanji':
     case 'advance_translate':
       old_words = words_ADVANCE;
       new_words = words_ADVANCE;
@@ -321,13 +338,21 @@ function createQuestion(question_type, current_wid = null) {
     if (index !== -1) new_words = removeByIndex(new_words, index);
   }
 
+  let level_type = question_type.split('_');
   let w = new_words[Math.floor(Math.random() * new_words.length)];
+  if (level_type[1] == "kanji") {
+    while (w.kanji == "null") {
+      w = new_words[Math.floor(Math.random() * new_words.length)];
+    }
+  }
+
   let contents = [];
   let question;
   let w_text;
 
-  let level_type = question_type.split('_');
-  question = level_type[1] == 'word' ? w.word : w.translate;
+  if (level_type[1] == "word") question = w.word;
+  else if (level_type[1] == "kanji") question = w.kanji;
+  else if (level_type[1] == "translate") question = w.translate;
 
   w_text = {
     "type": "text",
@@ -349,14 +374,18 @@ function createQuestion(question_type, current_wid = null) {
   });
 
   for (let i = 0; i < answers.length; i++) {
-    let temp_answer = level_type[1] == 'word' ? answers[i].translate : answers[i].word;
+    let temp_answer;
+
+    if (level_type[1] == 'word') temp_answer = answers[i].translate;
+    else if (level_type[1] == 'kanji') temp_answer = answers[i].word;
+    else if (level_type[1] == 'translate') temp_answer = answers[i].word;
 
     contents.push({
       "type": "button",
       "action": {
         "type": "postback",
-        "label": (temp_answer).replace( new RegExp(/(\w+)\s(\(\w+\.\))/,"g"), "$1"),
-        "displayText": (temp_answer).replace( new RegExp(/(\w+)\s(\(\w+\.\))/,"g"), "$1"),
+        "label": temp_answer,
+        "displayText": temp_answer,
         "data": `wid=${w.id}&type=answer&question_type=${question_type}&content=${temp_answer}`
       },
       "style": "secondary",
@@ -405,26 +434,32 @@ function moreQuestion(question_type, wid, answer) {
   let words;
   switch (question_type) {
     case 'n1_word':
+    case 'n1_kanji':
     case 'n1_translate':
       words = words_N1;
       break;
     case 'n2n3_word':
+    case 'n2n3_kanji':
     case 'n2n3_translate':
       words = words_N2N3;
       break;
     case 'n4_word':
+    case 'n4_kanji':
     case 'n4_translate':
       words = words_N4;
       break;
     case 'n5_word':
+    case 'n5_kanji':
     case 'n5_translate':
       words = words_N5;
       break;
     case 'basic_word':
+    case 'basic_kanji':
     case 'basic_translate':
       words = words_BASIC;
       break;
     case 'advance_word':
+    case 'advance_kanji':
     case 'advance_translate':
       words = words_ADVANCE;
       break;
@@ -514,26 +549,32 @@ function handleAnswer(data) {
 
   switch (result.question_type) {
     case 'n1_word':
+    case 'n1_kanji':
     case 'n1_translate':
       words = words_N1;
       break;
     case 'n2n3_word':
+    case 'n2n3_kanji':
     case 'n2n3_translate':
       words = words_N2N3;
       break;
     case 'n4_word':
+    case 'n4_kanji':
     case 'n4_translate':
       words = words_N4;
       break;
     case 'n5_word':
+    case 'n5_kanji':
     case 'n5_translate':
       words = words_N5;
       break;
     case 'basic_word':
+    case 'basic_kanji':
     case 'basic_translate':
       words = words_BASIC;
       break;
     case 'advance_word':
+    case 'advance_kanji':
     case 'advance_translate':
       words = words_ADVANCE;
       break;
@@ -545,7 +586,8 @@ function handleAnswer(data) {
   let level_type = result.question_type.split('_');
 
   if (level_type[1] == "word") return result.content == w[0].translate ? true : false;
-  else return result.content == w[0].word ? true : false;
+  else if (level_type[1] == "kanji") return result.content == w[0].word ? true : false;
+  else if (level_type[1] == "translate") return result.content == w[0].word ? true : false;
 }
 
 function createUserCollection(event) {
@@ -821,7 +863,9 @@ function checkWord(event, wid) {
 
     res.on('end', function() {
       let root = HTMLParser.parse(data);
-      let word_info = (root.querySelector('.resultbox').toString()).replace(new RegExp(/<br\s*[\/]?>/, "g"), "\n").replace(new RegExp(/<div class=\"resultbox\"><div class=\"bartop\">(.+)<\/div><div class=\"xbox\">\n<div class=\"dictp\">(.+)<\/div>\n<\/div><\/div>\n\n<p>(.+)<\/p>\n/, "g"), "\n").replace(new RegExp(/<div class=\"resultbox\"><div class=\"bartop\">(.+)<\/div><div class=\"xbox\">\n<div class=\"dictp\">(.+)<\/div>\n\n\<p>(.+)<\/p>\n/, "g"), "\n").replace(new RegExp(/<li>\s/, "g"), "<li>").replace(new RegExp(/<\/li>/, "g"), "\n").replace(new RegExp(/<\/p>/, "g"), "\n").replace(/<[^>]*>?/gm, '');
+      let word_info = (root.querySelector('.resultbox').toString()).replace(new RegExp(/<br\s*[\/]?>/, "g"), "\n").replace(new RegExp(/<div class=\"resultbox\"><div class=\"bartop\">(.+)<\/div><div class=\"xbox\">\n<div class=\"dictp\">(.+)<\/div>\n<\/div><\/div>\n\n<p>(.+)<\/p>\n/, "g"), "\n").replace(new RegExp(/<div class=\"resultbox\"><div class=\"bartop\">(.+)<\/div><div class=\"xbox\">\n<div class=\"dictp\">(.+)<\/div>\n\n\<p>(.+)<\/p>\n/, "g"), "\n").replace(new RegExp(/<div class=\"resultbox\"><div class=\"bartop\">(.+)<\/div>\n\s<\/div>\n/, "g"), "\n");
+
+      word_info = word_info.replace(new RegExp(/<h4>\s/, "g"), "<h4>").replace(new RegExp(/<\/h4>/, "g"), "<\/h4>\n").replace(new RegExp(/<li>\s/, "g"), "<li>").replace(new RegExp(/<\/li>/, "g"), "\n").replace(new RegExp(/<\/p>/, "g"), "\n").replace(/<[^>]*>?/gm, '');
 
       return client.replyMessage(event.replyToken, [{
         "type": "flex",
@@ -901,8 +945,6 @@ function checkWord(event, wid) {
           },
         }
       }]);
-
-      // return client.replyMessage(event.replyToken, echo);
     });
   })
 
