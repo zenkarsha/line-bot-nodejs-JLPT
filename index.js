@@ -1,9 +1,13 @@
 'use strict';
 
+/*==================================
+ BASIC REUIRE
+====================================*/
 const line = require('@line/bot-sdk');
 const express = require('express');
 const path = require('path');
 const HTMLParser = require('node-html-parser');
+const kanaRomaji = require("kana-romaji")
 const https = require('https');
 const fs = require('fs');
 const config = {
@@ -12,6 +16,10 @@ const config = {
 };
 
 
+
+/*==================================
+ CUSTOM REUIRE AND INIT
+====================================*/
 const client = new line.Client(config);
 const app = express();
 const words_N1  = require('./words-N1.json');
@@ -20,9 +28,13 @@ const words_N4  = require('./words-N4.json');
 const words_N5  = require('./words-N5.json');
 const words_BASIC  = require('./words-basic.json');
 const words_ADVANCE  = require('./words-advance.json');
-
 let echo = { type: 'text', text: '請從選單進行操作 ⬇️' };
 
+
+
+/*==================================
+ APP REQUEST ACTIONS
+====================================*/
 app.get('/', (req, res) => {
   let html = `<html>
     <head>
@@ -51,6 +63,11 @@ app.on('postback', function (event) {
   console.log(event);
 });
 
+
+
+/*==================================
+ APP ROUTER
+====================================*/
 function handleEvent(event) {
   if (event.type !== 'message' || event.type !== 'postback')
   {
@@ -92,8 +109,12 @@ function handlePostbackEvent(event) {
   const postback_result = handleUrlParams(event.postback.data);
   switch (postback_result.type) {
     case 'question_type':
-      let question_type_json = createQuestion(postback_result.question_type);
+      let question_type_json = createQuestionLevel(postback_result.question_type);
       return client.replyMessage(event.replyToken, [question_type_json]);
+      break;
+    case 'question_level':
+      let question_level_json = createQuestion(postback_result.question_type);
+      return client.replyMessage(event.replyToken, [question_level_json]);
       break;
     case 'answer':
       let answer_result = handleAnswer(event.postback.data)
@@ -120,21 +141,61 @@ function handlePostbackEvent(event) {
     case 'delete_from_my_collection':
       return deleteFromMyCollection(event, postback_result.wid);
       break;
+    case 'check_my_collection':
+      return createUserCollection(event);
+      break;
+    case 'check_word':
+      return checkWord(event, postback_result.wid);
     default:
       return client.replyMessage(event.replyToken, echo);
   }
 }
 
-function handleUrlParams(data) {
-  const params = new URLSearchParams(data);
-  const wid = params.get('wid');
-  const type = params.get('type');
-  const question_type = params.get('question_type');
-  const content = params.get('content');
-  return {'wid': wid, 'type': type, 'question_type': question_type, 'content': content};
+
+
+/*==================================
+ APP FUNCTIONS
+====================================*/
+function createQuestionType() {
+  return {
+    "type": "flex",
+    "altText": "考試開始，不要作弊！",
+    "contents": {
+      "type": "bubble",
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "spacing": "md",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "postback",
+              "label": "日文選翻譯",
+              "displayText": "日文選翻譯",
+              "data": `wid=&type=question_type&question_type=word&content=word`
+            },
+            "style": "secondary",
+            "adjustMode": "shrink-to-fit"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "postback",
+              "label": "翻譯選日文",
+              "displayText": "翻譯選日文",
+              "data": `wid=&type=question_type&question_type=translate&content=translate`
+            },
+            "style": "secondary",
+            "adjustMode": "shrink-to-fit"
+          }
+        ]
+      }
+    }
+  };
 }
 
-function createQuestionType() {
+function createQuestionLevel(question_type) {
   return {
     "type": "flex",
     "altText": "考試開始，不要作弊！",
@@ -151,18 +212,7 @@ function createQuestionType() {
               "type": "postback",
               "label": "N1字彙",
               "displayText": "N1字彙",
-              "data": "wid=&type=question_type&question_type=n1&content=n1"
-            },
-            "style": "secondary",
-            "adjustMode": "shrink-to-fit"
-          },
-          {
-            "type": "button",
-            "action": {
-              "type": "postback",
-              "label": "N1字彙",
-              "displayText": "N1字彙",
-              "data": "wid=&type=question_type&question_type=n1&content=n1"
+              "data": `wid=&type=question_level&question_type=n1_${question_type}&content=n1_${question_type}`
             },
             "style": "secondary",
             "adjustMode": "shrink-to-fit"
@@ -173,7 +223,7 @@ function createQuestionType() {
               "type": "postback",
               "label": "N2、N3字彙",
               "displayText": "N2、N3字彙",
-              "data": "wid=&type=question_type&question_type=n2n3&content=n2n3"
+              "data": `wid=&type=question_level&question_type=n2n3_${question_type}&content=n2n3_${question_type}`
             },
             "style": "secondary",
             "adjustMode": "shrink-to-fit"
@@ -184,7 +234,7 @@ function createQuestionType() {
               "type": "postback",
               "label": "N4字彙",
               "displayText": "N4字彙",
-              "data": "wid=&type=question_type&question_type=n4&content=n4"
+              "data": `wid=&type=question_level&question_type=n4_${question_type}&content=n4_${question_type}`
             },
             "style": "secondary",
             "adjustMode": "shrink-to-fit"
@@ -195,7 +245,7 @@ function createQuestionType() {
               "type": "postback",
               "label": "N5字彙",
               "displayText": "N5字彙",
-              "data": "wid=&type=question_type&question_type=n5&content=n5"
+              "data": `wid=&type=question_level&question_type=n5_${question_type}&content=n5_${question_type}`
             },
             "style": "secondary",
             "adjustMode": "shrink-to-fit"
@@ -206,7 +256,7 @@ function createQuestionType() {
               "type": "postback",
               "label": "日常基礎字彙",
               "displayText": "日常基礎字彙",
-              "data": "wid=&type=question_type&question_type=basic&content=basic"
+              "data": `wid=&type=question_level&question_type=basic_${question_type}&content=basic_${question_type}`
             },
             "style": "secondary",
             "adjustMode": "shrink-to-fit"
@@ -217,7 +267,7 @@ function createQuestionType() {
               "type": "postback",
               "label": "進階字彙",
               "displayText": "進階字彙",
-              "data": "wid=&type=question_type&question_type=advance&content=advance"
+              "data": `wid=&type=question_level&question_type=advance_${question_type}&content=advance_${question_type}`
             },
             "style": "secondary",
             "adjustMode": "shrink-to-fit"
@@ -232,27 +282,33 @@ function createQuestion(question_type, current_wid = null) {
   let old_words, new_words;
 
   switch (question_type) {
-    case 'n1':
+    case 'n1_word':
+    case 'n1_translate':
       old_words = words_N1;
       new_words = words_N1;
       break;
-    case 'n2n3':
+    case 'n2n3_word':
+    case 'n2n3_translate':
       old_words = words_N2N3;
       new_words = words_N2N3;
       break;
-    case 'n4':
+    case 'n4_word':
+    case 'n4_translate':
       old_words = words_N4;
       new_words = words_N4;
       break;
-    case 'n5':
+    case 'n5_word':
+    case 'n5_translate':
       old_words = words_N5;
       new_words = words_N5;
       break;
-    case 'basic':
+    case 'basic_word':
+    case 'basic_translate':
       old_words = words_BASIC;
       new_words = words_BASIC;
       break;
-    case 'advance':
+    case 'advance_word':
+    case 'advance_translate':
       old_words = words_ADVANCE;
       new_words = words_ADVANCE;
       break;
@@ -267,11 +323,11 @@ function createQuestion(question_type, current_wid = null) {
 
   let w = new_words[Math.floor(Math.random() * new_words.length)];
   let contents = [];
-  let question = w.word;
+  let question;
   let w_text;
 
-  let w_index = getObjectItemIndex(new_words, w.id);
-  if (w_index !== -1) new_words = removeByIndex(new_words, w_index);
+  let level_type = question_type.split('_');
+  question = level_type[1] == 'word' ? w.word : w.translate;
 
   w_text = {
     "type": "text",
@@ -282,6 +338,9 @@ function createQuestion(question_type, current_wid = null) {
 
   contents.push(w_text);
 
+  let w_index = getObjectItemIndex(new_words, w.id);
+  if (w_index !== -1) new_words = removeByIndex(new_words, w_index);
+
   let answers = createAnswers(new_words, w.id);
   answers.push(w);
 
@@ -290,7 +349,7 @@ function createQuestion(question_type, current_wid = null) {
   });
 
   for (let i = 0; i < answers.length; i++) {
-    let temp_answer = answers[i].translate;
+    let temp_answer = level_type[1] == 'word' ? answers[i].translate : answers[i].word;
 
     contents.push({
       "type": "button",
@@ -345,22 +404,28 @@ function createAnswers(words, wid, total = 3) {
 function moreQuestion(question_type, wid, answer) {
   let words;
   switch (question_type) {
-    case 'n1':
+    case 'n1_word':
+    case 'n1_translate':
       words = words_N1;
       break;
-    case 'n2n3':
+    case 'n2n3_word':
+    case 'n2n3_translate':
       words = words_N2N3;
       break;
-    case 'n4':
+    case 'n4_word':
+    case 'n4_translate':
       words = words_N4;
       break;
-    case 'n5':
+    case 'n5_word':
+    case 'n5_translate':
       words = words_N5;
       break;
-    case 'basic':
+    case 'basic_word':
+    case 'basic_translate':
       words = words_BASIC;
       break;
-    case 'advance':
+    case 'advance_word':
+    case 'advance_translate':
       words = words_ADVANCE;
       break;
     default:
@@ -445,34 +510,42 @@ function moreQuestion(question_type, wid, answer) {
 
 function handleAnswer(data) {
   let result = handleUrlParams(data);
-  let words, w;
+  let words;
 
   switch (result.question_type) {
-    case 'n1':
+    case 'n1_word':
+    case 'n1_translate':
       words = words_N1;
       break;
-    case 'n2n3':
+    case 'n2n3_word':
+    case 'n2n3_translate':
       words = words_N2N3;
       break;
-    case 'n4':
+    case 'n4_word':
+    case 'n4_translate':
       words = words_N4;
       break;
-    case 'n5':
+    case 'n5_word':
+    case 'n5_translate':
       words = words_N5;
       break;
-    case 'basic':
+    case 'basic_word':
+    case 'basic_translate':
       words = words_BASIC;
       break;
-    case 'advance':
+    case 'advance_word':
+    case 'advance_translate':
       words = words_ADVANCE;
       break;
     default:
       return client.replyMessage(event.replyToken, echo);
   }
 
-  w = words.filter(x => x.id == result.wid);
+  let w = words.filter(x => x.id == result.wid);
+  let level_type = result.question_type.split('_');
 
-  return result.content == w[0].translate ? true : false;
+  if (level_type[1] == "word") return result.content == w[0].translate ? true : false;
+  else return result.content == w[0].word ? true : false;
 }
 
 function createUserCollection(event) {
@@ -505,14 +578,25 @@ function createUserCollection(event) {
                 "flex": 5,
                 "text": temp_text
               },
+              // {
+              //   "type": "button",
+              //   "flex": 2,
+              //   "action": {
+              //     "type": "postback",
+              //     "label": "刪除",
+              //     "displayText": "刪除",
+              //     "data": `wid=${user_words[i].id}&type=delete_from_my_collection&content=從字庫刪除`
+              //   },
+              //   "style": "secondary"
+              // }
               {
                 "type": "button",
                 "flex": 2,
                 "action": {
                   "type": "postback",
-                  "label": "刪除",
-                  "displayText": "刪除",
-                  "data": `wid=${user_words[i].id}&type=delete_from_my_collection&content=從字庫刪除`
+                  "label": "查看",
+                  "displayText": "查看",
+                  "data": `wid=${user_words[i].id}&type=check_word&content=查看`
                 },
                 "style": "secondary"
               }
@@ -567,24 +651,27 @@ function addToUserCollection(event, wid) {
   let user_json = [];
   let words;
 
-  switch (result.question_type) {
-    case 'n1':
+  let word_type = wid.slice(0, 2);
+
+  switch (word_type) {
+    case 'N1':
       words = words_N1;
       break;
-    case 'n2n3':
+    case 'N2':
       words = words_N2N3;
       break;
-    case 'n4':
+    case 'N4':
       words = words_N4;
       break;
-    case 'n5':
+    case 'N5':
       words = words_N5;
       break;
-    case 'basic':
+    case 'BA':
       words = words_BASIC;
       break;
-    case 'advance':
+    case 'AD':
       words = words_ADVANCE;
+      break;
     default:
       return client.replyMessage(event.replyToken, echo);
   }
@@ -687,6 +774,143 @@ function deleteFromMyCollection(event, wid) {
     echo = { type: "text", text: "找不到您的字庫資料" };
     return client.replyMessage(event.replyToken, echo);
   }
+}
+
+function checkWord(event, wid) {
+  let words;
+  let word_type = wid.slice(0, 2);
+
+  switch (word_type) {
+    case 'N1':
+      words = words_N1;
+      break;
+    case 'N2':
+      words = words_N2N3;
+      break;
+    case 'N4':
+      words = words_N4;
+      break;
+    case 'N5':
+      words = words_N5;
+      break;
+    case 'BA':
+      words = words_BASIC;
+      break;
+    case 'AD':
+      words = words_ADVANCE;
+      break;
+    default:
+      return client.replyMessage(event.replyToken, echo);
+  }
+
+  let index = getObjectItemIndex(words, wid);
+  let w = words[index];
+  let word;
+
+  word = w.kanji != "null" ? w.kanji : w.word;
+  let search_word = word.replace("～", "");
+
+  let url = "https://cdict.info/ejquery/" + search_word;
+
+  const request = https.request(url, function(res) {
+    let data = '';
+
+    res.on('data', function(chunk) {
+      data = data + chunk.toString();
+    });
+
+    res.on('end', function() {
+      let root = HTMLParser.parse(data);
+      let word_info = (root.querySelector('.resultbox').toString()).replace(new RegExp(/<br\s*[\/]?>/, "g"), "\n").replace(new RegExp(/<div class=\"resultbox\"><div class=\"bartop\">(.+)<\/div><div class=\"xbox\">\n<div class=\"dictp\">(.+)<\/div>\n<\/div><\/div>\n\n<p>(.+)<\/p>\n/, "g"), "\n").replace(new RegExp(/<div class=\"resultbox\"><div class=\"bartop\">(.+)<\/div><div class=\"xbox\">\n<div class=\"dictp\">(.+)<\/div>\n\n\<p>(.+)<\/p>\n/, "g"), "\n").replace(new RegExp(/<li>\s/, "g"), "<li>").replace(new RegExp(/<\/li>/, "g"), "\n").replace(new RegExp(/<\/p>/, "g"), "\n").replace(/<[^>]*>?/gm, '');
+
+      return client.replyMessage(event.replyToken, [{
+        "type": "flex",
+        "altText": "單字詳解",
+        "contents": {
+          "type": "bubble",
+          "header": {
+            "type": "box",
+            "layout": "vertical",
+            "paddingBottom": "xs",
+            "contents": [
+              {
+                "type": "text",
+                "size": "xl",
+                "text": word
+              }
+            ]
+          },
+          "body": {
+            "type": "box",
+            "layout": "vertical",
+            "spacing": "md",
+            "contents": [
+              {
+                "type": "text",
+                "color": "#999999",
+                "size": "xs",
+                "wrap": true,
+                "text": w.word
+              },
+              {
+                "type": "text",
+                "color": "#999999",
+                "size": "xs",
+                "wrap": true,
+                "text": kanaRomaji.toRomaji(w.word)
+              },
+              {
+                "type": "separator"
+              },
+              {
+                "type": "text",
+                "wrap": true,
+                "text": word_info
+              }
+            ]
+          },
+          "footer": {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "separator"
+              },
+              {
+                "type": "button",
+                "action": {
+                  "type": "postback",
+                  "label": "從字庫刪除",
+                  "displayText": "從字庫刪除",
+                  "data": `wid=${wid}&type=delete_from_my_collection&content=從字庫刪除`
+                }
+              },
+              {
+                "type": "separator"
+              },
+              {
+                "type": "button",
+                "action": {
+                  "type": "postback",
+                  "label": "查看字庫",
+                  "displayText": "查看字庫",
+                  "data": `wid=&type=check_my_collection&content=查看字庫`
+                }
+              }
+            ]
+          },
+        }
+      }]);
+
+      // return client.replyMessage(event.replyToken, echo);
+    });
+  })
+
+  request.on('error', function(err) {
+    console.log(err);
+  });
+
+  request.end();
 }
 
 function handleUserPoints(event) {
@@ -860,6 +1084,20 @@ function updateUserWrongAnswer(event) {
   }
 }
 
+
+
+/*==================================
+ BASIC FUNCTIONS
+====================================*/
+function handleUrlParams(data) {
+  const params = new URLSearchParams(data);
+  const wid = params.get('wid');
+  const type = params.get('type');
+  const question_type = params.get('question_type');
+  const content = params.get('content');
+  return {'wid': wid, 'type': type, 'question_type': question_type, 'content': content};
+}
+
 function removeByIndex(array, index) {
   return array.filter(function (el, i) {
     return index !== i;
@@ -873,7 +1111,11 @@ function getObjectItemIndex(object, id) {
   })
 }
 
-// listen on port
+
+
+/*==================================
+ START APP AND LISTEN ON PORT
+====================================*/
 const port = process.env.PORT || 3333;
 app.listen(port, () => {
   console.log(`listening on ${port}`);
