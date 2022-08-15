@@ -9,11 +9,13 @@ const path = require('path');
 const HTMLParser = require('node-html-parser');
 const kanaRomaji = require("kana-romaji")
 const https = require('https');
+const { getAudioDurationInSeconds } = require('get-audio-duration')
 const fs = require('fs');
 const config = {
   channelAccessToken: '',
   channelSecret: '',
 };
+
 
 
 
@@ -35,6 +37,8 @@ let echo = { type: 'text', text: '請從選單進行操作 ⬇️' };
 /*==================================
  APP REQUEST ACTIONS
 ====================================*/
+app.use('/audio/', express.static('./audio/'));
+
 app.get('/', (req, res) => {
   let html = `<html>
     <head>
@@ -126,6 +130,9 @@ function handlePostbackEvent(event) {
         updateUserWrongAnswer(event);
         return client.replyMessage(event.replyToken, moreQuestion(postback_result.question_type, postback_result.wid, false));
       }
+      break;
+    case 'play_pronounce':
+      return playPronounce(event, postback_result.wid);
       break;
     case 'more_question':
       let more_question_json = createQuestion(postback_result.question_type, postback_result.wid);
@@ -508,6 +515,17 @@ function moreQuestion(question_type, wid, answer) {
       "data": `wid=${wid}&type=more_question&question_type=${question_type}&content=再來一題`
     },
     "style": "primary"
+  });
+
+  contents.push({
+    "type": "button",
+    "action": {
+      "type": "postback",
+      "label": "聽發音",
+      "displayText": "聽發音",
+      "data": `wid=${wid}&type=play_pronounce&question_type=${question_type}&content=聽發音`
+    },
+    "style": "secondary"
   });
 
   return {
@@ -918,7 +936,14 @@ function checkWord(event, wid) {
             "layout": "vertical",
             "contents": [
               {
-                "type": "separator"
+                "type": "button",
+                "action": {
+                  "type": "postback",
+                  "label": "聽發音",
+                  "displayText": "聽發音",
+                  "data": `wid=${wid}&type=play_pronounce&content=聽發音`
+                },
+                "style": "secondary"
               },
               {
                 "type": "button",
@@ -953,6 +978,47 @@ function checkWord(event, wid) {
   });
 
   request.end();
+}
+
+function playPronounce(event, wid) {
+  let words;
+  let word_type = wid.slice(0, 2);
+
+  switch (word_type) {
+    case 'N1':
+      words = words_N1;
+      break;
+    case 'N2':
+      words = words_N2N3;
+      break;
+    case 'N4':
+      words = words_N4;
+      break;
+    case 'N5':
+      words = words_N5;
+      break;
+    case 'BA':
+      words = words_BASIC;
+      break;
+    case 'AD':
+      words = words_ADVANCE;
+      break;
+    default:
+      return client.replyMessage(event.replyToken, echo);
+  }
+
+  let index = getObjectItemIndex(words, wid);
+  let w = words[index];
+
+  getAudioDurationInSeconds(`https://jlpt.unlink.men/audio/${w.id}.m4a`).then((duration) => {
+    let milliseconds = duration * 1000;
+    echo = {
+      "type": "audio",
+      "originalContentUrl": `https://jlpt.unlink.men/audio/${w.id}.m4a`,
+      "duration": milliseconds
+    };
+    client.replyMessage(event.replyToken, echo);
+  });
 }
 
 function handleUserPoints(event) {

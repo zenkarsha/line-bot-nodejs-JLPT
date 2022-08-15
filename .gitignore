@@ -9,3 +9,5 @@ _commit.js
 package-lock.json
 ngrok.yml
 sftp-config.json
+_sftp-config.json
+test.js

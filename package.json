@@ -9,6 +9,7 @@
   "dependencies": {
     "@line/bot-sdk": "^7.0.0",
     "express": "^4.16.3",
+    "get-audio-duration": "^3.1.0",
     "hiragana-romaji-katakana": "^0.2.0",
     "https": "^1.0.0",
     "kana-romaji": "^0.1.10",
