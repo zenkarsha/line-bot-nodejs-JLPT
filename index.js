@@ -372,7 +372,7 @@ function createQuestion(question_type, current_wid = null) {
   let w_index = getObjectItemIndex(new_words, w.id);
   if (w_index !== -1) new_words = removeByIndex(new_words, w_index);
 
-  let answers = createAnswers(new_words, w.id);
+  let answers = createAnswers(new_words, w.id, w.word);
   answers.push(w);
 
   let shuffled_answers = answers.sort(function () {
@@ -414,19 +414,21 @@ function createQuestion(question_type, current_wid = null) {
   };
 }
 
-function createAnswers(words, wid, total = 3) {
+function createAnswers(words, wid, question_word, total = 3) {
   let object = [];
+  let last_char = question_word.substr(question_word.length - 1);
 
   let array_container = [];
-  const gen_numbers = Math.floor(Math.random() * words.length);
-  array_container.push(gen_numbers);
+  let temp_last_char;
 
-  for (let counter = 0; counter < (words.length - 1) && array_container.length < total; counter++) {
+  for (let counter = 0; counter < words.length && array_container.length < total; counter++) {
     let new_gen = Math.floor(Math.random() * words.length);
     while (array_container.lastIndexOf(new_gen) !== -1) {
       new_gen = Math.floor(Math.random() * words.length);
     }
-    array_container.push(new_gen);
+
+    temp_last_char = (words[new_gen].word).substr((words[new_gen].word).length - 1);
+    if (temp_last_char == last_char) array_container.push(new_gen);
   }
 
   for (let i = 0; i < total; i++) {
