@@ -177,8 +177,8 @@ function createQuestionType() {
             "type": "button",
             "action": {
               "type": "postback",
-              "label": "日文選翻譯",
-              "displayText": "日文選翻譯",
+              "label": "平假名題型(あいず ➡️ 暗號)",
+              "displayText": "平假名題型(あいず ➡️ 暗號)",
               "data": `wid=&type=question_type&question_type=word&content=word`
             },
             "style": "secondary",
@@ -188,8 +188,8 @@ function createQuestionType() {
             "type": "button",
             "action": {
               "type": "postback",
-              "label": "翻譯選日文",
-              "displayText": "翻譯選日文",
+              "label": "中文題型(暗號 ➡️ あいず)",
+              "displayText": "中文題型(暗號 ➡️ あいず)",
               "data": `wid=&type=question_type&question_type=translate&content=translate`
             },
             "style": "secondary",
@@ -199,8 +199,8 @@ function createQuestionType() {
             "type": "button",
             "action": {
               "type": "postback",
-              "label": "漢字選平假名",
-              "displayText": "漢字選平假名",
+              "label": "漢字題型(合図 ➡️ あいず)",
+              "displayText": "漢字題型(合図 ➡️ あいず)",
               "data": `wid=&type=question_type&question_type=kanji&content=kanji`
             },
             "style": "secondary",
@@ -428,7 +428,8 @@ function createAnswers(words, wid, question_word, total = 3) {
     }
 
     temp_last_char = (words[new_gen].word).substr((words[new_gen].word).length - 1);
-    if (temp_last_char == last_char) array_container.push(new_gen);
+    // if (temp_last_char == last_char) array_container.push(new_gen);
+    array_container.push(new_gen);
   }
 
   for (let i = 0; i < total; i++) {
