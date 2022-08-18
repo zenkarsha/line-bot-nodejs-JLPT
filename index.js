@@ -177,8 +177,8 @@ function createQuestionType() {
             "type": "button",
             "action": {
               "type": "postback",
-              "label": "平假名題型(あいず ➡️ 暗號)",
-              "displayText": "平假名題型(あいず ➡️ 暗號)",
+              "label": "平假名題型",
+              "displayText": "平假名題型",
               "data": `wid=&type=question_type&question_type=word&content=word`
             },
             "style": "secondary",
@@ -188,8 +188,8 @@ function createQuestionType() {
             "type": "button",
             "action": {
               "type": "postback",
-              "label": "中文題型(暗號 ➡️ あいず)",
-              "displayText": "中文題型(暗號 ➡️ あいず)",
+              "label": "中文題型",
+              "displayText": "中文題型",
               "data": `wid=&type=question_type&question_type=translate&content=translate`
             },
             "style": "secondary",
@@ -199,12 +199,45 @@ function createQuestionType() {
             "type": "button",
             "action": {
               "type": "postback",
-              "label": "漢字題型(合図 ➡️ あいず)",
-              "displayText": "漢字題型(合図 ➡️ あいず)",
+              "label": "漢字題型",
+              "displayText": "漢字題型",
               "data": `wid=&type=question_type&question_type=kanji&content=kanji`
             },
             "style": "secondary",
             "adjustMode": "shrink-to-fit"
+          }
+        ]
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "spacing": "md",
+        "contents": [
+          {
+            "type": "separator"
+          },
+          {
+            "type": "text",
+            "size": "xs",
+            "text": "考題選擇解釋："
+          },
+          {
+            "type": "text",
+            "size": "xs",
+            "wrap": true,
+            "text": "1.平假名題型：從題目的平假名選擇符合的中文字義作答，例如：あいず >> 暗號\n"
+          },
+          {
+            "type": "text",
+            "size": "xs",
+            "wrap": true,
+            "text": "2.中文題型：從題目的中文字選擇符合的平假名作答，例如：暗號 >> あいず\n"
+          },
+          {
+            "type": "text",
+            "size": "xs",
+            "wrap": true,
+            "text": "3.漢字題型：從題目的漢字選擇符合的平假名作答，例如：合図 >> あいず"
           }
         ]
       }
